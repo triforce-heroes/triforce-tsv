@@ -23,27 +23,27 @@ describe(addDocumentToPublisher, () => {
     const entries = publisher.getEntries();
     const byReference = new Map(entries.map((entry) => [entry.reference, entry]));
 
-    expect(byReference.get("skip")).toStrictEqual({
+    expect(byReference.get("_.skip")).toStrictEqual({
       resource: "conversations",
-      reference: "skip",
+      reference: "_.skip",
       sources: { Skip: ["en"] },
       metadata: { raw: "*DEMO*" },
     });
-    expect(byReference.get("conversation_a")).toStrictEqual({
+    expect(byReference.get("_.conversation_a")).toStrictEqual({
       resource: "conversations",
-      reference: "conversation_a",
+      reference: "_.conversation_a",
       sources: { "Hi.": ["en"] },
       metadata: { notes: "Comes up." },
     });
-    expect(byReference.get("conversation_a.Speaker")).toStrictEqual({
+    expect(byReference.get("_.conversation_a.Speaker")).toStrictEqual({
       resource: "conversations",
-      reference: "conversation_a.Speaker",
+      reference: "_.conversation_a.Speaker",
       sources: { Fen: ["en"] },
       metadata: undefined,
     });
-    expect(byReference.get("conversation_b.Speaker")).toStrictEqual({
+    expect(byReference.get("_.conversation_b.Speaker")).toStrictEqual({
       resource: "conversations",
-      reference: "conversation_b.Speaker",
+      reference: "_.conversation_b.Speaker",
       sources: { Bob: ["en"] },
       metadata: undefined,
     });

@@ -18,19 +18,19 @@ describe("roundtrip: Extract + Rebuild", () => {
   describe("pure synthetic data", () => {
     it("rebuildRaw + extract: round-trip with entries created from scratch", () => {
       const document: Document = [
-        { key: "next", value: "Next" },
-        { key: "skip", value: "Skip", metadata: { raw: "*DEMO*" } },
-        { key: "yay", value: "Yay!", metadata: { raw: 'A in "horray!"' } },
-        { key: "conversation_a", value: "Hi.", metadata: { notes: "Comes up when full." } },
-        { key: "conversation_a.Speaker", value: "Fen" },
+        { key: "_.next", value: "Next" },
+        { key: "_.skip", value: "Skip", metadata: { raw: "*DEMO*" } },
+        { key: "_.yay", value: "Yay!", metadata: { raw: 'A in "horray!"' } },
+        { key: "_.conversation_a", value: "Hi.", metadata: { notes: "Comes up when full." } },
+        { key: "_.conversation_a.Speaker", value: "Fen" },
       ];
 
       const rebuilt = rebuildRaw(document).toString("utf-8");
 
       expect(rebuilt).toBe(
-        "next\tNext\nskip\tSkip\t*DEMO*\n" +
-          'yay\tYay!\tA in "horray!"\n' +
-          "conversation_a\tHi.\tSpeaker=Fen Notes=Comes up when full.\n",
+        "_.next\tNext\n_.skip\tSkip\t*DEMO*\n" +
+          '_.yay\tYay!\tA in "horray!"\n' +
+          "_.conversation_a\tHi.\tSpeaker=Fen Notes=Comes up when full.\n",
       );
       expect(extract(rebuilt)).toStrictEqual(document);
     });
@@ -57,28 +57,29 @@ describe("roundtrip: Extract + Rebuild", () => {
       "conversation_a\tHi.\tSpeaker=Fen Notes=Comes up when full.\r\n" +
       "conversation_b\tYo.\tSpeaker=Bob\r\n";
 
-    it("patches values and speakers while preserving comments and untouched rows", () => {
+    it("patches values and speakers while rewriting keys with group prefix", () => {
       const rebuilt = rebuild(
         source,
         new Map([
-          ["next", "Seguinte"],
-          [`conversation_a${SPEAKER_SUFFIX}`, "Max"],
+          ["generic.next", "Seguinte"],
+          [`generic.conversation_a${SPEAKER_SUFFIX}`, "Max"],
         ]),
       ).toString("utf-8");
 
       expect(rebuilt).toContain("# ----- Generic ----");
+      expect(rebuilt).toContain("generic.next\tSeguinte");
       expect(rebuilt).not.toContain("\r");
       expect(extract(rebuilt)).toStrictEqual([
-        { key: "next", value: "Seguinte" },
-        { key: "skip", value: "Skip", metadata: { raw: "*DEMO*" } },
+        { key: "generic.next", value: "Seguinte" },
+        { key: "generic.skip", value: "Skip", metadata: { raw: "*DEMO*" } },
         {
-          key: "conversation_a",
+          key: "generic.conversation_a",
           value: "Hi.",
           metadata: { notes: "Comes up when full." },
         },
-        { key: `conversation_a${SPEAKER_SUFFIX}`, value: "Max" },
-        { key: "conversation_b", value: "Yo." },
-        { key: `conversation_b${SPEAKER_SUFFIX}`, value: "Bob" },
+        { key: `generic.conversation_a${SPEAKER_SUFFIX}`, value: "Max" },
+        { key: "generic.conversation_b", value: "Yo." },
+        { key: `generic.conversation_b${SPEAKER_SUFFIX}`, value: "Bob" },
       ]);
     });
 
@@ -93,15 +94,15 @@ describe("roundtrip: Extract + Rebuild", () => {
             ]),
           ),
         ),
-      ).toStrictEqual([{ key: "next", value: "Next" }]);
+      ).toStrictEqual([{ key: "_.next", value: "Next" }]);
     });
 
     it("adds a speaker column to a row without one", () => {
       expect(
-        extract(rebuild("hello\tHi\n", new Map([[`hello${SPEAKER_SUFFIX}`, "Fen"]]))),
+        extract(rebuild("hello\tHi\n", new Map([[`_.hello${SPEAKER_SUFFIX}`, "Fen"]]))),
       ).toStrictEqual([
-        { key: "hello", value: "Hi" },
-        { key: `hello${SPEAKER_SUFFIX}`, value: "Fen" },
+        { key: "_.hello", value: "Hi" },
+        { key: `_.hello${SPEAKER_SUFFIX}`, value: "Fen" },
       ]);
     });
   });

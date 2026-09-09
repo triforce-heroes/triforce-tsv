@@ -4,6 +4,53 @@ export const SPEAKER_PREFIX = "Speaker=";
 
 export const NOTES_SEPARATOR = " Notes=";
 
+export const DEFAULT_GROUP = "_";
+
+const GROUP_NAME_PATTERN = /^[A-Za-z0-9]+(?:[ _\-][A-Za-z0-9]+)*$/v;
+
+const NORMALIZED_GROUP_PATTERN = /^[a-z0-9_]+$/v;
+
+export function normalizeGroup(content: string): string | undefined {
+  if (content.length === 0 || content.codePointAt(0) !== 35) {
+    return undefined;
+  }
+
+  const trimmed = content
+    .slice(1)
+    .trim()
+    .replace(/^[\-=*~\s]+/v, "")
+    .replace(/[\-=*~\s]+$/v, "")
+    .trim();
+
+  if (trimmed === "" || !GROUP_NAME_PATTERN.test(trimmed)) {
+    return undefined;
+  }
+
+  const normalized = trimmed
+    .toLowerCase()
+    .replaceAll(/[\s\-]+/gv, "_")
+    .replaceAll(/__+/gv, "_")
+    .replaceAll(/^_+|_+$/gv, "");
+
+  if (normalized === "" || !NORMALIZED_GROUP_PATTERN.test(normalized)) {
+    return undefined;
+  }
+
+  return normalized;
+}
+
+export function resolveKey(rawKey: string, group: string): string {
+  if (rawKey === group || rawKey.startsWith(`${group}.`)) {
+    return rawKey;
+  }
+
+  if (group === DEFAULT_GROUP && rawKey.includes(".")) {
+    return rawKey;
+  }
+
+  return `${group}.${rawKey}`;
+}
+
 export function isIgnorable(content: string): boolean {
   if (content.length === 0) {
     return true;

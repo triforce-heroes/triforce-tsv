@@ -1,7 +1,10 @@
 import {
+  DEFAULT_GROUP,
   isIgnorable,
+  normalizeGroup,
   parseFields,
   parseMetadata,
+  resolveKey,
   serializeField,
   serializeMetadata,
 } from "#/services/Parser";
@@ -50,11 +53,18 @@ export function rebuildRaw(document: Document): Buffer {
 
 export function rebuild(data: string | Buffer, entries: Map<string, string>): Buffer {
   const text = typeof data === "string" ? data : data.toString("utf-8");
+  let group = DEFAULT_GROUP;
 
   const lines = text.split("\n").map((raw) => {
     const content = raw.endsWith("\r") ? raw.slice(0, -1) : raw;
 
     if (isIgnorable(content)) {
+      const next = normalizeGroup(content);
+
+      if (next !== undefined) {
+        group = next;
+      }
+
       return content;
     }
 
@@ -66,20 +76,17 @@ export function rebuild(data: string | Buffer, entries: Map<string, string>): Bu
       );
     }
 
-    const key = fields.at(0)!;
+    const rawKey = fields.at(0)!;
     const value = fields.at(1)!;
     const metadataRaw = fields.at(2) ?? "";
 
-    if (key === "") {
+    if (rawKey === "") {
       throw new Error(`invalid row: empty key in line: "${content}"`);
     }
 
+    const key = resolveKey(rawKey, group);
     const valuePatch = entries.get(key);
     const speakerPatch = entries.get(`${key}${SPEAKER_SUFFIX}`);
-
-    if (valuePatch === undefined && speakerPatch === undefined) {
-      return content;
-    }
 
     let nextMetadata = metadataRaw;
 

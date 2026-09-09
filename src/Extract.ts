@@ -1,4 +1,11 @@
-import { isIgnorable, parseFields, parseMetadata } from "#/services/Parser";
+import {
+  DEFAULT_GROUP,
+  isIgnorable,
+  normalizeGroup,
+  parseFields,
+  parseMetadata,
+  resolveKey,
+} from "#/services/Parser";
 import { SPEAKER_SUFFIX } from "#/types/Document";
 import type { Document } from "#/types/Document";
 
@@ -10,6 +17,7 @@ export function extract(input: string | Buffer): Document {
 
   const document: Document = [];
   const seen = new Set<string>();
+  let group = DEFAULT_GROUP;
 
   function claim(key: string): void {
     if (seen.has(key)) {
@@ -23,6 +31,12 @@ export function extract(input: string | Buffer): Document {
     const content = raw.endsWith("\r") ? raw.slice(0, -1) : raw;
 
     if (isIgnorable(content)) {
+      const next = normalizeGroup(content);
+
+      if (next !== undefined) {
+        group = next;
+      }
+
       continue;
     }
 
@@ -34,13 +48,15 @@ export function extract(input: string | Buffer): Document {
       );
     }
 
-    const key = fields.at(0)!;
+    const rawKey = fields.at(0)!;
     const value = fields.at(1)!;
     const metadataRaw = fields.at(2) ?? "";
 
-    if (key === "") {
+    if (rawKey === "") {
       throw new Error(`invalid row: empty key in line: "${content}"`);
     }
+
+    const key = resolveKey(rawKey, group);
 
     claim(key);
 
