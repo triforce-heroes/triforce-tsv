@@ -57,7 +57,7 @@ describe("roundtrip: Extract + Rebuild", () => {
       "conversation_a\tHi.\tSpeaker=Fen Notes=Comes up when full.\r\n" +
       "conversation_b\tYo.\tSpeaker=Bob\r\n";
 
-    it("patches values and speakers while rewriting keys with group prefix", () => {
+    it("patches values and speakers while keeping original keys", () => {
       const rebuilt = rebuild(
         source,
         new Map([
@@ -67,7 +67,9 @@ describe("roundtrip: Extract + Rebuild", () => {
       ).toString("utf-8");
 
       expect(rebuilt).toContain("# ----- Generic ----");
-      expect(rebuilt).toContain("generic.next\tSeguinte");
+      expect(rebuilt).toContain("next\tSeguinte");
+      expect(rebuilt).not.toContain("generic.next");
+      expect(rebuilt).toContain("skip\tSkip\t*DEMO*");
       expect(rebuilt).not.toContain("\r");
       expect(extract(rebuilt)).toStrictEqual([
         { key: "generic.next", value: "Seguinte" },

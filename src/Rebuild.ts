@@ -85,8 +85,16 @@ export function rebuild(data: string | Buffer, entries: Map<string, string>): Bu
     }
 
     const key = resolveKey(rawKey, group);
-    const valuePatch = entries.get(key);
-    const speakerPatch = entries.get(`${key}${SPEAKER_SUFFIX}`);
+    const valuePatch = entries.get(key) ?? (key === rawKey ? undefined : entries.get(rawKey));
+    const speakerKey = `${key}${SPEAKER_SUFFIX}`;
+    const rawSpeakerKey = `${rawKey}${SPEAKER_SUFFIX}`;
+    const speakerPatch =
+      entries.get(speakerKey) ??
+      (speakerKey === rawSpeakerKey ? undefined : entries.get(rawSpeakerKey));
+
+    if (valuePatch === undefined && speakerPatch === undefined) {
+      return content;
+    }
 
     let nextMetadata = metadataRaw;
 
@@ -95,7 +103,7 @@ export function rebuild(data: string | Buffer, entries: Map<string, string>): Bu
       nextMetadata = serializeMetadata(metadata, speakerPatch);
     }
 
-    const head = `${serializeField(key)}\t${serializeField(valuePatch ?? value)}`;
+    const head = `${serializeField(rawKey)}\t${serializeField(valuePatch ?? value)}`;
 
     return nextMetadata === "" ? head : `${head}\t${serializeField(nextMetadata)}`;
   });
