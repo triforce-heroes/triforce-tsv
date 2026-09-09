@@ -1,0 +1,1608 @@
+# NOTE: Do not hand edit this file! It is managed by Conversation Editor.
+#       This is the conversation language file for English (United States).
+
+# buddy_inventory_full
+conversation_yjp8nk_text	Oye, cabeza hueca, tu {format highlight}mochila ya está llena.{format reset}	Speaker=Fen Notes=Comes up when your inventory is full anyou try to pick up more ores.
+
+# ore_vendor
+conversation_hxfr0f_text	Oye, ¿tienes por ahí algo brillante para mí?	"Speaker=Barnacle Jones Notes=*new* added ""there"""
+conversation_jh3i2m_text	Ey, ¿has encontrado rocas que quieras cambiar por un poco de plata?	Speaker=Barnacle Jones Notes=*new* moved this
+conversation_69vpc2_text	Bueno, ¿tienes algo valioso para mí?	Speaker=Barnacle Jones Notes=*new* changed doll to kiddo. Moved this node
+conversation_mi3myw_text	¡Vamos! Vamos a hacer negocios tu y yo.	Speaker=Barnacle Jones Notes=*new* moved this
+conversation_2l670i_text	Bueno, ¿qué me has traído esta vez?	Speaker=Barnacle Jones Notes=*new* moved this
+conversation_89hare_text	¡Ahora enséñame lo que has encontrado allí abajo!	Speaker=Barnacle Jones Notes=*new* moved this
+conversation_dfflv5_text	Todavía quiero quitarte de encima esos minerales, si es que te queda alguno.	Speaker=Barnacle Jones Notes=*new* moved this
+conversation_dvsj68_text	El alcalde Yonker es un imbécil, pero esta vez tiene razón. ¡Hay que extraer más minerales!	Speaker=Barnacle Jones
+conversation_gk3axq_text	Dicen que está tan preocupado que se le está oxidando el cabello, ¿sabes?	Speaker=Barnacle Jones Notes=*format* Hair on steambots is made of metal.
+conversation_mosq62_text	Y yo siempre estoy dispuesto a arrebatar minerales a todo minero, cueste lo que cueste.	"Speaker=Barnacle Jones Notes="" clamps"" is the equivavlent of hands, since they are robots."
+conversation_fnygz1_text	¿Sabes, renacuaja? Lo único que importa es que siga habiendo movimiento de minerales.	Speaker=Barnacle Jones Notes=*new* changed doll-face to kiddo.
+conversation_7dsj17_text	He oído que tenemos un nuevo bot trabajando en la mina.	Speaker=Barnacle Jones
+conversation_mh0ja0_text	En realidad, estoy buscando a un amigo mío. Es bastante tranquilo y lleva una bufanda roja.	Speaker=Dorothy
+conversation_y6ys6p_text	Conozco a ese bot. Parecía ser el mejor, pero resultó ser un chasco.	Speaker=Barnacle Jones Notes=Real McCoy= the real deal.
+conversation_0lzsu6_text	Nunca volvió a la superficie, ¿sabes?	Speaker=Barnacle Jones
+conversation_bhqgnn_text	Espero que lo hagas mejor, muchacha.	"Speaker=Barnacle Jones Notes=*new* changed doll to kid added ""I"" at start of sentance. Removed last part of sentance"
+conversation_21a760_text	Por cierto, sabrás que los tubos están bloqueados.	Speaker=Barnacle Jones Notes=Refering to pneumatic tubes that's used for fast travel between the surface and the deep parts of the mine
+conversation_oxkxen_text	A mí no me gusta el chismorreo, pero dicen que el alcalde los ha cerrado para vengarse de sus hermanos minerobots.	Speaker=Barnacle Jones
+conversation_2zloko_text	Por cierto, no he visto a esos bobos desde hace un tiempo.	Speaker=Barnacle Jones
+conversation_xwxxg4_text	Esperaba que comenzaran a trabajar mejor, ahora que tenían un poco de competencia.	Speaker=Barnacle Jones
+conversation_gmenrv_text	Fui un tonto al creer que unos papanatas como ellos iban a estar a la altura.	Speaker=Barnacle Jones
+conversation_xkngbf_text	De todas formas, esos tubos bloqueados me están haciendo perder mucho parné.	Speaker=Barnacle Jones Notes=mazumas= slang for money, please do translate.
+conversation_xfxkz8_text	Hay muchas riquezas esperando bajo esas capas de ladrillo y cemento.	Speaker=Barnacle Jones
+conversation_op5xlx_text	Si te encuentras con algún licorero, destrózalo, o terminarás llevando un traje de madera hecho a medida.	Speaker=Barnacle Jones
+conversation_whma58_text	Me han dicho que suelen andar colocados de Fermento Lunar y que les gusta armar jaleo.	Speaker=Barnacle Jones Notes=*format*
+conversation_t5mwlu_text	Adoran esa porquería. El Fermento Lunar los hace más fuertes, pero también bastante torpes.	Speaker=Barnacle Jones Notes=*format*
+conversation_649tjr_text	Además, es muy corrosivo. Más te vale no tocarlo.	Speaker=Barnacle Jones Notes=*format*
+conversation_03e7vh_text	No sé si lo sabes, pero a esa profesora ricachona de allá arriba le faltan un par de tornillos.	Speaker=Barnacle Jones Notes=*format*
+conversation_u2ersk_text	Verás, perdió la cabeza tras uno de los primeros terremotos, cuando su casa se vino abajo.	Speaker=Barnacle Jones
+conversation_h9iaiy_text	Ahora está {format emph}construyendo un cohete{format reset} con toda esa hermosa chatarra que ha heredado.	Speaker=Barnacle Jones Notes=*new*
+conversation_3jgp0a_text	He oído incluso que está en contacto con toda una red de coheteros.	Speaker=Barnacle Jones
+conversation_9mc50k_text	Están construyendo estas cosas por todo el planeta.	Speaker=Barnacle Jones
+conversation_bsxzro_text	Oye renacuaja, ¿has tenido oportunidad de registrar todas las cavernas con las que te has encontrado?	Speaker=Barnacle Jones Notes=*new* completely changed
+conversation_dz2y8u_text	A veces resultan más complicadas que el resto de las minas.	Speaker=Barnacle Jones Notes=*new* completely changed
+conversation_3g80ch_text	Pero hay una alta probabilidad de que encuentres cosas más valiosas allí, ¿sabes?	Speaker=Barnacle Jones Notes=*new* completely changed
+conversation_nmjdda_text	Una vez hayas encontrado todos los objetos de una caverna, esta quedará marcada como {image cave_small} en el mapa para que no pierdas el tiempo excavando inútilmente.	Speaker=Barnacle Jones Notes=*new* completely changed
+conversation_u3ck3c_text	¿Quién iba a pensar que estos imbéciles sectarios tenían tantas riquezas bajo unas ruinas tan viejas?	Speaker=Barnacle Jones
+conversation_zh09qm_text	¡Debimos comenzar a excavar hace años!	Speaker=Barnacle Jones
+conversation_g3jyqr_text	Cierto, hay una secta de chiflados que ocupan esas ruinas. Creo que andan promulgando el fin del mundo, o algo así.	Speaker=Barnacle Jones Notes=*format*'
+conversation_m4g0mn_text	Pero esa es su fe, y yo no voy a meterme con la fe de nadie.	Speaker=Barnacle Jones
+conversation_figdnq_text	¡Mira qué ciudad! La primera vez que vine era un joven ilusionado que intentaba escapar de la dura vida de peón.	Speaker=Barnacle Jones
+conversation_saxa80_text	En esa época la ciudad no era tan grande, pero tenía muchísimo potencial.	Speaker=Barnacle Jones
+conversation_c0haij_text	Logré establecer un negocio muy próspero, y lo logré porque tengo agallas.	Speaker=Barnacle Jones
+conversation_3qiyya_text	Tienes que ser valiente para lanzarte a los lugares más recónditos del mundo, chiquilla.	Speaker=Barnacle Jones Notes=*new* changed doll to kid
+conversation_281tok_text	Será arriesgado, sin duda, pero solo así conseguirás las mejores recompensas.	Speaker=Barnacle Jones
+conversation_ef7tr2_text	He oído rumores de que en la mina crece una selva extraña y antinatural.	Speaker=Barnacle Jones
+conversation_amxf2l_text	Aunque claro, eso no detendrá a alguien como tú.	Speaker=Barnacle Jones
+conversation_mp7r9y_text	Pero verás, me preocupa que espante a otros mineros timoratos.	Speaker=Barnacle Jones
+conversation_fmy8mc_text	La profesora ya casi tiene el cohete listo para despegar.	Speaker=Barnacle Jones
+conversation_mxjgvx_text	Creí que estaba chiflada, pero comienzo a pensar que sí que le funciona el coco.	Speaker=Barnacle Jones
+conversation_gd4ef6_text	Nadie ha explorado el espacio, y está lleno de nuevas oportunidades para hacer negocios.	Speaker=Barnacle Jones
+conversation_wr4wq2_text	He logrado construir una nueva vida desde cero, ¿sabes, niña?	Speaker=Barnacle Jones Notes=*new* changed doll to kiddo
+conversation_mkud7m_text	Y en todo caso, ahora estoy mucho más preparado que cuando era joven.	Speaker=Barnacle Jones
+conversation_08cc91_text	Bueno, puedes regresar siempre que tengas minerales para vender.	Speaker=Barnacle Jones Notes=*new* moved it to the bottom
+
+# inhabitant_01
+conversation_07qv1j_text	El inútil de mi hijo no tiene ni idea de lo que hace.	Speaker=Ma Yonker
+conversation_vx6mcl_text	¡Necesitamos gente competente allí abajo para que investiguen qué está causando los malditos terremotos!	Speaker=Ma Yonker Notes=*format*
+conversation_hlqiyo_text	Sé muy bien lo que se siente cuando las placas tectónicas se mueven. ¡Y esto no es lo mismo, te lo digo yo!	Speaker=Ma Yonker
+conversation_q4ltpg_text	Necesitamos a alguien que tenga cerebro y ganas de meterse en esa mina.	Speaker=Ma Yonker
+conversation_8w93yl_text	Me he pasado la vida trabajando en las minas, cariño..., pero nunca sentí algo parecido a estos terremotos.	Speaker=Ma Yonker
+conversation_ibhbb2_text	Yo misma lo investigaría, pero mírame... Mis días de minera han pasado.	Speaker=Ma Yonker
+conversation_ffq3ty_text	¿Qué te ha sucedido?	Speaker=Dorothy
+conversation_9hmzci_text	¡Ah! ¡¿Fuiste víctima de algún accidente en las minas?!	Speaker=Fen Notes=*format*
+conversation_uy4syk_text	No. Pero he entregado muchas partes de mi cuerpo para crear a esos condenados hijos míos. Son el peor error que he cometido...	Speaker=Ma Yonker
+conversation_g3ij4k_text	{format singsong}¡Me abuurrooo!{format reset}	Speaker=Fen Notes=*new* changed format from emph to singsong
+conversation_xxgpup_text	Si aún pudiera hacerlo, ¡entraría en los puñeteros túneles en un abrir y cerrar de ojos!	Speaker=Ma Yonker
+conversation_dgq9o3_text	Si están pensando en bajar a esas profundidades, les recomiendo que {format highlight}reparen esa linterna{format reset}.	Speaker=Ma Yonker
+conversation_o8vje6_text	¿Tan peligrosas son las minas?	Speaker=Dorothy
+conversation_0c28a8_text	Bueno, hay bichejos de lo más asqueroso, pero al menos no he visto a ningún maldito licorero desde hace tiempo.	Speaker=Ma Yonker
+conversation_tt1za6_text	Mis chicos, los mayores, han estado reparando las paredes para mantener a raya a esos trozos de carne con patas.	Speaker=Ma Yonker
+conversation_n71xfs_text	Yo era apenas una niñabot cuando la guerra licorera terminó, pero aún recuerdo los peores momentos.	Speaker=Ma Yonker
+conversation_u3tho1_text	De cualquier forma, lo mejor es estar bien preparado estando allá abajo, cariño.	Speaker=Ma Yonker
+conversation_8xtyi1_text	Puedes {format highlight}usar la mesa de trabajo{format reset} que está junto a la mina para reparar esa linterna, si es que puedes permitirte pagar las partes...	Speaker=Ma Yonker
+conversation_y2vq9y_text	¡Recórcholis! Ahora sí que parece que estás lista {format highlight}para entrar en la mina{format reset}, hermosura.	Speaker=Ma Yonker
+conversation_st3zju_text	¿Alguien ha bajado últimamente al Pasaje?	Speaker=Dorothy
+conversation_0zamqc_text	No, cariño. Nadie ha ido ahí desde que esos estúpidos tubos se estropearon.	Speaker=Ma Yonker
+conversation_5atg04_text	Pero tendrás que pasar por ahí si quieres explorar toda la mina.	Speaker=Ma Yonker
+conversation_caroq1_text	Pues creo que primero tendré que {format highlight}despejar el tubo{format reset}.	Speaker=Dorothy
+conversation_kq5k2e_text	Sí, pero recuerda que la tierra se hace más dura a medida que desciendes. Debes tener tus herramientas en buen estado.	Speaker=Ma Yonker
+conversation_yo8vom_text	La Roca Rojiza es el único camino para llegar a lo más profundo de la mina, mientras el maldito sistema de tubos esté roto.	Speaker=Ma Yonker
+conversation_sxlsip_text	Espero que pueda usar explosivos para abrir el Pasaje de la Roca Rojiza.	Speaker=Dorothy
+conversation_2e9pz1_text	Creo que sí. Yo misma lo he hecho en varias ocasiones.	Speaker=Ma Yonker
+conversation_wkl33e_text	Pero primero ve a la estación de bombas y {format highlight}consigue explosivos{format reset}.	Speaker=Ma Yonker
+conversation_xtf9h2_text	¿No deberíamos alegrarnos de que el pasaje siga ahí tal y como está? Me parece que no estamos asegurados contra accidentes con explosivos.	Speaker=Mayor Mic Yonker
+conversation_5jzc1m_text	El Pasaje de la Roca Rojiza es el único camino para llegar a lo más profundo de la mina ahora que el sistema de tubos no funciona.	Speaker=Ma Yonker
+conversation_3vmqnk_text	Espero que hayas avanzado allí abajo, cariño.	Speaker=Ma Yonker
+conversation_u6rmdw_text	La profesora Sherman me ha preocupado con todos estos malgranajes terremotos.	Speaker=Ma Yonker
+conversation_nxlgy6_text	Está allí arriba gastando todo su dinero para construir ese cohete.	Speaker=Ma Yonker
+conversation_ginz3u_text	Es la mar de lista. Estoy segura de que está ideando algún plan de escape.	Speaker=Ma Yonker
+conversation_jkfreb_text	¡Cómo quisiera que el idiota de mi hijo tuviera un poco de sentido común y escuchara lo que ella dice!	Speaker=Ma Yonker
+conversation_3pntbk_text	¡Vaya, eres una verdadera minera!	Speaker=Ma Yonker
+conversation_ebwh66_text	Regresa al Pasaje de la Roca Rojiza y deshazte de toda esa maldita porquería.	Speaker=Ma Yonker
+conversation_dayt2l_text	¡Bastó solo una explosión para abrir la Roca Rojiza!	Speaker=Dorothy
+conversation_5ji97r_text	Sí, a excepción de todos esos derrumbes, su construcción es muy resistente.	Speaker=Ma Yonker
+conversation_m6zdrd_text	Bueno, me alegro de que siga en pie.	Speaker=Mayor Mic Yonker
+conversation_k7klvq_text	Necesitarás que tus herramientas estén a punto para poder abrirte camino a esas profundidades.	Speaker=Ma Yonker
+conversation_dspvhm_text	¡Y no olvides traer más piedras preciosas!	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_sl7olj_text	Es mejor que gastes un poco de dinero para mantener tus herramientas en buen estado. Cuando estés en lugares profundos, verás cómo merece la pena.	Speaker=Ma Yonker
+conversation_x0wxp1_text	Necesito encontrar un camino para llegar a la estación de mampostero.	Speaker=Dorothy
+conversation_63gsgh_text	Ya te digo que hay muchos pasajes y grietas allá abajo.	Speaker=Ma Yonker
+conversation_qp9quj_text	A mis hermanos de les da bien encontrarlas... y perderse en ellas varios días.	Speaker=Mayor Mic Yonker
+conversation_x7yuib_text	Esos licoreros grasientos también suelen entrar y sembrar el caos.	Speaker=Ma Yonker
+conversation_hc3b2x_text	Explora la mina cerca de los muros licoreros. Seguro que ahí {format highlight}encuentras la estación minera{format reset}, cariño.	Speaker=Ma Yonker
+conversation_gducoe_text	¿Te has encontrado con alguno de esos licoreros, cariño? Hace tiempo que no causan problemas.	Speaker=Ma Yonker
+conversation_yr3kie_text	Me he dado cuenta de que también desaparecieron de debajo de mi pueblo, Tumbleton.	Speaker=Dorothy
+conversation_owuynx_text	Vaya, ¿entonces sucede lo mismo en todas partes? Hace muchos meses que no veo a ninguno.	Speaker=Ma Yonker
+conversation_3h8ujv_text	Comenzaron a desaparecer después de que Rusty destruyera al monstruo tecnológico ese, Vectron.	Speaker=Dorothy
+conversation_ezzezr_text	No estoy al tanto de eso, pero sí sé bastante sobre los licoreros.	Speaker=Ma Yonker
+conversation_dpbib8_text	Solían aprovechar las grietas en las paredes para entrar y causarnos problemas a los mineros.	Speaker=Ma Yonker
+conversation_3c3lpm_text	¿Tal vez también están preocupados por los terremotos? ¡Son como las ratas: escapan del barco cuando se está hundiendo!	Speaker=Ma Yonker
+conversation_tcvt6a_text	No sé si es buena o mala señal que los licoreros estén tan callados.	Speaker=Ma Yonker
+conversation_67vh5i_text	¡Oye, he encontrado a los licoreros! Han construido un pueblito escondido en la mina.	Speaker=Dorothy
+conversation_iu5kqd_text	¡¿Qué diantres? Yo me mantendría lejos de un lugar así. ¡No puede ser seguro!	Speaker=Ma Yonker Notes=*format*
+conversation_vhdww6_text	Pues no me parecieron tan malos. Al menos no como los que he visto antes.	Speaker=Dorothy
+conversation_cbcmjx_text	¡Yo apostaría todas mis tuercas a que no puedes confiar en un licorero!	Speaker=Ma Yonker
+conversation_0glm7l_text	¡No te acerques a ese pueblo licorero si sabes lo que te conviene!	Speaker=Ma Yonker
+conversation_umbt7u_text	Excavar cerca del templo puede ser muy peligroso, pero hay muchas cosas muy valiosas por ahí.	Speaker=Ma Yonker
+conversation_c5baff_text	¡Vaya, eso parece prometedor! Tienes que ir allí y averiguar un poco más.	Speaker=Mayor Mic Yonker
+conversation_r8rlnp_text	¡Caramba! Hay que tener mucho valor para entrar en esas ruinas y buscar minerales valiosos. 	Speaker=Ma Yonker
+conversation_m8hqwy_text	Ni siquiera sus hermanos están los suficientemente locos para {format highlight}ir al templo{format reset} que está más allá de las Llanuras Ventosas.	Speaker=Ma Yonker
+conversation_bvz9xj_text	Allí hay una secta apocalíptica que se ha apropiado del lugar.	Speaker=Ma Yonker
+conversation_fj6bw8_text	También se han apropiado de las ruinas que están en el desierto del oeste.	Speaker=Ma Yonker
+conversation_u26tuh_text	Apuesto a que ese maldito viejo loco de Ronald sigue siendo el jefe. Solía ser un buen tipo, pero toda esa porquería religiosa lo ha dejado chalado.	Speaker=Ma Yonker
+conversation_gr738j_text	El templo que está más allá de las Llanuras Ventosas está lleno de riquezas, pero es un lugar demasiado peligroso para excavar.	Speaker=Ma Yonker Notes=*format*
+conversation_grrmq6_text	Vaya, parece que estás metida hasta el cuello en tu misión, cariño.	Speaker=Ma Yonker
+conversation_335kyr_text	Allí abajo encontrarás huellas de civilizaciones antiguas, como esas viejas máquinas en las estaciones mineras.	Speaker=Ma Yonker
+conversation_2jepw2_text	Han estado allí desde que tengo memoria.	Speaker=Ma Yonker
+conversation_mv0s6q_text	He escuchado a algunos listobots que dicen que los licoreros construyeron todo eso.	Speaker=Ma Yonker
+conversation_vxki0p_text	"Pues a mi esos listobots no me parecen tan inteligentes. Apuesto a que también se hacen llamar ""expertos""."	Speaker=Mayor Mic Yonker
+conversation_ysj9vo_text	A mí no me gustaría arriesgarme y excavar tan profundamente en territorio licorero. ¡Quién sabe lo que te puedes encontrar allí!	Speaker=Ma Yonker
+conversation_uj1muo_text	Aún tengo mucho que excavar si quiero detener estos terremotos.	Speaker=Dorothy
+conversation_ykczsp_text	He oído a la profesora decir que hay una selva expandiéndose por toda la mina.	Speaker=Ma Yonker
+conversation_z8gocf_text	¡Maldición! ¡Eso no suena nada bien!	Speaker=Ma Yonker
+conversation_dzwjvq_text	¿Cómo pude un bot excavar entre semejantes peligros...? ¿Cómo podrán sobrevivir mis malditos hijos?	Speaker=Ma Yonker
+conversation_x3v93r_text	No sé si te has dado cuenta, pero son realmente memos.	Speaker=Ma Yonker
+conversation_jmwahi_text	Creo que solo nos queda buscar la manera de formar parte de la tripulación de ese cohete.	Speaker=Ma Yonker
+conversation_8augkl_text	Mis hijos serán unos inútiles, pero son aceite de mi aceite.	Speaker=Ma Yonker
+conversation_9v0sjx_text	¿Entonces tengo que comprar cinco pasajes para ese vuelo espacial?	Speaker=Ma Yonker
+conversation_p75xau_text	Muchas gracias por soportar la cháchara de un viejo bot. ¡Apuesto a que tus padres están orgullosos de ti!	Speaker=Ma Yonker
+conversation_8hjn65_text	No eres como mis hijos. Son un montón de chatarra inservible.	Speaker=Ma Yonker
+conversation_x6q3po_text	"Se pasan el rato perdidos en las minas ""trabajando"". Y claro, luego está ese saco de fierro de ahí que se hace llamar político."	Speaker=Ma Yonker
+conversation_8tssip_text	¡Me da mucho gusto saber que hay alguien en los túneles que sí sabe lo que hace!	Speaker=Ma Yonker
+
+# inhabitant_02
+conversation_royiqq_text	¡Oh, madre mía! Eso sí que ha sido un gran {format nervous}terremoto{format reset}.	Speaker=Penny Kettlebottom Notes=*new*
+conversation_0z0jlu_text	¡Anda ¡Pareces ser un bot pueblerino como yo! {format singsong}¡Maravilloso!{format reset}	Speaker=Penny Kettlebottom
+conversation_i3c2ki_text	Me he sentido muy sola últimamente. Como una auténtica forastera.	Speaker=Penny Kettlebottom Notes=*format*
+conversation_fnv0dz_text	Pensé que sería sólo un olorcillo a letrina, pero no, es olor a forastera...	Speaker=Fen
+conversation_q58pva_text	Esa cosa brillante tiene razón. No estoy hecha para la vida en la gran ciudad.	Speaker=Penny Kettlebottom
+conversation_r68qcd_text	Fen, ¿no puedes ser un poco más amable por una vez? ¡A lo mejor hasta te gusta!	Speaker=Dorothy
+conversation_6c81lb_text	No lo creo.	Speaker=Fen
+conversation_qy4k1b_text	Creo que lo mejor es que regrese a la granja.	Speaker=Penny Kettlebottom
+conversation_q27f56_text	¡Hola de nuevo, compañerabot pueblerina!	Speaker=Penny Kettlebottom Notes=*format*
+conversation_bfqhtj_text	Hay muchísimas quejas sobre nuestro pobre alcalde.	Speaker=Penny Kettlebottom
+conversation_xpriw7_text	A mí me parece que sabe de lo que habla.	Speaker=Penny Kettlebottom
+conversation_kqxpuz_text	Después de todo, ha crecido en la gran ciudad... Seguro que está acostumbrado al ritmo de vida que hay aquí.	Speaker=Penny Kettlebottom
+conversation_tdhokx_text	Si yo tuviera que hacerme cargo de un lugar tan poblado como este, ya me habrían hecho chatarra.	Speaker=Penny Kettlebottom
+conversation_0k5x6v_text	Estoy segura de que sabe bien lo que hace.	Speaker=Penny Kettlebottom
+conversation_unbiry_text	¡Hola de nuevo, amiga!	Speaker=Penny Kettlebottom Notes=*format*
+conversation_fdlynd_text	No es nada fácil entablar amistad con la gente de por aquí.	Speaker=Penny Kettlebottom
+conversation_7ymnmr_text	No es como en casa, que conoces a todos desde el día en que te ensamblan.	Speaker=Penny Kettlebottom
+conversation_enl4xa_text	Esta ciudad tiene su propio ritmo, la gente está demasiado ocupada como para detenerse y charlar. ¡Están tan ocupados que no pueden ni ser amables con sus vecinos!	Speaker=Penny Kettlebottom
+conversation_aptgjz_text	Quizás seas tú el problema.	Speaker=Fen
+conversation_cqddcg_text	¡Venga, Fen, sé amable!	Speaker=Dorothy
+conversation_3avufg_text	Aish... A veces incluso me pregunto si se darían cuenta en el caso de que alguien desapareciese.	Speaker=Penny Kettlebottom Notes=*format*
+conversation_bibnd6_text	Porque he notado que hay mucha gente que desaparece por aquí.	Speaker=Penny Kettlebottom
+conversation_l5r7sq_text	Pero nosotros en el campo sí valoramos la amistad y la lealtad.	Speaker=Penny Kettlebottom
+conversation_axrc0a_text	¡Supe que eras un bot pueblerino desde el primer momento que te vi! Valoras cosas como la amistad y la lealtad, ¿verdad?	Speaker=Penny Kettlebottom
+conversation_4ure1i_text	¿Has hablado con esa profesora chiflada que está construyendo un cohete a las afueras de la ciudad?	Speaker=Penny Kettlebottom
+conversation_qahysn_text	Dicen por ahí que ha heredado un montón de dinero, pero se lo está gastando todo en esa nave espacial.	Speaker=Penny Kettlebottom
+conversation_5923lp_text	¡Qué desperdicio!	Speaker=Penny Kettlebottom
+conversation_t94xdc_text	En mi pueblo también teníamos a un chalado como ella que estaba construyendo un cohete.	Speaker=Penny Kettlebottom
+conversation_x71xpu_text	Me parece que algo está pasando, ¿no crees?	Speaker=Penny Kettlebottom
+conversation_q3y399_text	Pero seguro que este es el más elegante. El que tenemos en el pueblo es ahora un silo.	Speaker=Penny Kettlebottom
+conversation_12pu8k_text	Imagínate a todos estos bots chiflados construyendo cohetes por todo el mundo. Solo de pensarlo, me dan ganas de {format laugh}reír{format reset}.	Speaker=Penny Kettlebottom
+conversation_e4onuf_text	Pareces un poco cansada.	Speaker=Dorothy
+conversation_ob0wy7_text	Es que suceden demasiadas cosas por aquí. ¡Ya no puedo mantenerme al día!	Speaker=Penny Kettlebottom
+conversation_54qfjg_text	Lo he decidido, regreso al pueblo.	Speaker=Penny Kettlebottom
+conversation_i33o07_text	Lo más emocionante que sucede allí es cuando la vieja Paca Pepinillos saca el ganado del establo.	Speaker=Penny Kettlebottom Notes=Kettle, as in a pun on cattle. Steam cows are called Kettle.
+conversation_7bo632_text	No estoy hecha para esta vida tan estresante. Me sentiría mejor con una docena de gatobots.	Speaker=Penny Kettlebottom
+conversation_jcodma_text	Puede que hasta le dé una lección a Bess Bucklethorn en esa competición de engrasado de engranajes.	Speaker=Penny Kettlebottom
+conversation_rjax07_text	Sería {format singsong}genial{format reset} si venciera a esa bot cursi de Bess Bucklethorn.	Speaker=Penny Kettlebottom
+conversation_kzt23q_text	Creo que lo mejor es que regrese a la granja.	Speaker=Penny Kettlebottom
+
+# climber_01
+conversation_vyjpoj_text	¡Ese terremoto hizo que el elevador se desplomara!	Speaker=Lady Botterley Notes=*format* There is a crashed elevator just next to them.
+conversation_ctbic6_text	{format singsong}¡Guaaau!{format reset}. ¿Y aplastó a alguien?	"Speaker=Fen Notes=*new* Added format on ""Ooooh"", removed horribly double use of horribly. Gleefully. Fen has lot of scadenfreude! :)"
+conversation_m9r7tc_text	¿Cómo? {format nervous}¡Madre mía!{format reset} ¡Eres una {format emph}cosa{format reset} espantosa! 	"Speaker=Lady Botterley Notes=*new* changed horrible to terrible and emphasised ""thing"""
+conversation_045qay_text	"¡Oye, {format emph}no{format reset} soy una ""cosa""! Si tuviera mi tótem aquí conmigo, ¡te daría tu merecido!"	Speaker=Fen Notes=She was locked in a statue before Dorothy destroyed it, then she moved into Dorothys chest cavity.
+conversation_fccwnq_text	Bueno, sea lo que sea que eres, debes aprender a comportarte.	Speaker=Lady Botterley
+conversation_8oqmau_text	Perdone, señora, pero Fen aún no ha aprendido a relacionarse con la gente.	Speaker=Dorothy
+conversation_acx7g7_text	¿Cuánto he de esperar hasta que vengan a reparar este elevador?	Speaker=Lady Botterley
+conversation_matp87_text	Esperar aquí, en este desierto, no es algo digno de un bot de mi alcurnia.	Speaker=Lady Botterley
+conversation_eb6uiw_text	Esperar aquí, en este desierto, no es algo digno de un bot de mi alcurnia.	Speaker=Lady Botterley
+conversation_c7c7g6_text	El alcalde que tenemos ahora no es el mejor, pero tiene cierto refinamiento.	Speaker=Lady Botterley
+conversation_mdqfxx_text	No es raro que un bot logre mucho más de lo que sus partes indicaban cuando lo ensamblaron.	"Speaker=Lady Botterley Notes=This is in reference to that all steambots are assembled, but the ""soul"" may lay in the parts, but anyone has free will."
+conversation_uynh2z_text	Debo confiar en su juicio. Todos debemos confiar en su juicio.	Speaker=Lady Botterley
+conversation_if7w3g_text	No hay que preocuparse por estos terremotos. Estoy segura de que este elevador estaba falto de mantenimiento.	Speaker=Lady Botterley
+conversation_540zgf_text	Espero que reparen pronto este artilugio. {format emph}No puedo{format reset} estar esperando eternamente.	Speaker=Lady Botterley
+conversation_t8w29c_text	Entonces..., aún no han reparado el elevador, ¿verdad?	Speaker=Dorothy
+conversation_2y8m3i_text	Obviamente, no.	Speaker=Lady Botterley
+conversation_sbn8ap_text	Este no es el mejor lugar para una señorabot como yo, pero al menos es tranquilo.	Speaker=Lady Botterley
+conversation_x0xmdc_text	¡Esa ridícula profesora que vive al lado se pasa día y noche martillando ese cohete suyo!	Speaker=Lady Botterley
+conversation_9hvgg5_text	¿Por qué no sube por ese risco?	"Speaker=Fen Notes=""Hoof it"" - slang for run, or walk. Hoof like in horse foot!"
+conversation_b63bbp_text	¡Ni hablar! Una dama no escala riscos.	Speaker=Lady Botterley
+conversation_ff5hlh_text	Una dama no escala. Esperaré aquí hasta que reparen el elevador o hasta que alguien me suba. Es lo más apropiado.	Speaker=Lady Botterley
+conversation_3lbfex_text	Sigue aquí ¿eh?	Speaker=Fen
+conversation_ykf245_text	Sí, {format emph}sigo aquí{format reset}. Y sí, el elevador {format emph}aún está roto{format reset}. No hay necesidad de ser grosero.	Speaker=Lady Botterley
+conversation_c50t6h_text	¡Qué escándalo! Seguro que la flor y nata del mundo de los engranajes se preguntan dónde estoy.	Speaker=Lady Botterley
+conversation_8rvp8u_text	Espero que el alcalde tenga una explicación satisfactoria.	Speaker=Lady Botterley
+conversation_wpxim7_text	Estoy segura de que me extrañan mucho. Soy muy importante, ¿lo sabías?	Speaker=Lady Botterley
+conversation_gtukg8_text	Te piensas quedar aquí para siempre, ¿verdad?	Speaker=Fen
+conversation_cudej5_text	Bueno, he tenido que encontrarme un nuevo pasatiempo.	Speaker=Lady Botterley
+conversation_h438q0_text	Estoy contando a todos los peregrinos que van a ese sucio templo en el oeste.	Speaker=Lady Botterley
+conversation_e0mg3i_text	En circunstancias normales, los ignoraría completamente, pero estoy muy aburrida.	Speaker=Lady Botterley
+conversation_x9lbaf_text	Me parece que estos peregrinos se traen algo entre manos. Aunque no debería interesarme por estas cosas tan mundanas.	Speaker=Lady Botterley
+conversation_ef66r2_text	¿Vosotros de nuevo? ¿No tenéis nada mejor que hacer que molestarme?	Speaker=Lady Botterley
+conversation_4ay3w5_text	¡Claro que tenemos mucho que hacer! Pero molestarla es tan divertido...	Speaker=Fen
+conversation_b1t04s_text	Como si estos terremotos no fueran suficiente molestia.	Speaker=Lady Botterley
+conversation_6ntyzc_text	Me da igual. He llegado a la conclusión de que este alcalde es un idiota.	Speaker=Lady Botterley
+conversation_9sm12u_text	Sé que es muy difícil de creer, pero yo también puedo llegar a ser ofensiva en contadas ocasiones.	Speaker=Lady Botterley
+conversation_ce5r53_text	Venga ya, ¿en serio?	Speaker=Fen
+conversation_1zdfzx_text	Me pregunto cuánto cuesta un pasaje para ese cohete...	Speaker=Lady Botterley
+conversation_4y3t9l_text	Me pregunto cuánto cuesta un pasaje para ese cohete...	Speaker=Lady Botterley
+conversation_bfqth1_text	Esperar aquí, en este desierto, no es digno de alguien de mi alcurnia.	Speaker=Lady Botterley
+
+# entering_guidance
+conversation_kohvbb_text	{format emph}¡Auch!{format reset}	Speaker=Dorothy Notes=*DEMO*
+conversation_1a5f80_text	¡Mecachatarris! Se ha roto mi linterna.	Speaker=Dorothy Notes=*format* *DEMO*
+conversation_9rx08a_text	¡Guau! ¿Qué {format emph}es{format reset} este lugar?	Speaker=Dorothy Notes=*DEMO*
+conversation_ojjbl5_text	Tendré que explorarlo para {format highlight}encontrar otra salida{format reset}.	Speaker=Dorothy Notes=*DEMO*
+
+# cutscene_fen
+conversation_y5enud_text	¡Oh, {format singsong}divina Luz del consejo!{format reset} ¡Ilumina mi camino!	Speaker=Cultist Notes=*DEMO*
+conversation_hnsad0_text	¡SÍ, TÚ PUEDES DISFRUTAR DE MI BRILLO DESTRUCTOR!	Speaker=The Guiding Light Notes=*format* *DEMO*
+conversation_a1al3q_text	{format singsong}¡Bienaventurado seas!{format reset} ¡El ascenso me espera!	Speaker=Cultist Notes=*DEMO*
+
+# cutscene_fen_02
+conversation_2ln8fi_text	¡Oye! He estado a punto de prenderte en llamas, sectaria chiflada.	Speaker=Fen Notes=*format*
+conversation_qzp3tz_text	Ya te lo he dicho, {format emph}no soy una sectaria.{format reset}	Speaker=Dorothy
+conversation_ksn1s4_text	¿En serio? Bueno, todos los bots me parecéis iguales.	Speaker=Fen
+conversation_g22jzu_text	{format emph}Te{format reset} pareces a uno de esos duendecillos de Vectron. ¿Cómo es eso {format emph}posible?{format reset}	Speaker=Dorothy
+conversation_01a075_text	Mi amigo Rusty destruyó a Vectron antes de desaparecer.	Speaker=Dorothy
+conversation_w28at6_text	Los de la secta me han secuestrado y me han conectado aquí para adorarme. ¡Querían que los destruyera, {format laugh}je, je, je, je!{format reset}	Speaker=Fen
+conversation_krzwlf_text	Hm... Pero no puedo hacerlo sin mi genial tótem. ¿Qué hacemos ahora?	Speaker=Fen
+conversation_wfa9i6_text	Bueno, {format emph}voy{format reset} a la gran ciudad. Me dijeron que habían visto a Rusty por allí.	Speaker=Dorothy
+conversation_qhu4n0_text	¿A la ciudad? Pues, si tanto insistes, iré contigo.	Speaker=Fen
+
+# cutscene_fen_01
+conversation_e2v16f_text	¡UN DISPARO! {format laugh}¡JE, JE, JE!{format reset}	Speaker=The Guiding Light Notes=*DEMO*
+conversation_z0997i_text	¡Alto ahí! ¿Qué {format emph}sucede{format reset} aquí?	Speaker=Dorothy Notes=*DEMO*
+conversation_0dz6we_text	¡PERFECTO! ¡OTRO PEREGRINO!	Speaker=The Guiding Light Notes=*format* *DEMO*
+conversation_mzljgp_text	No soy un...	Speaker=Dorothy Notes=*DEMO*
+conversation_yadt78_text	¡PREPÁRATE PARA MORIR! {format laugh}¡PIUM, PIUM!{format reset}	Speaker=The Guiding Light Notes=*new* *DEMO* moved the pew-pew line from below into this line.
+
+# fen_ledge_01
+conversation_cukwql_text	¡Vaya, menudo paisaje! ¿Qué te parece si echas un vistazo más de cerca?	Speaker=Fen
+
+# fen_ledge_02
+conversation_aszmw4_text	¡Tendrás que acercarte aún más!	Speaker=Fen
+conversation_skvrgn_text	{format singsong}¡Más cercaaaaaaaa...{format reset} {format laugh}je, je, je!{format reset}	Speaker=Fen
+
+# old_salesbot_01
+conversation_x6t79e_text	¡Miren quién ha llegado! ¡Es Dorothy McCrank!	Speaker=Trader Carson
+conversation_yu1bwf_text	¡Tratante Carson! No creía que encontraría a algún conocido tan lejos de casa.	Speaker=Dorothy
+conversation_0hioym_text	Dime, ¿qué hay de nuevo en tu Tumbleton natal? ¡He oído cantidad de rumores!	Speaker=Trader Carson
+conversation_dslq5p_text	Todo comenzó con la llegada de Rusty, empezó a extraer riquezas de la mina y a contribuir a la prosperidad de la ciudad.	Speaker=Dorothy
+conversation_8tr70j_text	Pero un día se encontró con una extraña tecnología allí abajo. Se fusionó con ella y se volvió más fuerte.	Speaker=Dorothy
+conversation_70kkpo_text	¡Venga! ¿Cuándo empieza lo bueno?	Speaker=Fen
+conversation_xfpxnh_text	Pues bien, la fuente de ese poder misterioso resultó ser extremadamente peligrosa.	Speaker=Dorothy
+conversation_epbknd_text	Rusty peleó contra ese poder y nos salvó, pero después de la lucha, desapareció. Lo estoy buscando desde entonces.	Speaker=Dorothy
+conversation_c5qvu8_text	"Un viajero vio mis anuncios de ""desaparecido"" y me dijo que lo habían visto entrar en las minas de El Machino."	Speaker=Dorothy
+conversation_i625og_text	¡Guau, menuda historia!	Speaker=Trader Carson
+conversation_umknih_text	La versión corta es que mi amigo ha desaparecido.	Speaker=Dorothy
+conversation_hp7xc3_text	"Un viajero vio mis anuncios de ""desaparecido"" y me dijo lo habían visto entrar en las minas de El Machino."	Speaker=Dorothy
+conversation_nfwjrx_text	Actualmente el transporte para subir al pueblo está roto, tendrás que {format highlight}escalar el risco{format reset} para llegar hasta allí.	"Speaker=Trader Carson Notes=*new* changed ""well"", to ""now"""
+conversation_c1qqn0_text	Estaré allí en breves. Pásate si quieres comprar algunos engranajes de mejora {image cogs_small} para apañártelas mejor en la mina.	Speaker=Trader Carson
+conversation_m6jpam_text	Espero que tengas más suerte y lo encuentres allí.	Speaker=Trader Carson
+conversation_q4eiud_text	Yo voy a descansar un poco aquí antes de escalar. Mis engranajes ya están algo viejos.	Speaker=Trader Carson
+conversation_yx3y9m_text	¿Por qué no me cuentas lo que pasó en Tumbleton mientras tanto?	Speaker=Trader Carson
+conversation_x7qfv2_text	Bueno, como quieras, que sea en otro momento.	Speaker=Trader Carson
+conversation_5nktdz_text	¡Ah, cómo adoro estar en estos distritos tan refinados de la ciudad!	Speaker=Trader Carson
+conversation_tj5uh7_text	Estos hipsterbots pagan cualquier precio por mis engranajes de mejora {image cogs_small} originales.	Speaker=Trader Carson
+conversation_nqd450_text	He estado haciendo un buen negocio comerciando estos pequeños engranajes por ahí.	Speaker=Trader Carson Notes=*new*
+conversation_ny6f1a_text	Normalmente los recojo en mercadillos o tiendas de segunda mano en áreas rurales, pero algunos otros se pueden encontrar simplemente tirados en el campo. 	Speaker=Trader Carson Notes=*new*
+conversation_smo857_text	"Hacen ese clásico ruido de ""clín clín, clán clán"" que tanto los caracteriza."	Speaker=Trader Carson Notes=*new*
+conversation_gq1rfi_text	Sólo los oídos entrenados pueden notar la diferencia pero, si escuchas con cuidado, sabrás a lo que me refiero.	Speaker=Trader Carson Notes=*new*
+conversation_dm175r_text	Hace tiempo que no veo a tu papá, ¿cómo está?	Speaker=Trader Carson
+conversation_w6hv5b_text	Desgraciadamente murió hace tiempo.	Speaker=Dorothy
+conversation_by4nym_text	¡Vaya, qué noticia tan triste! Creía que antes nos enterraría a todos...	Speaker=Trader Carson
+conversation_1g9zr8_text	Aunque fuera solo por fastidiar.	Speaker=Trader Carson
+conversation_cgmjf4_text	Yo también lo creía...	Speaker=Dorothy
+conversation_i5igy1_text	Y dime, ¿qué ha sido de esa tienda tuya ahora que estás aquí excavando?	Speaker=Trader Carson
+conversation_lp4kx4_text	Oh, Tumbleton prospera. Hay muchísimos bots dispuestos a hacer negocios.	Speaker=Dorothy
+conversation_a7uh25_text	Yo, por el contrario, siempre quise trabajar en las minas, pero mi padre lo consideraba demasiado peligroso.	Speaker=Dorothy
+conversation_kyijyo_text	Ya, bueno, me alegra saber que estás haciendo lo que siempre quisiste.	Speaker=Trader Carson
+conversation_s5417g_text	Habría estado bien conocer al tipo que salvó tu pueblo.	Speaker=Trader Carson
+conversation_tgpso6_text	En esa época no tenía ningún negocio importante por allí.	Speaker=Trader Carson
+conversation_10nfc4_text	¿Cómo se llamaba? Krusty... no... ¡Trusty! ¿Cierto?	Speaker=Trader Carson
+conversation_vzg8gx_text	Rusty...	Speaker=Dorothy
+conversation_ymzbde_text	Sí, claro. Por lo que recuerdo, destruyó a cierto monstruo gigante en esa mina.	Speaker=Trader Carson
+conversation_la8vr6_text	Y luego, ¡va y desaparece!	Speaker=Trader Carson
+conversation_k59dwv_text	Espero que encuentres a quien buscas, jovencita. Y espero que lo encuentres sano y salvo.	Speaker=Trader Carson
+conversation_bzq0aw_text	El mundo ha cambiado mucho desde que no era más que un pequeño bot.	"Speaker=Trader Carson Notes=*new* removed ""nothing"""
+conversation_zc6l96_text	Ahora muchos buscan extraer partes de la mina o construir naves espaciales para escapar del planeta.	Speaker=Trader Carson
+conversation_jnptai_text	Pero yo sigo aquí, vendiendo mis engranajes de mejora {image cogs_small}, tal como lo he hecho siempre.	Speaker=Trader Carson
+conversation_rk0bii_text	Creo que el futuro os pertenece a los jóvenes.	Speaker=Trader Carson
+conversation_r74j24_text	Mira, tengo un montón de engranajes de mejora {image cogs_small} de sobra. ¡Te los ofrezco a precio de ganga!	Speaker=Trader Carson Notes=Upgrade Cogs are used to enhance various equipement. Look like golden gear/cog.
+conversation_0qym9q_text	Supongo que has regresado a por más engranajes de mejora {image cogs_small}, ¿cierto?	Speaker=Trader Carson
+conversation_yx06g0_text	¿Qué me dices? Llévate un engranaje de mejora {image cogs_small} nuevecito por solo ${var pricelist_next:carson_cogs}{image money_small}.	Speaker=Trader Carson
+conversation_x4iaao_text	¡Gracias por tu compra! ¡Vuelve cuando quieras!	Speaker=Trader Carson
+conversation_zfed36_text	Eres una de mis mejores clientes, joven Dot. Es el último que tenía. ¡Espero que te sirvan estas cosas!	Speaker=Trader Carson
+conversation_koo3mt_text	Pues, quisiera poder ayudarte gratuitamente, Dot, pero los tratantes también tenemos que comer.	Speaker=Trader Carson
+conversation_1yrec8_text	Bueno, de acuerdo, ¡regresa cuando necesites un engranaje de mejora {image cogs_small}!	Speaker=Trader Carson
+conversation_27y4o8_text	Tienes las agallas de tu padre, lo reconozco.	Speaker=Trader Carson
+
+# cutscene_fen_03
+conversation_c3lb0g_text	¡Oye tú! ¿Qué demonios crees que haces? ¡{format emph}Largo{format reset} de mi caldera!	Speaker=Dorothy
+
+# fen_conquerer
+conversation_f2k0wg_text	Así que esta es la superficie..., ¡cuánta luz!	Speaker=Fen
+conversation_x8lfrw_text	¡Tu mapa es genial! ¿Puedes utilizarlo para localizar a la gente?	Speaker=Dorothy
+conversation_02breo_text	No, ni aunque quisiera.	Speaker=Fen
+conversation_fek90f_text	Me recuerdas a los odiosos fuegos fatuos de las historias que mi papá contaba sobre su patria.	"Speaker=Dorothy Notes=Fen is reference to ""Fenlights"", a supernatural folklore being that lured people into the woods."
+conversation_duq0rd_text	Te llamaré Fen, para abreviar.	Speaker=Dorothy
+conversation_uostgv_text	Me llamo Dorothy, pero mis amigos me llaman Dot.	Speaker=Dorothy Notes=*new* split from line above
+conversation_em0ovz_text	Sí ya, claro. Regreso a tu caldera.	Speaker=Fen
+conversation_tats2u_text	Despiértame si hay algo interesante.	Speaker=Fen
+
+# mayor_01
+conversation_szoc5w_text	Bueno, llego tarde a mi sesión de abrillantamiento. Si tienes alguna queja, déjala en mi oficina.	Speaker=Mayor Mic Yonker
+conversation_r6bmk4_text	Y si vienes a quejarte de los terremotos, ¡ni te molestes! Es normal que la tierra se sacuda de vez en cuando por estas tierras.	Speaker=Mayor Mic Yonker
+conversation_orgrlo_text	No he venido a quejarme. Necesito entrar en la mina para encontrar a un bot perdido.	Speaker=Dorothy
+conversation_2k8w6x_text	{format laugh}¡Ja!{format reset} Lo que yo necesito es reactivar la mina. ¡Y tú ni siquiera tienes una linterna en condiciones!	Speaker=Mayor Mic Yonker
+conversation_o8zw9i_text	Lo más probable es que termines perdida, y eso no me conviene. Especialmente ahora, con las elecciones tan cerca.	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_2ok5e8_text	Bueno, te propongo una cosa: hay un {format emph}área más segura{format reset} donde puedes excavar. Está en la mina, justo a la izquierda de las escaleras.	Speaker=Mayor Mic Yonker
+conversation_kbljxa_text	Si consigues {format highlight}extraer minerales{format reset} para comprarte una linterna nueva, entonces el guardia te permitirá entrar en la mina.	Speaker=Mayor Mic Yonker
+conversation_dgln8s_text	¡No puedo permitir que te pierdas en esa mina! {format highlight}Extrae los recursos{format reset} necesarios para reparar esa linterna.	Speaker=Mayor Mic Yonker
+conversation_wdf2e3_text	¡Vaya, has extraído lo suficiente! No pensé que lo lograrías. ¡Ve a visitar a Cangrejo Jones!	Speaker=Mayor Mic Yonker
+conversation_y8rutk_text	Es ese tipo verde con pinzas. Con él puedes {format highlight}cambia tus minerales{format reset} por dinero contante y sonante.	Speaker=Mayor Mic Yonker
+conversation_35uglo_text	{format highlight}Comercia con tus minerales{format reset} con Cangrejo Jones.	Speaker=Mayor Mic Yonker
+conversation_p2p0j1_text	Veamos, lo que has ganado solo sirve si lo gastas.	Speaker=Mayor Mic Yonker
+conversation_hd3efw_text	Ahora ve y {format highlight}repara tu linterna{format reset} en el taller.	Speaker=Mayor Mic Yonker
+conversation_z86wxp_text	Ese tipo tímido y cuadrado te ayudará.	Speaker=Mayor Mic Yonker
+conversation_w5r2nd_text	Ve y {format highlight}repara tu linterna{format reset} en el taller.	Speaker=Mayor Mic Yonker
+conversation_ujjfnb_text	¡Mucho mejor! Ahora sí pareces estar lista para {format highlight}entrar en la mina{format reset}.	Speaker=Mayor Mic Yonker
+conversation_woghf0_text	¡Y no olvides seguir trayendo más de esos dulces, dulces minerales!	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_5r6n65_text	¡Es estupendo tener a alguien que traiga minerales constantemente de nuevo!	Speaker=Mayor Mic Yonker
+conversation_x2jdkd_text	Y, a excepción de algunos desacuerdos con esos malditos bichos, estoy progresando.	Speaker=Dorothy
+conversation_b8dzdr_text	¡Se lo he dicho a todos! Se están alterando por nada.	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_cjntod_text	Voy al Pasaje de la Roca Rojiza para ver si puedo {format highlight}reparar ese maldito tubo{format reset}.	Speaker=Dorothy
+conversation_pnbpzi_text	¡No dejes de traer esos preciosos minerales a la superficie!	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_2pgjla_text	Y no olvides gastar tus ganancias en las tiendas de la ciudad.	Speaker=Mayor Mic Yonker
+conversation_j881iu_text	Mira, hay muchas riquezas por extraer justo frente a la Roca Rojiza. No hay necesidad de alterar el orden de las cosas sin razón.	Speaker=Mayor Mic Yonker
+conversation_827vm7_text	No comprendo por qué no puedes dejar la estación de bombas en paz.	Speaker=Mayor Mic Yonker
+conversation_850lak_text	¿Realmente necesitamos solucionar todo con explosivos, tal como lo hacen esos licoreros locos?	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_ebyo6x_text	¿Tienes un plan mejor para abrirte paso por el Pasaje de la Roca Rojiza, hijo mío?	Speaker=Ma Yonker
+conversation_hkla2t_text	Es solo que no entiendo por qué tiene que bajar a tanta profundidad.	Speaker=Mayor Mic Yonker
+conversation_s2zuik_text	Ya te lo he dicho, allí los minerales son más valiosos que lo que hay por aquí.	Speaker=Ma Yonker
+conversation_o84rmq_text	Sí, bueno, está {format emph}eso{format reset}...	Speaker=Mayor Mic Yonker Notes=*new* changed format from laugh to emph
+conversation_wray1t_text	¿Qué tiene de malo una buena pica? ¿Realmente tenemos que usar bombas?	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_b6rus0_text	Es mejor que vaya a despejar ese pasaje derrumbado en la Roca Rojiza.	Speaker=Dorothy
+conversation_j39zeq_text	A todos les vendría bien que lo despejaras.	Speaker=Ma Yonker
+conversation_vxn818_text	Pues, {format emph}me gusta mucho{format reset} la idea de extraer todas esas piedras preciosas que están en las profundidades.	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_7zj949_text	Esperemos que puedas limpiar la Roca Rojiza sin empeorar las cosas.	Speaker=Mayor Mic Yonker
+conversation_f7egkh_text	Ahora que el Pasaje de la Roca Rojiza está abierto, puedo buscar a Rusty en las profundidades.	Speaker=Dorothy
+conversation_ksg9fp_text	Ey, ¿El bot ese sigue perdido? Bueno, pero no te olvides de traer más de esos valiosos minerales.	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_gu106f_text	Debería ser fácil excavar hasta llegar al muro protector, cariño.	Speaker=Ma Yonker
+conversation_56ijq0_text	Supongo que tu amigo se habrá resbalado y caído por una de esas grietas.	Speaker=Ma Yonker
+conversation_ynbcdq_text	En tu lugar, yo iría a la estación de mampostero.	Speaker=Ma Yonker
+conversation_twgnbe_text	Ahí deben tener una vieja máquina que te facilitará mucho la vida.	Speaker=Ma Yonker
+conversation_51emyp_text	¿Te refieres a la máquina que los estúpidos de mis hermanos emparedaron el año pasado cuando pusieron esos ladrillos?	Speaker=Mayor Mic Yonker
+conversation_8gee3i_text	¡Que me lleve el diablo! Apuesto a que puedes {format highlight}encontrar otro camino{format reset} para superar ese muro si exploras el lugar con cuidado.	Speaker=Ma Yonker
+conversation_4sh4u4_text	¡Y no te olvides de informarme si encuentras algún pasadizo! Enviaré a alguien después para que lo tape.	Speaker=Mayor Mic Yonker Notes=*new* removed the line beneath this.
+conversation_gbjzn6_text	He encontrado un pasadizo la mar de extraño allí abajo. Está lleno de plantas raras.	Speaker=Dorothy Notes=*new* changed cave to passage
+conversation_jsqibo_text	Bueno, casi todo lo que hay a esas profundidades es extraño. Está demasiado cerca del territorio licorero.	Speaker=Mayor Mic Yonker
+conversation_2xq01z_text	Los inútiles de mis otros hijos dijeron algo sobre haber entrado en una caverna extraña y llena de plantas.	Speaker=Ma Yonker
+conversation_aukq83_text	En su momento pensé que tenían ese maldito síndrome de descompresión.	Speaker=Ma Yonker
+conversation_8rttb6_text	Mis hermanos sellaron totalmente la estación de mampostero.	Speaker=Mayor Mic Yonker
+conversation_6scmnj_text	A decir verdad, mis chicos no son los más brillantes del barrio.	Speaker=Ma Yonker
+conversation_jseqve_text	Logré colarme por debajo del muro y encontré la estación de mampostero..., pero aún no hay señal de Rusty.	Speaker=Dorothy
+conversation_saqvas_text	¡Pero venga! ¿Por qué alguien en su sano juicio querría excavar tan profundo? ¿No querrás {format highlight}entrar en territorio licorero{format reset}, verdad?	Speaker=Mayor Mic Yonker
+conversation_41t2gq_text	Ese martillo neumático destrozará todo a su paso y te llevará a tu destino en un santiamén.	Speaker=Ma Yonker
+conversation_nlrzra_text	Pero pon atención a tu nivel de agua. ¡Esa herramienta consume más agua que un marinerobot en el desierto!	Speaker=Ma Yonker
+conversation_x4aowp_text	¡Y mucha atención! No quiero que te siga ninguno de esos licoreros enfermos hasta aquí. ¡Eso es lo último que necesito!	Speaker=Mayor Mic Yonker
+conversation_acygrc_text	Ten cuidado cuando perfores el muro y cuídate de esos dementes.	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_mo33pi_text	La profesora chiflada esa, Sherman, sigue sembrando el terror con sus lecturas sobre los terremotos.	Speaker=Mayor Mic Yonker Notes=*new* removed fake news to tone down Trumpism
+conversation_27gaig_text	Venga ya, ese último temblor no derribó nada. 	Speaker=Mayor Mic Yonker
+conversation_ydzkaa_text	Nos mira con desprecio desde la lanzadera de su cohete solo porque tiene un título.	Speaker=Mayor Mic Yonker
+conversation_667vwu_text	Sherman se cree muy lista porque tiene un título. {format laugh}¡Ja!{format reset} El único papel que importa en este mundo es el que sacas del banco...	Speaker=Mayor Mic Yonker
+conversation_jx90fz_text	Esa secta loca del templo parece estar protegiendo algún {format emph}generador apocalíptico{format reset}.	Speaker=Dorothy
+conversation_jw27fp_text	¿Será eso lo que ha estado causando tantos temblores antinaturales?	Speaker=Ma Yonker
+conversation_9baw7n_text	¡Bueno, eso no es problema mío!	Speaker=Mayor Mic Yonker
+conversation_7m1f5t_text	La oficina del alcalde no puede permitirse ocuparse de problemas apocalípticos.	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_qbl22o_text	Mi trabajo es hacer que los bots extraigan piedras preciosas de las minas. Y cobrarles impuestos por ello.	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_v4im3u_text	¡Idiota, tú eres el que manda aquí! ¡Querías ser alcalde, pues ahora actúa como alcalde!	Speaker=Ma Yonker
+conversation_v6x25f_text	La chicabot esa ya ha estado en el templo. ¡Hagamos que regrese y desactive ese generador!	Speaker=Mayor Mic Yonker
+conversation_6dx6ev_text	¡Listo, problema resuelto! No olvides traerme más de esas piedras preciosas.	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_6aje4l_text	Oye, ¿has tenido tiempo de{format highlight} desactivar ese generador apocalíptico{format reset}?	Speaker=Mayor Mic Yonker
+conversation_3lxi6c_text	Hemos logrado destruir el generador apocalíptico.	Speaker=Dorothy
+conversation_rv004f_text	¡Sí, lo hemos hecho! ¡Lástima que te perdiste la explosión!	Speaker=Fen
+conversation_7nmsnx_text	¡¿Lo ves?! ¡La oficina del alcalde lo tenía todo bajo control!	Speaker=Mayor Mic Yonker
+conversation_qpbmn2_text	{format emph}¡Idiota!{format reset}	Speaker=Ma Yonker
+conversation_j8m71m_text	{format emph}Fui{format reset} yo quien la envió a la mina en un principio.	Speaker=Mayor Mic Yonker
+conversation_sptgv3_text	Merezco cierto reconocimiento. Fui yo quien te envió a la mina en un principio.	Speaker=Mayor Mic Yonker
+conversation_2h1yth_text	Hemos descubierto otras máquinas que causan terremotos en las minas.	Speaker=Dorothy
+conversation_xbnodu_text	¡Oh, {format emph}por favor{format reset}! ¿Es que no pueden darme un respiro?	"Speaker=Mayor Mic Yonker Notes=*new* enclosed ""come"" into the format"
+conversation_6c2elx_text	¡Lo único que quería era un trabajo en el que no tuviera que excavar en esa asquerosa mina!	Speaker=Mayor Mic Yonker
+conversation_kk8x0s_text	Si no puedes {format highlight}desactivar esas máquinas{format reset}, ¡tendré que evacuar toda la ciudad!	Speaker=Mayor Mic Yonker
+conversation_hmjz7t_text	¿Tienes idea de lo mucho que me costará?	Speaker=Mayor Mic Yonker
+conversation_qzd676_text	Bueno, al menos tráeme algo valioso de allí abajo, ¿de acuerdo?	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_ocz2bm_text	¿Has logrado desactivar todas las máquinas?	Speaker=Mayor Mic Yonker
+conversation_wihfk8_text	¡Hay selvas en las minas y sectarios que planean destrozar el mundo!	Speaker=Mayor Mic Yonker
+conversation_jcggy6_text	Apuesto a que el último alcalde no se las tuvo que ver con cosas así...	Speaker=Mayor Mic Yonker
+conversation_8d282i_text	Hasta he llegado a desear haberme quedado en el negocio familiar. Mis hermanos parecen bastante felices.	Speaker=Mayor Mic Yonker
+conversation_w4v0m6_text	Creo que es hora de comenzar a empacar mis maletas como el resto de los votantes.	Speaker=Mayor Mic Yonker
+conversation_mm9lt2_text	No puedo ser alcalde si no hay un pueblo que gobernar, ¿cierto? Mm, es una idea bastante reconfortante...	Speaker=Mayor Mic Yonker
+conversation_e4p6yr_text	Bueno, tal vez debería unirme al negocio familiar y comenzar una nueva vida como minero de asteroides.	Speaker=Mayor Mic Yonker
+conversation_yzrylo_text	"Oye, ¿qué opinas de esta consigna? ""¡El negocio de siempre!"". Suena bien, ¿no crees?"	Speaker=Mayor Mic Yonker
+
+# talk_to_mayor
+conversation_pap70a_text	¿Un minero con bufanda roja? ¡{format emph}Tiene que ser{format reset} Rusty! ¡Al fin he encontrado una pista prometedora!	Speaker=Dorothy
+conversation_n0lq8o_text	Me parece que estos terremotos suenan prometedores.	Speaker=Fen
+conversation_3nu9ex_text	No hay nada mejor que un poco de caos para animar una aventura.	Speaker=Fen
+conversation_elfbhm_text	Tengo que {format highlight}hablar con el alcalde{format reset} para poder regresar a la mina.	Speaker=Dorothy
+
+# guard_archaea
+conversation_lty8j0_text	¡Alto ahí! ¡No está autorizada para excavar aquí, señorita!	Speaker=Coral Armstrong
+conversation_ml6q7x_text	No puedo permitir que se pierda ningún minero, ¿entendido?	Speaker=Coral Armstrong
+conversation_cmr7ae_text	Me parece que debe hablar con el alcalde para obtener la autorización correspondiente.	Speaker=Coral Armstrong
+conversation_jqyolm_text	¡Alto ahí, señorita! No puedo permitirle excavar aquí sin una fuente de luz adecuada.	Speaker=Coral Armstrong Notes=Her chest lamp is busted
+conversation_jmhinb_text	¡Solo quiero entrar ahí y buscar a mi amigo! ¿Qué le parece si solo echo un vistazo?	Speaker=Dorothy
+conversation_97lht6_text	Sí, déjela echar un vistazo. {format emph}Probablemente{format reset} se las arregle para volver.	Speaker=Fen
+conversation_naakhs_text	Creo que ya hemos perdido {format emph}demasiados{format reset} mineros allí abajo.	Speaker=Coral Armstrong
+conversation_wjso4t_text	Es demasiado peligroso andar a oscuras. ¿Por qué no {format highlight}extrae minerales{format reset} en esa zona mejor iluminada?	Speaker=Coral Armstrong
+conversation_iom5do_text	Es demasiado peligroso andar a oscuras. ¿Por qué no {format highlight}repara primero su linterna{format reset} en la ciudad?	Speaker=Coral Armstrong
+conversation_c5cn1e_text	¡Necesita {format highlight}extraer minerales{format reset} para poder reparar su linterna!	Speaker=Coral Armstrong
+conversation_6b9sev_text	¿Por qué no {format highlight}vende los minerales{format reset} que tenga y va a ver al mecánico para que repare su linterna?	Speaker=Coral Armstrong
+conversation_66rd82_text	Creo que puede {format highlight}reparar su linterna{format reset} en el taller de la ciudad.	Speaker=Coral Armstrong
+conversation_94r9zk_text	¡Vaya, parece que está lista para excavar!	Speaker=Coral Armstrong
+conversation_n9j9h3_text	Entonces, ¿ahora sí me permitirá {format highlight}excavar en las profundidades{format reset} de la mina?	Speaker=Dorothy
+conversation_p0ntw5_text	¡Por supuesto! Solo muéstreme si su {format highlight}linterna funciona{format reset} correctamente y le abriré la escotilla.	Speaker=Coral Armstrong
+conversation_wphcux_text	Muéstreme por favor si su {format highlight}linterna funciona{format reset} correctamente y le permitiré entrar en la mina.	Speaker=Coral Armstrong
+conversation_f36o1k_text	Me parece que el sistema de tubos la llevará a la ciudad más rápido que si hace el trayecto a pie.	Speaker=Coral Armstrong Notes=*new* expanded this as I removed the full text that was used before. It was repatative.
+conversation_ih3zjl_text	Tenías razón, el Pasaje de la Roca Rojiza está cerrado.	Speaker=Dorothy
+conversation_lynw1k_text	No me extraña.	Speaker=Coral Armstrong
+conversation_arg7cq_text	Aunque me parece que podrá abrirse paso con algún explosivo.	Speaker=Coral Armstrong
+conversation_94selp_text	Me parece que la Roca Rojiza quedará despejada con una buena explosión.	Speaker=Coral Armstrong
+conversation_pl5kjt_text	Apuesto a que el alcalde querrá saber si despeja la Roca Rojiza.	Speaker=Coral Armstrong
+conversation_d3sb26_text	He visto muchas criaturas en las minas, pero ninguna es tan peligrosa y caprichosa como los licoreros.	Speaker=Coral Armstrong Notes=Shiners are cave dwelling human decendants.
+conversation_a458ae_text	La guerra tuvo lugar antes de que me ensamblaran, pero he tenido mis riñas con esos palurdos.	Speaker=Coral Armstrong Notes=A long time ago there was a war between humans and steambots that eventually drove humanity under ground.
+conversation_t6mrk7_text	No vale la pena hablar con ellos, es mejor golpearlos lo más rápido posible.	Speaker=Coral Armstrong
+conversation_pygh76_text	Parece un poco salvaje, pero es mejor no arriesgar.	Speaker=Coral Armstrong
+conversation_xgdjhu_text	Menos mal que construyeron ese muro después de la guerra.	Speaker=Coral Armstrong
+conversation_ujn89n_text	Tal vez esos malditos licoreros eran distintos hace mucho tiempo.	Speaker=Coral Armstrong
+conversation_nd5hoz_text	Pero ahora no son más que unos mutantes que causan terremotos.	Speaker=Coral Armstrong Notes=Quake makers, as in earth quake. He's blaming the frequent earthquakes on the shiners.
+conversation_5xd7xt_text	Supongo que nunca se podrá confiar realmente en un mutante.	Speaker=Coral Armstrong
+conversation_y6jyvf_text	¿Se ha encontrado con alguno de esos sectarios en sus descabellados peregrinajes?	Speaker=Coral Armstrong
+conversation_1tzeuc_text	A veces cruzan por las minas cuando van de templo en templo.	Speaker=Coral Armstrong
+conversation_147ntm_text	Suelen tomar el camino desierto a través de las Llanuras Ventosas.	Speaker=Coral Armstrong
+conversation_f34oeg_text	No tengo nada en contra de esos sectarios, me siento un poco menos solo cuando los veo pasar por aquí.	Speaker=Coral Armstrong
+conversation_l509g4_text	Me sorprende ver que haya alcanzado tal profundidad.	Speaker=Coral Armstrong
+conversation_lbobkd_text	Pero no se descuide, he oído historias sobre ciertos peligros que los ciudadanos comunes desconocen.	Speaker=Coral Armstrong Notes=*format*
+conversation_alemgw_text	Asegúrese de tener siempre una vía de escape. Un túnel sin salida no es más que un gran sarcófago.	Speaker=Coral Armstrong
+conversation_51bz8w_text	Le vendría bien {format emph}recordarlo{format reset} y asegurarse de tener una armadura adecuada.	Speaker=Coral Armstrong
+conversation_e9lgr6_text	Esté alerta y mantenga su equipo en buen estado, es el mejor consejo que le puedo ofrecer.	Speaker=Coral Armstrong
+conversation_19pnkh_text	Dicen que los hermanos Yonker han visto una extraña selva creciendo en las minas.	Speaker=Coral Armstrong
+conversation_205qqo_text	Dicen que se está expandiendo, pero nunca la dejaré acercarse a la ciudad.	Speaker=Coral Armstrong
+conversation_59fokz_text	Por si acaso, voy a invertir en una buena hacha. Vale la pena porque es una herramienta multiuso.	Speaker=Coral Armstrong
+conversation_vwt53j_text	Da miedo pensar que una selva ha aparecido de la nada, así como así.	Speaker=Coral Armstrong
+conversation_1re540_text	Admito que he estado un poco preocupado después del último terremoto.	Speaker=Coral Armstrong
+conversation_25kyco_text	Me parece que se vuelven cada vez más fuertes. Pero le aseguro que no abandonaré mi puesto.	Speaker=Coral Armstrong
+conversation_e0zgh7_text	Hay mucha gente que se puede lastimar si nadie los protege del peligro.	Speaker=Coral Armstrong
+conversation_jkptm2_text	En mi corazón no hay sitio para el miedo, solo para el deber. Estoy lleno de deber.	Speaker=Coral Armstrong
+conversation_4niz25_text	{format highlight}Cuide su linterna{format reset}, no querrá quedarse a oscuras allí abajo.	Speaker=Coral Armstrong
+conversation_aex9as_text	Si mengua, regrese y {format highlight}reposte aquí arriba{format reset}.	Speaker=Coral Armstrong
+conversation_dmvx8z_text	Las minas no son el lugar más seguro del mundo, es mejor que su equipo esté a punto.	Speaker=Coral Armstrong
+
+# welcome_to_el_machino
+conversation_uimryl_text	¡Calma, gente, calma!	Speaker=Mayor Mic Yonker
+conversation_31d0sd_text	En realidad, es difícil mantener la calma con estos {format nervous}terremotos{format reset}.	Speaker=Professor Sherman Notes=*new*
+conversation_4njhbf_text	Ya te lo he dicho, ¡mi sismógrafo me da lecturas muy extrañas!	Speaker=Professor Sherman
+conversation_l4n0br_text	Hay muchas otras cosas más importantes que resolver, por ejemplo, conseguir más minerales.	Speaker=Mayor Mic Yonker
+conversation_dzl3uz_text	¡Eres un idiota! ¿Por qué no quieres escuchar a los expertos?	Speaker=Ma Yonker
+conversation_7blj3t_text	"¡Mamá, por favor! Estos ""expertos"" y sus ""datos""... no son capaces de ver lo importante."	Speaker=Mayor Mic Yonker
+conversation_lwjidu_text	¿Y qué me dices de ese {format emph}minero con una bufanda roja{format reset} que nunca logró salir de ahí?	Speaker=Ma Yonker
+conversation_jije2r_text	Ya he contratado a un guardia para que evite que desaparezcan más bots.	Speaker=Mayor Mic Yonker
+conversation_jhc64p_text	Bueno, bueno. Mantengamos la mente fría y recordemos que la oficina del alcalde no es responsable de estas cosas.	Speaker=Mayor Mic Yonker Notes=*new*
+conversation_njlyi9_text	¡Idiota!	Speaker=Ma Yonker Notes=*new*
+
+# report_to_mayor_pressurebomb
+conversation_xqrxw3_text	{format laugh}¡Je, je, je! ¡Bum!{format reset} Hagámoslo de nuevo.	Speaker=Fen
+conversation_y6g3s7_text	Estas bombas nos serán muy útiles. Pueden alcanzar zonas a las que no llegaría con la pica.	Speaker=Dorothy
+conversation_c5us81_text	Creo que debo ir a {format highlight}y hablar con el alcalde{format reset} para decirle que el pasaje está abierto.	Speaker=Dorothy
+
+# guard_open_hatch
+conversation_ig8tga_text	Con el tiempo, la gente empezó a excavar túneles de nuevo.	Speaker=Coral Armstrong Notes=*new*
+conversation_3li9iu_text	Por fin tengo una buena pista para encontrar a Rusty.	Speaker=Dorothy
+conversation_ti9ln5_text	Supongo que su colega debió de pasar por el Pasaje de la Roca Rojiza en algún momento.	Speaker=Coral Armstrong Notes=*new*
+conversation_60et06_text	Los mineros solían usar el sistema de tubos neumáticos para moverse por las minas.	Speaker=Coral Armstrong
+conversation_cix8sl_text	Pero quedó bloqueado después de un terremoto. Lo mejor sería {format highlight}despejarlo{format reset} primero.	Speaker=Coral Armstrong
+conversation_h47l73_text	¿Y si abro la escotilla y te dejo bajar?	Speaker=Coral Armstrong Notes=*new*
+
+# buddy_need_light
+conversation_q6n8pp_text	Está oscureciendo. Casi no puedo ver nada a pesar de estar hecho de luz.	Speaker=Fen
+conversation_1dc723_text	{format highlight}Regresa a la ciudad{format reset} y reposta tu linterna, así no nos perderemos aquí.	Speaker=Fen Notes=The player has a light source that diminish over time. When the player goes back up to town it replenishes.
+
+# fen_cave_in
+conversation_ytvst4_text	Este debe de ser el Pasaje de la Roca Rojiza. Está bloqueado.	Speaker=Dorothy
+conversation_ac4a61_text	Si tienes explosivos puedes volar en mil pedazos estos escombros rápidamente.	Speaker=Fen Notes=*format*
+conversation_f2qhr1_text	¡No es mala idea! Debería regresar a la ciudad y preguntar.	Speaker=Dorothy
+conversation_8j9cex_text	{format laugh}¡Sí, explosivos!{format reset} Tal vez hasta vuelen algunas de tus partes...	Speaker=Fen
+conversation_0g7tly_text	¡Silencio Mejor despejemos ese tubo neumático, ¿de acuerdo?	Speaker=Dorothy Notes=*format*
+conversation_n67xrl_text	Este debe de ser el Pasaje de la Roca Rojiza. Está completamente bloqueado.	Speaker=Dorothy
+conversation_1kwj0v_text	Podrías usar bombas para despejarlo.	Speaker=Fen Notes=*format*
+conversation_661ekz_text	No debería alentar tus deseos de destrucción, pero no es mala idea.	Speaker=Dorothy Notes=*format*
+conversation_xdrduu_text	{format laugh}¡Sí, explosivos!{format reset} ¡Tal vez hasta vuelen algunas de tus partes!	Speaker=Fen
+conversation_6c0vsm_text	¡Silencio! Primero vamos a intentar despejar ese tubo neumático, ¿de acuerdo?	Speaker=Dorothy Notes=*format*
+
+# mechanic
+conversation_h5wj1m_text	Eh, no quiero molestar... pero estos {format nervous}terremotos{format reset} me dan bastante miedo.	Speaker=Turtle Bucket Notes=Very nervous person
+conversation_o86kfe_text	Aunque... si fuera realmente serio, el alcalde estaría más preocupado.	Speaker=Turtle Bucket
+conversation_o2oiou_text	El alcalde ha dicho que estos {format nervous}terremotos{format reset} no son nada importante, así que, bueno... supongo que será verdad.	Speaker=Turtle Bucket
+conversation_h7ppy6_text	Hm, hola...	Speaker=Turtle Bucket
+conversation_kg1mo1_text	Vaya, veo que has roto tu fuente de luz.	Speaker=Turtle Bucket Notes=*new* The light source is set in the middle of the chest.
+conversation_q3my9j_text	Si fuera tú, hmm... no andaría por ahí a oscuras, especialmente con todo este {format nervous}estruendo{format reset} por todos lados.	Speaker=Turtle Bucket
+conversation_ltmso8_text	Así que, bueno... si vas a entrar en la mina es mejor que antes, eh... {format highlight}repares tu linterna{format reset}.	Speaker=Turtle Bucket
+conversation_9zjn4q_text	Puedes usar mi mesa de trabajo... si quieres.	Speaker=Turtle Bucket Notes=Workbench
+conversation_izda31_text	Puedes {format highlight}reparar tu linterna{format reset} en mi mesa de trabajo... si quieres.	Speaker=Turtle Bucket
+conversation_649j7z_text	Y... por cierto, me gustan tus botas.	Speaker=Turtle Bucket Notes=Dorothys speed boots.
+conversation_fjqq9f_text	¿De verdad? Las he mejorado en una máquina cuando estaba bajo el desierto.	Speaker=Dorothy
+conversation_v3f2hn_text	Seguro que el... a ver... mecanismo hidráulico de esprint las hace mucho más veloces.	Speaker=Turtle Bucket
+conversation_qnv8df_text	Esas máquinas de equipo de las minas son estupendas, ¿verdad?	Speaker=Turtle Bucket
+conversation_f9qput_text	Hmm... de acuerdo. Bueno, hay en todas las minas.	Speaker=Turtle Bucket
+conversation_ji4atj_text	Mm, son muy, pero que {format emph}muy viejas{format reset}. No sabemos quién las construyó, pero son muy útiles.	Speaker=Turtle Bucket
+conversation_kn7n3g_text	Los bots mineros han construido estaciones mineras alrededor de las máquinas desde hace mucho tiempo.	Speaker=Turtle Bucket
+conversation_w8uqp5_text	Sabemos dónde se encuentran varias de ellas, pero, bueno, las minas son mucho {format emph}más grandes{format reset} que la pequeña parte en la que trabajamos.	Speaker=Turtle Bucket
+conversation_m5pbwk_text	He leído sobre otras estaciones llenas de genial equipamiento, que se encuentran escondidas en, eh..., las partes desconocidas y más profundas de las minas.	Speaker=Turtle Bucket Notes=*format*
+conversation_wad1be_text	Sí, claro... por supuesto.	Speaker=Turtle Bucket
+conversation_apkmkg_text	¡Genial! ¡Has encontrado un lanzador de bombas de presión!	Speaker=Turtle Bucket Notes=*format*
+conversation_qjmh35_text	Su diseño de succión triple hace que todo fluya {format singsong}suavemente{format reset} a través del tubo del sifón.	Speaker=Turtle Bucket Notes=This is techno jibberish, feel free to make up new stuff.
+conversation_ua28gp_text	Dispara proyectiles autoadhesivos que se pegan a cualquier superficie antes de explotar.	Speaker=Turtle Bucket
+conversation_saczrj_text	¡Seguro que salpica! Je, je, je...	Speaker=Turtle Bucket Notes=*format* The pressure bomb works with water.
+conversation_tz9y1l_text	Hm... lo siento. Me he, ejem, emocionado un poco.	Speaker=Turtle Bucket
+conversation_yxae4k_text	Vaya, eh... veo que has logrado pasar por la estación de mampostero.	Speaker=Turtle Bucket
+conversation_rz6lrl_text	Ese martillo dará un gran golpe y romperá hasta las secciones más duras del ladrillo.	Speaker=Turtle Bucket Notes=*format* The upgrade is a mechanical fist that works like a jack hammer.
+conversation_art1sv_text	Podrás explorar el otro lado del muro sin problemas.	Speaker=Turtle Bucket Notes=*new*
+conversation_1ghl26_text	Además, ¡tiene una fuente de combustible mejorable y todo!	Speaker=Turtle Bucket
+conversation_a315z5_text	Un cilindro neumático más fuerte te ayudará a aumentar la velocidad máxima de funcionamiento...	Speaker=Turtle Bucket
+conversation_lyy59m_text	Bueno, es decir, tiene mucho potencial, sí, solo eso.	Speaker=Turtle Bucket
+conversation_ornloo_text	{format singsong}¡Vaya!{format reset} ¡Creía que la estación de espeleología estaba desaparecida! 	"Speaker=Turtle Bucket Notes=See ""Spelunker Station"" in other document"
+conversation_uo7wrd_text	¡Pero has logrado encontrar el viejo gancho!	Speaker=Turtle Bucket Notes=The hook shot look like a grapling hook and is shot out of your arm
+conversation_4x94pz_text	Esta cosa te permite pasar volando por la mina como {format emph}nunca{format reset} lo has imaginado.	"Speaker=Turtle Bucket Notes=""zip"" as in fly or move fast"
+conversation_wt4pay_text	¡Ahora podrás explorar casi todos los rincones y rendijas!	Speaker=Turtle Bucket Notes=*new*
+conversation_jc96m9_text	Estas minas están llenas de secretos ocultos que esperan ser descubiertos.	Speaker=Turtle Bucket Notes=*new*
+conversation_xxorzf_text	{format singsong}¡GENIAL!{format reset} ¿Es eso lo que estoy pensando?	Speaker=Turtle Bucket
+conversation_h0sfna_text	¿Cómo demonios has conseguido una pica de fuego?	Speaker=Turtle Bucket Notes=It's a falaming Pick Axe
+conversation_4p03fk_text	Oh, apuesto a que estaba escondida en el templo del este.	Speaker=Turtle Bucket
+conversation_7shcmp_text	He leído sobre ella en una de mis revistas de herramientas. La posibilidad de que aún exista... ¡{format emph}No me lo puedo creer{format reset}!	Speaker=Turtle Bucket
+conversation_9e6rbj_text	Sí, bueno... es genial.	Speaker=Turtle Bucket
+conversation_8x0zgn_text	¡¿Qué?! ¡No me lo creo! ¿Has estado en la estación aeronáutica?!	Speaker=Turtle Bucket Notes=*format* see Aeronaut Station in the other document
+conversation_gqdbky_text	Se supone que ese lugar está enterrado muy profundo bajo las partes más modernas de la mina.	Speaker=Turtle Bucket
+conversation_34ele3_text	Nunca pensé que viviría para ver un propulsor de verdad.	Speaker=Turtle Bucket
+conversation_vr5wop_text	¡Esto es increíble!	Speaker=Turtle Bucket
+conversation_0czv1r_text	Esta cosa te permite viajar por todos los lugares de la mina. Puedes explorar lugares que no tuviste oportunidad de visitar antes por medios convencionales.	Speaker=Turtle Bucket Notes=*new* just hammering home that the world is more open at this point.
+conversation_2bpv40_text	La mina es tu ostra, ¡así que échale un poco de salsa y trágatela de un tirón!	"Speaker=Turtle Bucket Notes=*new* as in the old saying ""the world is your oyster"""
+conversation_6c8k38_text	Apuesto a que puedo crear algunas mejoras geniales para esto... Bueno, si quieres que lo haga...	Speaker=Turtle Bucket
+conversation_kddst5_text	Mm, esa selva en la mina... todo el mundo está hablando del tema.	Speaker=Turtle Bucket Notes=This is in refferal to location: Yarrow, a mysterious subteranian mushroom jungle full of dangers.
+conversation_1ibifo_text	Espero que no llegue hasta aquí. Hm..., no me gusta nada acercarme a esos horribles cactus.	Speaker=Turtle Bucket Notes=*format*
+conversation_qxg2dp_text	Apuesto a que, si tuvieras una buena podadora, bueno... podrías cortar esas plantas en pedazos.	Speaker=Turtle Bucket
+conversation_jn0ayb_text	Lástima que no haya viejas estaciones mineras con algo parecido...	Speaker=Turtle Bucket
+conversation_evptsm_text	Bueno, espero que esas {format nervous}plantas tan raras{format reset} no lleguen hasta la ciudad.	Speaker=Turtle Bucket
+conversation_d2k8hv_text	Mm, no me gusta molestar a la profesora...	Speaker=Turtle Bucket
+conversation_zfm1c4_text	Pero quizá le pueda pedir que me permita echar un vistazo dentro del cohete, ahora que está completo.	Speaker=Turtle Bucket Notes=The rocket is a space rocket.
+conversation_js74jz_text	Está genial, ¿no crees?	Speaker=Turtle Bucket
+conversation_bufmli_text	Mm, me muero de ganas de echarle un vistazo a ese cohete...	Speaker=Turtle Bucket
+conversation_yxbbjn_text	¡Los cohetes son de lo mejor!	Speaker=Turtle Bucket
+conversation_1ovqzn_text	Puedes reparar o mejorar tu equipo en mi mesa de trabajo cuando... cuando quieras.	Speaker=Turtle Bucket Notes=*new* rephrased this line to work in more situations.
+
+# fen_cave_in_bomb
+conversation_4dhtk4_text	Bueno, pues reventemos esta cosa en {format singsong}mil pedazos{format reset}.	Speaker=Fen
+conversation_eff23g_text	En serio, necesitas hablar con alguien sobre tus ansias de destrucción.	Speaker=Dorothy
+conversation_oxrw0l_text	Exacto, por eso lo estoy hablando contigo justo ahora. Es más, ¿cuándo NO hablo sobre mis ansias de destrucción?	Speaker=Fen Notes=*format*
+conversation_nmb2rq_text	Cierto...	Speaker=Dorothy
+
+# buddy_reminder_use_cogs
+conversation_t0dmfu_text	¿Por qué sigues acumulando todos los engranajes {image cogs_small} que vas encontrando cual diógenes-bot?	Speaker=Fen Notes=*new* This message is shown when the player have unused upgrade-cogs.
+conversation_w2gq2j_text	¡Usa algunos de ellos en la mesa de trabajo!	Speaker=Fen Notes=*new*
+
+# rosie
+conversation_enxhfq_text	¡Guau! ¡Este lugar ya es otra cosa!	Speaker=Dorothy Notes=*format* *new* rephrased this line
+conversation_dsse8r_text	Gracias. He construido este oasis para mi gente, ¡para protegerlos!	Speaker=Rosie
+conversation_fu699v_text	Mientras los pueda mantener contentos y tranquilos, se quedarán aquí, seguros.	Speaker=Rosie
+conversation_hx3qqt_text	Al menos esa era nuestra vida, hasta que tu amigo vino a incordiar con esos terremotos.	Speaker=Rosie Notes=*format*
+conversation_6o8eta_text	¿Por qué haría Rusty algo así? {format emph}Arriesgó su vida{format reset} para salvarnos a todos de Vectron.	Speaker=Dorothy
+conversation_x9aify_text	¿Realmente lo conocías tan bien? ¿Y si su lucha contra esa bestia chispeante lo cambió?	Speaker=Rosie
+conversation_y8f4q2_text	Es lo que hace Vectron... {format nervous}Te cambia.{format reset}	Speaker=Fen
+conversation_qjs5hn_text	Vino aquí y me dijo que derrumbaría la mina sobre nuestras cabezas. Fue difícil detenerlo.	Speaker=Rosie
+conversation_mbjnhf_text	Lo siento, no puedo... Si tan solo pudiera encontrarlo... hablar con él...	Speaker=Dorothy
+conversation_7sza3z_text	Eres leal, lo entiendo, pero si encuentras el origen de estos terremotos, lo verás por ti misma.	Speaker=Rosie
+conversation_hihmd6_text	Quizá puedas detener estos terremotos. Entonces, te {format emph}ayudaré {format reset} en todo lo que pueda!	Speaker=Rosie Notes=*new* rephrasing and added an emphasis
+conversation_47pkq7_text	{format highlight}Ve a la estación minera{format reset} que uso como almacén. La vieja máquina de herramientas puede serte de utilidad.	Speaker=Rosie Notes=*new* added a bit at the end to this one.
+conversation_m6cj0e_text	{format highlight}Ve a la estación minera{format reset} y toma todo lo que necesites.	Speaker=Rosie
+conversation_4vzxih_text	Me alegro de que hayas encontrado algo útil en mi almacén. ¡Pareces preparada!	Speaker=Rosie
+conversation_f1jnf5_text	Ahora solo necesito que encuentres el origen de estos terremotos y que los detengas.	Speaker=Rosie
+conversation_ln5j60_text	¡Ayúdame a mantener a los míos a salvo! Estoy haciendo todo lo que puedo para que me hagan caso.	Speaker=Rosie
+conversation_u5463y_text	No sé nada más sobre esos terremotos, pero, ¿quizá puedas {format highlight}encontrar a un listobot{format reset} en la superficie que sí sepa?	Speaker=Rosie
+conversation_dohwhw_text	Quizá, ¡y entonces podré descubrir por fin dónde está Rusty!	Speaker=Dorothy
+conversation_77fdqq_text	{format highlight}Encuentra a un listobot{format reset} en la superficie.	Speaker=Rosie
+conversation_0jmccn_text	Tal vez te puedan indicar la zona de origen de los terremotos.	Speaker=Rosie
+conversation_xpdrbe_text	He descubierto que el último terremoto se originó en el templo del este.	Speaker=Dorothy
+conversation_oqlaq7_text	La secta apocalíptica que está allí solo adora la destrucción.	Speaker=Rosie
+conversation_1kkqf6_text	Sí, conozco a esos tipos.	Speaker=Fen
+conversation_v0wzpo_text	Seguramente protegerán cualquier cosa que se relacione con los terremotos.	Speaker=Rosie
+conversation_nytcr5_text	Tienes que {format highlight}investigar en el templo{format reset} para encontrar el origen de los terremotos.	Speaker=Rosie
+conversation_x2gmu8_text	Tienes que {format highlight}investigar en el templo{format reset} para encontrar el origen de los terremotos.	Speaker=Rosie
+conversation_ly3hpt_text	Tenías razón, Rosie. {format highlight}Rusty está metido{format reset} en todo esto.	Speaker=Dorothy
+conversation_mp86jk_text	Así que ya lo sabes... {format emph}¡Es malvado!{format reset}	Speaker=Rosie
+conversation_26ewef_text	Ha construido una especie de generador apocalíptico que causa esos terremotos.	Speaker=Dorothy
+conversation_r154n3_text	¡Debes {format highlight}destruir esa máquina!{format reset} Quiero que mi gente esté a salvo, pero esa cosa es un gran peligro para todos.	Speaker=Rosie
+conversation_mlv5kh_text	¿A qué esperas? ¡Hay mucho que destruir!	Speaker=Fen Notes=*format*
+conversation_607awg_text	Tienes la oportunidad de detener los terremotos. {format highlight}¡Destruye ese generador apocalíptico!{format reset}	Speaker=Rosie
+conversation_ck3lck_text	Hemos logrado desactivar el cacharro que estaba causando los terremotos.	Speaker=Dorothy Notes=*new*
+conversation_kd9cyi_text	¡Excelente! ¡Lo has logrado!	Speaker=Rosie Notes=*format*
+conversation_mw42bj_text	¡Sí, lo hemos logrado!	Speaker=Fen
+conversation_3beotd_text	Ni rastro de Rusty, sin embargo...	Speaker=Dorothy
+conversation_akywya_text	Hm... Si eso que llamas Vectron lo ha cambiado, ¿quizás siga allí abajo entre sus restos?	Speaker=Rosie Notes=*new*
+conversation_rwy0gr_text	Ese generador apocalíptico {format emph}fue{format reset} parcialmente construido con la tecnología de Vectron...	Speaker=Dorothy
+conversation_ucjkci_text	¡Oh no, ya sé lo que estás pensando! ¡No quiero {format nervous}regresar allí abajo!{format reset}	Speaker=Fen
+conversation_7irted_text	No tienes ni idea de lo que hay allí. No sabes lo que es no tener control ni voluntad.	Speaker=Fen
+conversation_21ym6y_text	Ya he llegado muy lejos... No puedo detenerme ahora. Al menos muéstrame la entrada, Fen...	Speaker=Dorothy
+conversation_oredyt_text	¿Para qué? ¿Por qué mejor no nos vamos a destruir cosas a otro lugar?	Speaker=Fen Notes=*format*
+conversation_tc3nlv_text	Rusty neutralizó a Vectron. Nos salvó a todos...	Speaker=Dorothy Notes=*new* removed Dot's explicit reason being loyalty and pushing Rusty.
+conversation_0xyfid_text	...	Speaker=Fen
+conversation_uvs1vb_text	Te llevaré hasta allí. Pero si {format highlight}entras en Vectron{format reset}, lo harás tú sola.	Speaker=Fen
+conversation_pq0jjj_text	Si quieres encontrar a Rusty, tendrás que {format highlight}entrar en Vectron{format reset}.	Speaker=Rosie
+conversation_vcgjsk_text	¿Por qué mejor no nos vamos a destruir cosas a otro lugar?	Speaker=Fen
+conversation_3bw741_text	Has {format emph}vuelto{format reset}...	Speaker=Rosie
+conversation_6r8y8d_text	Sí. Y no encontré ni rastro de Rusty.	Speaker=Dorothy Notes=*new*
+conversation_jdhos3_text	Pero hemos averiguado que hay {format emph}más generadores apocalípticos{format reset} ahí fuera.	Speaker=Fen
+conversation_hlfgz1_text	¡Por supuesto! Es demasiado inteligente para poner todos sus huevos en una sola canasta.	Speaker=Rosie
+conversation_kix6a6_text	Lo que has hecho hasta ahora no será suficiente. ¡Tienes que {format emph}encontrarlos{format reset} todos! Nadie estará seguro hasta que lo hagas.	Speaker=Rosie
+conversation_58f8ga_text	Dorothy... Ya sé dónde están. Sentí claramente el poder que fluye a través de ellos.	"Speaker=Fen Notes=*new* added ""Dorothy"""
+conversation_diuokv_text	Uno está en {format emph}el templo donde me encontraste.{format reset}	Speaker=Fen
+conversation_5npqb6_text	El segundo está en esa extraña {format emph}jungla subterránea{format reset} por la que pasamos.	Speaker=Fen Notes=*new*
+conversation_3v2hek_text	Por último, hay otro dentro del {format emph}Templo del Destructor{format reset}.	Speaker=Fen Notes=*new*
+conversation_k5nk0l_text	Perfecto, ¡vayamos pues {format highlight}a destruir esas máquinas{format reset}!	"Speaker=Dorothy Notes=*new* added ""then"" moved the line"
+conversation_1alf3v_text	Las minas son enormes, con montones de secretos y peligros. Quizás el camino directo no sea el más adecuado.	Speaker=Rosie Notes=*new*
+conversation_b6r8b9_text	Este propulsor que he encontrado nos hará la búsqueda más fácil.	Speaker=Dorothy Notes=*new* made where ever one word; new line about Fen commenting on the fact that the world is more open now that you've got the jet engine.
+conversation_p2pe6o_text	Sí, podemos recorrer el lugar desenterrando secretos y preparándonos para la destrucción. ¡Venga, adelante!	Speaker=Fen Notes=*new*
+conversation_jglhmm_text	Tienes que encontrar y {format highlight}destruir los últimos generadores{format reset}.	Speaker=Rosie Notes=*new*
+conversation_mqmqfa_text	Ya has estado en los templos y el equipo que has obtenido debería bastarte para continuar explorando.	Speaker=Rosie Notes=*new*
+conversation_v81wm2_text	En cualquier caso, no sé demasiadas cosas sobre esa jungla misteriosa.	Speaker=Rosie
+conversation_ckclse_text	Hemos destruido otra de las máquinas de Rusty.	Speaker=Dorothy
+conversation_wzvouk_text	{format laugh}¡Sí, ha sido genial!{format reset}	Speaker=Fen
+conversation_yb1vmx_text	Ha sido muy astuto de su parte el esconderlas por toda la mina.	Speaker=Rosie
+conversation_hw5xmd_text	No será nada fácil encontrar el resto, aun si sabes dónde están.	Speaker=Rosie
+conversation_oeqkzs_text	Quisiera poder ayudarte más, pero necesito mantener a mi gente a salvo.	Speaker=Rosie
+conversation_1wlu3i_text	Creo que algunos se están preparando para volver a la mina.	Speaker=Rosie
+conversation_y85nbk_text	¡Bueno, pues vamos {format highlight}a destruir el resto de los generadores{format reset}!	Speaker=Fen
+conversation_o9wzoz_text	Espero que encontréis a ese amigo vuestro pronto y que lo detengáis de una vez por todas.	Speaker=Rosie Notes=*new*
+conversation_g8unqh_text	{format highlight}Destruye todas las máquinas restantes{format reset}, por favor. No sé cuánto tiempo más podré mantener a mi gente a salvo aquí.	Speaker=Rosie
+conversation_hinklt_text	¿Has sentido el terremoto que hubo después de que destruyéramos la máquina?	Speaker=Dorothy
+conversation_7bjdrx_text	Sí, fue difícil calmar a mi gente. Estaban fuera de sí por el temblor.	Speaker=Rosie
+conversation_ot1xb4_text	Aún no los he contado. Espero que todos sigan aquí.	Speaker=Rosie
+conversation_8vqdk5_text	Aún queda una máquina de la que tenéis que ocuparos.	"Speaker=Dorothy Notes=*new* removed a ""yes"""
+conversation_1t4jq7_text	Todos estaremos mucho más seguros cuando esas máquinas apocalípticas sean destruidas.	Speaker=Rosie
+conversation_5hrt2a_text	{format highlight}Destruye la última máquina{format reset}, por favor. ¡No estaremos seguros hasta que desaparezcan todas!	Speaker=Rosie
+conversation_2jw2v2_text	No te pareces nada a los de tu especie.	Speaker=Rosie
+conversation_pf575r_text	Nunca pensé que conocería a un steambot que me agradase.	Speaker=Rosie
+
+# used_teleporter
+conversation_tb8lha_text	¡Oye! ¡No he autorizado que se abran esos tubos!	Speaker=Mayor Mic Yonker
+conversation_c3vudp_text	¡Cierra el pico, hijo! Los tubos son el mejor medio de transporte en la mina.	Speaker=Ma Yonker
+conversation_of6kl3_text	El Pasaje de la Roca Rojiza está totalmente derrumbado debido a los terremotos.	Speaker=Dorothy Notes=*format*
+conversation_p4u169_text	No puedes probar que es por los terremotos. ¡Podría ser por cualquier otra cosa!	Speaker=Mayor Mic Yonker
+conversation_wr7t16_text	No importa, de todos modos necesito explosivos para despejarlo.	Speaker=Dorothy
+conversation_ljkhuj_text	Apuesto a que puedes {format highlight}encontrar explosivos{format reset} en la estación de bombas.	Speaker=Ma Yonker
+conversation_kf7hxd_text	Simplemente tienes que dirigirte hacia el este cuando vuelvas a descender y la encontrarás.	Speaker=Ma Yonker Notes=*new*
+conversation_fsgerc_text	De todas formas, creo que usaré explosivos para despejarlo.	Speaker=Dorothy
+conversation_atnqc9_text	Vaya, alguien ha ido a la estación de bombas. ¡Ve y {format highlight}despeja ese pasaje{format reset}, cariño!	Speaker=Ma Yonker
+
+# hub_guard_hurt
+conversation_7mti7b_text	{format nervous}¡AY!{format reset}	Speaker=Schwifty Shawn
+
+# hub_guard_woke
+conversation_bg1gtj_text	{format nervous}...eh?{format reset}	Speaker=Schwifty Shawn Notes=*new* changed a ) to a }
+
+# welcome_to_the_hub
+conversation_5yt2bx_text	¡Refuerzos! ¡Atrápenlos a ambos, antes de que se multipliquen!	Speaker=Fen
+conversation_0y97x7_text	Otro terremoto..., y otro bot violento. ¡Mantén la guardia, Shawn!	Speaker=Rosie
+conversation_swc23b_text	¿Puedes hablar?	Speaker=Dorothy
+conversation_sa7wlq_text	¿Por qué no podría hablar? ¿Alguna vez has {format emph}intentado{format reset} hablar con alguno de nosotros, robot?	Speaker=Rosie
+conversation_h9pnyw_text	Tienes razón, lo siento. No he venido a pelear, solo estoy buscando a mi amigo.	Speaker=Dorothy
+conversation_mkx6nq_text	¿Tu amigo es una tortuga marrón que parece una lata?	Speaker=Rosie
+conversation_jignph_text	¡Sí! ¿Lo has visto? ¿Qué ha pasado con él? ¿Dónde está?	Speaker=Dorothy
+conversation_ryszmg_text	Pues..., no debería dejar entrar a un steambot, pero tú pareces sincera.	Speaker=Rosie
+conversation_2r5k9z_text	Soy Rosie. Ven, {format highlight}hablemos dentro{format reset}. Te contaré todo lo que sé.	Speaker=Rosie
+
+# floaty
+conversation_ty7umo_text	Chssst.., ere' tan ruidosa como la Rosie.	Speaker=Cleo Johnson
+conversation_35muig_text	Chssst...	Speaker=Cleo Johnson
+conversation_trxx9s_text	Chssst..., que lo' va' a e'pantar...	Speaker=Cleo Johnson Notes=She has a fishing pole
+conversation_bcfgsy_text	No quiero ofenderte, pero no creo que ningún pez sobreviva en ese fango.	Speaker=Dorothy
+conversation_ufdh71_text	Pe'...., ¿qué pe'? Yo e'toy aquí bu'cando mi' zapato'. Lo' condena'o' me se siguen e'cabullendo.	Speaker=Cleo Johnson
+conversation_x3mdff_text	Cleo nece'ita uno' nuevo' zapatito'...	Speaker=Cleo Johnson
+conversation_6wq728_text	Zapatito'..., venid p'acá pa' protegerme lo' pinrele', pa que así pue'a salir por pata'	Speaker=Cleo Johnson Notes=*new* run offt is old 20's hillbilly-talk.
+conversation_vrn5ho_text	Estoy bien segura de que los zapatos no nadan...	Speaker=Dorothy
+conversation_syk9tk_text	Me pa'ece a mí que no tiene' muncha idea de zapato' tú.	Speaker=Cleo Johnson Notes=*new*
+conversation_ejlda7_text	¿Cómo narice' se m'abrán caí'o?	Speaker=Cleo Johnson Notes=*new*
+conversation_9ssddv_text	Cómo que los zapato' no nadan. C'aro que nadan.	Speaker=Cleo Johnson
+conversation_f5fe22_text	¿Has logrado atrapar tus zapatos?	Speaker=Dorothy
+conversation_uwbwbt_text	¡Foh! ¡Ar diablo con lo' zapato'! Lo único que tengo como un zapato e' la boca, me pa'ece que voy a empina' er codo un poquico.	"Speaker=Cleo Johnson Notes=*new* Speachimpediment: ""Dry mouf""=""dry mouth"""
+conversation_7dil67_text	Ese va a se' mi plan, me voy a ir d'aquí y que le den morcilla a lo' condenao' zapato'.	Speaker=Cleo Johnson
+conversation_e7vvqa_text	De acuerdo...	Speaker=Dorothy
+conversation_mkd1g9_text	Ere' bien tonta tú, lo mi'mo te pego un par de guantazo' pa' que deje' de decí' tontería'.	Speaker=Cleo Johnson Notes=You dumb bucket thing, Cleo should kick you before say more stupid things.
+conversation_7c453w_text	Noh vamoh a ir yendo, noh queda poco Fermento Luná'.	"Speaker=Cleo Johnson Notes=Pay attention to the translation of ""moon juice"""
+conversation_nny1i7_text	Cleo tiene se'.	Speaker=Cleo Johnson Notes=thursty
+conversation_atofqv_text	¡Aquí, zapatito', zapatito' mío'!	Speaker=Cleo Johnson
+
+# gran
+conversation_dk7b1d_text	¿La debilucha de m'hija ha dejao entrar a un robot de eso'? ¡Eh más tonta de lo que paece!	Speaker=Dynomyte Harriet
+conversation_0fdyik_text	¿Qué hace un pedazo de latón tan pequeñín como tú por aquí?	Speaker=Dynomyte Harriet
+conversation_xx02dp_text	Rosie me ha invitado a venir para hablar.	Speaker=Dorothy
+conversation_qvnh5f_text	La debilucha de m'hija siempre igua'. Tanto músculo y no pue' ni derrotá a una latita como tú.	Speaker=Dynomyte Harriet
+conversation_n9fykw_text	Vaya, qué poco amable.	Speaker=Dorothy
+conversation_mypcv4_text	¡Por algo tenemo' e'to' petardillo'!	Speaker=Dynomyte Harriet Notes=*new* rephrased. Boom sticks here are sticks of dynamite
+conversation_e6z5ja_text	Me gusta esta bola de carne.	Speaker=Fen
+conversation_3zke2l_text	¿Cuánto' petardillo' crees que necesito pa' reventá una lata como tú?	Speaker=Dynomyte Harriet
+conversation_a9cchj_text	No me gu'ta que las latas anden rondando por nuestro oasi'.	Speaker=Dynomyte Harriet
+conversation_9svalt_text	Rosie debió de'truirte en vez de dejarte entra'.	Speaker=Dynomyte Harriet
+conversation_3su3ui_text	¡Qué hermoso' eran eso' tiempo' cuando volábamo' en mil pe'azo' cualquie' cosa molesta que no' encontrábamo' en la' mina'!	Speaker=Dynomyte Harriet
+conversation_oza28i_text	¡Esta bola de carne se vuelve cada vez más interesante!	Speaker=Fen
+conversation_yrhik2_text	¡Ándate con cuida'o, latita!	Speaker=Dynomyte Harriet
+conversation_ihr9we_text	Estoy cansa' de anda' arrastrando mis sandalia' por aquí.	Speaker=Dynomyte Harriet
+conversation_agybew_text	Debería sali' y reventa' en mil pe'azos eso' terremoto' y esa selva tan rara.	Speaker=Dynomyte Harriet
+conversation_nvv14n_text	Güeno, voy a tomarme un vasico má' de Fermento Luna' y me largo.	Speaker=Dynomyte Harriet Notes=Pay attention to translation of Moon Juice
+conversation_ezltzc_text	¿Y si pongo uno' cuanto' petardillo' y lo' meto en un 'bujero pa asusta' a lo' terremoto'?	Speaker=Dynomyte Harriet
+conversation_2h242j_text	¡Fuera d'aquí! ¡No quiero malgasta' mi' petardillo' con u'tede'!	Speaker=Dynomyte Harriet
+
+# helpfulhelen
+conversation_146h2g_text	¡Apuñala-puñal-apuñala!	Speaker=Stabby Helen Notes=*format*
+conversation_w42y9y_text	¡Largo..., largo d'aquí..., maldita..., pe'azo de lata!	Speaker=Stabby Helen
+conversation_lbsxjr_text	No soy peligrosa, solo me preguntaba si...	Speaker=Dorothy
+conversation_76kde3_text	¡Apuñala-puñal-apuñala!	Speaker=Stabby Helen Notes=*format*
+conversation_nilvvh_text	¡De acuerdo..., me mantendré lejos!	Speaker=Dorothy
+conversation_nrvcc5_text	¡APUÑALA-PUÑAL-APUÑALA!	Speaker=Stabby Helen Notes=*new* removed all-caps
+conversation_na5ijp_text	Soy buenísima destruyendo cacharro', ¿lo sabías?	Speaker=Stabby Helen
+conversation_t4gyc9_text	Reventé a uno hará una semanilla.	Speaker=Stabby Helen
+conversation_8z4duw_text	Y yo no me hice ni un rasguño. Na' má' que tuve que recomponerme un brazo, ya ve' tú.	Speaker=Stabby Helen Notes=*new*
+conversation_68xyfp_text	Meno' mal que no fue mi brazo de apuñalar.	Speaker=Stabby Helen
+conversation_4tb6xl_text	¡Apuñala-puñal-apuñala!	Speaker=Stabby Helen Notes=*new*
+conversation_mfx4dl_text	Sí, estuve en una pelea de robots.	Speaker=Stabby Helen
+conversation_2z93th_text	A Rosie no le gusta que vaya a la' mina' para apuñala' cosa'.	"Speaker=Stabby Helen Notes=*new* removed ""That"""
+conversation_2r5nu3_text	Me parece bastante razonable.	Speaker=Dorothy
+conversation_10fkd9_text	¡Pero a mí me gu'ta muncho dar puñala'íca'!	Speaker=Stabby Helen
+conversation_sp7pdd_text	¡Apuñala-puñal-apuñala!	Speaker=Stabby Helen Notes=*format*
+conversation_6iq52s_text	Yatusabe', me gusta apuñala' cosa'.	Speaker=Stabby Helen
+conversation_1su49z_text	Sueño con ir a la' mina' y liarme allí a pega' puñalada' por todo' sitio'.	"Speaker=Stabby Helen Notes=*new* removed the last ""left"""
+conversation_azc2px_text	Vale...	Speaker=Dorothy
+conversation_14e8qj_text	¡Ya ve' tú!	Speaker=Stabby Helen Notes=*new* changed right to left
+conversation_cu3ase_text	¡Apuñala-puñal-apuñala!	Speaker=Stabby Helen Notes=*new*
+conversation_5wwgu9_text	¡Apuñala-puñal-apuñala!	Speaker=Stabby Helen Notes=*format*
+conversation_rnl3im_text	¡Lo único que quiero e' salir y usa' mi apuñalado'!	Speaker=Stabby Helen
+conversation_2kxxoa_text	¡Apuñala-puñal-apuñala!	Speaker=Stabby Helen Notes=*format*
+
+# sign_shiver
+conversation_iyd9iu_text	"""¡Precaución, terremotos! Para más información, póngase en contacto con el alcalde de El Machino""."	Speaker=Dorothy
+
+# sign_miners_wanted
+conversation_jn4gij_text	"""¡Se buscan mineros! ¡Sigue hacia el este hasta El Machino y extrae tu destino!""."	Speaker=Dorothy
+
+# fen_on_shiners
+conversation_04wf3d_text	Nunca he conocido a un licorero que hablara. Suelen estar un poco locos y ser peligrosos.	Speaker=Dorothy
+conversation_mlu9ml_text	Sí..., ¡qué decepción!	Speaker=Fen
+conversation_mcuc1c_text	Voy a {format highlight}hablar con Rosie{format reset}. Quizá ella sepa dónde está Rusty.	Speaker=Dorothy Notes=*new* removed and, added this
+
+# guarding_hub
+conversation_z2w2u3_text	¡O-o-o-oyeee! ¿A dónde crees que vas?	Speaker=Schwifty Shawn Notes=*format* *new* also removed the line break (\n}
+conversation_n2ebi3_text	¡Puaj! ¡Destruye esa cosa de inmediato!	Speaker=Fen
+conversation_kljpda_text	{format nervous}¡Demonios! ¡Otro terremoto!{format reset}	Speaker=Dorothy
+
+# dorothy_intro
+conversation_t7sxdc_text	¿A dónde has {format emph}ido{format reset}, Rusty?	Speaker=Dorothy
+
+# fen_vectron_teleporter_intro
+conversation_vmz2v5_text	Aquí está. La entrada a Vectron.	Speaker=Fen
+conversation_iupd4b_text	Bueno, ¿entramos en esa cosa?	Speaker=Dorothy Notes=*new*
+conversation_bbcmp1_text	Te lo dije, no voy a entrar {format emph}ahí{format reset}. No quiero...	Speaker=Fen Notes=*format* *new*'
+conversation_1rh2uj_text	Y aunque quisiera, no podría. No puedo entrar en un portal como {format emph}este{format reset}.	Speaker=Fen Notes=*new*
+conversation_pkxjfo_text	Pero te he prometido que {format emph}te{format reset} ayudaría a entrar...	Speaker=Fen
+conversation_emqhdd_text	Si existe la más mínima posibilidad de que Rusty esté ahí, tengo que entrar.	Speaker=Dorothy
+conversation_1rkegt_text	Entonces entra, supongo...	Speaker=Fen
+
+# fen_vectron_teleporter_ask
+conversation_qrn9qn_text	Ahí dentro estarás sola y no podrás usar mi mapa.	Speaker=Fen Notes=*new* moved here from fen_vectron_teleporter_bye
+conversation_sfgslu_text	Tendrás que orientarte sola.	Speaker=Fen Notes=*new* moved here from fen_vectron_teleporter_by
+conversation_j9uqnv_text	¿Estás segura de que quieres hacerlo?	Speaker=Fen
+conversation_69953l_text	De acuerdo...	Speaker=Fen Notes=*format* *new*
+conversation_yjswup_text	Allá vamos...	Speaker=Fen Notes=*new*
+conversation_uwxfmo_text	Sí, no seré {format emph}yo{format reset} quien trate de convencerte.	Speaker=Fen Notes=*new*
+
+# fen_vectron_teleporter_bye
+conversation_91l718_text	Te buscaré cuando salga.	Speaker=Dorothy
+conversation_vmzz9y_text	...	Speaker=vectron_teleporter
+conversation_u6n77q_text	Si ves movimiento ahí dentro, corre. Corre tan rápido como puedas...	Speaker=vectron_teleporter
+conversation_vctaoa_text	...	Speaker=Dorothy Notes=*new*
+
+# exiting_vectron_firsttime_01
+conversation_sp4sbx_text	¿Fen?	Speaker=Dorothy
+
+# exiting_vectron_firsttime_02
+conversation_rj6ww8_text	¡¿FEN?!	Speaker=Dorothy Notes=*format*
+conversation_ad0u27_text	¿Fen? Soy... Soy Fen.	"Speaker=vectron_teleporter Notes=*format* *new* shortened ""I am..."" to ""I..."" and emphasised the last ""Fen"""
+conversation_1ajm6u_text	¿Dorothy?	Speaker=vectron_teleporter
+
+# run_away_with_rusty_1
+conversation_wgoby1_text	¡RUSTY!	Speaker=Dorothy
+
+# rosie_boss_intro_01
+conversation_r5a8b8_text	¡¿RUSTY?!	Speaker=Dorothy
+
+# enter_endgame_teleporter_1
+conversation_pgjtz4_text	¡Vamos, Fen! ¡Tenemos que apresurarnos!	Speaker=Dorothy
+conversation_uzk2jn_text	Así es imposible que {format nervous}logremos volver{format reset} a la ciudad...	Speaker=Fen
+conversation_5rvneb_text	Pero sí puedo lograr que {format emph}ustedes dos{format reset} escapen a tiempo.	Speaker=Fen Notes=*new* changed the format to affect more words
+
+# sign_thehub
+conversation_32yflg_text	"""¡CERRADO! ¡VÁYANSE A CASA!"""	Speaker=Dorothy
+
+# fen_its_gonna_blow
+conversation_ghi2wb_text	Oye, ¡esta cosa se ha {format nervous}vuelto loca{format reset}!	Speaker=Fen
+conversation_8xsftw_text	¡Larguémonos de aquí! {format emph}¡Ahora!{format reset}	Speaker=Fen Notes=*new* changed formated text from highlight to emph
+
+# run_away_with_rusty_3
+conversation_4v2csa_text	¡El cohete de la profesora Sherman!	Speaker=Dorothy
+conversation_izxx5d_text	¡Tenemos que regresar a la ciudad ya mismo!	Speaker=Dorothy
+
+# easteregg_ending
+conversation_x1pswz_text	¡Vamos! {format emph}¡Apresúrate!{format reset}	Speaker=endgame_teleporter
+conversation_bfup2f_text	¡No queda tiempo para pensarlo dos veces!	Speaker=endgame_teleporter
+conversation_2ez9yy_text	¡Vamos!	Speaker=endgame_teleporter
+conversation_kuytvd_text	Ya está bien de hacerte pasar por heroína.	Speaker=endgame_teleporter
+
+# fen_ending_goodbye
+conversation_qsa1um_text	Nos vemos, Dot...	
+
+# rocketeer
+conversation_hwmfh6_text	Ojalá el alcalde Yonker atendiese a razones.	Speaker=Professor Sherman
+conversation_d0ozct_text	Pero no tiene sentido razonar con personas cuya supervivencia depende de que no entiendan nada.	Speaker=Professor Sherman
+conversation_bdyzc2_text	Hay algo muy extraño en esos terremotos.	Speaker=Professor Sherman
+conversation_tjv7fp_text	¡Vaya! ¡Qué cohete tan genial!	Speaker=Dorothy Notes=*new* changes since earlier version could be off in some instances.
+conversation_t09utv_text	Bueno, dado que el alcalde no tiene mucho interés en la ciencia últimamente, tenía que pensar en algún plan de contingencia.	Speaker=Professor Sherman Notes=*new* rephrased to work with new version of above line
+conversation_f7plgb_text	Verás, mi sismógrafo me indica que hay algo muy extraño en esos terremotos.	Speaker=Professor Sherman
+conversation_yhfxkq_text	Excavamos nuestra mina justo en una falla tectónica. ¡Con un terremoto intenso, todo esto se vendrá abajo!	Speaker=Professor Sherman
+conversation_k00t1f_text	Espero tener este cohete listo y funcionando antes de que sea demasiado tarde.	Speaker=Professor Sherman
+conversation_220si9_text	Hay que investigar más de cerca los nuevos terremotos. Nos estamos jugando prácticamente todo.	Speaker=Professor Sherman
+conversation_yd21lh_text	Bueno, en realidad son dos grandes placas tectónicas las que se juntan aquí, justo debajo de nosotros.	Speaker=Professor Sherman
+conversation_yhhdlm_text	Esta ciudad está construida en un pilar rocoso que apareció cuando estas placas chocaron hace millones de años.	Speaker=Professor Sherman
+conversation_jd18od_text	Guau...	Speaker=Dorothy
+conversation_ma515w_text	Estoy un poco preocupada por estos extraños patrones sísmicos.	Speaker=Professor Sherman
+conversation_rh627j_text	No son resultado de los movimientos naturales de la corteza terrestre.	Speaker=Professor Sherman
+conversation_8vxt9k_text	Si hay un gran terremoto, podría destruir toda la ciudad. O aún peor, ¡todo el planeta!	Speaker=Professor Sherman
+conversation_nid8rc_text	{format emph}¡Vaya!{format reset} Es mejor que me mantenga bien alerta.	Speaker=Dorothy
+conversation_gqcn63_text	¡Así se habla!	Speaker=Professor Sherman Notes=*format*
+conversation_q2vvjy_text	Sigo un poco preocupada por estos extraños patrones sísmicos.	Speaker=Professor Sherman
+conversation_46mop5_text	El muro protector en el fondo de la mina es toda una maravilla.	Speaker=Professor Sherman Notes=*format*
+conversation_k6sl9a_text	También había un muro justo debajo de mi pueblo, Tumbleton.	Speaker=Dorothy
+conversation_wb49hd_text	En realidad, es el mismo muro. ¡Ese muro se extiende miles de kilómetros!	Speaker=Professor Sherman
+conversation_prdn7m_text	Es la mayor estructura bot jamás creada. Si estuviera en la superficie, la podrías ver desde el espacio.	Speaker=Professor Sherman Notes=*format*
+conversation_0b17qr_text	Tantos ladrillos solo para que los licoreros no lleguen hasta aquí...	Speaker=Dorothy
+conversation_4s3zz6_text	Bueno, los licoreros, o {format emph}Homo devolvis{format reset}, son bastante ingeniosos si se trata de ciertos temas.	Speaker=Professor Sherman
+conversation_29dn85_text	Ese Fermento Lunar que han creado para soportar la vida en las profundidades es bastante especial...	Speaker=Professor Sherman Notes=*format*
+conversation_8na87z_text	Es un excelente mutágeno y muy adictivo, pero también es una rica fuente de energía.	Speaker=Professor Sherman Notes=*new* added a comma after mutagenic
+conversation_auy7u5_text	De hecho, intenté usarlo como combustible para el cohete en algunos experimentos previos, pero resultó ser demasiado inestable.	Speaker=Professor Sherman Notes=*format*
+conversation_0144bl_text	El muro protector es toda una maravilla.	Speaker=Professor Sherman
+conversation_vfvf68_text	¿Sabe algo sobre esas plantas que crecen en las cavernas?	Speaker=Dorothy
+conversation_n56yib_text	No soy bióloga, pero supongo que algunos tipos de hongos pueden sobrevivir en tales condiciones.	Speaker=Professor Sherman
+conversation_6u259t_text	Me he topado con una caverna que está repleta de esas plantas.	Speaker=Dorothy
+conversation_4luy17_text	¡Interesante! Seguramente obtienen energía usando un mecanismo distinto a la fotosíntesis.	Speaker=Professor Sherman Notes=*format*
+conversation_vq8bcq_text	Me he encontrado con los licoreros. ¡Hasta he hablado con ellos! Han construido un pueblito justo debajo del muro.	Speaker=Dorothy
+conversation_qbphbv_text	¡Fascinante! No sabía que aún existieran licoreros que hablaban.	Speaker=Professor Sherman Notes=*format*
+conversation_d8arjf_text	Los pocos que he visto con mis propios ojos se comunican usando sonidos guturales. ¡No se les entiende nada!	Speaker=Professor Sherman Notes=*format*
+conversation_m0q6cs_text	He leído algunos estudios que dicen que antes eran la especie dominante en este planeta.	Speaker=Professor Sherman
+conversation_n96czx_text	Es difícil saber algo a ciencia cierta. Tratándose del Homo devolvis, solo podemos especular.	Speaker=Professor Sherman
+conversation_9axbnb_text	Es prácticamente imposible conseguir un espécimen y estudiarlo sin dañarlo... O sin que ellos te dañen a ti.	Speaker=Professor Sherman Notes=*format* *new* merged two lines into one.
+conversation_6qfwjp_text	Los licoreros son una especie fascinante. Pueden parecer una panda de locos, pero conservan cierta individualidad.	Speaker=Professor Sherman Notes=*format*
+conversation_wlfozb_text	Profesora, ya que usted es una bot inteligente, ¿cree que estos terremotos pueden ser causados por bots?	Speaker=Dorothy Notes=*new* rephrased
+conversation_ylnbuf_text	¿Te refieres a que alguien está generando estos terremotos?	Speaker=Professor Sherman Notes=*format*
+conversation_x4pgec_text	Eso explicaría los epicentros extrañamente precisos de las últimas actividades sísmicas.	Speaker=Professor Sherman
+conversation_934xqz_text	El epicentro estaba justo en el templo de esa absurda secta apocalíptica.	Speaker=Professor Sherman
+conversation_72gm7a_text	Entonces, ¿{format emph}es{format reset} posible?	Speaker=Dorothy
+conversation_w0qkeb_text	Para comprobar esta hipótesis deberás {format highlight}atravesar las Llanuras Ventosas{format reset} y dirigirte al templo del este para investigarlo por ti misma.	Speaker=Professor Sherman Notes=*new*
+conversation_7xmo4l_text	Esa hipótesis de que los terremotos son causados por bots es fascinante.	Speaker=Professor Sherman Notes=*format*
+conversation_p7mpft_text	{format highlight}Atraviesa las Llanuras Ventosas{format reset} para seguir investigando. Baja por la escalera que se encuentra en el este de la ciudad.	Speaker=Professor Sherman Notes=*new* added the part about taking the ladder
+conversation_9zagcy_text	La secta protege una especie de máquina que podría causar terremotos.	Speaker=Dorothy
+conversation_d8olb4_text	Lo que tienes que hacer es desmantelar la máquina. Eso podría detener los terremotos.	Speaker=Professor Sherman
+conversation_vts8e3_text	{format emph}¡Sí!{format reset} Desmantelar suena divertido. ¡Hagámoslo!	Speaker=Fen
+conversation_ly2vhz_text	Quizá no logre terminar de fabricar este cohete.	Speaker=Professor Sherman
+conversation_ypryh5_text	No es nada sencillo construir una nave espacial de exploración.	Speaker=Professor Sherman
+conversation_qq0n6k_text	Si pudieras {format highlight}desmantelar ese generador de terremotos{format reset}, quizás no tendría que construirla.	Speaker=Professor Sherman
+conversation_hbhl5o_text	¿Como puede un steambot crear una máquina que causa terremotos?	Speaker=Dorothy
+conversation_dpkudw_text	Deben de tener muchos conocimientos y tecnología muy avanzada.	Speaker=Professor Sherman
+conversation_irqx6c_text	Tecnología del futuro, mucho más avanzada de lo que podemos imaginar...	Speaker=Professor Sherman Notes=*format*
+conversation_gljg9h_text	He investigado un poco entre mis datos viejos para buscar patrones, pero no hay nada claro.	Speaker=Professor Sherman
+conversation_j3paiq_text	Los movimientos erráticos de estos temblores parecen indicar que hay más que una máquina.	Speaker=Professor Sherman Notes=*format* *new*
+conversation_w8nhom_text	Puedes estar segura de que no dejaré de trabajar en este cohete por el momento.	Speaker=Professor Sherman
+conversation_ihi6uu_text	No dejaré de trabajar en este cohete por el momento.	Speaker=Professor Sherman
+conversation_j6jtna_text	Un colega logró obtener algunas muestras de la selva subterránea	Speaker=Professor Sherman
+conversation_oepnn1_text	Es extraña, ¿verdad? Y muy peligrosa.	Speaker=Dorothy Notes=*format*
+conversation_kul85z_text	¡Sí, es genial!	Speaker=Fen
+conversation_b4ld5b_text	Sea como sea, me dijo que encontró restos de un mutágeno que ha contaminado la biología de esas plantas.	Speaker=Professor Sherman
+conversation_h8rkzh_text	Parece ser que toman su energía del mutágeno {format emph}Fermento Lunar{format reset}, el mismo que tanto obsesiona a los licoreros.	Speaker=Professor Sherman
+conversation_bthpa5_text	{format emph}Hay{format reset} muchas tuberías por todo ese lugar.	Speaker=Dorothy
+conversation_wvpx34_text	Estoy segura de que el mutágeno viene de ahí.	Speaker=Professor Sherman
+conversation_ll0rrj_text	La selva es uno más de los muchos misterios que vienen apareciendo.	Speaker=Professor Sherman
+conversation_gcue08_text	Ya hemos desactivado los generadores de terremotos.	Speaker=Dorothy
+conversation_rhj5jo_text	Los datos de mi sismógrafo han dejado de variar como locos y se han concentrado en un solo punto.	Speaker=Professor Sherman
+conversation_pgv6y7_text	El último terremoto se originó en territorio licorero.	Speaker=Professor Sherman
+conversation_j878i8_text	Pues hay que encontrar otro camino para llegar hasta allí y {format highlight}hablar con Rosie.{format reset}	Speaker=Dorothy Notes=*new* removed the reference to the oasis being blocked as the player could be oblivious to this.
+conversation_lv5xcl_text	¡Qué suerte que mi cohete esté listo! Solo necesito hacerle unos últimos ajustes y estaré lista para partir cuando sea necesario.	Speaker=Professor Sherman Notes=*new* rephrased the ending of the line.
+conversation_9rxm14_text	Solo unos cuantos ajustes más y podremos abandonar este planeta, en caso de que el gran terremoto lo destruya todo.	Speaker=Professor Sherman
+conversation_tnyv5r_text	En cuanto mi nave espacial exploradora esté lista, me iré de este planeta.	Speaker=Professor Sherman
+conversation_7an1z5_text	Todos están invitados a venir conmigo. Hay suficiente espacio para todos.	Speaker=Professor Sherman
+
+# workbench_conversation
+conversation_f5xes1_text	¡Oh, oh, oh!	Speaker=Turtle Bucket Notes=*new*
+conversation_vwbtbo_text	Tengo fantásticas mejoras disponibles para ti! ¡Solo alta tecnología, por supuesto!	Speaker=Turtle Bucket Notes=*new*
+conversation_d17hfn_text	Eh, bueno, perdona que te moleste... de nuevo.	Speaker=Turtle Bucket Notes=*new*
+conversation_2hj8xd_text	¡Es que acaba de llegar un lote de nuevos materiales que te permitirán mejorar aún más tus herramientas!	Speaker=Turtle Bucket Notes=*new*
+conversation_dnpk79_text	Hm... solo creía que lo supieras.	Speaker=Turtle Bucket Notes=*new*
+conversation_cq63md_text	¿Hola?	Speaker=Turtle Bucket Notes=*new*
+conversation_eb2wqf_text	{format nervous}Ah{format reset}, quiero decir... ¡Hola!	Speaker=Turtle Bucket Notes=*new*
+conversation_6hj11o_text	Eh... ¡tengo una nueva remesa de piezas!	Speaker=Turtle Bucket Notes=*new*
+conversation_ozu5go_text	Te permitirán mejorar bastante todas tus herramientas... Quiero decir, mejorarlas aún más. Genial, ¿verdad?	Speaker=Turtle Bucket Notes=*new*
+conversation_rkault_text	Bueno, eh, me he dado cuenta de que tu armadura tiene algunas abolladuras...	Speaker=Turtle Bucket Notes=*new*
+conversation_8lfpm2_text	Mi nuevo pedido de chapado grueso te permitirá mejorarla.	Speaker=Turtle Bucket Notes=*new*
+conversation_kpzosz_text	Así tendrás más posibilidades de..., ya sabes..., de sobrevivir allí abajo.	Speaker=Turtle Bucket Notes=*new*
+conversation_vk0in8_text	Y..., ¿que piensas hacer?	Speaker=Turtle Bucket
+conversation_xbec1d_text	Y..., ¿que piensas hacer?	Speaker=Turtle Bucket Notes=This is the introductary phrase from the mechanich
+
+# workbench_conversation_cog_intro
+conversation_4nh80e_text	Pues..., me gusta tu equipo.	Speaker=Turtle Bucket
+conversation_zb6ryl_text	Ehm..., puedes mejorarlo con engranajes. ¿Quieres, hmm..., quieres saber cómo?	Speaker=Turtle Bucket
+conversation_k47xd0_text	Eh, lo siento, mejor me callo... ¿verdad?	Speaker=Turtle Bucket Notes=This person is very nervous
+conversation_xsq7ao_text	¡¿De verdad quieres saberlo?! Vaya, pues, mm... ¡de acuerdo, sí!	Speaker=Turtle Bucket
+conversation_9iwqjw_text	De acuerdo, pues, ejem... sí. Lo siento. Estaré aquí...	Speaker=Turtle Bucket
+
+# workbench_conversation_cog_tutorial
+conversation_e2sw99_text	Entonces, ejem..., puedes {format highlight}mejorar tus herramientas{format reset} con engranajes {image cogs_small}.	Speaker=Turtle Bucket Notes=*new* added {format highlight}
+conversation_qsonke_text	Seguro que habrás visto algunos rondando por ahí.	Speaker=Turtle Bucket
+conversation_9chqoj_text	Usa la mesa de trabajo para elegir la ranura de engranaje de una herramienta e insertar el engranaje {image cogs_small} en ella.	Speaker=Turtle Bucket
+conversation_0dnnax_text	¡Vaya! Pero, eh..., no te preocupes, ¡{format highlight}extraer los engranajes {format reset} {image cogs_small} es fácil también!	Speaker=Turtle Bucket Notes=*new* added {format highlight}
+conversation_90zfu2_text	Conforme mejores tus herramientas, tendrás acceso a mejoras mucho más geniales.	Speaker=Turtle Bucket
+conversation_a5snuc_text	Pero, hmm..., hay algo más que quiero decirte, pero si no quieres no pasa nada...	Speaker=Turtle Bucket
+conversation_b1szsc_text	Para algunas mejoras tendrás que encontrar heliografías.	Speaker=Turtle Bucket
+conversation_f0xxtp_text	Davy Mordidas, nuestro, eh..., cartógrafo, tiene algunas, me parece...	Speaker=Turtle Bucket
+conversation_1q2dd2_text	¡Las mejoras con heliografías son geniales! Bueno, mm, eso creo...	Speaker=Turtle Bucket
+conversation_i2a540_text	Ah, y dado que puedes extraer cualquier engranaje {image cogs_small}, no dudes en experimentar un poco.	Speaker=Turtle Bucket
+conversation_5p4bi7_text	Cambia tus ajustes de vez en cuando. Si gustas, claro...	Speaker=Turtle Bucket
+conversation_iq6h9b_text	Oh, eh..., ¡guau, has prestado atención a todo! Son pocos los que lo hacen...	Speaker=Turtle Bucket
+conversation_e4vdfi_text	Bueno, pues, eh..., yo estaré por aquí, supongo.	Speaker=Turtle Bucket
+
+# fen_wall_found
+conversation_9lkkka_text	Este lugar es familiar. Apuesto a que la secta me trajo por aquí cuando subían.	Speaker=Fen
+conversation_qsa4d1_text	¿A qué profundidad crees que se encuentran los {format nervous}restos de Vectron{format reset}?	Speaker=Fen
+conversation_3rahmd_text	Pues a mucha. Todavía estamos en las partes exploradas de la mina.	Speaker=Dorothy
+conversation_xecqeg_text	Ya, de acuerdo..., bien. Solo me lo preguntaba.	Speaker=Fen
+conversation_mx4ktk_text	Ahora solo tengo que encontrar la manera de atravesar ese maldito muro.	Speaker=Dorothy
+conversation_cat8cu_text	¡Sí! {format singsong}¡Qué comiencen las explosiones!{format reset}	Speaker=Fen
+conversation_nq5gxh_text	¡No será suficiente! Este muro se construyó después de las guerras licoreras para mantener alejados a esos lunáticos.	Speaker=Dorothy Notes=*format*
+conversation_gu7tji_text	Los licoreros son expertos en explotar cosas, así que el muro es a prueba de explosiones.	Speaker=Dorothy
+
+# fen_below_wall
+conversation_mbv8tf_text	¡Vaya, ese lugar era {format nervous}de lo más extraño!{format reset}	Speaker=Fen Notes=Place, refering to the underground jungle that they just passed thruogh.
+conversation_cj1k6o_text	Parece que al menos hemos atravesado la primera capa del muro.	Speaker=Dorothy
+conversation_5mo9pe_text	Espero que esa estación minera esté por aquí cerca.	Speaker=Dorothy
+conversation_vizvqs_text	Y yo espero que encontremos algo interesante y destructivo por ahí.	Speaker=Fen Notes=*format*
+
+# fen_on_yarrow
+conversation_rswyd0_text	Dime, ¿qué {format emph}es{format reset} este lugar? Parece oscuro y peligroso. ¡Exploremos!	Speaker=Fen
+conversation_vqbkn5_text	No parece que crezca nada aquí abajo...	Speaker=Dorothy Notes=*new* shortened by removing description of place. Was a bit misrepresentative
+conversation_jk4t0s_text	Apuesto a que hay muchos peligros acechándonos.	Speaker=Dorothy
+conversation_i4oq3o_text	{format laugh}¡Sí!{format reset}	Speaker=Fen
+conversation_qaywwl_text	Me aseguraré de tener suficiente luz antes de entrar.	Speaker=Dorothy
+conversation_sf4uwk_text	¡No seas tan sosa, vamos!	Speaker=Fen
+
+# blueprint_vendor_01
+conversation_1135rj_text	¡Diantres! Estos terremotos son fastidiosos. El alcalde debería poner a alguien a investigar sobre el tema.	Speaker=Davy Bittenborough Notes=*format*
+conversation_dq65oq_text	¿Y si todos esos magníficos tesoros que hay bajo la superficie quedasen aplastados por los escombros? ¡Qué aberración!	Speaker=Davy Bittenborough
+conversation_3fn5w0_text	Se ve que sientes una gran atracción por las piedras preciosas, ¿eh?	Speaker=Dorothy
+conversation_npebbg_text	¡No, no, no! Me refiero a tesoros {format emph}reales{format reset}. Extraños y fascinantes artefactos {image artifacts_small}.	Speaker=Davy Bittenborough
+conversation_a7uvtg_text	Algo espléndido, con toda una historia que contar.	Speaker=Davy Bittenborough Notes=*format*
+conversation_mjgdjr_text	Si te topas con alguno de estos {image artifacts_small} artefactos, te agradecería mucho que me permitieras echarle un vistazo.	Speaker=Davy Bittenborough Notes=*new* added the artifact image to this line and added a more specific wording to point to artifacts
+conversation_uwhgx6_text	Creo que he encontrado algo que te resultará interesante.	Speaker=Dorothy
+conversation_iqy08o_text	De acuerdo, mantendré los ojos abiertos por si veo algo interesante.	Speaker=Dorothy
+conversation_rppjea_text	{format singsong}¡Espléndido!{format reset} Te daré una {format highlight}heliografía{format reset} si me traes al menos {var num_artifacts_threshold} {image artifacts_small}.	Speaker=Davy Bittenborough
+conversation_br857t_text	{format singsong}¡Oh!{format reset} ¿Estoy soñando? ¡Que alguien me pellizque!	Speaker=Davy Bittenborough
+conversation_iptdw9_text	Actualmente has localizado el artefacto{image artifacts_small} mítico 43.	Speaker=Davy Bittenborough
+conversation_lu65ll_text	Cuántas veces he soñado con este momento... Mi familia ha estado buscando este objeto durante generaciones. Espero con ansia poder deleitarme con él.	Speaker=Davy Bittenborough
+conversation_wu0y6m_text	...	Speaker=Davy Bittenborough
+conversation_vyiiiz_text	Espera...	Speaker=Davy Bittenborough
+conversation_ds3fs3_text	¿Eso es todo?	Speaker=Davy Bittenborough
+conversation_kheln9_text	Es tan... tan...	Speaker=Davy Bittenborough
+conversation_axft9i_text	Decepcionante.	Speaker=Davy Bittenborough
+conversation_66l4aw_text	Bueno, gracias, supongo.	Speaker=Davy Bittenborough
+conversation_6ybt0n_text	Mi vida no tiene sentido ahora.	Speaker=Davy Bittenborough
+conversation_rlfp8l_text	{format singsong}¡Magnífico!{format reset} ¡Ya has encontrado {var num_artifacts_current} artefactos fascinantes {image artifacts_small}!	Speaker=Davy Bittenborough Notes=*new* Blueprints unlock new upgrades for your equipement. Changed {image artifacts} to {image artifacts_small}
+conversation_as6lw7_text	{format singsong}¡Magnífico!{format reset} ¡Ya has encontrado {var num_artifacts_current} artefacto fascinante {image artifacts_small}!	Speaker=Davy Bittenborough Notes=*new* added a version of the above line that is singular artifact. Changed {image artifacts} to {image artifacts_small}
+conversation_p7vtak_text	Para darte las gracias, te regalaré una {format highlight}heliografía{format reset} de las muchas que tengo.	Speaker=Davy Bittenborough Notes=*format* removed emph from appreciation
+conversation_dcphb9_text	Simplemente tienes que llevarla a la mesa de trabajo y usar los engranajes modificadores para darle buen uso.	"Speaker=Davy Bittenborough Notes=*new* ""it"" refering to the blueprint"
+conversation_g8lzbu_text	Te daré otra heliografía cuando me enseñes {var num_artifacts_threshold} artefactos {image artifacts_small} en total.	Speaker=Davy Bittenborough Notes=*new* gives the player som info on how many artefacts until next blueprint
+conversation_pwaqqk_text	Vaya, veo que aún no has encontrado {format emph}ningún{format reset} artefacto interesante {image artifacts_small}.	Speaker=Davy Bittenborough Notes=*new* Changed {image artifacts} to {image artifacts_small}
+conversation_tm2fum_text	Te daré una {format highlight}heliografía{format reset} si me traes al menos {var num_artifacts_threshold} {image artifacts_small}.	Speaker=Davy Bittenborough Notes=*new* Changed {image artifacts} to {image artifacts_small}
+conversation_31n97u_text	Vaya, has encontrado {var num_artifacts_current} artefactos {image artifacts_small} interesantes.	Speaker=Davy Bittenborough Notes=*new* Changed {image artifacts} to {image artifacts_small}
+conversation_xkdvzp_text	Te daré una {format highlight}heliografía{format reset} si me traes al menos {var num_artifacts_threshold} {image artifacts_small}.	Speaker=Davy Bittenborough Notes=*new* Changed {image artifacts} to {image artifacts_small}
+conversation_vj87ok_text	¡Excelente! Has encontrado {var num_artifacts_current} artefactos fascinantes {image artifacts_small}.	Speaker=Davy Bittenborough Notes=*new* Changed {image artifacts} to {image artifacts_small}
+conversation_c12v5z_text	Estas cositas preciosas se pueden esconder por todas partes.	Speaker=Davy Bittenborough Notes=*new*
+conversation_r70wn4_text	Pero ahora tienes este magnífico equipamiento para mantenerte ocupado.	Speaker=Davy Bittenborough Notes=*new*
+conversation_ozgox8_text	Tómate tu tiempo para buscar con cuidado, ¿de acuerdo?	Speaker=Davy Bittenborough Notes=*new*
+conversation_crg8xl_text	Te daré otra heliografía cuando me enseñes {var num_artifacts_threshold} artefactos {image artifacts_small} en total.	"Speaker=Davy Bittenborough Notes=*new* changed ""found"" to ""if you can show me"". Changed {image artifacts} to {image artifacts_small} changed a to another"
+conversation_rkqt88_text	Te has esforzado mucho y creo que me has traído todos los objetos más fascinantes de este planeta.	"Speaker=Davy Bittenborough Notes=*new* removed ""wonderful"" as it conflicted with previous lines in some cases"
+conversation_4ngqs0_text	Menos mal, porque creo que ya no tengo más heliografías.	Speaker=Davy Bittenborough
+conversation_75th6d_text	Cuando era un bot joven y bien engrasado como tú, solía vagar por la mina, dibujando mapas maravillosos.	Speaker=Davy Bittenborough
+conversation_wvg349_text	Dibujé un mapa de todo el muro protector, mucho antes de que mis rodillas comenzaran a rechinar y crujir.	Speaker=Davy Bittenborough
+conversation_90qcuc_text	Comencé con las capas más bajas, pero esos irracionales licoreros eran toda una molestia.	Speaker=Davy Bittenborough
+conversation_pffrd2_text	Esas criaturas no tienen respeto por la artesanía fina. ¿Atreverse a usar explosivos caseros en tal monumento? ¡Ridículo!	Speaker=Davy Bittenborough
+conversation_fc5nyv_text	Por supuesto, el muro absorbió la mayoría del impacto, pero de vez en cuando logran penetrarlo.	Speaker=Davy Bittenborough
+conversation_219b44_text	¿Ha estado alguna vez en el templo que está al otro lado de las Llanuras Ventosas?	Speaker=Dorothy
+conversation_0anv7h_text	Esas ruinas están poco exploradas. El templo siempre ha sido muy traicionero.	Speaker=Davy Bittenborough
+conversation_tv8uil_text	Un viejo colega, Ronald Hubot, fue el único que se {format emph}atrevió{format reset} a adentrarse en ese lugar.	Speaker=Davy Bittenborough
+conversation_u57vpi_text	¿Qué ha sido de él?	Speaker=Dorothy
+conversation_g8rvft_text	Pues parece ser que tuvo una especie de visión horrible que profetizaba el fin del mundo.	Speaker=Davy Bittenborough
+conversation_02chim_text	Se ha refugiado en el templo y se rodea de locobots de todo tipo.	Speaker=Davy Bittenborough
+conversation_i026up_text	Puedo imaginarme la de artefactos maravillosos {image artifacts_small} que hay en esas ruinas.	Speaker=Davy Bittenborough
+conversation_tvge9q_text	Debe haber muchos {format emph}tesoros{format reset} de artefactos {image artifacts_small} olvidados en lo más profundo de las minas.	Speaker=Davy Bittenborough
+conversation_iyk7r0_text	Imagina todas esas reliquias que han dejado culturas desaparecidas hace siglos, esperando ser descubiertas.	Speaker=Davy Bittenborough
+conversation_hp4wcb_text	¡Qué época tan maravillosa para vivir! Hace siglos que los bots no se aventuran a tanta profundidad como tú.	Speaker=Davy Bittenborough
+conversation_ekx3en_text	Deberías ir a mayor profundidad todavía. Recuerda que la historia favorece a los valientes.	Speaker=Davy Bittenborough
+conversation_bb807w_text	El desierto del oeste es un lugar duro y árido, aun así, los bots han vivido en él durante siglos.	Speaker=Davy Bittenborough
+conversation_6e53tq_text	Estoy seguro de que debe haber algo fascinante por allí, escondido entre rocas y arena.	Speaker=Davy Bittenborough
+conversation_ja68cp_text	La verdad es que me encantan esos maravillosos artefactos.	Speaker=Davy Bittenborough
+conversation_9w2c24_text	Normalmente la tierra tarda {format emph}eones{format reset} en cambiar su estructura geológica.	Speaker=Davy Bittenborough
+conversation_aactqp_text	Pero los terremotos parecen tener la fuerza suficiente para cambiar la disposición de la tierra en solo décadas.	Speaker=Davy Bittenborough
+conversation_fn5brp_text	Pronto terminaremos con esos terremotos.	Speaker=Dorothy
+conversation_d0c0zs_text	¿Y si el suelo se resquebraja totalmente? Entonces mis mapas serán inútiles. ¡Qué escándalo!	Speaker=Davy Bittenborough
+conversation_w56u9v_text	El último terremoto fue extremadamente problemático.	Speaker=Davy Bittenborough
+conversation_mcnumi_text	Tal vez la profesora Sherman tenga razón y la tierra esté a punto de hacerse pedazos.	Speaker=Davy Bittenborough
+conversation_mq34gi_text	Estamos haciendo todo lo que podemos para que eso no suceda.	Speaker=Dorothy
+conversation_h0mzw3_text	Aprender a dibujar mapas de las estrellas debe de ser un reto magnífico.	Speaker=Davy Bittenborough
+
+# blueprint_vendor_02
+conversation_uyr4r4_text	{format singsong}¡Hola, amiga!{format reset} La vista es genial desde aquí, ¿no crees? ¡Nuestro alcalde es un tipo con suerte!	Speaker=Clifford Heisenberg Notes=This person id located upp on a trellis with a fantastic view.
+conversation_w3sayh_text	Aunque debería poner más atención a las palabras de la profesora. ¡Estos temblores no desaparecerán por sí solos!	Speaker=Clifford Heisenberg
+conversation_cww3zx_text	El alcalde no está. Me pregunto cuándo regresará.	Speaker=Clifford Heisenberg
+conversation_0g6nsc_text	¿Es una bomba eso que traes?	Speaker=Dorothy Notes=*format*
+conversation_474v8c_text	Te lo ruego, dime que vas a volar este horroroso edificio en mil pedazos.	Speaker=Fen Notes=This is Fen talking
+conversation_o24esm_text	{format laugh}¡Sí!{format reset} Es decir, ¡no!	Speaker=Clifford Heisenberg
+conversation_yi4qcu_text	Quería mostrarle al alcalde Yonker mi nueva bomba presurizada mejorada. ¡Es justo lo que esta ciudad necesita!	Speaker=Clifford Heisenberg Notes=*new* changed water bomb to pressure bomb
+conversation_bqmi7g_text	Y..., me ha ignorado y solo me ha dicho que lo presente en su oficina. Pero aquí no hay nadie...	Speaker=Clifford Heisenberg
+conversation_5kay5a_text	Aunque no me importa esperar. Apuesto a que el alcalde regresará pronto. Supongo, tal vez, no sé..., pronto.	Speaker=Clifford Heisenberg
+conversation_73lt57_text	Las bombas sirven para muchas cosas, ¿sabes? Las puedes usar para {format emph}todo{format reset}. Bueno, casi todo.	Speaker=Clifford Heisenberg
+conversation_2t4ktx_text	Puedes excavar túneles, romper rocas duras ricas en minerales, despejar escombros y restos...	Speaker=Clifford Heisenberg
+conversation_tkp0i2_text	¡Y no te olvides de que también puedes causar destrucción sin sentido!	Speaker=Fen Notes=This is Fen talking
+conversation_2ynw9y_text	Antes se pasaban día y noche explotando abajo, en las minas. ¡Eso era música para mis oídos!	Speaker=Clifford Heisenberg Notes=*format*
+conversation_2vgr7k_text	¡Genial, detonaciones letales!	Speaker=Fen Notes=This is Fen talking
+conversation_4nhr7x_text	Espero tener la oportunidad de hablar con el alcalde y que acepte el diseño de mi nueva bomba presurizada. Es lo más avanzado que puede haber.	Speaker=Clifford Heisenberg Notes=*new* changed pressurized water bomb to pressure bomb
+conversation_gbuars_text	¡Este tipo sabe lo que es bueno!	Speaker=Fen Notes=This is Fen talking
+conversation_h4evh3_text	Me alegro de que hayas encontrado a alguien que tiene algo común en contigo, pero preferiría que no fueran las explosiones.	Speaker=Dorothy Notes=This is Dorothy talking
+conversation_v0gx3y_text	Apuesto a que puedo convencer al alcalde de que mis bombas son el futuro.	Speaker=Clifford Heisenberg
+conversation_hwchba_text	Una vez el señor Bittenborough me trajo la carcasa de los restos de una bomba. Me dijo que lo había encontrado en territorio licorero.	Speaker=Clifford Heisenberg
+conversation_q0vd7o_text	¡Me dieron ganas de vomitar con solo verlo! ¿Sabías que los licoreros fabrican sus bombas con {format nervous}nitroglicerina y Fermento Lunar?{format reset}	Speaker=Clifford Heisenberg
+conversation_shtyfr_text	¿Y eso es malo por qué? Explota, ¿o no?	Speaker=Fen Notes=This is Fen talking
+conversation_4nsm4v_text	Claro que explota. ¡Y te destroza los dedos, si es que tienes suerte!	Speaker=Clifford Heisenberg
+conversation_s7nbis_text	¡No, gracias! Prefiero seguir con mis estables y seguras bombas de agua presurizadas.	Speaker=Clifford Heisenberg Notes=*format* *new* changed pressurized water bomb to pressure bomb
+conversation_p2i5l7_text	Sosainas.	"Speaker=Fen Notes=*format* *new* removed ""..."""
+conversation_ptgzep_text	Ten cuidado allá abajo. Esos licoreros son muy brutos.	Speaker=Clifford Heisenberg
+conversation_l8kkmb_text	¿Has visto el nuevo cohete de la profesora Sherman? ¡Es una hermosura!	Speaker=Clifford Heisenberg
+conversation_9yditf_text	Sí, es muy impresionante.	Speaker=Dorothy Notes=This is Dororthy talking
+conversation_b8svck_text	Y totalmente seguro. ¡Yo mismo la he ayudado con los cálculos!	Speaker=Clifford Heisenberg
+conversation_wz8w9f_text	Se necesita muchísima presión para lanzar algo así al espacio. Todo debe estar perfectamente calibrado, ¡hasta el último decimal!	Speaker=Clifford Heisenberg
+conversation_516qkn_text	Porque, al final, un cohete es como una bomba gigante, ¿no?	Speaker=Clifford Heisenberg Notes=*format*
+conversation_8ly6iv_text	Esto me gusta. ¿Por qué no le pedimos a la profesora que nos dé una vuelta?	Speaker=Fen Notes=This is Fen talking
+conversation_pawve3_text	Ya veremos después, Fen.	Speaker=Dorothy Notes=This is Dorothy talking
+conversation_sqkxyn_text	No te preocupes. ¡Nunca cometo ningún error cuando se trata de bombas!	Speaker=Clifford Heisenberg
+conversation_ha9646_text	He estado pensando sobre los terremotos. Un terremoto no es más que una vibración grande y violenta, ¿cierto?	Speaker=Clifford Heisenberg
+conversation_fs869d_text	{format singsong}Así que...{format reset}, si pudiéramos crear una vibración igualmente grande y violenta, pero {format emph}opuesta{format reset}, ¡al encontrarse se deberían anular!	Speaker=Clifford Heisenberg
+conversation_1frwlw_text	Eh... ¿Estás diciendo lo que pienso que estás diciendo...?	Speaker=Dorothy
+conversation_qd7crv_text	¡Exacto! ¡Bombas! ¡Solo necesitamos establecer una red de bombas sincronizadas para contrarrestar los temblores!	Speaker=Clifford Heisenberg Notes=*format*
+conversation_t8xdab_text	¡Genial! Es un plan a prueba de fallos.	Speaker=Fen
+conversation_50z3oe_text	¡Me alegro que estés de acuerdo! Solo necesito trabajar un par de años para hacer los cálculos. ¡La seguridad es lo primero!	Speaker=Clifford Heisenberg
+conversation_wdv8yf_text	Ay...	Speaker=Fen Notes=*new*
+conversation_dx83ih_text	Estoy ansioso por contarle mi plan al alcalde Yonker. ¡Apuesto a que lo aprobará! Me pregunto cuándo regresará. Ya ha pasado bastante tiempo.	Speaker=Clifford Heisenberg
+conversation_hu5cr9_text	No me gusta nada todo este chismorreo sobre el gran terremoto. Es mucho lo que ignoramos. ¿Cómo de intenso? ¿Cuándo tendrá lugar? ¿Dónde?	Speaker=Clifford Heisenberg
+conversation_achdi1_text	Desde que el elevador se desplomó, he estado pensando qué sucedería si un terremoto {format emph}realmente{format reset} fuerte tiene lugar.	Speaker=Clifford Heisenberg
+conversation_k2l3ob_text	La profesora Sherman piensa que será mucho peor, antes de que siquiera mejore.	Speaker=Dorothy
+conversation_ioi3ht_text	Es mejor que hagas caso a sus palabras. Es el bot más inteligente de por aquí.	Speaker=Clifford Heisenberg
+conversation_5oey6i_text	Comienzo a pensar que el alcalde no regresará a su oficina.	Speaker=Clifford Heisenberg
+conversation_xoknkn_text	{format singsong}¡Guau!{format reset} ¿Es eso un... lanzagranadas presurizado? ¡Claro que lo es! Y además, el modelo de lujo.	Speaker=Clifford Heisenberg Notes=*format* *new* changed format from laugh to singsong
+conversation_uhq93q_text	¿Eres una... amante de las bombas igual que yo?	Speaker=Clifford Heisenberg Notes=*format*
+conversation_8o8ba8_text	¡Tengo que mostrarte mi proyecto secreto! ¡Vaya, cuántas {format nervous}ganas{format reset} tenía de compartir esto con otro entusiasta como yo!	Speaker=Clifford Heisenberg
+conversation_ux8mwy_text	Si le aplicamos mi mejora, que pronto será patentada, ¡tu lanzagranadas puede causar {format emph}el triple de destrucción{format reset}!	Speaker=Clifford Heisenberg Notes=*new* changed format from highligh to emph
+conversation_4urlt2_text	Te dejaría probarlo en acción, pero..., {format singsong}es queeeee{format reset}... mi presupuesto de I+D está algo limitado últimamente.	Speaker=Clifford Heisenberg
+conversation_uxln27_text	Pero, si contribuyeras con, digamos, ${var pricelist_next:blueprint_vendor_02}{image money_small}, te prometo que tendrás una {format highlight}heliografía{format reset} de mi invención exclusiva para patrocinadores. ¿Qué te parece?	Speaker=Clifford Heisenberg
+conversation_dgw94e_text	Por cierto, ¿has pensado sobre la donación? Son solo ${var pricelist_next:blueprint_vendor_02}{image money_small} por la posibilidad de usar esta exclusiva {format highlight}heliografía{format reset}.	Speaker=Clifford Heisenberg
+conversation_20o2j5_text	¡Maravilloso! Aquí tienes, ¡es toda tuya!	Speaker=Clifford Heisenberg Notes=*format* *new* split this line up
+conversation_52n8bq_text	Tendrás que usarla en el banco de trabajo para modificar tu cañón.	Speaker=Clifford Heisenberg Notes=*new*
+conversation_9p7l5p_text	¿A que esperas? ¡Ve y vuela algo en mil pedazos!	Speaker=Clifford Heisenberg Notes=*new*
+conversation_gui6im_text	Parece que también andas mal de plata. ¡No te preocupes! Puedes regresar cuando tengas algo de dinero.	Speaker=Clifford Heisenberg
+conversation_ijkhew_text	¡Te comprendo perfectamente! Regresa si cambias de opinión.	Speaker=Clifford Heisenberg
+conversation_02qawb_text	Y, ¿qué tal la heliografía? ¿Has encontrado ya algo interesante que quieras volar por los aires?	Speaker=Clifford Heisenberg Notes=*format*
+
+# blueprint_vendor_03
+conversation_1hq43e_text	Oye tú, camarada. Con estos terremotos, entregar el correo a tiempo se ha convertido en una tarea más bien peligrosa.	Speaker=Ty Nuzak Notes=This Character is a mail man/pony express person.
+conversation_k6q6hf_text	Me ha dicho uno de los jinetes que en el desierto están apareciendo socavones.	Speaker=Ty Nuzak
+conversation_ple2sp_text	El desierto ya no es seguro para los jinetes exprés.	Speaker=Ty Nuzak
+conversation_dum6i9_text	Lo siento, no te puedo ayudar con ninguna entrega ahora, camarada.	Speaker=Ty Nuzak
+conversation_qy63x4_text	Todos nuestros jinetes están ocupados, los pobres.	Speaker=Ty Nuzak
+conversation_4nc6nw_text	¿Por qué no ha ido usted con el resto?	Speaker=Dorothy
+conversation_aozfk3_text	No hay nada más {format nervous}claustrofóbico{format reset} que las vastas llanuras. Miles de kilómetros donde no hay nada.	Speaker=Ty Nuzak
+conversation_opkpi5_text	Me siento atrapado con solo pensarlo.	Speaker=Ty Nuzak Notes=*format*
+conversation_opmgdu_text	No hay nada más terrorífico que las vastas llanuras, camarada.	Speaker=Ty Nuzak
+conversation_384qc9_text	Nuestros ponis han andado por todo el desierto. Esos terremotos se han sentido por todos lados, camarada.	Speaker=Ty Nuzak
+conversation_c3vack_text	Los malditos terremotos causan problemas en todos esos pueblitos que están más allá de los templos antiguos.	Speaker=Ty Nuzak
+conversation_alusmw_text	Tenemos muchos problemas para transportar los minerales importados hasta aquí.	Speaker=Ty Nuzak
+conversation_5nkkkg_text	Muchos de los negocios en esta ciudad están fundamentados en importar mercancías de toda la llanura.	Speaker=Ty Nuzak
+conversation_1u0u2r_text	El Pony Express de Vapor es normalmente la mejor manera de llegar allí.	Speaker=Ty Nuzak
+conversation_2ufqac_text	El Pony Express de Vapor tiene una reputación que mantener. No quiero que estos terremotos empañen su fama, camarada.	Speaker=Ty Nuzak
+conversation_7idj7v_text	¿Alguno de tus ponis ha estado en los templos?	Speaker=Dorothy
+conversation_vfl4c6_text	Qué pregunta tan curiosa, camarada. Hace un mes tuvimos un pedido urgente que entregar en el templo del este.	Speaker=Ty Nuzak Notes=*new* removed reference to Ron
+conversation_51nddn_text	Tuvimos que enviar a alguien a través de las Llanuras Ventosas.	Speaker=Ty Nuzak Notes=*new* changes to phrasing
+conversation_hsitea_text	Se necesitan las piernas más fuertes del mundo para atravesar esos vientos tan fuertes.	"Speaker=Ty Nuzak Notes=*new* removed ""pardner""."
+conversation_g6i2qw_text	Habían pedido un montón de braseros antiguos y los quería lo antes posible.	Speaker=Ty Nuzak Notes=*new* removed reference to four braziers as this is no longer relevant. Also changed he to they, to make sense with changes above
+conversation_j223bu_text	Supongo que los necesitaba para algo relacionado con esa extraña secta suya.	Speaker=Ty Nuzak
+conversation_p4ogy4_text	Alguien que quiera cruzar las Llanuras Ventosas hacia el este tendrá que saber cómo vérselas con el viento en contra, camarada.	Speaker=Ty Nuzak
+conversation_pgpn5x_text	He escuchado por ahí que estás excavando en lo más profundo, camarada.	Speaker=Ty Nuzak
+conversation_2ir3fn_text	Sí, estamos buscando a mi amigo. Creo que está allí abajo.	Speaker=Dorothy
+conversation_l0q9lw_text	A veces me gustaría largarme de este condenado pueblo y visitar nuevos lugares.	Speaker=Ty Nuzak Notes=*new* doggone to coggone
+conversation_l0wgkw_text	Pero entonces me llegan rumores de selvas peligrosas creciendo en las cuevas.	Speaker=Ty Nuzak
+conversation_qgwwxu_text	Empiezo a pensar en todos los secretos y peligros que aguardan ahí abajo.	Speaker=Ty Nuzak Notes=*new*
+conversation_5phwat_text	Mi corazón me da un {format nervous}vuelco{format reset} y me tiemblan las piernas.	Speaker=Ty Nuzak
+conversation_cp57ox_text	¡Por mis espuelas! Soy el pedazo de lata más cobarde que hayas visto jamás.	Speaker=Ty Nuzak
+conversation_x5lp6f_text	A veces desearía no ser tan gallina. El mundo está lleno de cosas que explorar y aquí estoy perdiéndomelas todas.	Speaker=Ty Nuzak
+conversation_w4by19_text	Los terremotos son cada vez peores. Siento cómo mis cuatro rodillas entrechocan.	Speaker=Ty Nuzak
+conversation_d4gln9_text	Estoy pensando que tendremos que escaparnos en ese cohete, más pronto de lo que creíamos.	Speaker=Ty Nuzak
+conversation_w15szm_text	Aunque no me gusta para nada pensar que estaré rodeado solo de cielo.	Speaker=Ty Nuzak
+conversation_jnag7u_text	Pero, si el planeta va a hacerse pedazos, ¿qué otra opción me queda?...	Speaker=Ty Nuzak
+conversation_oawrk7_text	Supongo que al fin tendré que abandonar mi entorno seguro, camarada.	Speaker=Ty Nuzak
+conversation_e1e8ry_text	Si el planeta entero va a estallar, me gustaría vivir una aventura, al fin y al cabo	Speaker=Ty Nuzak
+conversation_cqe4nv_text	¡Saludetes, camarada! Es genial tener a un minero local como tú, con todos estos temblores sacudiendo estas tierras.	Speaker=Ty Nuzak
+
+# cultist_worship_rusty
+conversation_jm66o2_text	...	Speaker=Dorothy
+conversation_igsxan_text	¿Estás haciendo una reverencia frente a una {format emph}estatua de Rusty{format reset}?	Speaker=Dorothy
+conversation_1voalp_text	Sí..., el gran Rusty es el destructor de la profecía.	Speaker=Cultist Notes=*format*
+conversation_pd5hzj_text	Lo predijo nuestro gran profeta. Ha predicho que el {format singsong}sagrado final{format reset} se acerca.	Speaker=Cultist Notes=*new* removed reference to Ron and expanded the text format
+conversation_y6xyie_text	Vaya, ustedes encuentran cualquier motivo para adorar por doquier, ¿verdad?	Speaker=Fen
+conversation_e76l4q_text	¡Luz del consejo! ¡Esta hereje te ha robado del Templo del Consejo!	Speaker=Cultist Notes=*format*
+conversation_qo16zi_text	¡Sacrificaré sus partes en el fuego redentor!	Speaker=Cultist Notes=*format*
+
+# yonker_01
+conversation_mdyvq0_text	¡Oye, tú! Vaya, creí que {format nervous}nunca naiden me encontraría{format reset}.	Speaker=Zebulon Yonker
+conversation_zcgves_text	No e' que e'té perdido ni na' pareci'o, ¡pero e' bastante difícil llegar ha'ta aquí!	Speaker=Zebulon Yonker
+conversation_ara3qe_text	Creo que hay que recompensa'te por tu esfuerzo. Pero lo único que tengo e' e'ta heliografía.	"Speaker=Zebulon Yonker Notes=""Feels like Ah should give..."" is ""Feels like I should give..."""
+conversation_2ebftt_text	Sólo recuerda que activar e'to puede que {format danger}dificulte{format reset} tu viaje.	Speaker=Zebulon Yonker Notes=*NEW*
+conversation_6jeiwp_text	Na' más deberías usarlo si busca' má' desafíos.	Speaker=Zebulon Yonker Notes=*NEW*
+conversation_pvpsai_text	No te preocupe', no e'toy perdido. Solo e'toy de'cansando un poco.	Speaker=Zebulon Yonker
+conversation_jbfsb5_text	Mi hermano pequeño e' tan tonto, ha cerra'o el sistema de transporte.	Speaker=Zebulon Yonker
+conversation_rq43xc_text	Dice que no era seguro o argo así, no le he pre'ta'o mucha atención.	Speaker=Zebulon Yonker
+conversation_v4t07d_text	"A vece' pienso que la posición de mi hermano de ""alcalde de lo' negocio'"" se le ha subi'o a la cabeza."	Speaker=Zebulon Yonker
+conversation_y4mgz6_text	Voy a extrañar eso' tubo', era tan fácil subirse y pasear... Ahora tengo que regresa' caminando a casa.	Speaker=Zebulon Yonker
+conversation_9kai6i_text	Esto' desierto' están conectado' a cosa' muy extraña', créeme.	Speaker=Zebulon Yonker
+conversation_1hh5hs_text	He vi'to a eso' sectario' loco' en la entrada del viejo templo.	Speaker=Zebulon Yonker
+conversation_vpsiim_text	No me agradan mucho to'a' su' tontería', su' reunione' masiva' y to' lo que hacen por ahí.	Speaker=Zebulon Yonker Notes=*format*
+conversation_efhbif_text	Esta' mina' pueden volver loco a cualquier bot si pasa mucho tiempo aquí.	Speaker=Zebulon Yonker
+conversation_914qie_text	Creo que me quedaré un poco má'. Uno se cansa de trabaja' duro...	Speaker=Zebulon Yonker
+
+# yonker_02
+conversation_ppa3hq_text	¡{format emph}Vaya{format reset}, me pareció escuchar a uno de esos {format nervous}licoreros locos{format reset}!	Speaker=Luke Yonker
+conversation_rtaarn_text	No sé qué pensar de este sitio, es totalmente distinto de todo lo que he conocido antes.	Speaker=Luke Yonker
+conversation_rqui5d_text	¡Pero es todo un placer encontrarme con un camarada bot en este extraño lugar!	Speaker=Luke Yonker
+conversation_xpaj1a_text	Toma esta heliografía como agradecimiento por hacerme compañía.	Speaker=Luke Yonker Notes=Acquiring Blueprints is how you get new upgrade slots for your equipment, not a physical thing, but only expressed in text.
+conversation_5zxme4_text	Tengo que advertirte de algo: activar esto podría {format danger}dificultar{format reset} la misión.	Speaker=Luke Yonker Notes=*NEW*
+conversation_ncsd4z_text	¡No se te ocurra usarla si no buscas mayores desafíos!	Speaker=Luke Yonker
+conversation_yp736j_text	¡Hola de nuevo, camarada bot!	Speaker=Luke Yonker
+conversation_g21tdm_text	Mis hermanos aseguran que han construido la mayoría del nuevo muro que hay por aquí, pero yo sé que no es así.	Speaker=Luke Yonker
+conversation_iehmo4_text	Cierto que lo han reparado por aquí y por allá, pero el muro se construyó hace siglos.	Speaker=Luke Yonker
+conversation_aytv9n_text	Están tan henchidos de orgullo absurdo que un día van a salir flotando.	Speaker=Luke Yonker
+conversation_8srkg6_text	Pero si hay algo que he aprendido, es que siempre hay una manera de atravesar cualquier muro.	Speaker=Luke Yonker
+conversation_vb6b0a_text	Te aseguro que he visto varios hongos migrando hace poco.	Speaker=Luke Yonker
+conversation_0yu226_text	¿Cuánto tiempo crees que tardarán en llegar al pueblo?	Speaker=Luke Yonker
+conversation_onpk10_text	Voy a sentarme a disfrutar un poco de esta loca vida salvaje antes de regresar.	Speaker=Luke Yonker
+
+# yonker_03
+conversation_xfyeov_text	¡Vaya, pues e'taba construyendo y reparando cuando de repente me di cuenta de que m'había olvida'o de mi' herramienta'!	Speaker=Josh Yonker
+conversation_t1bq4v_text	Si puede' mantener el pico cerra'o, te daré un documento que parece muy importante.	Speaker=Josh Yonker
+conversation_odkj11_text	Hará tus aventuras un poquillo má'... {format danger}desafiantes{format reset}.	Speaker=Josh Yonker Notes=*NEW*
+conversation_nvlvnn_text	¡Na' má' úsalo si te gu'ta reírte der peligro!	Speaker=Josh Yonker Notes=*NEW*
+conversation_ajyl7v_text	No hay necesida' de comentárselo a mi' hermano', ¿vale?	Speaker=Josh Yonker Notes=*NEW*
+conversation_zdkcdy_text	¡Me alegra saber que pensamo' igual!	Speaker=Josh Yonker
+conversation_wpy2vc_text	No hay necesida' de decirle a mi' hermano' que me ha' vi'to aquí.	Speaker=Josh Yonker
+conversation_0fsp3k_text	Soy todo un profe..., prife..., {format emph}un experto{format reset} construyendo muro', lo juro.	Speaker=Josh Yonker
+conversation_l2xfyd_text	Si tan solo lo' licorero' fueran má' amable' y se quedaran en su la'o.	Speaker=Josh Yonker
+conversation_a09h0a_text	No tengo tiempo pa' buscar por todo' lado' y ver si todo e'tá en su lugar.	Speaker=Josh Yonker
+conversation_sy2ct5_text	No he vi'to a ningún licorero de'de hace muncho tiempo. Ante' de que lo' terremoto' comenzaran lo' veía mu' a menudo.	Speaker=Josh Yonker
+conversation_w8p7tf_text	Si mi' hermano' descubren que me he empareda'o a mí mi'mo, no pararían de reírse.	Speaker=Josh Yonker
+
+# sign_red_rock
+conversation_rbdoyh_text	"""Pasaje de la Roca Rojiza"""	Speaker=Dorothy
+
+# fen_on_rocket
+conversation_jofluh_text	¡Guau! Mira ese cráter {format singsong}¡Qué gloriosa destrucción!{format reset}	Speaker=Fen
+conversation_rgfncb_text	Esperemos que la profesora esté progresando bastante con lo del cohete.	Speaker=Dorothy
+conversation_1mx9ap_text	Hmm... ¡ojalá le haya añadido láseres y cosas así!	Speaker=Fen Notes=*format*
+
+# firetemple_boss_intro
+conversation_z6izd0_text	¿Quién osa presentarse ante el gran profeta del Destructor?	Speaker=Great Prophet Notes=*format*
+conversation_cu9az7_text	¡Oye, conozco a este tipo! Es uno de los que me trajeron al templo.	Speaker=Fen
+conversation_4ljao8_text	¡Luz del consejo! ¿Qué haces con este bot indigno aquí en mi templo?	Speaker=Great Prophet Notes=*format*
+conversation_m8bbt4_text	¿Dónde está Rusty? ¿Qué {format emph}le has hecho?{format reset}	Speaker=Dorothy
+conversation_6jm46x_text	Tal como he predicho, Rusty el Destructor causará {format laugh}el gran terremoto{format reset} y nos desharemos de nuestras carcasas mortales.	Speaker=Great Prophet Notes=*new* moved text format to other words.
+conversation_mhn5s6_text	¡Nos bendijo con este generador apocalíptico! Después nos abandonó. Sus caminos son siempre inescrutables.	Speaker=Great Prophet Notes=*format*
+conversation_davhio_text	...	Speaker=Dorothy
+conversation_39dqwa_text	¡Entonces tengo que desactivar esa máquina!	Speaker=Dorothy
+conversation_f5igne_text	¡Exacto! Dinos dónde has escondido ese generador apocalíptico. ¡Lo {format laugh}volaremos en mil pedazos{format reset}!	Speaker=Fen Notes=*format* removed one of the text formats
+conversation_t03c7h_text	Oh, luz del consejo, qué bajo has caído. ¡No permitiré que arruinéis nuestro precioso apocalipsis!	Speaker=Great Prophet
+
+# firetemple_boss_outro
+conversation_5ppdcr_text	{format nervous}¡Aaah!{format reset} No podrán evitar que suceda el {format laugh}gran terremoto.{format reset}	Speaker=Great Prophet
+conversation_veu3hm_text	El generador apocalíptico está a salvo. ¡El fin está {format singsong}cercaaaa!{format reset}	Speaker=Great Prophet
+
+# sign_maze_01
+conversation_1l6ojp_text	"""¡Cuidado con el muro imaginario!""."	Speaker=Dorothy Notes=There actually is an illusory wall that the player can go through. This is also a refference to the game Dark Souls, where people could set up signs in other players game-worlds with hints, and it was very common for people to troll other players by saying there is a false wall where there in fact is nothing but a regular wall.s
+
+# fen_4_brazier_not_lit
+conversation_cp9bbp_text	Vamos, ¿aún nada?	Speaker=Fen Notes=*new* removed the reference to dooms day device since player might read this before knowing about the device.
+conversation_p1i3bn_text	Solo tenemos que {format highlight}encender todos los braseros{format reset} para activar los cristales.	Speaker=Dorothy Notes=*new* changed an I to a We.
+conversation_xqev6z_text	¡Deben de estar en algún lugar cercano!	Speaker=Dorothy Notes=*new* changed this to reflect that the braziers are close by now, and not spread around the temple.
+conversation_kk5j23_text	¡De acuerdo, vamos a prenderles fuego de una vez!	Speaker=Fen Notes=*new* changed the phrasing to be more Fen-like
+conversation_4dihd5_text	Sí, todavía no has encendido todos los braseros.	Speaker=Fen Notes=*new* changed this to be said by Fen and re-phrased it to fit. Removed the previous player_buddy line to optimize it too. Removed reference to four braziers as this in no longer relevant.
+
+# sign_vectron2_1
+conversation_7gz2cu_text	"""¡LA MUERTE ESPERA!"""	Speaker=Dorothy
+
+# cultist_worship_rusty_intro
+conversation_8fufl9_text	Oh, Gran Destructor, ¡el final se acerca!	Speaker=Cultist Notes=*format*
+
+# hub_teleporter_blocked
+conversation_bj94jz_text	¿Por qué no lo has hecho? ¡Vamos!	Speaker=Fen
+conversation_i7wge8_text	¡Que extraño..., el tubo que conduce de vuelta a El Oasis no funciona!	Speaker=Dorothy Notes=*new* made it clear that it's only the pipe to the oasis that is closed
+conversation_t6jhkm_text	Esto huele cada vez peor. Quizá el sistema está obstruido otra vez.	Speaker=Fen Notes=*new* now said by Fen instead of Dorothy. Changed this to work with thne
+conversation_kbmx5q_text	Parece que tendremos que excavar el último tramo para llegar hasta allí.	Speaker=Dorothy Notes=*new* now said by Dorothy instead of Fen. Changed this to work with the changes on above line
+conversation_dhpyma_text	¡El sistema de tubos que conduce a El Oasis está roto!	Speaker=Dorothy Notes=*new* changed this to not refert to whole tube system
+conversation_xdvi4z_text	Bueno, entonces encontremos {format highlight}otro camino para llegar a El Oasis.{format reset}	"Speaker=Fen Notes=*new* added a ""come on then,"""
+
+# exiting_vectron_firsttime_03
+conversation_efpvk6_text	¡Has... has regresado!	Speaker=Fen Notes=*format*
+conversation_xs0zex_text	Sí, no sé cómo he logrado salir, pero te dije que volvería.	Speaker=Dorothy
+conversation_2gp05g_text	Estaba solo otra vez... atascado. Debí... debí de quedarme dormido.	Speaker=Fen Notes=*format*
+conversation_v8dyjq_text	He soñado que... debía... decirte algo.	Speaker=Fen Notes=*format*
+conversation_xvqfeq_text	Algo sobre los terremotos, los flujos de poder y...	Speaker=Fen
+conversation_6uvdlp_text	{format emph}¡Dorothy!{format reset}	Speaker=Fen Notes=*new* changed format from nervous to emph
+conversation_x1cve3_text	¿Qué pasa, Fen? ¿Qué has visto?	Speaker=Dorothy
+conversation_c268na_text	He visto..., no..., he sentido..., he sentido la presencia de otras máquinas apocalípticas.	Speaker=Fen
+conversation_glw2u1_text	Vamos, tenemos que decírselo a {format highlight}Rosie{format reset}. Aún no hemos acabado con los malditos terremotos.	"Speaker=Dorothy Notes=*new* added the phrase ""come on"" at the start of the line."
+
+# temple_generator_destroyed
+conversation_vduxpt_text	{format laugh}¡Je, je, je...!{format reset} ¡Ha sido genial!	Speaker=Fen
+conversation_bez5tc_text	Sí, parece inofensivo, ¿no crees?	Speaker=Dorothy
+conversation_02t7hw_text	Hay partes de steambots y Vectron puestas juntas en esta cosa.	Speaker=Dorothy
+conversation_nloh4y_text	¿Por qué construiría Rusty algo así?	Speaker=Dorothy
+conversation_uo5vst_text	Te preocupas demasiado. ¡A pensar menos y destruir más!	Speaker=Fen Notes=*format*
+conversation_cqegx4_text	Tenemos que {format highlight}regresar a El Oasis{format reset} y decirle a Rosie que hemos desactivado la máquina.	Speaker=Dorothy
+
+# last_generator_destroyed
+conversation_o7pn77_text	Aunque parezca extraño, fue bastante satisfactorio.	Speaker=Dorothy
+conversation_fhtom3_text	¡Ya estamos en la misma onda!	Speaker=Fen Notes=*format*
+conversation_0j9ty2_text	...	Speaker=Dorothy
+conversation_j80dt5_text	¿Has notado eso, Fen?	Speaker=Dorothy Notes=*format*
+conversation_4ctogi_text	Quizá, no sé.	Speaker=Fen
+conversation_5r8xoq_text	Parecía ser un temblor.	Speaker=Dorothy
+conversation_ue7igm_text	¡Vamos a {format highlight}destruir los demás generadores{format reset}!	Speaker=Fen
+conversation_kx4acl_text	¡Uno más destruido!	Speaker=Dorothy
+conversation_7knnev_text	{format laugh}¡Sí!{format reset}	Speaker=Fen
+conversation_7xkz1w_text	Es agradable hacer esto en compañía de alguien... no estar sola cuando...	Speaker=Dorothy Notes=*new*
+conversation_orn1ay_text	¡Oye, eso sí que era un terremoto!	Speaker=Dorothy Notes=*format*
+conversation_b59rnh_text	Habrá sido una reacción porque hemos destruido esta cosa, supongo.	Speaker=Fen Notes=*new*
+conversation_s51o2b_text	¡{format emph}Cuando{format reset} encontremos a Rusty tendrá que explicarme todo esto!	Speaker=Dorothy Notes=*new*
+conversation_lxj451_text	No te preocupes, te cubro las espaldas.	Speaker=Fen Notes=*new*
+conversation_mk9qpq_text	{format laugh}¡Guau!{format reset}	Speaker=Fen
+conversation_p2ot9u_text	Ese era el último.	Speaker=Dorothy
+conversation_xxw7zr_text	¡Ese ha sido enorme!	Speaker=Dorothy Notes=*format*
+conversation_p4nitu_text	Esto no tiene sentido. Creía que así nos libraríamos de los terremotos.	Speaker=Dorothy Notes=*new*
+conversation_48h46n_text	Sí, estoy seguro de que fue la última de las máquinas.	Speaker=Fen
+conversation_vkntr1_text	Tengo un mal presentimiento. Hay demasiadas preguntas sin respuesta.	Speaker=Dorothy Notes=*format* *new*
+conversation_nzra7p_text	¡Sectas apocalípticas y junglas tóxicas! ¿Y dónde está Rusty?	Speaker=Dorothy Notes=*new*
+conversation_3r7w00_text	Aquí hay gato encerrado...	Speaker=Fen Notes=*new*
+conversation_mboiam_text	¿Y si no es Rusty? Quizás Rosie está equivocada.	Speaker=Fen Notes=*new*
+conversation_iz5s2x_text	O quizás no nos haya contado toda la verdad.	Speaker=Fen Notes=*new*
+conversation_xd4lj1_text	Es mejor que regresemos a El Oasis y {format highlight}hablemos con Rosie{format reset}.	Speaker=Dorothy Notes=*new*
+
+# fen_0_brazier_lit
+conversation_7k0m7s_text	Otra palanca inservible, ¿eh?	Speaker=Fen Notes=*new* changed this since we now have the old version of it triggered up by the first lever at the entrance to this temple
+conversation_bqsv37_text	Quizás también tengamos que {format highlight}activarla{format reset}.	Speaker=Dorothy Notes=*new* same as above
+conversation_rzhlfx_text	¡No, nada!	Speaker=Dorothy
+
+# fen_0_brazier_lit_b
+conversation_1l90nu_text	Tal vez este brasero funcione.	Speaker=Fen
+conversation_q9t7dt_text	Sí, pero tengo que encontrar el modo de encenderlo.	Speaker=Dorothy Notes=*new* rephrased it.
+conversation_sb7zou_text	¡Venga, {format laugh}prendámosle fuego{format reset} a esta cosa!	Speaker=Fen
+
+# rosie_boss_intro_03
+conversation_utqc5b_text	No deberías haber regresado aquí.	Speaker=Rosie
+conversation_8jri1u_text	¿Qué estás haciendo? ¡Suéltalo, Rosie!	Speaker=Dorothy
+conversation_q1eysc_text	¿Sabes cuántos licoreros murieron para poder capturarlo? ¡Es un monstruo!	"Speaker=Rosie Notes=*format* *new* changed ""he was"" to ""he's"""
+conversation_0g9r4c_text	Pero ahora solo es una batería en mi traje mecánico, ¡y por fin tengo la fuerza suficiente para destruir a los tuyos!	Speaker=Rosie Notes=*format*
+conversation_icw8pm_text	¡Tú..., {format emph}me has mentido{format reset}!	Speaker=Dorothy Notes=*new* changed format from nervous to emph
+conversation_ir71cz_text	¡Te he {format emph}usado{format reset}! No eras más que una herramienta, y necesitaba que alguien desactivara esas molestas máquinas.	Speaker=Rosie Notes=*new*
+conversation_d3ola6_text	Él las construyó para extraer toda la energía de mi destilería de fusión... ¡pero se acabó!	Speaker=Rosie Notes=*format*
+conversation_pdqri5_text	El reactor me dará todo lo que necesito para controlar a los míos..., ¡una fuente infinita de Fermento Lunar!	Speaker=Rosie Notes=*format*
+conversation_rdwldu_text	Ya no tendrán que vagar. Estarán a salvo y me tendrán el {format emph}respeto que me merezco.{format reset}	Speaker=Rosie
+conversation_03yhdy_text	¿A esto te referías cuando decías que los licoreros eran peligrosos y estaban desquiciados?	Speaker=Fen Notes=*format*
+conversation_hj0t32_text	{format nervous}Los terremotos... El reactor es tecnología Vectron inestable{format reset}...	Speaker=invisible_dummy_01 Notes=*new* removed a couple of format tags and just enclosed the whole line
+conversation_jndfz3_text	{format laugh}¡NO, TÚ ERES EL INESTABLE! ¡POR FIN TENGO TODO EL CONTROL!{format reset}	Speaker=Rosie Notes=*new* changed format from nervous to laugh
+conversation_18qzvo_text	¡Estás totalmente loca!	Speaker=Dorothy Notes=*format*
+conversation_8q2tds_text	{format laugh}¡BASTA YA!{format reset}	Speaker=Rosie Notes=*new* changed format from nervous to laugh
+
+# rosie_boss_intro_02
+conversation_iot2uu_text	{format nervous}¿D-Dot?{format reset}	Speaker=invisible_dummy_01
+
+# hub_guard_2
+conversation_rtuuk8_text	¿Eh?	Speaker=hub_guard_2
+conversation_4hbzdf_text	Hola, ¿qué estáis tramando ahí arriba?	Speaker=Dorothy Notes=*new*
+conversation_n15uxu_text	¡Gaaar, yaar! ¡Largo!	Speaker=hub_guard_2
+
+# run_away_with_rusty_2
+conversation_ciyvzv_text	{format nervous}El reactor..., ¡va a explotar!{format reset}	Speaker=Rusty
+conversation_8qc79q_text	{format nervous}Los terremotos lo destruirán todo...{format reset}	Speaker=Rusty
+conversation_118c4u_text	{format nervous}¡Debes salir de aquí!{format reset}	Speaker=Rusty
+conversation_qm6zc7_text	¡Y una tuerca! {format emph}¡Saldremos de aquí juntos!{format reset}	Speaker=Dorothy
+
+# enter_endgame_teleporter_2
+conversation_7421mi_text	¡Ni lo pienses! ¡No te dejaré aquí abajo!	Speaker=Dorothy
+conversation_90knk7_text	No podrás salir de aquí con nosotros en esta cosa...	Speaker=Dorothy
+conversation_0kxcna_text	No hay tiempo para discutir. Es la única manera. Vamos, métanse allí.	Speaker=endgame_teleporter
+conversation_cd5m29_text	¡Ya!	Speaker=endgame_teleporter
+
+# buddy_everyone_left
+conversation_ebuimt_text	¿A dónde se han ido todos?	Speaker=Dorothy Notes=*new* changed phrasing
+conversation_nr0trv_text	Hmm... esto {format nervous}me está asustando.{format reset}	Speaker=Fen
+conversation_5r1v5j_text	Tenemos que {format highlight}encontrar a Rosie{format reset} y ver qué ha estado maquinando.	Speaker=Dorothy Notes=*new*
+
+# buddy_first_generator_seen
+conversation_17f2xe_text	¡Guau! Esta debe de ser el famoso generador apocalíptico.	Speaker=Dorothy Notes=*format*
+conversation_jiz6v8_text	Jamás creí que Rusty pudiera hacer algo así...	Speaker=Dorothy
+conversation_nkppty_text	Me parece que hay muchas partes de Vectron en esa cosa.	Speaker=Fen
+conversation_5mvh1h_text	¡Hay que destruirlo! {format laugh}¡Síííí!{format reset}	Speaker=Fen
+conversation_t5tmkl_text	¡Guau! ¿Qué es esa cosa? 	Speaker=Dorothy
+conversation_96wcqq_text	Parece ser tecnología Vectron.	Speaker=Fen
+conversation_3ss3dz_text	¡Destrocémoslo!	Speaker=Fen Notes=*format*
+
+# player_oasis_locked
+conversation_4kheve_text	¡La entrada está bloqueada!	Speaker=Dorothy
+conversation_ruxx9o_text	Sí, ¿crees que se ha bloqueado por los terremotos?	Speaker=Fen
+conversation_cct3lh_text	Tenemos que {format highlight}encontrar otra entrada{format reset} y hablar con Rosie.	Speaker=Dorothy
+
+# cutscene_fen_04
+conversation_s6wiy7_text	¿Qué? ¿Tendré que flotar por aquí, solo y aburrido?	Speaker=Fen
+conversation_qzc1ay_text	Tu caldera es muy cómoda y calentita. Y, me divierto metiéndome contigo, {format laugh}je, je, je.{format reset}	Speaker=Fen
+conversation_ruux6m_text	{format nervous}¡Maldita sea!{format reset} No tengo tiempo que perder, ¡necesito {format highlight}salir{format reset} de aquí!	Speaker=Dorothy
+conversation_34h62o_text	{format laugh}¡Je, je, je!{format reset} Parece ser que sí necesitas mi ayuda...	Speaker=Fen
+conversation_de9yap_text	Ya he explorado el área. {format emph}Creo{format reset} que te puedo permitir usar mi mapa.	Speaker=Fen
+conversation_wk05yo_text	¡Listo, larguémonos de aquí!	Speaker=Fen
+conversation_h6d5t0_text	Aish, bueno, vamos entonces.	Speaker=Dorothy Notes=*new*
+
+# fen_haspants
+conversation_a9gtqb_text	¡Oye! ¿Qué está haciendo ese mutante por aquí?	Speaker=Fen
+conversation_hsioxg_text	Es un licorero, Fen. No hagas ruido, está dormido.	Speaker=Dorothy
+
+# crab
+conversation_cl8j2w_text	Baglarb.	Speaker=Handy Gabby Notes=*new*
+conversation_erniqz_text	¡Bagarbagarglagurd!	Speaker=Handy Gabby Notes=*format* Crab is a hideously mutated Shiner. Look like Crab. Talk like people.
+conversation_hgy6ga_text	Perdone, solam...	Speaker=Dorothy
+conversation_xsba9s_text	¡Mi rocasssss baglurb!	Speaker=Handy Gabby Notes=*format* Speaks jibberish and half sentences.
+conversation_eottc5_text	Eh... vale...	Speaker=Dorothy
+conversation_tolx3y_text	Baglarb.	Speaker=Handy Gabby
+conversation_cmj0mp_text	Baglarb.	Speaker=Handy Gabby
+conversation_kqftzz_text	Oye, ¿cómo has llegado hasta aquí?	Speaker=Dorothy Notes=*new* added a introductory line for dorothy
+conversation_x2c4hn_text	¡Bagarbagarglagurd!	Speaker=Handy Gabby Notes=*format*
+conversation_1d144p_text	Lo siento, pero...	Speaker=Dorothy
+conversation_opes3o_text	¡Mih tuboshsh baglurb!	Speaker=Handy Gabby Notes=*format*
+conversation_kzffu7_text	De acuerdo, pero este no es un sitio muy seguro. Deberías encontrar otro lugar en el que pasar el tiempo.	Speaker=Dorothy Notes=*new*
+conversation_514n8o_text	Baglarb!	Speaker=Handy Gabby
+conversation_rjibkc_text	Vale, de acuerdo.	Speaker=Dorothy
+conversation_q4yhzp_text	Baglarb.	Speaker=Handy Gabby
+
+# swimmer
+conversation_mo6w8t_text	Ya e' hora de que me duche. Huelo a perro' muerto'.	Speaker=Wet Willy Notes=*new*
+conversation_i5u7gc_text	Ademá', me gusta hace' {format singsong}burbujita' burbujeante'{format reset}.	Speaker=Wet Willy Notes=*new*
+conversation_h9b611_text	Este lugar sí que es peculiar.	Speaker=Dorothy
+conversation_7u1oej_text	Rosie lo hizo. Era una debilucha cuando era má' chiquita.	Speaker=Wet Willy Notes=*new*
+conversation_d9pcrg_text	Pero ahora está grandota y fuertota, y tiene to'l Fermento Luna' pa' nosotro'.	Speaker=Wet Willy
+conversation_5hc8jc_text	¡Solo quiero zambullirme en Fermento Luna'! Asín me haré fuerte {format emph}yo{format reset} también.	Speaker=Wet Willy Notes=*format* *new* broke this up into two lines
+conversation_dqkik7_text	Y la Rosie ni huele e'ta cosa, ella se contenta levantando cosa' pesada'. ¡Qué tonta!	Speaker=Wet Willy Notes=*new*
+conversation_jra7p9_text	¡Quiero un poquillo de Fermento Luna'!	Speaker=Wet Willy Notes=*new*
+conversation_0ga9xz_text	Me agrada e'te luga', pero lo' túnele' me e'tán llamando...	Speaker=Wet Willy Notes=*format*
+conversation_6i3ly8_text	Gritan con sus temblore' tembloroso'.	Speaker=Wet Willy
+conversation_l4t4ta_text	Voy a extrañar pode' nada' en Fermento Luna'.	Speaker=Wet Willy
+conversation_brmgbs_text	Es viscoso y pringoso, pero de to'a' forma' voy a hacer una' burbujica'.	Speaker=Wet Willy Notes=*format*
+conversation_iyntgs_text	¡Los túnele' no dejan de llamarme!	Speaker=Wet Willy
+conversation_rb7d43_text	¿Has visto to' eso' bichejo' en los túnele'?	Speaker=Wet Willy
+conversation_s21hym_text	¡Eso' bichejo' e'tán de rechupete!	Speaker=Wet Willy
+conversation_ky29gq_text	Los fríe', {format singsong}remoja'os en Fermento Luna'.{format reset}	Speaker=Wet Willy
+conversation_7w4sjb_text	¡Me pa'ece que podemo' hacer una buena barbacoa como las d'antaño!	Speaker=Wet Willy Notes=*new*
+conversation_4b9cj5_text	Mmm, me gustan eso' bichejo' frito'	Speaker=Wet Willy
+conversation_ofc7fu_text	¡El Fermento Luna' me da fuerza'! Me hace má' mejó'.	Speaker=Wet Willy
+conversation_l41o8r_text	No me iría mal una tercera piernecilla.	Speaker=Wet Willy
+
+# generator_sequence_break
+conversation_hu136t_text	{format laugh}¡Yupiii!{format reset} {format singsong}¡Destrucción sin sentido!{format reset}	Speaker=Fen
+
+# enter_endgame_teleporter_3
+conversation_sfe0sl_text	...	Speaker=Dorothy
+conversation_fjpwyo_text	Fen..., regresaré a buscarte.	Speaker=Dorothy
+conversation_va1y6u_text	Sé que lo harás.	Speaker=endgame_teleporter
+conversation_5idlry_text	¡Vete! ¡Ahora!	Speaker=endgame_teleporter
+
+# sign_vectron2_2
+conversation_x36dp8_text	"""CUIDADO: ¡NO ENTRAR!""."	Speaker=Dorothy
+
+# golden_hatch_open
+conversation_p6icsu_text	Todos estos sectarios están chalados, ¿verdad?	Speaker=Fen Notes=*new* chenged this to not be a quesetion
+conversation_rm0amb_text	Sí, bastante chalados.	Speaker=Dorothy
+conversation_4rm6n6_text	Echo de menos destruirlos. Entremos y veamos si encontramos más.	Speaker=Fen
+conversation_5q7isk_text	Quiero {format highlight}encontrar a su profeta{format reset}. Él podría saber dónde está Rusty.	Speaker=Dorothy
+
+# player_oasis_locked_2
+conversation_jd7aed_text	Hay demasiadas tuberías por aquí. ¿Quizá podemos entrar por el desagüe?	Speaker=Fen
+conversation_5wy6ob_text	Tengo la sospecha de que encontraremos el final de las tuberías en la selva subterránea.	Speaker=Dorothy Notes=*format*
+
+# fen_entering_yarrow2
+conversation_444mtr_text	¡Oye, mira esta cosa toda agujerada! ¿Para qué crees que sirve?	Speaker=Fen
+conversation_9gicpx_text	No sé, pero no parece muy agradable.	Speaker=Dorothy Notes=*format*
+conversation_h3f7cn_text	Tal vez sea una especie de sistema de desechos para las máquinas de terremotos.	Speaker=Fen
+conversation_jf4lyk_text	Sea lo que sea lo que está sucediendo, esta selva parece estar extendiéndose.	Speaker=Dorothy Notes=*format*
+conversation_tkhd41_text	¡Basta ya, vamos a encontrar esa máquina y vamos a destruirla!	Speaker=Fen Notes=*format*
+
+# fen_treasure_brazier
+conversation_uo28un_text	Hm, más cristales de esos. No veo ningún brasero cerca.	Speaker=Dorothy Notes=*new* this whole conversation is new
+conversation_orh8x3_text	¡Tienen que estar en algún lugar de este maldito templo!	Speaker=Dorothy Notes=*new* this whole conversation is new
+conversation_fytrwl_text	Pero el generador apocalíptico no está aquí dentro. ¡Quiero ir a destrozar esa cosa {format emph}ahora!{format reset}	Speaker=Fen Notes=*new* this whole conversation is new
+conversation_w7ohum_text	Sí, todavía no has encontrado todos los braseros.	Speaker=Fen Notes=*new* this whole conversation is new
+conversation_r9v53t_text	Y yo quiero destruir ya el generador apocalíptico.	Speaker=Fen Notes=*new* this whole conversation is new
+
+# sign_rons_chamber
+conversation_ubahwy_text	"""Sala del tesoro de Ronald. Entrada permitida sólo a los Acólitos Operativos de nivel VI o superior""."	Speaker=Dorothy Notes=*new* added new sign. Operating Acolytes is a referenece to Operating Thetan from Scientology
+
+# fen_entrance_brazier_not_lit
+conversation_y2rvga_text	La puerta no se mueve. La palanca es inservible.	Speaker=Fen Notes=*new*
+conversation_voevwm_text	¿A lo mejor sólo tenemos que {format highlight}encenderla {format reset} de algún modo?	Speaker=Dorothy Notes=*new*
+conversation_29icwu_text	¡No funciona!	Speaker=Fen Notes=*new*
+conversation_86fd8m_text	Todavía pienso que tenemos que {format highlight}encenderla {format reset}.	Speaker=Dorothy Notes=*new*
+
+# fen_on_armor_upgrade
+conversation_one4s1_text	Oye, esta nueva armadura está muy bien. Ahora dejarás de lloriquear diciendo que te han destrozado y demás.	Speaker=Fen Notes=*new*
+conversation_i2p8ul_text	No creo que podamos ir sin cuidado, pero sí, está genial, ¿verdad?	Speaker=Dorothy Notes=*new*
+conversation_6i6u7w_text	¿Sabes con qué estaría aún más genial?	Speaker=Fen Notes=*new*
+conversation_716uhd_text	{format singsong}¡Con fuego!{format reset}	Speaker=Fen Notes=*new*
+
+# fen_on_ramjet_upgrade
+conversation_mg2reo_text	¡Vaya! Creo que esta máquina acaba de convertir mi propulsor en un arma.	Speaker=Dorothy Notes=*new*
+conversation_3ldyrw_text	¡Genial! ¡Entonces vamos a chamuscar plantas mutantes!	Speaker=Fen Notes=*new*
+conversation_gbh1g1_text	Con un poco de suerte también será efectivo contra la tierra. ¡Parece como si estuviésemos enterrados aquí abajo!	Speaker=Dorothy Notes=*new*
+
+# fen_on_death_pit
+conversation_tvs6ch_text	Oye, aquí probablemente no hay nada peligroso, ¿no? A mí me parece un sitio bastante seguro.	Speaker=Fen Notes=*new*
+conversation_5oflga_text	¿Por qué no reventamos de una vez ese muro y vemos lo que hay allí abajo? {format laugh}¡Je, je, je!{format reset}	Speaker=Fen Notes=*new*
+conversation_6nymg5_text	Creo que este lugar ha sido tapiado por alguna razón.	Speaker=Dorothy Notes=*new*
+conversation_a8vok3_text	Y tú no vas a ser el guapo que se rompa en mil pedazos cuando nos estrellemos contra el fondo.	Speaker=Dorothy Notes=*new*
+conversation_pi5rzp_text	Jo, ¿dónde está tu espíritu aventurero?	Speaker=Fen Notes=*new*
+
+# fen_on_lava_sea
+conversation_2h7zkh_text	¡Eso es una {format emph}enorme piscina{format reset} de minerales fundidos!	Speaker=Fen Notes=*new*
+conversation_tw04k8_text	La secta está realmente metida en el tema ese de luz fuego y destrucción. No puedo cruzar por ahí sin derretirme.	Speaker=Dorothy Notes=*new* These -> This
+conversation_c0o17p_text	Estaría bien que te mojaras un pie para comprobarlo. A lo mejor no está {format emph}tan{format reset} caliente.	Speaker=Fen Notes=*new*
+conversation_651wxm_text	¡Tendría que ser ignífuga!	Speaker=Dorothy Notes=*new*
+conversation_1hn8s0_text	O si fueses tan estupenda como yo, podrías simplemente volar sobre ella.	Speaker=Fen Notes=*new*
+
+# fen_on_hubtube
+conversation_8yyuh8_text	Tengo un mal presentimiento que no se me va de la cabeza. Definitivamente, hay algo aquí que no marcha bien.	Speaker=Dorothy Notes=*new*
+conversation_jytjex_text	Rosie tiene muchas explicaciones que darnos cuando volvamos a El Oasis.	Speaker=Dorothy Notes=*new*
+conversation_g4kaqx_text	¡Debería haber sido más precavida desde el principio!	Speaker=Dorothy Notes=*new*
+conversation_vigvfw_text	Si fueses más precavida, ahora probablemente estaría yo solo en ese templo.	Speaker=Fen Notes=*new*
+conversation_2h3jtj_text	Ahora salgamos de este desagüe y veamos qué está sucediendo.	Speaker=Fen Notes=*new*
+
+# buddy_rosie_boss_fight_help
+conversation_w0gsxo_text	¡Oye! Esos cohetes son igualitos a los que vimos antes al venir.	Speaker=Fen Notes=*new*
+conversation_n0y3vf_text	¡Intenta golpearlos con la pica!	Speaker=Fen Notes=*new*
+
+# fen_on_temple_of_guidance_2
+conversation_nctmv1_text	Nunca pensé que volvería a este templo.	Speaker=Fen Notes=*new*
+conversation_77tocr_text	Esta parte es mucho más grande que la que hemos dejado arriba.	Speaker=Fen Notes=*new*
+conversation_jpag4c_text	Yo siempre pasaba el rato en el tótem, así que nunca llegué a entrar en este área.	Speaker=Fen Notes=*new*
+conversation_rzcgxv_text	Debería estar repleta de trampas mortales y cosas chulas como aquella.	Speaker=Fen Notes=*new*
+
+# aftermath_elmachino
+conversation_hbejz0_text	{format nervous}¡Wargh!{format reset} ¡Apartad de mi camino! ¡alcaldes y niñobots primero!	Speaker=Mayor Mic Yonker Notes=*new*
+conversation_ma479g_text	{format nervous}¡Lo siento! Ehm... ¡voy tan rápido como puedo!{format reset}	Speaker=Turtle Bucket Notes=*new*
+conversation_fudqd9_text	¡Calmaos, compadres! ¡de uno en uno! ¡formad una cola ordenada! ¿me oís?	Speaker=Coral Armstrong Notes=*new*
+conversation_pox4ng_text	¡No tenemos tiempo para colas! Métanse en el cohete antes de que todo se nos caiga encima!	Speaker=Mayor Mic Yonker Notes=*new*
+conversation_ewm51b_text	¡Atorníllate el pico, hijo! Todavía hay bots en la maldita mina. ¡No podemos abandonarlos sin más!	Speaker=Ma Yonker Notes=*new*
+conversation_tdyz6x_text	El Sr. Heisenberg está preparado para encender el cohete, pero puedo retrasar el lanzamiento uno o dos minutos... Después, {format emph}tendremos que despegar{format reset}.	Speaker=Professor Sherman Notes=*new*
+conversation_vtsrcc_text	¡{format nervous}Deugphsaagh{format reset} baglarb!	Speaker=Barnacle Jones? Notes=*new*
+conversation_9s60lp_text	¡Exacto! ¡Tú lo has dicho, Sr. Cangrejo!	Speaker=Turtle Bucket Notes=*new*
+conversation_qo44wn_text	¿Qué? Yo no he dicho nada.	Speaker=Barnacle Jones Notes=*new*
+conversation_353gqh_text	{format nervous}¿{format reset}¿¡Qué diantres!?	Speaker=Ma Yonker Notes=*new*
+conversation_1engeq_text	¡Oh, aquí estás, cariño! ¡Menos mal que estás a salvo!	Speaker=Ma Yonker Notes=*new*
+conversation_ch1z21_text	¡Soberbio! Temía que te hubieses perdido.	Speaker=Davy Bittenborough Notes=*new*
+conversation_tb8wpb_text	Veo que habéis dado con ese minero de la bufanda roja. Pero, ¿qué hay de tu brillante amiguito?	Speaker=Ma Yonker Notes=*new*
+conversation_pbnvye_text	Es... es una larga historia. Tengo que...	Speaker=Dorothy Notes=*new*
+conversation_u2fefz_text	Bien, me alegra verte sana y salva, pero tengo que hacer hincapié en el hecho de que {format emph}no tenemos más tiempo{format reset}.	Speaker=Professor Sherman Notes=*new*
+conversation_hi1tn7_text	¡Todo el mundo a bordo del cohete!	Speaker=Professor Sherman Notes=*new*
+conversation_t4edhq_text	¡Hora de vivir aventuras en el espacio para este bot a vapor! {format singsong}¡Yiiija!{format reset}	Speaker=Ty Nuzak Notes=*new*
+
+# guard_open_hatch_post
+conversation_as8gn2_text	Una última cosa, señorita.	Speaker=Coral Armstrong Notes=*new*
+conversation_3qlskx_text	Estás a punto de explorar un mundo vasto y peligroso allí abajo...	Speaker=Coral Armstrong Notes=*new*
+conversation_24mz6s_text	Si quieres controlar hacia dónde te estás dirigiendo, puedes usar estos marcadores en tu mapa ({image quest_pointer_arrow} y {image quest_pointer_crosshair}).	Speaker=Coral Armstrong Notes=*new*
+conversation_4j1s12_text	Creo que eso es señal de sabiduría.	Speaker=Coral Armstrong Notes=*new*
+conversation_mdsij3_text	Creo que eso es valiente.	Speaker=Coral Armstrong Notes=*new*
+conversation_vaf0gm_text	Seguro que te has percatado de la existencia de flechas azules ({image quest_pointer_arrow}) y puntos de mira ({image quest_pointer_crosshair}) en el mapa.	Speaker=Coral Armstrong Notes=*new*
+conversation_4zvbgq_text	"Creo que no usar los marcadores significaría una experiencia ""clásica"". Ahora, que eso sea una buena idea..."	Speaker=Coral Armstrong Notes=*new*
+conversation_9ah4fv_text	Pero no te preocupes, siempre puedes activar y desactivar los marcadores a través de la tabla de engranajes modificadores en la mesa de trabajo.	Speaker=Coral Armstrong Notes=*new*
+conversation_rkswy7_text	¿Qué me dices? ¿Permitirás que los marcadores ({image quest_pointer_arrow} y {image quest_pointer_crosshair}) te muestren el camino?	Speaker=Coral Armstrong Notes=*new*
+conversation_w3uj01_text	Como te acabo de decir...	Speaker=Coral Armstrong Notes=*new*
+conversation_bw07t1_text	Si quieres, siempre puedes activar y desactivar los marcadores en la mesa de trabajo de la ciudad.	Speaker=Coral Armstrong Notes=*new*
+conversation_dvacv4_text	No te quiero entretener más. Buena suerte {format highlight}limpiando los tubos{format reset} en el Pasadizo de la Roca Rojiza.	Speaker=Coral Armstrong Notes=*new*
+
+# fen_on_teleporter_2
+conversation_wamta4_text	¡Oye, esto parece tecnología de Vectron!	Speaker=Dorothy Notes=*new*
+conversation_lkvb6m_text	No parece que funcione, de todos modos.	Speaker=Dorothy Notes=*new*
+conversation_ocl1pj_text	...	Speaker=Dorothy Notes=*new*
+conversation_llzd7n_text	¿Fen?	Speaker=Dorothy Notes=*new*
+conversation_74v2pp_text	...	Speaker=Dorothy Notes=*new*
+conversation_hi83wt_text	Parece que no tiene salida. Vayámonos de aquí.	Speaker=Dorothy Notes=*new*
+
+# fen_on_teleporter_1
+conversation_u4cd0d_text	¿Qué es esto, Fen?	Speaker=Dorothy Notes=*new*
+conversation_3rpf0f_text	No quiero entrar {format emph}ahí{format reset}. Mejor démonos la vuelta.	Speaker=Fen Notes=*new*
+conversation_supvbe_text	Todavía hay mucho por hacer en las minas.	Speaker=Fen Notes=*new*
+
+# fen_on_lava_sea_2
+conversation_tm3xhy_text	Otra vez esta piscina de minerales fundidos, ¿eh?	Speaker=Fen Notes=*new*
+conversation_35yo2u_text	Creo que esta vez {format emph}tenemos{format reset} que atravesarla.	Speaker=Dorothy Notes=*new*
+conversation_mhir26_text	Suerte que ahora seas casi tan genial como yo...	Speaker=Fen Notes=*new*
+conversation_fnd2g3_text	Casi.	Speaker=Fen Notes=*new*
+conversation_b0opbb_text	¡Eso es una {format emph}enorme piscina{format reset} de minerales fundidos!	Speaker=Fen Notes=*new*
+conversation_17hzlg_text	La secta está realmente metida en el tema ese de luz fuego y destrucción.	Speaker=Dorothy Notes=*new*
+conversation_b7hr8v_text	Vamos a cruzar esta cosa de una vez.	Speaker=Dorothy Notes=*new*
+conversation_alk15j_text	¡Genial! ¿Sabes qué? Con tu nuevo equipo, casi eres tan genial como yo...	Speaker=Fen Notes=*new*
+conversation_qa992m_text	Casi.	Speaker=Fen Notes=*new*
+
+# fen_on_totem
+conversation_2ou9oe_text	¡Oye, mira! Los restos de mi viejo tótem.	Speaker=Fen Notes=*new*
+conversation_wz87u3_text	Parece que hace siglos desde que nos conocimos justo aquí, ¿verdad?	Speaker=Dorothy Notes=*new*
+conversation_qxncbz_text	Sí... No puede decirse que eche de menos estar encerrado {format emph}ahí{format reset}.	Speaker=Fen Notes=*new*
+conversation_rvd9qx_text	Dar leña a los de la secta era divertido, pero la mayor parte del tiempo me la pasaba sentado por ahí, en soledad.	Speaker=Fen Notes=*new*
+
+# fen_on_distillery_door
+conversation_flred4_text	Este lugar da muy mala espina cuando está abierto.	Speaker=Fen Notes=*new*
+conversation_z5ls33_text	¿Estás segura de que quieres entrar?	Speaker=Fen Notes=*new*
+conversation_n7df2r_text	De acuerdo. Veamos qué está preparando esa licorera grandullona ahí dentro.	Speaker=Fen Notes=*new*
+conversation_viru7l_text	No sabemos lo que ha estado tramando Rosie. ¿Y si nos preparamos antes de entrar?	Speaker=Dorothy Notes=*new*
+
+# sign_trials_all_upgrades
+conversation_tkltgz_text	"""Todas las mejoras permitidas."""	Speaker=Dorothy Notes=*new*
+
+# sign_trials_bedrock
+conversation_40ih51_text	"""Fachadas e ilusiones."""	Speaker=Dorothy Notes=*new*
+
+# sign_trials_no_hook
+conversation_m31axp_text	"""No se permiten ganchos."""	Speaker=Dorothy Notes=*new*
+
+# sign_trials_no_hook_jetpack
+conversation_cbb9jh_text	"""No se permiten propulsores \nni ganchos."""	Speaker=Dorothy Notes=*new*
+
+# sign_trials_no_jetpack
+conversation_0tzxsw_text	"""No se permiten propulsores."""	Speaker=Dorothy Notes=*new*
+
+# sign_trials_no_upgrades
+conversation_3k7mx1_text	"""No se permiten mejoras""."	Speaker=Dorothy Notes=*new*
+
+# sign_trials_only_hook
+conversation_mrg3os_text	"""Sólo se permiten ganchos""."	Speaker=Dorothy Notes=*new*
+
+# sign_trials_only_jetpack
+conversation_ytjucx_text	"""Sólo se permiten propulsores""."	Speaker=Dorothy Notes=*new*
+
+# sign_floor_is_lava
+conversation_nol9uu_text	"""Si te mantienes lejos del hogar de la lava\nLas puertas seguirán cerradas\nPero tras el mínimo contacto\nTendrás que volver a intentarlo""."	Speaker=Dorothy Notes=*TEMP* *NEW*

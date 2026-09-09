@@ -1,0 +1,1608 @@
+# NOTE: Do not hand edit this file! It is managed by Conversation Editor.
+#       This is the conversation language file for English (United States).
+
+# buddy_inventory_full
+conversation_yjp8nk_text	Эй, у тебя {format highlight}мешок уже полон{format reset}, чудилка.	Speaker=Fen Notes=Comes up when your inventory is full anyou try to pick up more ores.
+
+# ore_vendor
+conversation_hxfr0f_text	Эй, поделишься со мной чем-нибудь блестящим?	"Speaker=Barnacle Jones Notes=*new* added ""there"""
+conversation_jh3i2m_text	Ну что, хочешь поменять камушки на тугрики?	Speaker=Barnacle Jones Notes=*new* moved this
+conversation_69vpc2_text	Есть что-нибудь ценное на обмен?	Speaker=Barnacle Jones Notes=*new* changed doll to kiddo. Moved this node
+conversation_mi3myw_text	Так вперед! Займемся-ка настоящим делом, а?	Speaker=Barnacle Jones Notes=*new* moved this
+conversation_2l670i_text	Ну что, есть что-нибудь в этот раз?	Speaker=Barnacle Jones Notes=*new* moved this
+conversation_89hare_text	Давай, покажи, что нашла.	Speaker=Barnacle Jones Notes=*new* moved this
+conversation_dfflv5_text	Но пока что я готов забирать у тебя руду. Есть что?	Speaker=Barnacle Jones Notes=*new* moved this
+conversation_dvsj68_text	Знаешь, мэр Йонкер - дубина редкая, но тут он прав. Нам нужен поток руды!	Speaker=Barnacle Jones
+conversation_gk3axq_text	Говорят, он так извелся из-за руды, что аж волосы ржаветь начали.	Speaker=Barnacle Jones Notes=*format* Hair on steambots is made of metal.
+conversation_mosq62_text	Что до меня, я всегда рад любой руде от любого шахтера при любых обстоятельствах!	"Speaker=Barnacle Jones Notes="" clamps"" is the equivavlent of hands, since they are robots."
+conversation_fnygz1_text	Нет ничего важнее, чем поддерживать поток руды, детка.	Speaker=Barnacle Jones Notes=*new* changed doll-face to kiddo.
+conversation_7dsj17_text	Весь город гудит, что у нас есть новый бот-шахтер.	Speaker=Barnacle Jones
+conversation_mh0ja0_text	Я тут вообще-то ищу кое-кого. Такой скромный, в красном шарфике.	Speaker=Dorothy
+conversation_y6ys6p_text	Знаю такого. Выглядел на все сто, а на деле - ничего особенного!	Speaker=Barnacle Jones Notes=Real McCoy= the real deal.
+conversation_0lzsu6_text	Обратно так и не вернулся, понимаешь?	Speaker=Barnacle Jones
+conversation_bhqgnn_text	Надеюсь, ты справишься с этим получше, детка.	"Speaker=Barnacle Jones Notes=*new* changed doll to kid added ""I"" at start of sentance. Removed last part of sentance"
+conversation_21a760_text	А... Ты ведь уже слышала про забитые пневмошахты?	Speaker=Barnacle Jones Notes=Refering to pneumatic tubes that's used for fast travel between the surface and the deep parts of the mine
+conversation_oxkxen_text	Я не из болтливых, но говорят, мэр закрыл их, чтобы братьям своим отомстить.	Speaker=Barnacle Jones
+conversation_2zloko_text	Кстати, давненько я их не видел.	Speaker=Barnacle Jones
+conversation_xwxxg4_text	Я думал, они начнут шевелиться, раз уж ты составила им конкуренцию.	Speaker=Barnacle Jones
+conversation_gmenrv_text	В кои веки понадеялся на этих лодырей.	Speaker=Barnacle Jones
+conversation_xkngbf_text	Так или иначе, пока шахты закрыты, я теряю деньги, понимаешь?	Speaker=Barnacle Jones Notes=mazumas= slang for money, please do translate.
+conversation_xfxkz8_text	Под этой кирпичной кладкой несметные сокровища.	Speaker=Barnacle Jones
+conversation_op5xlx_text	Если набредешь на бомжей, чикни их прежде, чем сама наденешь деревянный макинтош.	Speaker=Barnacle Jones
+conversation_whma58_text	Говорят, они там все под бузой и ищут металлолом, ясно?	Speaker=Barnacle Jones Notes=*format*
+conversation_t5mwlu_text	Им этой отравы всегда мало. Эта штука делает их сильнее, но одновременно срывает с катушек.	Speaker=Barnacle Jones Notes=*format*
+conversation_649tjr_text	А еще от нее жуткая коррозия, так что не прикасайся к ней.	Speaker=Barnacle Jones Notes=*format*
+conversation_03e7vh_text	Не знаю, слышала ты или нет, но профессорша-то совсем рехнулась.	Speaker=Barnacle Jones Notes=*format*
+conversation_u2ersk_text	Спятила, когда ее дом перевернуло первым землетрясением, ясно?	Speaker=Barnacle Jones
+conversation_h9iaiy_text	Теперь она {format emph}строит ракету{format reset} и готова спустить на это все свое наследство.	Speaker=Barnacle Jones Notes=*new*
+conversation_3jgp0a_text	Слышал, она даже в общество ракетчиков вступила.	Speaker=Barnacle Jones
+conversation_9mc50k_text	Они эти штуки по всему миру строят.	Speaker=Barnacle Jones
+conversation_bsxzro_text	Слышишь, у тебя найдется время по пути обыскать пещеры, а, детка?	Speaker=Barnacle Jones Notes=*new* completely changed
+conversation_dz2y8u_text	Они, конечно, покруче шахт, там не расслабишься.	Speaker=Barnacle Jones Notes=*new* completely changed
+conversation_3g80ch_text	Но зато больше шансов найти что-нибудь ценное, улавливаешь?	Speaker=Barnacle Jones Notes=*new* completely changed
+conversation_nmjdda_text	Как только в пещере найдется что-нибудь, оно тут же будет отмечено {image cave_small} на карте. Так что нет нужды копать наобум.	Speaker=Barnacle Jones Notes=*new* completely changed
+conversation_u3ck3c_text	Кто мог подумать, что у этих сумасшедших фанатиков под их развалюхой столько сокровищ!	Speaker=Barnacle Jones
+conversation_zh09qm_text	Надо было три года назад раскопки начать!	Speaker=Barnacle Jones
+conversation_g3jyqr_text	Ну да, я слышал, что в развалинах живет безумная секта поклонников конца света.	Speaker=Barnacle Jones Notes=*format*'
+conversation_m4g0mn_text	Это их дело, я туда не суюсь, ясно?	Speaker=Barnacle Jones
+conversation_figdnq_text	Ты посмотри на этот город. Я сюда юнцом приехал. Надоело пахать в доках.	Speaker=Barnacle Jones
+conversation_saxa80_text	Городок был куда меньше, но вот потенциала было - ого-го!	Speaker=Barnacle Jones
+conversation_c0haij_text	Я тут построил отличный бизнес, оставалось найти того, у кого шестеренка не тонка.	Speaker=Barnacle Jones
+conversation_3qiyya_text	Нужно спускаться в неразведанные глубины этого мира, детка.	Speaker=Barnacle Jones Notes=*new* changed doll to kid
+conversation_281tok_text	Это рискованно, зато и награда стоит того.	Speaker=Barnacle Jones
+conversation_ef7tr2_text	Слышал про какие-то странные джунгли прямо в шахтах.	Speaker=Barnacle Jones
+conversation_amxf2l_text	Ну, тебя-то они не остановят.	Speaker=Barnacle Jones
+conversation_mp7r9y_text	Просто боюсь, что остальные нытики испугаются, ясно?	Speaker=Barnacle Jones
+conversation_fmy8mc_text	Говорят, ракета профессорши готова к запуску.	Speaker=Barnacle Jones
+conversation_mxjgvx_text	Я думал, у нее шурупы в башке заржавели, а теперь вижу, что она дело задумала, ясно?	Speaker=Barnacle Jones
+conversation_gd4ef6_text	Космос совсем не изучен, там полно возможностей для бизнеса.	Speaker=Barnacle Jones
+conversation_wr4wq2_text	Я и раньше строил бизнес с нуля, детка.	Speaker=Barnacle Jones Notes=*new* changed doll to kiddo
+conversation_mkud7m_text	А нынче у меня больше опыта, чем в молодости.	Speaker=Barnacle Jones
+conversation_08cc91_text	Как будет руда на продажу - сразу приходи, ясно?	Speaker=Barnacle Jones Notes=*new* moved it to the bottom
+
+# inhabitant_01
+conversation_07qv1j_text	Мой никчемный сынок понятия не имеет, что делает.	Speaker=Ma Yonker
+conversation_vx6mcl_text	Нам нужны опытные исследователи, чтобы спуститься под землю и найти причину этих землетрясений!	Speaker=Ma Yonker Notes=*format*
+conversation_hlqiyo_text	Я знаю, на что похоже смещение тектонической плиты. Разрази меня гром, детка, тут что-то другое!	Speaker=Ma Yonker
+conversation_q4ltpg_text	Нам нужен кто-то с мозгами и энтузиазмом. Кто-то, кто готов спуститься в эту шахту.	Speaker=Ma Yonker
+conversation_8w93yl_text	Я работаю в шахтах сколько себя помню, детка... Но таких землетрясений не видела.	Speaker=Ma Yonker
+conversation_ibhbb2_text	Я бы и сама слазила посмотреть, но посмотри на меня... Я уже не шахтер.	Speaker=Ma Yonker
+conversation_ffq3ty_text	Что с вами случилось?	Speaker=Dorothy
+conversation_9hmzci_text	Ох! Это бы несчастный случай в шахте?	Speaker=Fen Notes=*format*
+conversation_uy4syk_text	Если бы! Потратила кучу деталей на моих сынков-недоумков. Главная моя ошибка в жизни...	Speaker=Ma Yonker
+conversation_g3ij4k_text	{format singsong}Ску-у-ука!{format reset}	Speaker=Fen Notes=*new* changed format from emph to singsong
+conversation_xxgpup_text	Если б я могла, я б мухой сгоняла в эти туннели!	Speaker=Ma Yonker
+conversation_dgq9o3_text	Если хочешь спуститься ниже, тебе нужно {format highlight}починить фонарь{format reset}.	Speaker=Ma Yonker
+conversation_o8vje6_text	А что, в шахте и правда так опасно?	Speaker=Dorothy
+conversation_0c28a8_text	Ну, там ползает всякое зверье, но зато я бомжей давно не видала.	Speaker=Ma Yonker
+conversation_tt1za6_text	Мои старшенькие ремонтировали стены, чтоб эти двуногие не лезли.	Speaker=Ma Yonker
+conversation_n71xfs_text	Во время бомжацких войн я была совсем юной, но ужасы помню до сих пор.	Speaker=Ma Yonker
+conversation_u3tho1_text	Но внизу стоит быть ко всему готовой, детка.	Speaker=Ma Yonker
+conversation_8xtyi1_text	Иди в {format highlight}мастерскую{format reset} возле шахты и почини фонарь. Понятно, если можешь себе позволить детали...	Speaker=Ma Yonker
+conversation_y2vq9y_text	Разрази меня гром! Теперь ты и впрямь готова {format highlight}спуститься в шахту{format reset}, детка.	Speaker=Ma Yonker
+conversation_st3zju_text	Кто-нибудь бывал последнее время в Краснокаменном штреке?	Speaker=Dorothy
+conversation_0zamqc_text	С тех пор как перестали работать пневмолифты, никто.	Speaker=Ma Yonker
+conversation_5atg04_text	Если хочешь исследовать всю шахту, придется идти этим путем.	Speaker=Ma Yonker
+conversation_caroq1_text	Попробую сначала {format highlight}расчистить пневмошахту{format reset}.	Speaker=Dorothy
+conversation_kq5k2e_text	Только учти, что там порода чем глубже, тем тверже. Тебе нужны будут приличные инструменты.	Speaker=Ma Yonker
+conversation_yo8vom_text	Забраться глубже в шахту можно только через Краснокаменный штрек. По крайней мене, пока пневмолифты не работают.	Speaker=Ma Yonker
+conversation_sxlsip_text	Надеюсь взрывчатка мне поможет пробиться в Краснокаменный штрек.	Speaker=Dorothy
+conversation_2e9pz1_text	Должно сработать. Я сама так делала, и не раз.	Speaker=Ma Yonker
+conversation_wkl33e_text	Отправляйся на Взрывную станцию и {format highlight}получи взрывчатку{format reset}.	Speaker=Ma Yonker
+conversation_xtf9h2_text	Ну разве не славно, что штрек на месте и не завален? Не думаю, что мы застрахованы от взрыва.	Speaker=Mayor Mic Yonker
+conversation_5jzc1m_text	Пока пневмолифты не работают, вглубь шахты можно попасть только через Краснокаменный штрек.	Speaker=Ma Yonker
+conversation_3vmqnk_text	Надеюсь, ты там справляешься, детка.	Speaker=Ma Yonker
+conversation_u6rmdw_text	Из-за профессора Шерман я забеспокоилась насчет этих землетрясений, ржа их съешь.	Speaker=Ma Yonker
+conversation_nxlgy6_text	Она тратит все деньги на свою ракету.	Speaker=Ma Yonker
+conversation_ginz3u_text	Она умная. Думаю, она планирует эвакуацию.	Speaker=Ma Yonker
+conversation_jkfreb_text	Надеюсь, моему ржавомозглому сынку хватит шурупов выслушать ее.	Speaker=Ma Yonker
+conversation_3pntbk_text	Так! А ты отличный шахтер, а?	Speaker=Ma Yonker
+conversation_ebwh66_text	Возвращайся в Краснокаменный и разгреби этот завал.	Speaker=Ma Yonker
+conversation_dayt2l_text	Один правильный заряд - и Краснокаменный открыт!	Speaker=Dorothy
+conversation_5ji97r_text	Да, не считая каверн, он чертовски прочный.	Speaker=Ma Yonker
+conversation_m6zdrd_text	Рад, что он еще цел.	Speaker=Mayor Mic Yonker
+conversation_k7klvq_text	Чтобы раскапывать грязь на такой глубине, тебе нужно позаботиться об инструментах.	Speaker=Ma Yonker
+conversation_dspvhm_text	И, да! Не забывай приносить нам новые драгоценные камни!	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_sl7olj_text	Потрать часть денег на улучшение инструментов. На глубине затраты окупятся.	Speaker=Ma Yonker
+conversation_x0wxp1_text	Мне нужно попасть на Камнеломную станцию.	Speaker=Dorothy
+conversation_63gsgh_text	Внизу масса проломов и проходов, уж поверь!	Speaker=Ma Yonker
+conversation_qp9quj_text	У моих братьев талант отыскивать их... И блуждать там неделями.	Speaker=Mayor Mic Yonker
+conversation_x7yuib_text	Говорят, эти мясоголовые бомжи прорываются сквозь стену и устраивают тут бедлам.	Speaker=Ma Yonker
+conversation_hc3b2x_text	Сходи на разведку к бомжацким стенам. Ты наверняка {format highlight}найдешь станцию{format reset}, детка.	Speaker=Ma Yonker
+conversation_gducoe_text	Ну как, детка, видела бомжей? Давненько они к нам не наведывались.	Speaker=Ma Yonker
+conversation_yr3kie_text	Я заметила, что из-под Тамблтона, моего родного города, они тоже пропали.	Speaker=Dorothy
+conversation_owuynx_text	То есть, это массовое явление? Я их не встречала уже с пару месяцев как минимум.	Speaker=Ma Yonker
+conversation_3h8ujv_text	Они начали пропадать с тех пор, как Расти уничтожил Вектрона.	Speaker=Dorothy
+conversation_ezzezr_text	Про это я мало знаю, но уж с бомжами-то знакома.	Speaker=Ma Yonker
+conversation_dpbib8_text	Они вечно пробирались сквозь стену и путались у шахтеров под ногами.	Speaker=Ma Yonker
+conversation_3c3lpm_text	Может, их тоже выгнали землетрясения? Сбежали, как крысы с тонущего корабля!	Speaker=Ma Yonker
+conversation_tcvt6a_text	Уж не знаю, к добру это или к худу, что бомжи так приутихли.	Speaker=Ma Yonker
+conversation_67vh5i_text	Я нашла бомжей! У них в шахте небольшой городок.	Speaker=Dorothy
+conversation_iu5kqd_text	Ржа их съешь! Я бы в такое место не совалась. Там опасно!	Speaker=Ma Yonker Notes=*format*
+conversation_vhdww6_text	Они вроде бы не такие уж и плохие. Не такие, как я раньше видела.	Speaker=Dorothy
+conversation_cbcmjx_text	Я только в одном до ржавого болта уверена. Бомжам доверять нельзя!	Speaker=Ma Yonker
+conversation_0glm7l_text	Держись подальше от этого их городка, если жизнь дорога!	Speaker=Ma Yonker
+conversation_umbt7u_text	Копать у храма довольно опасно, но там до сих пор полно сокровищ.	Speaker=Ma Yonker
+conversation_c5baff_text	Ха, звучит многообещающе! Тебе явно стоит сходить туда и поискать их.	Speaker=Mayor Mic Yonker
+conversation_r8rlnp_text	Ай, ржа! Чтобы полезть в эти руины и найти там руду, нужен энтузиазм.	Speaker=Ma Yonker
+conversation_m8hqwy_text	Даже его братья не такие тупицы, чтобы {format highlight}сунуться в храм{format reset} под Ветреными равнинами.	Speaker=Ma Yonker
+conversation_bvz9xj_text	Их захватила безумная секта, культ конца света.	Speaker=Ma Yonker
+conversation_fj6bw8_text	Развалины в западной пустыне они тоже захватили.	Speaker=Ma Yonker
+conversation_u26tuh_text	Могу поспорить: там до сих пор командует старый пень Рональд. Он был неплохой мужик, но свихнулся на этой религиозной дури.	Speaker=Ma Yonker
+conversation_gr738j_text	Храм под Ветреными равнинами, может, и набит сокровищами, но он еще и опасен, как сто бомжей.	Speaker=Ma Yonker Notes=*format*
+conversation_grrmq6_text	Ты, детка, похоже, по уши в своей миссии!	Speaker=Ma Yonker
+conversation_335kyr_text	Тебе могут попасться следы древних цивилизаций. Вроде тех старых машин на станциях.	Speaker=Ma Yonker
+conversation_2jepw2_text	На моей памяти они там всегда были.	Speaker=Ma Yonker
+conversation_mv0s6q_text	Некоторые умники говорят, будто это бомжи нас построили.	Speaker=Ma Yonker
+conversation_vxki0p_text	Как по мне, так они вовсе не умники. Они себя еще экспертами называют.	Speaker=Mayor Mic Yonker
+conversation_ysj9vo_text	Я бы, пожалуй, не рисковала подкапываться под город бомжей. Кто знает, что ты там найдешь!	Speaker=Ma Yonker
+conversation_uj1muo_text	Если я хочу остановить землетрясения, то мне нужно раскопать много мест.	Speaker=Dorothy
+conversation_ykczsp_text	Слышала, профессорша что-то говорит про джунгли в шахте.	Speaker=Ma Yonker
+conversation_z8gocf_text	Ржа заешь! Не нравится мне это!	Speaker=Ma Yonker
+conversation_dzwjvq_text	И как нормальному боту копать в таких условиях... Мои сынки не справятся...	Speaker=Ma Yonker
+conversation_x3v93r_text	Может, ты не заметила, но они тупы, как ведро с болтами.	Speaker=Ma Yonker
+conversation_jmwahi_text	Думаю, нам стоит купить билеты на эту ракету.	Speaker=Ma Yonker
+conversation_8augkl_text	Мои мальчики, может, и бесполезны, но это все равно шестеренка от шестеренки моей.	Speaker=Ma Yonker
+conversation_9v0sjx_text	Думаю, надо будет забронировать пять билетов на ракету.	Speaker=Ma Yonker
+conversation_p75xau_text	Мило, что ты так вежливо слушаешь старую железку. Родители тобой наверняка гордятся!	Speaker=Ma Yonker
+conversation_8hjn65_text	Не то что мои сынки. Нет от них проку.	Speaker=Ma Yonker
+conversation_x6q3po_text	"Большая часть постоянно теряется, когда ""работает"" в шахте. А один - политик, ржа его ешь."	Speaker=Ma Yonker
+conversation_8tssip_text	Приятно, что хоть кто-то в шахте знает, что делает!	Speaker=Ma Yonker
+
+# inhabitant_02
+conversation_royiqq_text	Ого-го! Ничего себе {format nervous}землетрясение{format reset}.	Speaker=Penny Kettlebottom Notes=*new*
+conversation_0z0jlu_text	Круто! Ты смахиваешь на бота-провинциала - вроде меня! {format singsong}Как мило!{format reset}	Speaker=Penny Kettlebottom
+conversation_i3c2ki_text	Мне было так одиноко в последнее время. Деревенщиной себя чувствую.	Speaker=Penny Kettlebottom Notes=*format*
+conversation_fnv0dz_text	Мне-то казалось, это из сортира потянуло, а это деревенские тут ходят...	Speaker=Fen
+conversation_q58pva_text	Искорка твоя верно говорит. Не гожусь я для большого города.	Speaker=Penny Kettlebottom
+conversation_r68qcd_text	Фен, ты можешь для разнообразия быть чуточку вежливее? Вдруг тебе понравится!	Speaker=Dorothy
+conversation_6c81lb_text	Сомневаюсь.	Speaker=Fen
+conversation_qy4k1b_text	Думаю, мне надо возвращаться домой, на ферму.	Speaker=Penny Kettlebottom
+conversation_q27f56_text	Привет тебе еще раз, мой провинциальный друг!	Speaker=Penny Kettlebottom Notes=*format*
+conversation_bfqhtj_text	На нашего бедного мэра кто только не жалуется.	Speaker=Penny Kettlebottom
+conversation_xpriw7_text	А по мне, он знает, что говорит.	Speaker=Penny Kettlebottom
+conversation_kqxpuz_text	Ну, он же городской... Он-то привык к местным порядкам.	Speaker=Penny Kettlebottom
+conversation_tdhokx_text	Если б меня поставили управлять эдакой махиной, я б с винтиков слетела - хоть в металлолом отправляй.	Speaker=Penny Kettlebottom
+conversation_0k5x6v_text	Мэр наверняка знает, что делает.	Speaker=Penny Kettlebottom
+conversation_unbiry_text	Приятно тебя снова видеть!	Speaker=Penny Kettlebottom Notes=*format*
+conversation_fdlynd_text	Тут знакомства заводить ох как непросто.	Speaker=Penny Kettlebottom
+conversation_7ymnmr_text	Не то что дома: как тебя соберут, сразу всех знаешь.	Speaker=Penny Kettlebottom
+conversation_enl4xa_text	Этот город живет в своем ритме, все слишком заняты, чтобы просто поболтать. Даже на вежливость времени не хватает!	Speaker=Penny Kettlebottom
+conversation_aptgjz_text	Нет, дело просто в тебе.	Speaker=Fen
+conversation_cqddcg_text	Фен, прекрати, повежливее!	Speaker=Dorothy
+conversation_3avufg_text	Эх... Я иногда думаю: а они вообще замечают, когда кто-то пропал?	Speaker=Penny Kettlebottom Notes=*format*
+conversation_bibnd6_text	Я ж так понимаю, тут народ вечно теряется.	Speaker=Penny Kettlebottom
+conversation_l5r7sq_text	У нас-то дома хоть дружить умеют и своих не бросают.	Speaker=Penny Kettlebottom
+conversation_axrc0a_text	Я как тебя увидела - сразу поняла, что ты из маленького городка! Ты ведь умеешь дружить, правда?	Speaker=Penny Kettlebottom
+conversation_4ure1i_text	Ты говорила с этой чокнутой профессоршей, которая ракету строит?	Speaker=Penny Kettlebottom
+conversation_qahysn_text	Говорят, она унаследовала кучу денег и все их тратит на ракету.	Speaker=Penny Kettlebottom
+conversation_5923lp_text	Вот прям некуда больше!	Speaker=Penny Kettlebottom
+conversation_t94xdc_text	У нас в деревне тоже были такие - ракету строили.	Speaker=Penny Kettlebottom
+conversation_x71xpu_text	Может, что-то тут затевается, ты как думаешь?	Speaker=Penny Kettlebottom
+conversation_q3y399_text	Но, по-моему, эта - самая красивая. Нашу-то из силосной башни мастерили.	Speaker=Penny Kettlebottom
+conversation_12pu8k_text	Ты только подумай: чокнутые ботаники строят ракеты по всему миру. Как подумаю, {format laugh}смех разбирает{format reset}.	Speaker=Penny Kettlebottom
+conversation_e4onuf_text	У тебя усталый вид.	Speaker=Dorothy
+conversation_ob0wy7_text	Тут столько всего творится... Голова кругом!	Speaker=Penny Kettlebottom
+conversation_54qfjg_text	Я решила. Поеду домой.	Speaker=Penny Kettlebottom
+conversation_i33o07_text	Мы там волнуемся, только когда папаша Пеппер выгоняет парокопытных из хлева.	Speaker=Penny Kettlebottom Notes=Kettle, as in a pun on cattle. Steam cows are called Kettle.
+conversation_7bo632_text	Не работаю я под стрессом. Может, заведу себе десяток парокотиков.	Speaker=Penny Kettlebottom
+conversation_jcodma_text	Может, я еще потягаюсь с Бесс Клепкинс в конкурсе смазчиков.	Speaker=Penny Kettlebottom
+conversation_rjax07_text	Вот будет {format singsong}здорово{format reset} утереть нос этой задаваке Бесс Клепкинс.	Speaker=Penny Kettlebottom
+conversation_kzt23q_text	Думаю, мне надо возвращаться домой, на ферму.	Speaker=Penny Kettlebottom
+
+# climber_01
+conversation_vyjpoj_text	Из-за землетрясения лифт просто оборвался!	Speaker=Lady Botterley Notes=*format* There is a crashed elevator just next to them.
+conversation_ctbic6_text	{format singsong}Ой-ё-ёй{format reset}. Кто-нибудь разбился?	"Speaker=Fen Notes=*new* Added format on ""Ooooh"", removed horribly double use of horribly. Gleefully. Fen has lot of scadenfreude! :)"
+conversation_m9r7tc_text	Что вы, {format nervous}как можно!{format reset} Что ты за ужасное {format emph}создание{format reset}?	"Speaker=Lady Botterley Notes=*new* changed horrible to terrible and emphasised ""thing"""
+conversation_045qay_text	Эй, от {format emph}создания{format reset} слышу! Будь у меня мой амулет, я бы испарила тебя на месте!	Speaker=Fen Notes=She was locked in a statue before Dorothy destroyed it, then she moved into Dorothys chest cavity.
+conversation_fccwnq_text	Ну, кем бы ты ни была, тебе стоит поучиться манерам!	Speaker=Lady Botterley
+conversation_8oqmau_text	Пожалуйста, простите нас, мэм. Фен еще плохо ориентируется в нашем обществе.	Speaker=Dorothy
+conversation_acx7g7_text	И сколько же мне ждать, пока этот лифт не починят?	Speaker=Lady Botterley
+conversation_matp87_text	Ждать здесь в пустыне, в одиночестве, не пристало боту моего положения.	Speaker=Lady Botterley
+conversation_eb6uiw_text	Ждать здесь в пустыне, в одиночестве, не пристало боту моего положения.	Speaker=Lady Botterley
+conversation_c7c7g6_text	Местному мэру недостает бренда, но он небезнадежен.	Speaker=Lady Botterley
+conversation_mdqfxx_text	Боты нередко становятся большим, чем простая комбинация сборочных деталей.	"Speaker=Lady Botterley Notes=This is in reference to that all steambots are assembled, but the ""soul"" may lay in the parts, but anyone has free will."
+conversation_uynh2z_text	Мне следует позволить себе довериться его суждению. И всем остальным тоже.	Speaker=Lady Botterley
+conversation_if7w3g_text	Не вижу ничего страшного в этих землетрясениях. Этот лифт наверняка давно нуждался в починке.	Speaker=Lady Botterley
+conversation_540zgf_text	Очень надеюсь, что они пришлют кого-нибудь починить этот механизм. У меня, знаете ли, {format emph}не так много{format reset} времени, чтобы стоять тут и ждать.	Speaker=Lady Botterley
+conversation_t8w29c_text	Так, э... лифт все еще сломан?	Speaker=Dorothy
+conversation_2y8m3i_text	Разумеется, нет.	Speaker=Lady Botterley
+conversation_sbn8ap_text	Здесь не место для такой леди, как я, но тут хотя бы тихо.	Speaker=Lady Botterley
+conversation_x0xmdc_text	Эта невыносимая профессорша по соседству постоянно шумит со своими ракетами!	Speaker=Lady Botterley
+conversation_9hvgg5_text	Может, ты их с обрыва скинешь?	"Speaker=Fen Notes=""Hoof it"" - slang for run, or walk. Hoof like in horse foot!"
+conversation_b63bbp_text	Пф! Леди не лазают.	Speaker=Lady Botterley
+conversation_ff5hlh_text	Леди не лазают. Я намерена ждать, пока не починят лифт или пока меня кто-нибудь не унесет. Другое мне не подходит.	Speaker=Lady Botterley
+conversation_3lbfex_text	Все тут торчим, а?	Speaker=Fen
+conversation_ykf245_text	Да, я {format emph}все еще здесь{format reset}. И, да, лифт {format emph}все еще сломан{format reset}. Насмешки здесь неуместны.	Speaker=Lady Botterley
+conversation_c50t6h_text	Но это же абсурд! Леди вроде меня наверняка обыскались там, среди этих ржавых железок наверху.	Speaker=Lady Botterley
+conversation_8rvp8u_text	Мэру стоит объяснить свое поведение.	Speaker=Lady Botterley
+conversation_wpxim7_text	Я уверена, что все горюют обо мне. Я важная персона, знаешь ли.	Speaker=Lady Botterley
+conversation_gtukg8_text	Ты ж никуда не собираешься, так?	Speaker=Fen
+conversation_cudej5_text	У меня появилось новое хобби.	Speaker=Lady Botterley
+conversation_h438q0_text	Считаю паломников, которые направляются на запад, к этому мерзкому храму.	Speaker=Lady Botterley
+conversation_e0mg3i_text	В нормальных условиях я бы на них никакого внимания не обратила, но здесь так скучно.	Speaker=Lady Botterley
+conversation_x9lbaf_text	Эти паломники что-то замышляют. Мне, право, не стоит опускаться до подобных мелочей.	Speaker=Lady Botterley
+conversation_ef66r2_text	Опять ты? Тебе больше делать нечего, кроме как беспокоить меня?	Speaker=Lady Botterley
+conversation_4ay3w5_text	Есть, но троллить тебя так весело!	Speaker=Fen
+conversation_b1t04s_text	Мало мне этих землетрясений.	Speaker=Lady Botterley
+conversation_6ntyzc_text	Ладно. Я пришла к заключению, что этот мэр - идиот.	Speaker=Lady Botterley
+conversation_9sm12u_text	Понимаю, в это трудно поверить, но даже я порой слегка отклоняюсь от истины в своих суждениях.	Speaker=Lady Botterley
+conversation_ce5r53_text	Да ты что!	Speaker=Fen
+conversation_1zdfzx_text	Интересно, сколько может стоить билет на ракету...	Speaker=Lady Botterley
+conversation_4y3t9l_text	Интересно, сколько может стоить билет на ракету...	Speaker=Lady Botterley
+conversation_bfqth1_text	Ждать здесь в пустыне, в одиночестве, не пристало особе моего положения.	Speaker=Lady Botterley
+
+# entering_guidance
+conversation_kohvbb_text	{format emph}Ай!{format reset}	Speaker=Dorothy Notes=*DEMO*
+conversation_1a5f80_text	Да чтоб тебя! Свет погас. Сломался.	Speaker=Dorothy Notes=*format* *DEMO*
+conversation_9rx08a_text	Ого! Это еще {format emph}что{format reset} за место?	Speaker=Dorothy Notes=*DEMO*
+conversation_ojjbl5_text	Нужно осмотреться тут и {format highlight}найти другой путь наружу{format reset}.	Speaker=Dorothy Notes=*DEMO*
+
+# cutscene_fen
+conversation_y5enud_text	О {format singsong}великий Путеводный Свет!{format reset} Воссияй нам.	Speaker=Cultist Notes=*DEMO*
+conversation_hnsad0_text	ДА, МОЖЕШЬ ГРЕТЬСЯ В МОЕМ РАЗРУШИТЕЛЬНОМ СИЯНИИ.	Speaker=The Guiding Light Notes=*format* *DEMO*
+conversation_a1al3q_text	{format singsong}О счастье!{format reset} Нас ждет великое вознесение!	Speaker=Cultist Notes=*DEMO*
+
+# cutscene_fen_02
+conversation_2ln8fi_text	Эй! Чокнутый фанатик, я тебя щас освещу!	Speaker=Fen Notes=*format*
+conversation_qzp3tz_text	Я же говорю, я {format emph}не фанатик!{format reset}	Speaker=Dorothy
+conversation_ksn1s4_text	Да ну? Вы, боты, для меня все на одно лицо.	Speaker=Fen
+conversation_g22jzu_text	{format emph}Ты{format reset} смахиваешь на спрайт Вектрона. Как так {format emph}может быть?{format reset}	Speaker=Dorothy
+conversation_01a075_text	Мой друг Расти уничтожил Вектрон - прежде чем сам пропал.	Speaker=Dorothy
+conversation_w28at6_text	Секта украла меня и подрубила сюда, чтобы поклоняться. Хотели, чтоб я их испарила. Вознесла, {format laugh}гы-гы-гы!{format reset}	Speaker=Fen
+conversation_krzwlf_text	Хм... А я без амулета с этим не справлюсь. И что нам теперь делать?	Speaker=Fen
+conversation_wfa9i6_text	Ну... {format emph}Лично я{format reset} собираюсь наверх, в большой город. Говорят, там видели Расти.	Speaker=Dorothy
+conversation_qhu4n0_text	В город, говоришь? Ну ладно, раз ты так настаиваешь, придется пойти с тобой.	Speaker=Fen
+
+# cutscene_fen_01
+conversation_e2v16f_text	В ЯБЛОЧКО! {format laugh}ХА-ХА-ХА!{format reset}	Speaker=The Guiding Light Notes=*DEMO*
+conversation_z0997i_text	Ух ты! Что там {format emph}происходит{format reset}?	Speaker=Dorothy Notes=*DEMO*
+conversation_0dz6we_text	КАК МИЛО! ЕЩЕ ОДИН ПАЛОМНИК!	Speaker=The Guiding Light Notes=*format* *DEMO*
+conversation_mzljgp_text	Но я не...	Speaker=Dorothy Notes=*DEMO*
+conversation_yadt78_text	ГОТОВЬСЯ ИСПАРИТЬСЯ! {format laugh}ПИУ-ПИУ!{format reset}	Speaker=The Guiding Light Notes=*new* *DEMO* moved the pew-pew line from below into this line.
+
+# fen_ledge_01
+conversation_cukwql_text	О-о-о, что за вид! Хочешь поближе посмотреть?	Speaker=Fen
+
+# fen_ledge_02
+conversation_aszmw4_text	Давай, подойди ближе!	Speaker=Fen
+conversation_skvrgn_text	{format singsong}Бли-и-иже, бандерлоги...{format reset} {format laugh}хи-хи-хи!{format reset}	Speaker=Fen
+
+# old_salesbot_01
+conversation_x6t79e_text	Ржа меня ешь, если это не Дороти Мак-Скряг!	Speaker=Trader Carson
+conversation_yu1bwf_text	Мистер Карсон! Я уж не думала, что встречу знакомых так далеко от дома.	Speaker=Dorothy
+conversation_0hioym_text	Ну что, как там делишки в вашем Тамблтоне? Слухи разные ходят!	Speaker=Trader Carson
+conversation_dslq5p_text	Все началось с приезда Расти. Он накопал в шахте кучу всего ценного и привел город к процветанию.	Speaker=Dorothy
+conversation_8tr70j_text	Но потом внизу он обнаружил какую-то странную технику. Он объединился с ней и стал сильнее.	Speaker=Dorothy
+conversation_70kkpo_text	Давай уже, переходи к самому интересному!	Speaker=Fen
+conversation_xfpxnh_text	Ладно. Оказалось, источник таинственной силы опасен для всех нас.	Speaker=Dorothy
+conversation_epbknd_text	Он одолел его и спас нас, но после этого исчез. И с тех пор я его ищу.	Speaker=Dorothy
+conversation_c5qvu8_text	Один путешественник увидел мои объявления о пропаже, и сказал мне, что Расти видели в шахте в Эль Макино.	Speaker=Dorothy
+conversation_i625og_text	Да, классная история!	Speaker=Trader Carson
+conversation_umknih_text	Если в двух словах, мой друг пропал.	Speaker=Dorothy
+conversation_hp7xc3_text	Один путешественник увидел мои объявления о пропаже и сказал, что видел его в шахте в Эль Макино.	Speaker=Dorothy
+conversation_nfwjrx_text	Сейчас лифт в город сломан, придется тебе {format highlight}лезть вверх самой{format reset}.	"Speaker=Trader Carson Notes=*new* changed ""well"", to ""now"""
+conversation_c1qqn0_text	Я, кстати, тоже скоро там буду. Заходи, если тебе понадобятся детали {image cogs_small}. Купи их, чтобы легче было в шахтах.	Speaker=Trader Carson
+conversation_m6jpam_text	Надеюсь, тебе повезет его отыскать.	Speaker=Trader Carson
+conversation_q4eiud_text	А я еще посижу здесь, дам старым пружинам отдохнуть, прежде чем подниматься в город.	Speaker=Trader Carson
+conversation_yx3y9m_text	А пока я жду, может, ты расскажешь мне, что случилось в Тамблтоне?	Speaker=Trader Carson
+conversation_x7qfv2_text	Ладно, может, в другой раз.	Speaker=Trader Carson
+conversation_5nktdz_text	Ах! Обожаю городскую роскошь.	Speaker=Trader Carson
+conversation_tj5uh7_text	Хипстероботы тут готовы платить любую цену за мои фирменные детали для улучшений {image cogs_small}.	Speaker=Trader Carson
+conversation_nqd450_text	Я неплохо устроился. Езжу туда-сюда, продаю полезные детальки.	Speaker=Trader Carson Notes=*new*
+conversation_ny6f1a_text	Обычно я их покупаю на распродажах и в комиссионках, но некоторые можно найти просто у дороги.	Speaker=Trader Carson Notes=*new*
+conversation_smo857_text	Они производят такой характерный шум, будто тикают негромко.	Speaker=Trader Carson Notes=*new*
+conversation_gq1rfi_text	С непривычки их трудно услышать, но если будешь старательно прислушиваться, то все получится.	Speaker=Trader Carson Notes=*new*
+conversation_dm175r_text	Давненько я твоего папашу не видал, как он там?	Speaker=Trader Carson
+conversation_w6hv5b_text	Боюсь, помер недавно.	Speaker=Dorothy
+conversation_by4nym_text	Ох, грустно-то как! Я всегда думал, он нас всех переживет...	Speaker=Trader Carson
+conversation_1g9zr8_text	...Уж хотя бы из чистого упрямства.	Speaker=Trader Carson
+conversation_cgmjf4_text	Я тоже...	Speaker=Dorothy
+conversation_i5igy1_text	А что же случилось с вашим магазинчиком, раз ты тут копаешь?	Speaker=Trader Carson
+conversation_lp4kx4_text	О, в Тамблтоне все по-прежнему. У меня была куча покупателей на бизнес.	Speaker=Dorothy
+conversation_a7uh25_text	Я-то всегда хотела в шахте работать, только папа говорил, что это слишком опасно.	Speaker=Dorothy
+conversation_kyijyo_text	Ну что ж, я рад, что ты теперь занимаешься любимым делом.	Speaker=Trader Carson
+conversation_s5417g_text	Хорошо было бы все-таки найти того парня, что спас твой городишко.	Speaker=Trader Carson
+conversation_tgpso6_text	У меня тогда не было дел в ваших краях.	Speaker=Trader Carson
+conversation_10nfc4_text	Как ты говоришь, его зовут? Страсти... Или нет... Здрасти! Так ведь, да?	Speaker=Trader Carson
+conversation_vzg8gx_text	Расти...	Speaker=Dorothy
+conversation_ymzbde_text	Ну да, точно. Так что, он одолел огромного монстра в шахте? Сам, без всякой помощи?	Speaker=Trader Carson
+conversation_la8vr6_text	А когда все закончилось, просто исчез!	Speaker=Trader Carson
+conversation_k59dwv_text	Ну что ж, крошка Дот, удачи в поисках. Надеюсь, он жив-здоров и ты его найдешь.	Speaker=Trader Carson
+conversation_bzq0aw_text	Мир здорово изменился с тех пор, как я был юным ботом.	"Speaker=Trader Carson Notes=*new* removed ""nothing"""
+conversation_zc6l96_text	В шахте растет лес, боты в космос собираются...	Speaker=Trader Carson
+conversation_jnptai_text	А я все продаю детали {image cogs_small}, как всегда.	Speaker=Trader Carson
+conversation_rk0bii_text	Будущее - его вы, молодые, строите.	Speaker=Trader Carson
+conversation_r74j24_text	Кстати, у меня тут есть детали {image cogs_small} на продажу. С тебя много не возьму!	Speaker=Trader Carson Notes=Upgrade Cogs are used to enhance various equipement. Look like golden gear/cog.
+conversation_0qym9q_text	Ну как, хочешь еще шестеренку-другую {image cogs_small}?	Speaker=Trader Carson
+conversation_yx06g0_text	Как тебе предложение: Можешь купить отличную новую шестеренку {image cogs_small} всего-то за ${var pricelist_next:carson_cogs}{image money_small}.	Speaker=Trader Carson
+conversation_x4iaao_text	С тобой приятно иметь дело, заходи еще!	Speaker=Trader Carson
+conversation_zfed36_text	Ты отличный клиент, Дотти! Это последняя деталь. Рад, что они тебе пригодились!	Speaker=Trader Carson
+conversation_koo3mt_text	Эх, хотел бы я тебе задаром помочь, но нам, торговцам, тоже надо на что-то жить.	Speaker=Trader Carson
+conversation_1yrec8_text	Ну ладно. Приходи, как шестеренки понадобятся {image cogs_small}!	Speaker=Trader Carson
+conversation_27y4o8_text	А у тебя папашина смекалка, я смотрю.	Speaker=Trader Carson
+
+# cutscene_fen_03
+conversation_c3lb0g_text	Эй, ты что творишь? А ну, {format emph}прочь{format reset} из моей топки!	Speaker=Dorothy
+
+# fen_conquerer
+conversation_f2k0wg_text	Вот, значит, как оно наверху. Светло!	Speaker=Fen
+conversation_x8lfrw_text	Эй, а у тебя клевая карта! Можешь по ней кого-нибудь найти?	Speaker=Dorothy
+conversation_02breo_text	И хотела бы - не нашла б.	Speaker=Fen
+conversation_fek90f_text	Ты мне напоминаешь светляков из папиных историй. Они были просто феноменально противные.	"Speaker=Dorothy Notes=Fen is reference to ""Fenlights"", a supernatural folklore being that lured people into the woods."
+conversation_duq0rd_text	Буду звать тебя Феномен. Фен для краткости.	Speaker=Dorothy
+conversation_uostgv_text	Я Дороти. Можно Дот.	Speaker=Dorothy Notes=*new* split from line above
+conversation_em0ovz_text	Ну и ладно. Полезу-ка я назад, греться.	Speaker=Fen
+conversation_tats2u_text	Разбуди, как будет что-нибудь интересное.	Speaker=Fen
+
+# mayor_01
+conversation_szoc5w_text	Добрый день, я опаздываю на полировку. Жалобы оставляйте в кабинете.	Speaker=Mayor Mic Yonker
+conversation_r6bmk4_text	Если это насчет землетрясений, можете не беспокоиться. Обычное явление в этой местности.	Speaker=Mayor Mic Yonker
+conversation_orgrlo_text	Я не жаловаться пришла. Мне нужен доступ в шахту, чтобы найти там пропавшего бота.	Speaker=Dorothy
+conversation_2k8w6x_text	{format laugh}Ха!{format reset} А мне нужно, чтобы шахта снова заработала. У тебя даже фонаря нет!	Speaker=Mayor Mic Yonker
+conversation_o8zw9i_text	Ты скорее сама там потеряешься, а мне это совсем некстати. Только не перед выборами.	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_2ok5e8_text	Я же сказал: есть {format emph}зона побезопаснее{format reset}. В шахте, слева от лестницы.	Speaker=Mayor Mic Yonker
+conversation_kbljxa_text	Если {format highlight}накопаешь руды{format reset} на новый фонарь, охрана пустит тебя в большую шахту.	Speaker=Mayor Mic Yonker
+conversation_dgln8s_text	Эй! Я не могу позволить тебе пропасть в шахте. {format highlight}Насобирай ресурсов{format reset} и почини фонарь!	Speaker=Mayor Mic Yonker
+conversation_wdf2e3_text	Я смотрю, ты хорошо поработала! Не думал, что у тебя выйдет. Иди к Клешнерукому Джонсу!	Speaker=Mayor Mic Yonker
+conversation_y8rutk_text	Вон там, зеленый такой, с клешнями. {format highlight}Обменяй руду{format reset} на деньги.	Speaker=Mayor Mic Yonker
+conversation_35uglo_text	{format highlight}Продай руду{format reset} Клешнерукому Джонсу.	Speaker=Mayor Mic Yonker
+conversation_p2p0j1_text	Эй! Деньги чего-то стоят, только если их тратить.	Speaker=Mayor Mic Yonker
+conversation_hd3efw_text	Иди-ка {format highlight}почини фонарь{format reset} в мастерской.	Speaker=Mayor Mic Yonker
+conversation_z86wxp_text	Тот квадратный тихоня тебе поможет.	Speaker=Mayor Mic Yonker
+conversation_w5r2nd_text	Иди {format highlight}почини фонарь{format reset} в мастерской.	Speaker=Mayor Mic Yonker
+conversation_ujjfnb_text	Ну вот, так-то лучше! Теперь ты и впрямь готова {format highlight}спуститься в шахту{format reset}.	Speaker=Mayor Mic Yonker
+conversation_woghf0_text	Да, и не забывай таскать нам руду, мою прелес-сть!	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_5r6n65_text	Привет! Приятно, что хоть кто-то снова начал поставку руды.	Speaker=Mayor Mic Yonker
+conversation_x2jdkd_text	Расту над собой. Не считая стычек со всякими противными тварями.	Speaker=Dorothy
+conversation_b8dzdr_text	Ну да, я это всем говорю! Они все дергаются почем зря.	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_cjntod_text	Я отправлюсь в Краснокаменный штрек и посмотрю, можно ли {format highlight}починить лифт{format reset}.	Speaker=Dorothy
+conversation_pnbpzi_text	Ты, главное, не прекращай таскать сюда руду!	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_2pgjla_text	И трать заработок в городских заведениях.	Speaker=Mayor Mic Yonker
+conversation_j881iu_text	Эй! Там и перед Краснокаменным полно руды. Нечего туда лезть попусту.	Speaker=Mayor Mic Yonker
+conversation_827vm7_text	Понятия не имею, почему бы тебе не оставить взрывную станцию в покое.	Speaker=Mayor Mic Yonker
+conversation_850lak_text	Нам правда нужно взрывать все, будто чокнутым бомжам?	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_ebyo6x_text	А у тебя, сынок, есть другой план, как расчистить Краснокаменный?	Speaker=Ma Yonker
+conversation_hkla2t_text	Я просто не понимаю, зачем ей лезть так глубоко.	Speaker=Mayor Mic Yonker
+conversation_s2zuik_text	Я же говорю: там руда поценнее, чем у поверхности.	Speaker=Ma Yonker
+conversation_o84rmq_text	Ну, раз {format emph}так{format reset}, то конечно...	Speaker=Mayor Mic Yonker Notes=*new* changed format from laugh to emph
+conversation_wray1t_text	Чем тебе не нравится старая добрая кирка? Нам что, прям вот так уж нужны бомбы?	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_b6rus0_text	Я лучше пойду к Краснокаменному, займусь расчисткой.	Speaker=Dorothy
+conversation_j39zeq_text	Для нас всех будет лучше, если его расчистят.	Speaker=Ma Yonker
+conversation_vxn818_text	Эй, я же {format emph}не против{format reset} заполучить все эти драгоценные камни из глубокой шахты.	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_7zj949_text	Будем надеяться, что ты расчистишь Краснокаменный, а не сделаешь еще хуже.	Speaker=Mayor Mic Yonker
+conversation_f7egkh_text	Теперь Краснокаменный штрек открыт, и я смогу искать Расти еще глубже.	Speaker=Dorothy
+conversation_ksg9fp_text	Эй, а его что, еще не нашли? Ну, ты только носи сюда побольше руды.	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_gu106f_text	До защитной стены можешь копать без препятствий, детка.	Speaker=Ma Yonker
+conversation_56ijq0_text	Боюсь, твой дружок провалился в какую-нибудь трещину в стене.	Speaker=Ma Yonker
+conversation_ynbcdq_text	Я бы на твоем месте заглянула на каменоломную станцию.	Speaker=Ma Yonker
+conversation_twgnbe_text	Там есть старая машинка, которая тебе здорово поможет.	Speaker=Ma Yonker
+conversation_51emyp_text	Это та, которую мои брательники в прошлом году в кирпичную кладку замуровали?	Speaker=Mayor Mic Yonker
+conversation_8gee3i_text	А, ржа их ешь! Но ты наверняка {format highlight}найдешь способ{format reset} справиться с кирпичами.	Speaker=Ma Yonker
+conversation_4sh4u4_text	Эй! Если найдешь - скажи, я потом кого-нибудь пошлю залатать стену.	Speaker=Mayor Mic Yonker Notes=*new* removed the line beneath this.
+conversation_gbjzn6_text	Я нашла под стеной очень странный проход. Он зарос странными растениями.	Speaker=Dorothy Notes=*new* changed cave to passage
+conversation_jsqibo_text	Ну, как по мне, на такой глубине все странным кажется. В конце концов, там страна бомжей недалеко.	Speaker=Mayor Mic Yonker
+conversation_2xq01z_text	Мои остальные тупые сынки что-то говорили о заросшей пещере.	Speaker=Ma Yonker
+conversation_aukq83_text	Я-то думала, это давление им шурупы сместило.	Speaker=Ma Yonker
+conversation_8rttb6_text	Братья обнесли камнеломную станцию стеной.	Speaker=Mayor Mic Yonker
+conversation_6scmnj_text	Они такие, моим парням всем шурупов не хватает.	Speaker=Ma Yonker
+conversation_jseqve_text	Я добралась до стены и нашла камнеломную станцию... А вот следов Расти пока не вижу.	Speaker=Dorothy
+conversation_saqvas_text	Эй! Да какой разумный бот закопается так глубоко? Ты же не хочешь {format highlight}залезть к бомжам{format reset}, правда же?	Speaker=Mayor Mic Yonker
+conversation_41t2gq_text	Этот отбойный молоток вмиг расколотит кирпичи и поможет тебе спуститься туда.	Speaker=Ma Yonker
+conversation_nlrzra_text	Только следи, чтоб вода не кончилась. Он ее расходует, как БОТсман в пустыне!	Speaker=Ma Yonker
+conversation_x4aowp_text	Эй, ты только бомжей сюда не приводи. Этого мне точно не надо!	Speaker=Mayor Mic Yonker
+conversation_acygrc_text	Будешь стену пробивать - осторожней. И берегись этих бомжей ненормальных.	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_mo33pi_text	Эта психованная профессор Шерман сеет панику со своими псевдоисследованиями землетрясений.	Speaker=Mayor Mic Yonker Notes=*new* removed fake news to tone down Trumpism
+conversation_27gaig_text	Эй, толчки даже не перевернули ничего.	Speaker=Mayor Mic Yonker
+conversation_ydzkaa_text	Носится со своей ракетой, а на нас свысока смотрит. Только потому что у нее ученая степень.	Speaker=Mayor Mic Yonker
+conversation_667vwu_text	Шерман думает, она умнее всех, раз степень получила. {format laugh}Ха!{format reset} Из всех бумажек тут ценятся только зеленые...	Speaker=Mayor Mic Yonker
+conversation_jx90fz_text	Эта тупая секта прячет какую-то {format emph}машину судного дня{format reset}.	Speaker=Dorothy
+conversation_jw27fp_text	Это из-за нее земля трясется, ржа ее?	Speaker=Ma Yonker
+conversation_9baw7n_text	Эй, ну так это точно не наша проблема!	Speaker=Mayor Mic Yonker
+conversation_7m1f5t_text	Нельзя же ждать от мэрии, чтоб мы разбирались со всякими там концами света.	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_qbl22o_text	Моя задача - отправлять ботов в шахту и получать драгоценные камни. И налогами шахтеров облагать.	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_v4im3u_text	Ты тут за все отвечаешь, тупица. Занял должность - теперь разбирайся!	Speaker=Ma Yonker
+conversation_v6x25f_text	Эй, а девочка ж уже бывала в храме. Она может сходить туда еще раз и отключить машину!	Speaker=Mayor Mic Yonker
+conversation_6dx6ev_text	Нет машины - нет проблемы! И не забывай приносить новые драгоценные камни!	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_6aje4l_text	Эй, ну как, было время заскочить в храм и {format highlight}разобраться с этой дурацкой машиной{format reset}?	Speaker=Mayor Mic Yonker
+conversation_3lxi6c_text	Мы уничтожили машину рока.	Speaker=Dorothy
+conversation_rv004f_text	Ага, мы круты! Вы б видели, как она взорвалась!	Speaker=Fen
+conversation_7nmsnx_text	Ну вот! У мэрии все под контролем!	Speaker=Mayor Mic Yonker
+conversation_qpbmn2_text	{format emph}Идиот!{format reset}	Speaker=Ma Yonker
+conversation_j8m71m_text	Эй, {format emph}это ведь я{format reset}, между прочим, отправил ее в шахту.	Speaker=Mayor Mic Yonker
+conversation_sptgv3_text	Мои заслуги нужно признать. Это ведь я отправил тебя в шахту.	Speaker=Mayor Mic Yonker
+conversation_2h1yth_text	Мы нашли в шахте и другие устройства, вызывающие землетрясения.	Speaker=Dorothy
+conversation_xbnodu_text	Ой, да {format emph}хватит{format reset}! Можно мне хоть минуту вздохнуть спокойно?	"Speaker=Mayor Mic Yonker Notes=*new* enclosed ""come"" into the format"
+conversation_6c2elx_text	Эй, мне всего-то нужна была непыльная работка - чтоб не лазить в эти вонючие шахты.	Speaker=Mayor Mic Yonker
+conversation_kk8x0s_text	Если ты не {format highlight}отключишь эти устройства{format reset}, мне придется эвакуировать весь город!	Speaker=Mayor Mic Yonker
+conversation_hmjz7t_text	Ты хоть представляешь, сколько это будет стоить?	Speaker=Mayor Mic Yonker
+conversation_qzd676_text	Ну хоть ценные ископаемые потаскай с глубины, раз ты все равно там.	Speaker=Mayor Mic Yonker Notes=*format*
+conversation_ocz2bm_text	Ну что, ты уже отключила те устройства?	Speaker=Mayor Mic Yonker
+conversation_wihfk8_text	То джунгли в шахте растут, то сектанты конец света готовят...	Speaker=Mayor Mic Yonker
+conversation_jcggy6_text	Прошлому-то мэру наверняка не приходилось иметь с таким дело...	Speaker=Mayor Mic Yonker
+conversation_8d282i_text	Я уже почти жалею, что не пошел в семейный бизнес. Братья-то, вон, не жалуются.	Speaker=Mayor Mic Yonker
+conversation_w4v0m6_text	Думаю, надо паковать чемоданы вместе с избирателями.	Speaker=Mayor Mic Yonker
+conversation_mm9lt2_text	Не могу же я быть мэром без города, так? Хм, это утешает...	Speaker=Mayor Mic Yonker
+conversation_e4p6yr_text	Эй, может, я тогда займусь семейным бизнесом. Буду астероиды разрабатывать...	Speaker=Mayor Mic Yonker
+conversation_yzrylo_text	"Привет! Как тебе слоган? ""Делай дело, что бы ни взлетело!"" Нравится, а?"	Speaker=Mayor Mic Yonker
+
+# talk_to_mayor
+conversation_pap70a_text	Шахтер с красным шарфом? Это {format emph}Расти{format reset}! В кои веки зацепка!	Speaker=Dorothy
+conversation_n0lq8o_text	Мне нравятся эти землетрясения.	Speaker=Fen
+conversation_3nu9ex_text	Ничто так не красит приключение, как хаос и неразбериха!	Speaker=Fen
+conversation_elfbhm_text	Нужно {format highlight}поговорить с мэром{format reset} и получить пропуск в шахту.	Speaker=Dorothy
+
+# guard_archaea
+conversation_lty8j0_text	Эй! Вам тут копать нельзя, юная леди!	Speaker=Coral Armstrong
+conversation_ml6q7x_text	Шахтеров и так достаточно пропало, ясно вам?	Speaker=Coral Armstrong
+conversation_cmr7ae_text	Думаю, вам с мэром надо поговорить. Получите пропуск.	Speaker=Coral Armstrong
+conversation_jqyolm_text	Па-астойте-ка, девушка! Я вас не пропущу без надлежащего источника света.	Speaker=Coral Armstrong Notes=Her chest lamp is busted
+conversation_jmhinb_text	Мне же просто друга найти нужно! Можно я одним глазком загляну?	Speaker=Dorothy
+conversation_97lht6_text	Да, пусть заглянет. Может, она даже вернуться сможет. {format emph}Или нет.{format reset}.	Speaker=Fen
+conversation_naakhs_text	Я так понимаю, у нас {format emph}еще один{format reset} шахтер пропал.	Speaker=Coral Armstrong
+conversation_wjso4t_text	Лезть туда на ощупь слишком опасно. Может, лучше {format highlight}покопаешь руду{format reset} в освещенной зоне?	Speaker=Coral Armstrong
+conversation_iom5do_text	Лезть туда на ощупь слишком опасно. Может, лучше сначала {format highlight}починишь фонарь{format reset} в городе?	Speaker=Coral Armstrong
+conversation_c5cn1e_text	Эй! Чтобы заработать на хороший фонарь, тебе нужно {format highlight}накопать руды{format reset}.	Speaker=Coral Armstrong
+conversation_6b9sev_text	Может, {format highlight}продашь свою руду{format reset} и отдашь фонарь в починку?	Speaker=Coral Armstrong
+conversation_66rd82_text	Ты вроде как сможешь {format highlight}починить фонарь{format reset} в мастерской в город.	Speaker=Coral Armstrong
+conversation_94r9zk_text	Хм! Похоже, ты готова к раскопкам!	Speaker=Coral Armstrong
+conversation_n9j9h3_text	Так вы мне разрешаете {format highlight}спуститься в шахту{format reset}?	Speaker=Dorothy
+conversation_p0ntw5_text	Конечно! Только покажи, как ты {format highlight}зажжешь фонарь{format reset} вон там, и я открываю люки.	Speaker=Coral Armstrong
+conversation_wphcux_text	{format highlight}Зажги вон тот фонарь{format reset}, и я пущу тебя в шахту.	Speaker=Coral Armstrong
+conversation_f36o1k_text	По-моему, воспользоваться пневмолифтом будет куда быстрее, чем топать до города пешком.	Speaker=Coral Armstrong Notes=*new* expanded this as I removed the full text that was used before. It was repatative.
+conversation_ih3zjl_text	Вы были правы насчет Краснокаменного штрека. Он завален.	Speaker=Dorothy
+conversation_lynw1k_text	Неудивительно.	Speaker=Coral Armstrong
+conversation_arg7cq_text	Но по мне, немного взрывчатки его расчистит.	Speaker=Coral Armstrong
+conversation_94selp_text	По мне, если правильно установить заряд, Краснокаменный расчистится как миленький	Speaker=Coral Armstrong
+conversation_pl5kjt_text	По мне, тебе стоит рассказать мэру, как расчистишь Краснокаменный.	Speaker=Coral Armstrong
+conversation_d3sb26_text	Мне в шахтах много кто встречался, но бомжи - самые опасные и непредсказуемые.	Speaker=Coral Armstrong Notes=Shiners are cave dwelling human decendants.
+conversation_a458ae_text	Война еще до меня была, но на мою долю тоже выпали стычки с этими обалдуями.	Speaker=Coral Armstrong Notes=A long time ago there was a war between humans and steambots that eventually drove humanity under ground.
+conversation_t6mrk7_text	Говорить с ними смысла нет, надо сразу бить - и побыстрее	Speaker=Coral Armstrong
+conversation_pygh76_text	Может, это грубо, но я предпочитаю не рисковать.	Speaker=Coral Armstrong
+conversation_xgdjhu_text	Хорошо, что после войны стену построили.	Speaker=Coral Armstrong
+conversation_ujn89n_text	Может, раньше эти бомжи и другие были.	Speaker=Coral Armstrong
+conversation_nd5hoz_text	Теперь они на всю голову больные и землю трясут.	Speaker=Coral Armstrong Notes=Quake makers, as in earth quake. He's blaming the frequent earthquakes on the shiners.
+conversation_5xd7xt_text	По мне, мутантам никогда нельзя доверять.	Speaker=Coral Armstrong
+conversation_y6jyvf_text	Видела ненормальных паломников из секты?	Speaker=Coral Armstrong
+conversation_1tzeuc_text	Они иногда бродят по шахте между храмами.	Speaker=Coral Armstrong
+conversation_147ntm_text	Обычно-то они по Ветреным Равнинам идут.	Speaker=Coral Armstrong
+conversation_f34oeg_text	Ничего против них не имею против. Хоть не так одиноко, когда они тут.	Speaker=Coral Armstrong
+conversation_l509g4_text	Ничего себе, как глубоко ты забралась.	Speaker=Coral Armstrong
+conversation_lbobkd_text	Но смотри, не зевай. Мне рассказывали об опасностях, про которые в городе мало кто знает.	Speaker=Coral Armstrong Notes=*format*
+conversation_alemgw_text	Всегда смотри, чтоб ты могла вернуться. Туннель без выхода - это, почитай, большой гроб.	Speaker=Coral Armstrong
+conversation_51bz8w_text	{format emph}Помни об этом{format reset} и запасись броней.	Speaker=Coral Armstrong
+conversation_e9lgr6_text	Будь начеку и следи за снаряжением - вот лучший совет, что я могу дать.	Speaker=Coral Armstrong
+conversation_19pnkh_text	Братья Йонкеры, кажись, видели какие-то заросли в шахте.	Speaker=Coral Armstrong
+conversation_205qqo_text	Говорят, они разрастаются, но в город я их не пропущу.	Speaker=Coral Armstrong
+conversation_59fokz_text	Надо бы топор получше купить на всякий случай. В конце концов, не пригодится - найду другое применение.	Speaker=Coral Armstrong
+conversation_vwt53j_text	Жуть берет, когда джунгли могут вот так выскочить из ниоткуда.	Speaker=Coral Armstrong
+conversation_1re540_text	Я, признаться, чуток волнуюсь из-за землетрясений.	Speaker=Coral Armstrong
+conversation_25kyco_text	В последнее время они сильнее стали. Но не бойся, я с поста не уйду.	Speaker=Coral Armstrong
+conversation_e0zgh7_text	Если никто не защищает шахтеров, они могут в беду попасть.	Speaker=Coral Armstrong
+conversation_jkptm2_text	В моем корпусе места страху нет. Только долг. Я выполняю долг.	Speaker=Coral Armstrong
+conversation_4niz25_text	{format highlight}Береги фонарь{format reset}, чтоб не остаться в темноте.	Speaker=Coral Armstrong
+conversation_aex9as_text	Если начнет мигать, сразу поворачивай назад и {format highlight}залей топливо наверху{format reset}.	Speaker=Coral Armstrong
+conversation_dmvx8z_text	Шахта - место опасное, так что держи снаряжение в порядке.	Speaker=Coral Armstrong
+
+# welcome_to_el_machino
+conversation_uimryl_text	Эй, там! Всем успокоиться!	Speaker=Mayor Mic Yonker
+conversation_31d0sd_text	Вообще-то из-за этих {format nervous}землетрясений{format reset} стоит волноваться.	Speaker=Professor Sherman Notes=*new*
+conversation_4njhbf_text	Я вам уже говорила: мой сейсмограф выдает очень странные показатели!	Speaker=Professor Sherman
+conversation_l4n0br_text	Есть вещи и поважнее. Например, поддерживать поток руды.	Speaker=Mayor Mic Yonker
+conversation_dzl3uz_text	Дубина! Чего экспертов не слушаешь?	Speaker=Ma Yonker
+conversation_7blj3t_text	"Ну мам! Эти мне ""эксперты"" с ""фактами""... Они за камнями шахты не видят."	Speaker=Mayor Mic Yonker
+conversation_lwjidu_text	А что насчет того {format emph}парнишки в красном шарфике{format reset}, что в шахту залез, да так и не вернулся?	Speaker=Ma Yonker
+conversation_jije2r_text	Я поставил охрану, чтобы больше никто не пропадал.	Speaker=Mayor Mic Yonker
+conversation_jhc64p_text	Так, давайте рассуждать здраво и помнить самое главное: мэрия тут ни при чем.	Speaker=Mayor Mic Yonker Notes=*new*
+conversation_njlyi9_text	Дурная башка!	Speaker=Ma Yonker Notes=*new*
+
+# report_to_mayor_pressurebomb
+conversation_xqrxw3_text	{format laugh}Ха-ха! Бабах!{format reset} Давай еще раз!	Speaker=Fen
+conversation_y6g3s7_text	Эти бомбы нам точно пригодятся. Они нам откроют путь туда, куда с киркой не добраться.	Speaker=Dorothy
+conversation_c5us81_text	Думаю, пора {format highlight}сказать мэру{format reset}, что штрек снова открыт.	Speaker=Dorothy
+
+# guard_open_hatch
+conversation_ig8tga_text	Через некоторое время кто-то снова начал минировать туннели.	Speaker=Coral Armstrong Notes=*new*
+conversation_3li9iu_text	Наконец-то я напала на след Расти.	Speaker=Dorothy
+conversation_ti9ln5_text	По мне, твой дружок должен был так или иначе пройти Краснокаменным штреком.	Speaker=Coral Armstrong Notes=*new*
+conversation_60et06_text	Обычно туда можно попасть на пневмолифте.	Speaker=Coral Armstrong
+conversation_cix8sl_text	Но землетрясение завалило лифтовую шахту Стоит {format highlight}расчистить штрек{format reset}.	Speaker=Coral Armstrong
+conversation_h47l73_text	Так что, я открываю люк, а ты спускаешься вниз?	Speaker=Coral Armstrong Notes=*new*
+
+# buddy_need_light
+conversation_q6n8pp_text	Темновато становится. Я хоть и свечусь, а ни зги не вижу.	Speaker=Fen
+conversation_1dc723_text	{format highlight}Возвращайся в город{format reset} и залей фонарь горючим, а то я тут потеряюсь.	Speaker=Fen Notes=The player has a light source that diminish over time. When the player goes back up to town it replenishes.
+
+# fen_cave_in
+conversation_ytvst4_text	Кажется, это и есть Краснокаменный штрек. Обвал, как мы и думали.	Speaker=Dorothy
+conversation_ac4a61_text	Была б у тебя взрывчатка, можно было бы разнести завал на раз-два.	Speaker=Fen Notes=*format*
+conversation_f2qhr1_text	Неплохая идея! Нужно вернуться в город и расспросить народ.	Speaker=Dorothy
+conversation_8j9cex_text	{format laugh}Ага, взрывчаточка!{format reset} Может, ты даже руки-ноги себе поотрываешь!	Speaker=Fen
+conversation_0g7tly_text	Зараза! Давай-ка расчистим эту пневмошахту, а?	Speaker=Dorothy Notes=*format*
+conversation_n67xrl_text	Кажется, это и есть Краснокаменный штрек. Завален.	Speaker=Dorothy
+conversation_1kwj0v_text	Его можно бомбами расчистить.	Speaker=Fen Notes=*format*
+conversation_661ekz_text	Мне, может, не стоит поощрять твою страсть к разрушению, но идея неплохая.	Speaker=Dorothy Notes=*format*
+conversation_xdrduu_text	{format laugh}Ага, взрывчаточка!{format reset} Может, ты даже руки-ноги себе поотрываешь!	Speaker=Fen
+conversation_6c0vsm_text	Зараза! Давай сначала попытаем счастья с той пневмошахтой, ладно?	Speaker=Dorothy Notes=*format*
+
+# mechanic
+conversation_h5wj1m_text	Я... Не хочу навязываться, но... эти {format nervous}землетрясения{format reset}немного пугают.	Speaker=Turtle Bucket Notes=Very nervous person
+conversation_o86kfe_text	Но, э... Если это правда серьезно, то мэр бы, наверное, волновался сильнее.	Speaker=Turtle Bucket
+conversation_o2oiou_text	Мэр говорит, что об этих {format nervous}землетрясениях{format reset} беспокоиться не стоит, так что... Наверное, он прав.	Speaker=Turtle Bucket
+conversation_h7ppy6_text	Э, привет...	Speaker=Turtle Bucket
+conversation_kg1mo1_text	Вижу, у тебя фонарь сломан.	Speaker=Turtle Bucket Notes=*new* The light source is set in the middle of the chest.
+conversation_q3my9j_text	Мне, э... кажется, что не стоит бродить в темноте, особенно когда тут эти {format nervous}обвалы{format reset}.	Speaker=Turtle Bucket
+conversation_ltmso8_text	В общем, э... если тебе нужно в шахту, то... э... лучше бы {format highlight}починить твой фонарь{format reset}.	Speaker=Turtle Bucket
+conversation_9zjn4q_text	Можешь использовать мою мастерскую... Если хочешь.	Speaker=Turtle Bucket Notes=Workbench
+conversation_izda31_text	Можешь {format highlight}починить фонарь{format reset} в моей мастерской... Если хочешь.	Speaker=Turtle Bucket
+conversation_649j7z_text	Э-э... Отличные ботинки.	Speaker=Turtle Bucket Notes=Dorothys speed boots.
+conversation_fjqq9f_text	Правда? Я их улучшила в одной машине под пустыней.	Speaker=Dorothy
+conversation_v3f2hn_text	Дополнительная... э... беговая гидравлика... Очень ускоряет движение.	Speaker=Turtle Bucket
+conversation_qnv8df_text	Модификаторы снаряжения на станциях - отличная вещь, правда?	Speaker=Turtle Bucket
+conversation_f9qput_text	То есть, э... вот. Их можно по всей шахте найти.	Speaker=Turtle Bucket
+conversation_ji4atj_text	Они, э.... очень... {format emph}очень старые{format reset}. Мы не знаем, кто их построил, но для нас они отлично работают.	Speaker=Turtle Bucket
+conversation_kn7n3g_text	Со временем шахтеры построили вокруг них станции.	Speaker=Turtle Bucket
+conversation_w8uqp5_text	Про некоторые мы знаем, но, э... Шахта гораздо, {format emph}гораздо больше{format reset}, чем мы успели освоить.	Speaker=Turtle Bucket
+conversation_m5pbwk_text	Мне приходилось читать о других станциях с интересным оборудованием, они, э... прячутся в шахтах, которых нет на карте.	Speaker=Turtle Bucket Notes=*format*
+conversation_wad1be_text	То есть, э...	Speaker=Turtle Bucket
+conversation_apkmkg_text	Ух ты, ты нашла бомбомет!	Speaker=Turtle Bucket Notes=*format*
+conversation_qjmh35_text	Трехпоршневая система обеспечивает {format singsong}плавность{format reset} скольжения по сифонной трубке.	Speaker=Turtle Bucket Notes=This is techno jibberish, feel free to make up new stuff.
+conversation_ua28gp_text	Стреляет самозакрепляющимися снарядами, которые перед детонацией прилипают к любой поверхности.	Speaker=Turtle Bucket
+conversation_saczrj_text	Наверняка круто взрывается! Хи-хи...	Speaker=Turtle Bucket Notes=*format* The pressure bomb works with water.
+conversation_tz9y1l_text	Э... простите. Не стоило мне так... увлекаться.	Speaker=Turtle Bucket
+conversation_yxae4k_text	О, э... Ты добралась до камнеломной станции.	Speaker=Turtle Bucket
+conversation_rz6lrl_text	Этот молоток продырявит даже самые твердые кирпичи.	Speaker=Turtle Bucket Notes=*format* The upgrade is a mechanical fist that works like a jack hammer.
+conversation_art1sv_text	Ты сможешь обследовать обратную сторону стены просто на раз-два.	Speaker=Turtle Bucket Notes=*new*
+conversation_1ghl26_text	А еще тут можно улучшать расход топлива - и вот это все!	Speaker=Turtle Bucket
+conversation_a315z5_text	Модификация пневмоцилиндра дает повышенную скорость работы...	Speaker=Turtle Bucket
+conversation_lyy59m_text	Э, то есть, у него большой потенциал... вот.	Speaker=Turtle Bucket
+conversation_ornloo_text	{format singsong}Ничего себе!{format reset} У меня-то и сомнений не было, что спелеостанции конец!	"Speaker=Turtle Bucket Notes=See ""Spelunker Station"" in other document"
+conversation_uo7wrd_text	А ты раздобыла кошку!	Speaker=Turtle Bucket Notes=The hook shot look like a grapling hook and is shot out of your arm
+conversation_4x94pz_text	С этой штукой ты будешь летать по шахте, как {format emph}никогда{format reset} не летала.	"Speaker=Turtle Bucket Notes=""zip"" as in fly or move fast"
+conversation_wt4pay_text	Сможешь заглянуть в самые укромные уголки и самые узкие щели!	Speaker=Turtle Bucket Notes=*new*
+conversation_jc96m9_text	Шахты полны секретов и загадок, только знай находи и открывай.	Speaker=Turtle Bucket Notes=*new*
+conversation_xxorzf_text	{format singsong}ПОТРЯСАЮЩЕ!{format reset} Это то, что я думаю?	Speaker=Turtle Bucket
+conversation_h0sfna_text	Как! Как тебе удалось раздобыть пламенный топор?	Speaker=Turtle Bucket Notes=It's a falaming Pick Axe
+conversation_4p03fk_text	Наверняка его прятали где-нибудь в восточном храме.	Speaker=Turtle Bucket
+conversation_7shcmp_text	Про него писали в каком-то из моих журналов Но что такое существует в реальности... Я просто {format emph}поверить не могу{format reset}!	Speaker=Turtle Bucket
+conversation_9e6rbj_text	То есть... Очень здорово.	Speaker=Turtle Bucket
+conversation_8x0zgn_text	Прекрати! Только не говори мне, что была на аэростанции!	Speaker=Turtle Bucket Notes=*format* see Aeronaut Station in the other document
+conversation_gqdbky_text	Она же где-то очень глубоко за пределами освоенной шахты.	Speaker=Turtle Bucket
+conversation_34ele3_text	Даже в голову не приходило, что я однажды увижу настоящий реактивный ранец!	Speaker=Turtle Bucket
+conversation_vr5wop_text	Просто отвал башки!	Speaker=Turtle Bucket
+conversation_0czv1r_text	С этой штукой сможешь всю шахту облазить. Ты исследуешь такие места, куда вообще невозможно было забраться.	Speaker=Turtle Bucket Notes=*new* just hammering home that the world is more open at this point.
+conversation_2bpv40_text	Эта шахта - просто золотая жила.	"Speaker=Turtle Bucket Notes=*new* as in the old saying ""the world is your oyster"""
+conversation_6c8k38_text	Думаю, я даже модификации для него могу придумать... Ну, если разрешишь...	Speaker=Turtle Bucket
+conversation_kddst5_text	Эти... джунгли в шахте... В городе только про них и говорят.	Speaker=Turtle Bucket Notes=This is in refferal to location: Yarrow, a mysterious subteranian mushroom jungle full of dangers.
+conversation_1ibifo_text	Надеюсь, они не разрастутся до поверхности. Э... Даже подходить к этим жутким колючкам страшно.	Speaker=Turtle Bucket Notes=*format*
+conversation_qxg2dp_text	Вот будь у тебя подходящий... ну... топор или что... Ты бы эти растения в куски порубила.	Speaker=Turtle Bucket
+conversation_jn0ayb_text	Жаль, что на старых станциях ничего такого нет...	Speaker=Turtle Bucket
+conversation_evptsm_text	Э... надеюсь, эти {format nervous}странные растения{format reset} не доберутся до города.	Speaker=Turtle Bucket
+conversation_d2k8hv_text	М-м... Не хочется беспокоить профессора...	Speaker=Turtle Bucket
+conversation_zfm1c4_text	Но может, стоит попросить разрешения заглянуть в ракету? Посмотреть, как она устроена.	Speaker=Turtle Bucket Notes=The rocket is a space rocket.
+conversation_js74jz_text	Она крутая, правда же?	Speaker=Turtle Bucket
+conversation_bufmli_text	Мне... ужасно хотелось бы заглянуть в эту ракету...	Speaker=Turtle Bucket
+conversation_yxbbjn_text	Ракеты - это круто!	Speaker=Turtle Bucket
+conversation_1ovqzn_text	Можешь чинить или улучшать снаряжение в моей мастерской... э, в любое время, да.	Speaker=Turtle Bucket Notes=*new* rephrased this line to work in more situations.
+
+# fen_cave_in_bomb
+conversation_4dhtk4_text	Да, да! Взорвем ее {format singsong}вдр-р-ребезги!{format reset}	Speaker=Fen
+conversation_eff23g_text	Тебе явно стоит с кем-нибудь поговорить насчет твоей мании разрушения.	Speaker=Dorothy
+conversation_oxrw0l_text	Ну вот сейчас я с тобой говорю. Да я вообще все время говорю о разрушениях.	Speaker=Fen Notes=*format*
+conversation_nmb2rq_text	Угу...	Speaker=Dorothy
+
+# buddy_reminder_use_cogs
+conversation_t0dmfu_text	Зачем ты копишь все эти шестеренки {image cogs_small}, как бешеный бот-хомяк?	Speaker=Fen Notes=*new* This message is shown when the player have unused upgrade-cogs.
+conversation_w2gq2j_text	Иди уже в мастерскую да пусти их в дело!	Speaker=Fen Notes=*new*
+
+# rosie
+conversation_enxhfq_text	Ого! Такого мы еще не видели!	Speaker=Dorothy Notes=*format* *new* rephrased this line
+conversation_dsse8r_text	Спасибо. Я построила Оазис, чтобы собрать своих. Защитить их!	Speaker=Rosie
+conversation_fu699v_text	Пока им тут хорошо и спокойно, они остаются. В безопасности.	Speaker=Rosie
+conversation_hx3qqt_text	Ну, так было, пока твой друг не устроил тут эти землетрясения.	Speaker=Rosie Notes=*format*
+conversation_6o8eta_text	Как мог Расти такое сотворить? Он {format emph}жизнью рисковал{format reset}, чтобы нас от Вектрона спасти.	Speaker=Dorothy
+conversation_x9aify_text	А ты его действительно хорошо знала? Может, борьба с этим светящимся монстром изменила его?	Speaker=Rosie
+conversation_y8f4q2_text	Вектрон такой... {format nervous}Он нас меняет.{format reset}	Speaker=Fen
+conversation_qjs5hn_text	Он явился сюда и заявил, что обрушит на нас всю шахту. Мы его еле сдержали!	Speaker=Rosie
+conversation_mbjnhf_text	Мне жаль, я... Мне бы только найти его... Поговорить с ним...	Speaker=Dorothy
+conversation_7sza3z_text	Я понимаю, ты верна ему, но если бы ты нашла причину землетрясений, ты бы сама все узнала.	Speaker=Rosie
+conversation_hihmd6_text	Ты могла бы остановить землетрясения. А я помогу {format emph}тебе{format reset}, чем только смогу.	Speaker=Rosie Notes=*new* rephrasing and added an emphasis
+conversation_47pkq7_text	{format highlight}Иди на станцию{format reset}, я ее как склад использую. Все тамошнее старье, машины и инструменты - к твоим услугам.	Speaker=Rosie Notes=*new* added a bit at the end to this one.
+conversation_m6cj0e_text	{format highlight}Иди на станцию{format reset} и бери, что хочешь.	Speaker=Rosie
+conversation_4vzxih_text	Рада, что тебе у меня что-то пригодилось. Ну что, готова?	Speaker=Rosie
+conversation_f1jnf5_text	Я тебя попрошу разузнать, что вызывает эти землетрясения, и остановить их.	Speaker=Rosie
+conversation_ln5j60_text	Помоги мне защитить мой народ! Я из сил выбиваюсь, чтобы они меня хотя бы слушали.	Speaker=Rosie
+conversation_u5463y_text	Больше я про землетрясения ничего не знаю, но может, ты найдешь наверху {format highlight}умного бота{format reset}?	Speaker=Rosie
+conversation_dohwhw_text	И может, я пойму наконец, куда пропал Расти!	Speaker=Dorothy
+conversation_77fdqq_text	{format highlight}Отыщи наверху умного робота.{format reset}	Speaker=Rosie
+conversation_0jmccn_text	Может, тебе объяснят, из-за чего земля трясется.	Speaker=Rosie
+conversation_xpdrbe_text	Я выяснила, что последнее землетрясение вызвало что-то в восточном храме.	Speaker=Dorothy
+conversation_oqlaq7_text	Тамошняя секта помешалась на разрушении.	Speaker=Rosie
+conversation_1kkqf6_text	Да, знаю я этих ребят.	Speaker=Fen
+conversation_v0wzpo_text	Они наверняка стеной встанут за все, что относится к землетрясениям.	Speaker=Rosie
+conversation_nytcr5_text	Тебе нужно {format highlight}обыскать храм{format reset} и найти причину землетрясений.	Speaker=Rosie
+conversation_x2gmu8_text	Тебе нужно {format highlight}обыскать храм{format reset} и найти причину землетрясений.	Speaker=Rosie
+conversation_ly3hpt_text	Ты была права, Рози. {format highlight}Расти втянули{format reset} во все это.	Speaker=Dorothy
+conversation_mp86jk_text	Так ты поняла... {format emph}Он злой!{format reset}	Speaker=Rosie
+conversation_26ewef_text	Он построил какую-то машину конца света. Она-то и трясет землю.	Speaker=Dorothy
+conversation_r154n3_text	Нужно {format highlight}уничтожить устройство!{format reset} Я-то за своих тревожусь, но эта штука угрожает всем.	Speaker=Rosie
+conversation_mlv5kh_text	Чего мы ждем? Пора взрывать!	Speaker=Fen Notes=*format*
+conversation_607awg_text	У тебя есть шанс остановить землетрясения. {format highlight}Уничтожь машину рока!{format reset}	Speaker=Rosie
+conversation_ck3lck_text	Нам удалось обезвредить ту штуку, что вызывала землетрясения.	Speaker=Dorothy Notes=*new*
+conversation_kd9cyi_text	Отлично! Мы молодцы, мы справились!	Speaker=Rosie Notes=*format*
+conversation_mw42bj_text	Да, круто!	Speaker=Fen
+conversation_3beotd_text	А вот Расти пока не видать...	Speaker=Dorothy
+conversation_akywya_text	Хм... Если та штука под названием Вектрон его изменила, может, он там, внизу? В его остатках.	Speaker=Rosie Notes=*new*
+conversation_rwy0gr_text	Эта машина рока {format emph}и правда{format reset} частично состояла из технологий Вектрона...	Speaker=Dorothy
+conversation_ucjkci_text	Ой, нет, я знаю, о чем ты думаешь! Я не хочу {format nervous}туда возвращаться!{format reset}	Speaker=Fen
+conversation_7irted_text	Ты не знаешь, каково там. Когда у тебя своей воли нет.	Speaker=Fen
+conversation_21ym6y_text	Я уже столько прошла... Я не могу все бросить. Фен, ты мне просто вход покажи...	Speaker=Dorothy
+conversation_oredyt_text	Почему? Почему нельзя просто пойти и взорвать что-нибудь?	Speaker=Fen Notes=*format*
+conversation_tc3nlv_text	Он одолел Вектрона. Расти спас нас...	Speaker=Dorothy Notes=*new* removed Dot's explicit reason being loyalty and pushing Rusty.
+conversation_0xyfid_text	...	Speaker=Fen
+conversation_uvs1vb_text	Я тебе помогу. Но когда ты {format highlight}войдешь в Вектрон{format reset}, я тебе больше не помогаю.	Speaker=Fen
+conversation_pq0jjj_text	Чтобы найти Расти, тебе нужно {format highlight}войти в Вектрон{format reset}.	Speaker=Rosie
+conversation_vcgjsk_text	Может, лучше разбомбим чего-нибудь, а?	Speaker=Fen
+conversation_3bw741_text	Ты {format emph}вернулась{format reset}...	Speaker=Rosie
+conversation_6r8y8d_text	Да... Но следов Расти я там не нашла.	Speaker=Dorothy Notes=*new*
+conversation_jdhos3_text	Зато мы выяснили, что {format emph}есть и другие машины рока{format reset}.	Speaker=Fen
+conversation_hlfgz1_text	Ну конечно! Он бы не стал класть все яйца в одну корзину.	Speaker=Rosie
+conversation_kix6a6_text	Так не годится. Нужно {format emph}найти все машины{format reset}! Иначе нам всем грозит опасность.	Speaker=Rosie
+conversation_58f8ga_text	Дороти... Я уже знаю, где они. Они так ясно ощущались. К ним тянется энергия.	"Speaker=Fen Notes=*new* added ""Dorothy"""
+conversation_diuokv_text	Одна из них {format emph}в храме, где мы встретились.{format reset}	Speaker=Fen
+conversation_5npqb6_text	Вторая - в тех странных {format emph}подземных джунглях{format reset}, мимо которых мы проходили по пути сюда.	Speaker=Fen Notes=*new*
+conversation_3v2hek_text	И наконец, есть еще одна, {format emph}в восточном храме{format reset}.	Speaker=Fen Notes=*new*
+conversation_k5nk0l_text	Ну что, пошли {format highlight}взорвем эти устройства{format reset}!	"Speaker=Dorothy Notes=*new* added ""then"" moved the line"
+conversation_1alf3v_text	Мир шахт велик, он полон тайн и опасностей. И кратчайший путь не всегда лучший.	Speaker=Rosie Notes=*new*
+conversation_b6r8b9_text	Этот реактивный двигатель поможет нам исследовать шахту быстрее.	Speaker=Dorothy Notes=*new* made where ever one word; new line about Fen commenting on the fact that the world is more open now that you've got the jet engine.
+conversation_p2pe6o_text	Да, мы сможем летать повсюду, выкапывать секреты и взрывать все подряд! Погнали!	Speaker=Fen Notes=*new*
+conversation_jglhmm_text	Нужно найти и {format highlight}уничтожить оставшиеся машины{format reset}.	Speaker=Rosie Notes=*new*
+conversation_mqmqfa_text	Ты уже побывала в храмах и нашла оборудование, которое поможет тебе в поисках.	Speaker=Rosie Notes=*new*
+conversation_v81wm2_text	На самом деле я не очень много знаю о загадочных джунглях.	Speaker=Rosie
+conversation_ckclse_text	Мы разрушили еще одно устройство Расти.	Speaker=Dorothy
+conversation_wzvouk_text	{format laugh}Да, было круто!{format reset}	Speaker=Fen
+conversation_yb1vmx_text	Он их хитро спрятал во всей шахте.	Speaker=Rosie
+conversation_hw5xmd_text	Добраться до остальных будет непросто, хоть ты и знаешь, где они.	Speaker=Rosie
+conversation_oeqkzs_text	Хотела бы я помочь больше, но мне надо присматривать за моими ребятами.	Speaker=Rosie
+conversation_1wlu3i_text	Думаю, некоторые тут собираются в шахту вернуться.	Speaker=Rosie
+conversation_y85nbk_text	Тогда пошли {format highlight}грохнем остальные машины{format reset}!	Speaker=Fen
+conversation_o9wzoz_text	Надеюсь, ты скоро найдешь своего друга и остановишь его раз и навсегда.	Speaker=Rosie Notes=*new*
+conversation_g8unqh_text	Пожалуйста, {format highlight}уничтожь остальные устройства{format reset}. Не знаю, сколько я еще смогу сдерживать моих ребят.	Speaker=Rosie
+conversation_hinklt_text	Чувствовала толчки, когда мы разрушили устройство?	Speaker=Dorothy
+conversation_7bjdrx_text	Да, мои тут переполох устроили. Их тряска просто бесит.	Speaker=Rosie
+conversation_ot1xb4_text	Я их еще не пересчитала. Надеюсь, все тут.	Speaker=Rosie
+conversation_8vqdk5_text	Да, осталось еще одно устройство, с ним тоже нужно разобраться.	"Speaker=Dorothy Notes=*new* removed a ""yes"""
+conversation_1t4jq7_text	Когда эти страшные штуки исчезнут, нам всем станет спокойнее.	Speaker=Rosie
+conversation_5hrt2a_text	Пожалуйста, {format highlight}уничтожь последнюю машину{format reset}. Пока она цела, мы все в опасности!	Speaker=Rosie
+conversation_2jw2v2_text	Ты не такая, как остальные боты.	Speaker=Rosie
+conversation_pf575r_text	Не думала, что встречу робота, который мне понравится.	Speaker=Rosie
+
+# used_teleporter
+conversation_tb8lha_text	Эй! Я не давал разрешения на разблокировку лифтов!	Speaker=Mayor Mic Yonker
+conversation_c3vudp_text	Челюсть прикрути! Лифты - лучший способ перемещаться по шахте.	Speaker=Ma Yonker
+conversation_of6kl3_text	Краснокаменный штрек завалило из-за землетрясений.	Speaker=Dorothy Notes=*format*
+conversation_p4u169_text	Ты не докажешь, что это землетрясения. Это что угодно могло быть!	Speaker=Mayor Mic Yonker
+conversation_wr7t16_text	Ну, так или иначе, мне нужна взрывчатка, чтобы его расчистить.	Speaker=Dorothy
+conversation_ljkhuj_text	Ты наверняка {format highlight}найдешь взрывчатку{format reset} возле взрывной станции.	Speaker=Ma Yonker
+conversation_kf7hxd_text	Просто возьми чуток восточнее, когда будешь спускаться в следующий раз. Найдешь без труда.	Speaker=Ma Yonker Notes=*new*
+conversation_fsgerc_text	Так или иначе, я хочу добыть взрывчатки, чтобы его расчистить.	Speaker=Dorothy
+conversation_atnqc9_text	О, я смотрю, кто-то побывал на взрывной станции. Теперь ты сможешь {format highlight}расчистить штрек{format reset}, детка!	Speaker=Ma Yonker
+
+# hub_guard_hurt
+conversation_7mti7b_text	{format nervous}АЙ!{format reset}	Speaker=Schwifty Shawn
+
+# hub_guard_woke
+conversation_bg1gtj_text	{format nervous}...а?{format reset}	Speaker=Schwifty Shawn Notes=*new* changed a ) to a }
+
+# welcome_to_the_hub
+conversation_5yt2bx_text	Подкрепление! Грохни обоих, а то их больше станет!	Speaker=Fen
+conversation_0y97x7_text	Опять землетрясение... И новый злобный бот. Будь начеку, Шон!	Speaker=Rosie
+conversation_swc23b_text	Ты говорить умеешь?!	Speaker=Dorothy
+conversation_sa7wlq_text	А с чего бы мне не говорить? Эй, робот, а ты раньше {format emph}пыталась{format reset} с кем-нибудь из нас поговорить?	Speaker=Rosie
+conversation_h9pnyw_text	Ты права. Прости. Я сюда не драться пришла, я ищу пропавшего друга.	Speaker=Dorothy
+conversation_mkx6nq_text	Это такая коричневая черепашка, похожая на консервную банку?	Speaker=Rosie
+conversation_jignph_text	Да! Вы его видели! Что с ним случилось? Где он?	Speaker=Dorothy
+conversation_ryszmg_text	Хм... может, это глупо впускать сюда робота, но ты вроде правду говоришь.	Speaker=Rosie
+conversation_2r5k9z_text	Я Рози Заходи, {format highlight}поговорим внутри{format reset}. Расскажу, что знаю.	Speaker=Rosie
+
+# floaty
+conversation_ty7umo_text	Тс-с-с... Ты шумишь прям как Рози.	Speaker=Cleo Johnson
+conversation_35muig_text	Тс-с-с...	Speaker=Cleo Johnson
+conversation_trxx9s_text	Тс-с-с... Ты их распугаешь...	Speaker=Cleo Johnson Notes=She has a fishing pole
+conversation_bcfgsy_text	Без обид, но по-моему рыба в этой грязи не выживет.	Speaker=Dorothy
+conversation_ufdh71_text	Рыба? Какая рыба? Это ботинки мои. Скользкие, убегают все время.	Speaker=Cleo Johnson
+conversation_x3mdff_text	Клео хочет ботиночки, боти-боти-боти...	Speaker=Cleo Johnson
+conversation_6wq728_text	Боти-боти! Плывите Клео на ножки, Клео хочет побегать!	Speaker=Cleo Johnson Notes=*new* run offt is old 20's hillbilly-talk.
+conversation_vrn5ho_text	По-моему, ботинки не плавают...	Speaker=Dorothy
+conversation_syk9tk_text	Ничего-то ты не знаешь про боти, вот что Клео думает.	Speaker=Cleo Johnson Notes=*new*
+conversation_ejlda7_text	Как они, по-твоему, оказались тут в бузе?	Speaker=Cleo Johnson Notes=*new*
+conversation_9ssddv_text	Чего это, не плавают! Конечно, плавают.	Speaker=Cleo Johnson
+conversation_f5fe22_text	Ну что, приплыли ботинки?	Speaker=Dorothy
+conversation_uwbwbt_text	А! Надоели ботинки. У Клео в горле пересохло, Клео больше не хочет ждать.	"Speaker=Cleo Johnson Notes=*new* Speachimpediment: ""Dry mouf""=""dry mouth"""
+conversation_7dil67_text	У Клео планы. Клео отсюда убежит и больше не будет ловить ботинки.	Speaker=Cleo Johnson
+conversation_e7vvqa_text	Ладно...	Speaker=Dorothy
+conversation_mkd1g9_text	Тупое ведерко! Клео тебе щас как наподдаст, чтоб глупостей не говорила.	Speaker=Cleo Johnson Notes=You dumb bucket thing, Cleo should kick you before say more stupid things.
+conversation_7c453w_text	Клео скоро уйдет, тут буза кончается.	"Speaker=Cleo Johnson Notes=Pay attention to the translation of ""moon juice"""
+conversation_nny1i7_text	Клео питьки хочет.	Speaker=Cleo Johnson Notes=thursty
+conversation_atofqv_text	Бо-оть, боть-боть-боть!	Speaker=Cleo Johnson
+
+# gran
+conversation_dk7b1d_text	Моя здоровенная дурында впустила робота? Она еще тупее, чем кажется!	Speaker=Dynomyte Harriet
+conversation_0fdyik_text	Тебе что тут надо, жестянка?	Speaker=Dynomyte Harriet
+conversation_xx02dp_text	Рози пригласила меня поговорить.	Speaker=Dorothy
+conversation_qvnh5f_text	Ну да, это на нее похоже, на мою дочку-мутанта. Здоровая деваха, а жестянку раздавить не может	Speaker=Dynomyte Harriet
+conversation_n9fykw_text	Эй, это не очень вежливо.	Speaker=Dorothy
+conversation_mypcv4_text	А что еще делать с шашками?	Speaker=Dynomyte Harriet Notes=*new* rephrased. Boom sticks here are sticks of dynamite
+conversation_e6z5ja_text	Мне нравится это мясо.	Speaker=Fen
+conversation_3zke2l_text	Думаешь, сколько шашек надо на робота?	Speaker=Dynomyte Harriet
+conversation_a9cchj_text	Не хочу, чтоб тут жестянки шастали.	Speaker=Dynomyte Harriet
+conversation_9svalt_text	Ей надо было тебя грохнуть, а не впускать.	Speaker=Dynomyte Harriet
+conversation_3su3ui_text	В старое доброе время шахты были наши. А жестянок дурацких мы взрывали.	Speaker=Dynomyte Harriet
+conversation_oza28i_text	Это мясо все интересней и интересней!	Speaker=Fen
+conversation_yrhik2_text	Берегись, жестюха!	Speaker=Dynomyte Harriet
+conversation_ihr9we_text	Достало шаркать тут тапками.	Speaker=Dynomyte Harriet
+conversation_agybew_text	Пора повылазить отсюда и повзрывать эти землетрясения. И лес этот тоже.	Speaker=Dynomyte Harriet
+conversation_nvv14n_text	Щас вот глотну только еще чуток бузы - и свалю.	Speaker=Dynomyte Harriet Notes=Pay attention to translation of Moon Juice
+conversation_ezltzc_text	А как насчет шашки вместе склеить? Сунуть их куда надо - и никаких землетрясений больше!	Speaker=Dynomyte Harriet
+conversation_2h242j_text	Отвали! Еще шашки на тебя тратить!	Speaker=Dynomyte Harriet
+
+# helpfulhelen
+conversation_146h2g_text	Вжик-вжик-вжик!	Speaker=Stabby Helen Notes=*format*
+conversation_w42y9y_text	Уйди... Брысь отсюда, банка консервная!	Speaker=Stabby Helen
+conversation_lbsxjr_text	Я не опасная. Я просто хотела...	Speaker=Dorothy
+conversation_76kde3_text	Вжик-вжик-вжик!	Speaker=Stabby Helen Notes=*format*
+conversation_nilvvh_text	Ладно... Ухожу!	Speaker=Dorothy
+conversation_nrvcc5_text	Вжик-вжик-вжик!	Speaker=Stabby Helen Notes=*new* removed all-caps
+conversation_na5ijp_text	Я хорошо режу роботов, знаешь ли.	Speaker=Stabby Helen
+conversation_t4gyc9_text	Как раз на той неделе одного побила.	Speaker=Stabby Helen
+conversation_8z4duw_text	А на мне ни царапины. Просто руку пришлось отрастить заново.	Speaker=Stabby Helen Notes=*new*
+conversation_68xyfp_text	К счастью, не ту, которой я обычно режу.	Speaker=Stabby Helen
+conversation_4tb6xl_text	Вжик-вжик-вжик!	Speaker=Stabby Helen Notes=*new*
+conversation_mfx4dl_text	Да, я крошила роботов на арене.	Speaker=Stabby Helen
+conversation_2z93th_text	Рози против, чтобы я ходила в шахту и резала всех, кто попадется.	"Speaker=Stabby Helen Notes=*new* removed ""That"""
+conversation_2r5nu3_text	Правильно делает.	Speaker=Dorothy
+conversation_10fkd9_text	Но мне нравится резать!	Speaker=Stabby Helen
+conversation_sp7pdd_text	Вжик-вжик-вжик!	Speaker=Stabby Helen Notes=*format*
+conversation_6iq52s_text	Люблю резать.	Speaker=Stabby Helen
+conversation_1su49z_text	Мечтаю бегать по шахтам и резать, бегать и резать!	"Speaker=Stabby Helen Notes=*new* removed the last ""left"""
+conversation_azc2px_text	Ладно...	Speaker=Dorothy
+conversation_14e8qj_text	Да, резать ровно и ладно!	Speaker=Stabby Helen Notes=*new* changed right to left
+conversation_cu3ase_text	Вжик-вжик-вжик!	Speaker=Stabby Helen Notes=*new*
+conversation_5wwgu9_text	Вжик-вжик-вжик!	Speaker=Stabby Helen Notes=*format*
+conversation_rnl3im_text	Хочу в шахту - и всех порезать!	Speaker=Stabby Helen
+conversation_2kxxoa_text	Вжик-вжик-вжик!	Speaker=Stabby Helen Notes=*format*
+
+# sign_shiver
+conversation_iyd9iu_text	"""ОСТОРОЖНО! Землетрясения! За подробной информацией обратитесь к мэру Эль Макино."""	Speaker=Dorothy
+
+# sign_miners_wanted
+conversation_jn4gij_text	"""Требуются шахтеры! Следуйте далее на восток к Эль Макино - и откопайте свое счастье!"""	Speaker=Dorothy
+
+# fen_on_shiners
+conversation_04wf3d_text	Никогда раньше не видела говорящего бомжа. Обычно они только бушуют и дерутся.	Speaker=Dorothy
+conversation_mlu9ml_text	Угу, а тут разговоры. Скука!	Speaker=Fen
+conversation_mcuc1c_text	Надо {format highlight}поговорить с этой Рози{format reset}. Может, она знает, где Расти.	Speaker=Dorothy Notes=*new* removed and, added this
+
+# guarding_hub
+conversation_z2w2u3_text	Э-э-эй! Сссстый, куда прешь?	Speaker=Schwifty Shawn Notes=*format* *new* also removed the line break (\n}
+conversation_n2ebi3_text	Фу, прибей эту штуку!	Speaker=Fen
+conversation_kljpda_text	{format nervous}Класс! Опять землетрясение!{format reset}	Speaker=Dorothy
+
+# dorothy_intro
+conversation_t7sxdc_text	Куда же ты {format emph}пропал{format reset}, Расти?	Speaker=Dorothy
+
+# fen_vectron_teleporter_intro
+conversation_vmz2v5_text	Вот он. Вход в Вектрон.	Speaker=Fen
+conversation_iupd4b_text	Ну что, войдем в эту штуку?	Speaker=Dorothy Notes=*new*
+conversation_bbcmp1_text	Говорю тебе, я {format emph}туда{format reset} не пойду. Не хочу...	Speaker=Fen Notes=*format* *new*'
+conversation_1rh2uj_text	Да и не могу на самом деле. Только не через {format emph}такой{format reset} портал.	Speaker=Fen Notes=*new*
+conversation_pkxjfo_text	Но мы договорились, что я отведу {format emph}тебя{format reset} туда...	Speaker=Fen
+conversation_emqhdd_text	Если есть шанс, что Расти там, то я пойду.	Speaker=Dorothy
+conversation_1rkegt_text	Ну, тогда иди...	Speaker=Fen
+
+# fen_vectron_teleporter_ask
+conversation_qrn9qn_text	Ты там будешь одна и без моей карты.	Speaker=Fen Notes=*new* moved here from fen_vectron_teleporter_bye
+conversation_sfgslu_text	Выбираться сама будешь.	Speaker=Fen Notes=*new* moved here from fen_vectron_teleporter_by
+conversation_j9uqnv_text	Ты точно хочешь?	Speaker=Fen
+conversation_69953l_text	Ладно...	Speaker=Fen Notes=*format* *new*
+conversation_yjswup_text	Поехали...	Speaker=Fen Notes=*new*
+conversation_uwxfmo_text	Да, {format emph}я{format reset} не собираюсь тебе руки выкручивать.	Speaker=Fen Notes=*new*
+
+# fen_vectron_teleporter_bye
+conversation_91l718_text	Я выберусь оттуда и найду тебя.	Speaker=Dorothy
+conversation_vmzz9y_text	...	Speaker=vectron_teleporter
+conversation_u6n77q_text	Если там что-то шевельнется, беги оттуда. Беги изо всех сил...	Speaker=vectron_teleporter
+conversation_vctaoa_text	...	Speaker=Dorothy Notes=*new*
+
+# exiting_vectron_firsttime_01
+conversation_sp4sbx_text	Фен?	Speaker=Dorothy
+
+# exiting_vectron_firsttime_02
+conversation_rj6ww8_text	ФЕН?!	Speaker=Dorothy Notes=*format*
+conversation_ad0u27_text	Фен? Я... Я Фен.	"Speaker=vectron_teleporter Notes=*format* *new* shortened ""I am..."" to ""I..."" and emphasised the last ""Fen"""
+conversation_1ajm6u_text	Дороти?	Speaker=vectron_teleporter
+
+# run_away_with_rusty_1
+conversation_wgoby1_text	РАСТИ!	Speaker=Dorothy
+
+# rosie_boss_intro_01
+conversation_r5a8b8_text	РАСТИ?!	Speaker=Dorothy
+
+# enter_endgame_teleporter_1
+conversation_pgjtz4_text	Давай, Фен! Надо спешить!	Speaker=Dorothy
+conversation_uzk2jn_text	Так нам в город {format nervous}вернуться{format reset}...	Speaker=Fen
+conversation_5rvneb_text	Но я могу вовремя вытащить {format emph}вас обоих{format reset}.	Speaker=Fen Notes=*new* changed the format to affect more words
+
+# sign_thehub
+conversation_32yflg_text	"""ЗАКРЫТО! ИДИТЕ ДОМОЙ!"""	Speaker=Dorothy
+
+# fen_its_gonna_blow
+conversation_ghi2wb_text	Эй, тут совсем {format nervous}дурдом!{format reset}	Speaker=Fen
+conversation_8xsftw_text	Сваливаем отсюда! {format emph}Бегом!{format reset}	Speaker=Fen Notes=*new* changed formated text from highlight to emph
+
+# run_away_with_rusty_3
+conversation_4v2csa_text	Ракета профессора Шерман!	Speaker=Dorothy
+conversation_izxx5d_text	Нужно возвращаться в город!	Speaker=Dorothy
+
+# easteregg_ending
+conversation_x1pswz_text	Давай же! {format emph}Быстрее!{format reset}	Speaker=endgame_teleporter
+conversation_bfup2f_text	Думать некогда!	Speaker=endgame_teleporter
+conversation_2ez9yy_text	Давай!	Speaker=endgame_teleporter
+conversation_kuytvd_text	Хватит в героя играть!	Speaker=endgame_teleporter
+
+# fen_ending_goodbye
+conversation_qsa1um_text	До встречи, Дотти...	
+
+# rocketeer
+conversation_hwmfh6_text	Жаль, что мэр Йонкер не прислушивается к голосу разума.	Speaker=Professor Sherman
+conversation_d0ozct_text	Их жизнь на кону, а они ничего слушать не хотят.	Speaker=Professor Sherman
+conversation_bdyzc2_text	В этих землетрясениях есть что-то очень странное.	Speaker=Professor Sherman
+conversation_tjv7fp_text	Ничего себе! Какая классная ракета.	Speaker=Dorothy Notes=*new* changes since earlier version could be off in some instances.
+conversation_t09utv_text	Ну, поскольку мэр сейчас проявляет поразительное равнодушие к науке, мне пришлось придумать план на случай ЧП.	Speaker=Professor Sherman Notes=*new* rephrased to work with new version of above line
+conversation_f7plgb_text	Мой сейсмограф показывает, что с этими землетрясениями что-то явно не так, видишь ли.	Speaker=Professor Sherman
+conversation_yhfxkq_text	Наша шахта вырыта как раз по линии тектонического нарушения. Пара сильных толчков - и городу конец!	Speaker=Professor Sherman
+conversation_k00t1f_text	Надеюсь, я успею подготовить корабль, пока не поздно.	Speaker=Professor Sherman
+conversation_220si9_text	Новые землетрясения надо тщательно изучить. Это крайне важно.	Speaker=Professor Sherman
+conversation_yd21lh_text	Понимаешь, здесь, у нас под ногами, соединяются две тектонические плиты.	Speaker=Professor Sherman
+conversation_yhhdlm_text	Город стоит на горе, которая образовалась миллионы лет назад в результате их столкновения.	Speaker=Professor Sherman
+conversation_jd18od_text	Ух ты...	Speaker=Dorothy
+conversation_ma515w_text	Мне не нравятся эти странные сейсморитмы.	Speaker=Professor Sherman
+conversation_rh627j_text	Это не просто смещение земной коры.	Speaker=Professor Sherman
+conversation_8vxt9k_text	Если начнется сильное землетрясение, оно разрушит весь город. Или того хуже: всю планету!	Speaker=Professor Sherman
+conversation_nid8rc_text	{format emph}Ничего себе!{format reset} Лучше мне тогда присмотреться, что внизу творится.	Speaker=Dorothy
+conversation_gqcn63_text	Так держать!	Speaker=Professor Sherman Notes=*format*
+conversation_q2vvjy_text	Мне все еще не нравятся эти странные сейсморитмы.	Speaker=Professor Sherman
+conversation_46mop5_text	Защитная стена на дне шахты - это просто чудо техники.	Speaker=Professor Sherman Notes=*format*
+conversation_k6sl9a_text	У нас в Тамблтоне под городом тоже была стена.	Speaker=Dorothy
+conversation_wb49hd_text	Это та же самая стена. Длиной в много миль!	Speaker=Professor Sherman
+conversation_prdn7m_text	Это самое невероятное творение рук одного бота во вселенной. Будь она на поверхности, ее было бы видно из космоса.	Speaker=Professor Sherman Notes=*format*
+conversation_0b17qr_text	Столько кирпичей - и все чтобы не пустить бомжей...	Speaker=Dorothy
+conversation_4s3zz6_text	Ну, бомжи, они же {format emph}homo devolvis{format reset}, довольно изобретательны в некоторых областях.	Speaker=Professor Sherman
+conversation_29dn85_text	Эта их буза, которая помогает выжить под землей, - крайне занятное вещество...	Speaker=Professor Sherman Notes=*format*
+conversation_8na87z_text	Сильный мутаген, вызывает стойкое привыкание, но при этом крайне эффективный источник энергии.	Speaker=Professor Sherman Notes=*new* added a comma after mutagenic
+conversation_auy7u5_text	Я когда-то пыталась использовать ее как топливо для ракеты, но это слишком летучее соединение.	Speaker=Professor Sherman Notes=*format*
+conversation_0144bl_text	Защитная стена - это просто чудо света.	Speaker=Professor Sherman
+conversation_vfvf68_text	А вы слышали о пещерных растениях?	Speaker=Dorothy
+conversation_n56yib_text	Я вообще-то не биолог, но в такой среде, кажется, могут выживать грибы.	Speaker=Professor Sherman
+conversation_6u259t_text	Я нашла пещеру, она аж до верха заросла.	Speaker=Dorothy
+conversation_4luy17_text	Занятно! Видимо, они добывают энергию не фотосинтезом, а как-то иначе.	Speaker=Professor Sherman Notes=*format*
+conversation_vq8bcq_text	Я нашла бомжей. Даже говорила с ними! Они построили город под стеной.	Speaker=Dorothy
+conversation_qbphbv_text	Поразительно! Не слышала, чтобы современные бомжи могли разговаривать.	Speaker=Professor Sherman Notes=*format*
+conversation_d8arjf_text	Те несколько, которых я видела, переговаривались гортанными возгласами. Просто уму непостижимо!	Speaker=Professor Sherman Notes=*format*
+conversation_m0q6cs_text	Я читала труды, утверждающие, что когда-то они были доминирующей расой на планете.	Speaker=Professor Sherman
+conversation_n96czx_text	В том, что касается homo devolvis, можно только предполагать...	Speaker=Professor Sherman
+conversation_9axbnb_text	Их практически невозможно изучать, не причиняя им вреда... Или не подвергая опасности собственную жизнь.	Speaker=Professor Sherman Notes=*format* *new* merged two lines into one.
+conversation_6qfwjp_text	Эти бомжи - поразительные существа. За этими безумными глазами скрывается намек на личность.	Speaker=Professor Sherman Notes=*format*
+conversation_wlfozb_text	Профессор, вот вы умный робот. Как думаете, могут эти землетрясения быть делом рук роботов?	Speaker=Dorothy Notes=*new* rephrased
+conversation_ylnbuf_text	Хочешь сказать, их кто-то специально устраивает?	Speaker=Professor Sherman Notes=*format*
+conversation_x4pgec_text	Это может объяснить до странности узкий эпицентр сейсмической активности.	Speaker=Professor Sherman
+conversation_934xqz_text	Толчки идут как раз из храма этой безумной секты конца света.	Speaker=Professor Sherman
+conversation_72gm7a_text	То есть, {format emph}это возможно{format reset}?	Speaker=Dorothy
+conversation_w0qkeb_text	Чтобы проверить эту гипотезу, тебе придется {format highlight}перейти Ветреные Равнины{format reset} и исследовать восточный храм.	Speaker=Professor Sherman Notes=*new*
+conversation_7xmo4l_text	Твоя теория, что землетрясения устраивают искусственно, просто потрясающая.	Speaker=Professor Sherman Notes=*format*
+conversation_p7mpft_text	Проверь ее {format highlight}по ту сторону Ветреных Равнин{format reset}. Спустись по лестнице в восточной части города.	Speaker=Professor Sherman Notes=*new* added the part about taking the ladder
+conversation_9zagcy_text	Секта прячет какое-то устройство, способное вызывать землетрясения.	Speaker=Dorothy
+conversation_d8olb4_text	Тогда следующий шаг - обезвредить это устройство. Это может остановить землетрясения.	Speaker=Professor Sherman
+conversation_vts8e3_text	{format emph}Да!{format reset} Уничтожить - это я люблю. За дело!	Speaker=Fen
+conversation_ly2vhz_text	Возможно, мне не придется достраивать ракету.	Speaker=Professor Sherman
+conversation_ypryh5_text	Строить космический корабль-разведчик, знаешь ли, не самое простое дело.	Speaker=Professor Sherman
+conversation_qq0n6k_text	Если ты {format highlight}отключишь генератор подземных толчков{format reset}, я смогу отдохнуть.	Speaker=Professor Sherman
+conversation_hbhl5o_text	Как может бот построить машину для землетрясений?	Speaker=Dorothy
+conversation_dpkudw_text	Для этого нужны невероятные знания и очень продвинутые технологии.	Speaker=Professor Sherman
+conversation_irqx6c_text	Технологии будущего, которые превосходят все, что мне известно...	Speaker=Professor Sherman Notes=*format*
+conversation_gljg9h_text	Я просматривала старые данные, пыталась расшифровать последовательность, но она хаотична.	Speaker=Professor Sherman
+conversation_j3paiq_text	Характер колебаний при землетрясении показывает, что мы все еще в опасности.	Speaker=Professor Sherman Notes=*format* *new*
+conversation_w8nhom_text	Прекращать работу над ракетой явно рано.	Speaker=Professor Sherman
+conversation_ihi6uu_text	Я пока не готова бросать ракету.	Speaker=Professor Sherman
+conversation_j6jtna_text	Моему коллеге удалось достать образец их подземных джунглей.	Speaker=Professor Sherman
+conversation_oepnn1_text	Странный, правда? И очень опасный.	Speaker=Dorothy Notes=*format*
+conversation_kul85z_text	Да, клевый!	Speaker=Fen
+conversation_b4ld5b_text	Так или иначе, он сказал, что обнаружил следы влияния мутагена.	Speaker=Professor Sherman
+conversation_h8rkzh_text	Похоже, растения берут энергию из мутагенной {format emph}бузы{format reset}, которую так любят бомжи.	Speaker=Professor Sherman
+conversation_bthpa5_text	Там {format emph}и правда{format reset} проходит много трубок.	Speaker=Dorothy
+conversation_wvpx34_text	Вероятно, это источник заражения.	Speaker=Professor Sherman
+conversation_ll0rrj_text	Но эти джунгли - лишь одна из загадок в этой череде странных событий.	Speaker=Professor Sherman
+conversation_gcue08_text	Мы отключил все сейсмогенераторы.	Speaker=Dorothy
+conversation_rhj5jo_text	Мои приборы больше не мечутся и указывают в одну точку.	Speaker=Professor Sherman
+conversation_pgv6y7_text	Последнее землетрясение началось как раз у деревни бомжей.	Speaker=Professor Sherman
+conversation_j878i8_text	Нам явно нужно отправляться туда, вниз, и {format highlight}поговорить с Рози.{format reset}	Speaker=Dorothy Notes=*new* removed the reference to the oasis being blocked as the player could be oblivious to this.
+conversation_lv5xcl_text	Моя ракета готова наконец. Осталась пара приготовлений - и я могу улететь, если понадобится.	Speaker=Professor Sherman Notes=*new* rephrased the ending of the line.
+conversation_9rxm14_text	Еще пара приготовлений - и можем улетать с планеты в случае большого землетрясения.	Speaker=Professor Sherman
+conversation_tnyv5r_text	Как только я закончу свой корабль, улечу с этой планеты.	Speaker=Professor Sherman
+conversation_7an1z5_text	Кто хочет, присоединяйтесь. Места хватит всем.	Speaker=Professor Sherman
+
+# workbench_conversation
+conversation_f5xes1_text	Ох!	Speaker=Turtle Bucket Notes=*new*
+conversation_vwbtbo_text	У меня есть просто фантастические обновления, как раз для тебя! Последний писк науки!	Speaker=Turtle Bucket Notes=*new*
+conversation_d17hfn_text	Эм... Извини, что отвлекаю... опять.	Speaker=Turtle Bucket Notes=*new*
+conversation_2hj8xd_text	Но у меня появился новый товар! С ним можно очень круто обновить твои инструменты.	Speaker=Turtle Bucket Notes=*new*
+conversation_dnpk79_text	Ну... Просто решил предупредить.	Speaker=Turtle Bucket Notes=*new*
+conversation_cq63md_text	Ну как...?	Speaker=Turtle Bucket Notes=*new*
+conversation_eb2wqf_text	{format nervous}А-а{format reset}, в смысле... Как дела?	Speaker=Turtle Bucket Notes=*new*
+conversation_6hj11o_text	Э... У меня есть новые детали!	Speaker=Turtle Bucket Notes=*new*
+conversation_ozu5go_text	С ними можно хорошо обновить и улучшить все инструменты... То есть, еще лучше их сделать. Круто, да?	Speaker=Turtle Bucket Notes=*new*
+conversation_rkault_text	Я смотрю... Э... У тебя броня погнулась...	Speaker=Turtle Bucket Notes=*new*
+conversation_8lfpm2_text	У меня есть шикарные пластины, можно обновить ее.	Speaker=Turtle Bucket Notes=*new*
+conversation_kpzosz_text	Чтобы у тебя было больше шансов.... Ну понимаешь.... уцелеть.	Speaker=Turtle Bucket Notes=*new*
+conversation_vk0in8_text	Э... А что ты хочешь сделать?	Speaker=Turtle Bucket
+conversation_xbec1d_text	Э... А что ты хочешь сделать?	Speaker=Turtle Bucket Notes=This is the introductary phrase from the mechanich
+
+# workbench_conversation_cog_intro
+conversation_4nh80e_text	Э... Хорошее снаряжение.	Speaker=Turtle Bucket
+conversation_zb6ryl_text	То есть, ты, э... можешь его улучшить, если шестеренки есть. Может, э... хочешь узнать как?	Speaker=Turtle Bucket
+conversation_k47xd0_text	Э, извини... Не мешать, да?!	Speaker=Turtle Bucket Notes=This person is very nervous
+conversation_xsq7ao_text	Тебе правда интересно?! Ну, л-ладно! Ладно!	Speaker=Turtle Bucket
+conversation_9iwqjw_text	Ладно, в общем... да. Извини. Я буду тут, если что...	Speaker=Turtle Bucket
+
+# workbench_conversation_cog_tutorial
+conversation_e2sw99_text	Ты... это... Ты можешь {format highlight}улучшить инструменты{format reset} с помощью шестеренок {image cogs_small}.	Speaker=Turtle Bucket Notes=*new* added {format highlight}
+conversation_qsonke_text	Ты, может, видела такие вокруг.	Speaker=Turtle Bucket
+conversation_9chqoj_text	Воспользуйся верстаком, с его помощью ты сможешь улучшить свои инструменты. Просто вставь шестеренки {image cogs_small} в ячейки.	Speaker=Turtle Bucket
+conversation_0dnnax_text	О! Только это... Не бойся, можешь {format highlight}вытащить шестеренки{format reset} {image cogs_small} в любой момент!	Speaker=Turtle Bucket Notes=*new* added {format highlight}
+conversation_90zfu2_text	Чем больше улучшаешь инструменты, тем круче улучшения.	Speaker=Turtle Bucket
+conversation_a5snuc_text	Вот... Могу еще порассказывать, но ты, наверное, не хочешь...	Speaker=Turtle Bucket
+conversation_b1szsc_text	Есть еще такие улучшения, для которых нужны чертежи.	Speaker=Turtle Bucket
+conversation_f0xxtp_text	У Дэви Биттенборо, нашего, э... картографа, кажется, есть парочка.	Speaker=Turtle Bucket
+conversation_1q2dd2_text	Такие улучшения обычно очень классные! Ну, то есть, мне нравятся...	Speaker=Turtle Bucket
+conversation_i2a540_text	Да, и, раз ты можешь доставать шестеренки {image cogs_small}, то можно поэкспериментировать.	Speaker=Turtle Bucket
+conversation_5p4bi7_text	Ну, менять экипировку то так, то эдак. То есть, если хочешь...	Speaker=Turtle Bucket
+conversation_iq6h9b_text	Хм, круто, ты дослушала до конца! Обычно все уходят...	Speaker=Turtle Bucket
+conversation_e4vdfi_text	Ну, э... Я буду тут, наверное.	Speaker=Turtle Bucket
+
+# fen_wall_found
+conversation_9lkkka_text	Знакомое место. Может, сектанты притащили меня сюда по пути наверх.	Speaker=Fen
+conversation_qsa4d1_text	Как думаешь, а {format nervous}руины Вектрона{format reset} еще глубже?	Speaker=Fen
+conversation_3rahmd_text	Совсем глубоко. Мы пока в освоенной части шахты.	Speaker=Dorothy
+conversation_xecqeg_text	А, ну ладно. Просто спрашиваю.	Speaker=Fen
+conversation_mx4ktk_text	Теперь надо как-то пройти через эту дурацкую стену.	Speaker=Dorothy
+conversation_cat8cu_text	О! {format singsong}Пора что-нибудь взорвать!{format reset}	Speaker=Fen
+conversation_nq5gxh_text	Это не сработает! Стену строили после бомжацких войн, чтобы эти ненормальные к нам не лазили.	Speaker=Dorothy Notes=*format*
+conversation_gu7tji_text	Бомжи отлично разбираются во взрывчатке, так что стены выдерживают взрывы.	Speaker=Dorothy
+
+# fen_below_wall
+conversation_mbv8tf_text	Слушай, {format nervous}ну и местечко!{format reset}	Speaker=Fen Notes=Place, refering to the underground jungle that they just passed thruogh.
+conversation_cj1k6o_text	Похоже, я под первым слоем стены - как минимум.	Speaker=Dorothy
+conversation_5mo9pe_text	Надеюсь, эта станция где-то тут неподалеку.	Speaker=Dorothy
+conversation_vizvqs_text	А я надеюсь, мы там найдем что-нибудь клевое и взрывоопасное.	Speaker=Fen Notes=*format*
+
+# fen_on_yarrow
+conversation_rswyd0_text	Слушай, {format emph}это{format reset} что за место? Выглядит мрачно и опасно. Посмотрим!	Speaker=Fen
+conversation_vqbkn5_text	Вообще-то здесь ничего не должно расти...	Speaker=Dorothy Notes=*new* shortened by removing description of place. Was a bit misrepresentative
+conversation_jk4t0s_text	Тут полно опасностей.	Speaker=Dorothy
+conversation_i4oq3o_text	{format laugh}Ура!{format laugh}	Speaker=Fen
+conversation_qaywwl_text	Надо запастись топливом для лампы, прежде чем туда лезть.	Speaker=Dorothy
+conversation_sf4uwk_text	Скучная ты. Пошли!	Speaker=Fen
+
+# blueprint_vendor_01
+conversation_1135rj_text	Честное слово! От этих землетрясений столько проблем. Мэру нужно послать кого-нибудь разобраться с ними.	Speaker=Davy Bittenborough Notes=*format*
+conversation_dq65oq_text	А что если эти сокровища разобьются? Даже подумать страшно!	Speaker=Davy Bittenborough
+conversation_3fn5w0_text	Похоже, тебе очень нравятся драгоценные камни?	Speaker=Dorothy
+conversation_npebbg_text	Нет-нет! Я говорю о {format emph}настоящих{format reset} сокровищах. Удивительных и загадочных артефактах {image artifacts_small}.	Speaker=Davy Bittenborough
+conversation_a7uvtg_text	Они прекрасны, и за каждым стоит захватывающая история.	Speaker=Davy Bittenborough Notes=*format*
+conversation_mjgdjr_text	Если найдешь какой-нибудь артефакт {image artifacts_small}, то покажи мне его, пожалуйста, я буду очень благодарен.	Speaker=Davy Bittenborough Notes=*new* added the artifact image to this line and added a more specific wording to point to artifacts
+conversation_uwhgx6_text	Кажется, я нашла кое-что интересное для тебя.	Speaker=Dorothy
+conversation_iqy08o_text	Ладно, буду высматривать что-нибудь интересное.	Speaker=Dorothy
+conversation_rppjea_text	{format singsong}Превосходно!{format reset} Я дам тебе {format highlight}чертеж{format reset}, если ты принесешь еще не меньше {var num_artifacts_threshold} {image artifacts_small}.	Speaker=Davy Bittenborough
+conversation_br857t_text	{format singsong}Вот это да!{format reset} Ущипните меня, неужели я не сплю?!	Speaker=Davy Bittenborough
+conversation_iptdw9_text	Тебе удалось найти легендарный 43-й драгоценный артефакт{image artifacts_small}.	Speaker=Davy Bittenborough
+conversation_lu65ll_text	Как я об этом мечтал. Поколения моих предков искали эту вещицу. Как же мне не терпится увидеть его.	Speaker=Davy Bittenborough
+conversation_wu0y6m_text	...	Speaker=Davy Bittenborough
+conversation_vyiiiz_text	Погоди...	Speaker=Davy Bittenborough
+conversation_ds3fs3_text	Это он?	Speaker=Davy Bittenborough
+conversation_kheln9_text	Я так... так...	Speaker=Davy Bittenborough
+conversation_axft9i_text	Разочарован.	Speaker=Davy Bittenborough
+conversation_66l4aw_text	Ну что ж, спасибо.	Speaker=Davy Bittenborough
+conversation_6ybt0n_text	Моя жизнь потеряла смысл.	Speaker=Davy Bittenborough
+conversation_rlfp8l_text	{format singsong}Превосходно!{format reset} Ты уже нашла артефакты, целых {var num_artifacts_current}! Удивительные артефакты {image artifacts_small}, отлично!	Speaker=Davy Bittenborough Notes=*new* Blueprints unlock new upgrades for your equipement. Changed {image artifacts} to {image artifacts_small}
+conversation_as6lw7_text	{format singsong}Превосходно!{format reset} Ты нашла артефакты, уже {var num_artifacts_current}! Удивительные артефакты {image artifacts_small}, отлично!	Speaker=Davy Bittenborough Notes=*new* added a version of the above line that is singular artifact. Changed {image artifacts} to {image artifacts_small}
+conversation_p7vtak_text	В знак благодарности я дам тебе {format highlight}чертеж{format reset} из своих запасов.	Speaker=Davy Bittenborough Notes=*format* removed emph from appreciation
+conversation_dcphb9_text	Просто возьми его в мастерскую и используй модификации. Он сослужит тебе отличную службу.	"Speaker=Davy Bittenborough Notes=*new* ""it"" refering to the blueprint"
+conversation_g8lzbu_text	Я дам тебе еще один чертеж, если ты покажешь мне не меньше {var num_artifacts_threshold} артефактов {image artifacts_small}.	Speaker=Davy Bittenborough Notes=*new* gives the player som info on how many artefacts until next blueprint
+conversation_pwaqqk_text	Хм, я смотрю, у тебя пока нет {format emph}ни одного{format reset} интересного артефакта {image artifacts_small}.	Speaker=Davy Bittenborough Notes=*new* Changed {image artifacts} to {image artifacts_small}
+conversation_tm2fum_text	Я дам тебе {format highlight}чертеж{format reset}, если ты принесешь не меньше {var num_artifacts_threshold} {image artifacts_small}.	Speaker=Davy Bittenborough Notes=*new* Changed {image artifacts} to {image artifacts_small}
+conversation_31n97u_text	Как чудесно, ты уже нашла кое-что! Целых {var num_artifacts_current}! Отличные артефакты {image artifacts_small}.	Speaker=Davy Bittenborough Notes=*new* Changed {image artifacts} to {image artifacts_small}
+conversation_xkdvzp_text	Я дам тебе {format highlight}чертеж{format reset}, если ты принесешь не меньше {var num_artifacts_threshold} {image artifacts_small}.	Speaker=Davy Bittenborough Notes=*new* Changed {image artifacts} to {image artifacts_small}
+conversation_vj87ok_text	Отлично! Уже есть находки! Целых {var num_artifacts_current}, замечательные артефакты {image artifacts_small}.	Speaker=Davy Bittenborough Notes=*new* Changed {image artifacts} to {image artifacts_small}
+conversation_c12v5z_text	Эти драгоценные вещицы могут прятаться где угодно.	Speaker=Davy Bittenborough Notes=*new*
+conversation_r70wn4_text	Но у тебя теперь есть отличное новое оборудование.	Speaker=Davy Bittenborough Notes=*new*
+conversation_ozgox8_text	Смотри по сторонам внимательно, хорошо?	Speaker=Davy Bittenborough Notes=*new*
+conversation_crg8xl_text	Я дам тебе еще один чертеж, если ты покажешь мне не меньше {var num_artifacts_threshold} артефактов {image artifacts_small}.	"Speaker=Davy Bittenborough Notes=*new* changed ""found"" to ""if you can show me"". Changed {image artifacts} to {image artifacts_small} changed a to another"
+conversation_rkqt88_text	Ты славно поработала. Думаю, ты нашла все артефакты шахты.	"Speaker=Davy Bittenborough Notes=*new* removed ""wonderful"" as it conflicted with previous lines in some cases"
+conversation_4ngqs0_text	Как удачно, а у меня как раз кончились чертежи!	Speaker=Davy Bittenborough
+conversation_75th6d_text	Когда я был юным резвым ботом вроде тебя, то облазил всю шахту и составил отличные карты.	Speaker=Davy Bittenborough
+conversation_wvg349_text	Я нанес на карту всю защитную стену задолго до того, как мои колени начали скрипеть и заедать.	Speaker=Davy Bittenborough
+conversation_90qcuc_text	Я начал с нижних ярусов, но эти неразумные бомжи мне очень мешали.	Speaker=Davy Bittenborough
+conversation_pffrd2_text	У этих созданий нет никакого уважения к чужому труду. Закладывать взрывчатку под такой шедевр? Это просто абсурд!	Speaker=Davy Bittenborough
+conversation_fc5nyv_text	Стена, конечно, поглощает большую часть урона, но понемногу они пробивают ее.	Speaker=Davy Bittenborough
+conversation_219b44_text	Ты бывала в храме за Ветреными равнинами?	Speaker=Dorothy
+conversation_0anv7h_text	Эти развалины слабо изучены. Храм всегда был очень коварен.	Speaker=Davy Bittenborough
+conversation_tv8uil_text	Мой коллега, Рональд Хаббот, был единственным, кто {format emph}рискнул{format reset} побывать там.	Speaker=Davy Bittenborough
+conversation_u57vpi_text	И что с ним случилось?	Speaker=Dorothy
+conversation_g8rvft_text	О, у него, похоже, было какое-то жуткое видение о конце света.	Speaker=Davy Bittenborough
+conversation_02chim_text	Он обосновался в храме. Начал собирать вокруг себя безумных ботов.	Speaker=Davy Bittenborough
+conversation_i026up_text	Могу только предполагать, какие чудесные артефакты {image artifacts_small} таятся в тех развалинах.	Speaker=Davy Bittenborough
+conversation_tvge9q_text	Знаешь, в глубинах шахты, должно быть, {format emph}горы{format reset} забытых артефактов {image artifacts_small}.	Speaker=Davy Bittenborough
+conversation_iyk7r0_text	Просто вообрази все эти реликты забытых цивилизаций, которые ждут своего исследователя.	Speaker=Davy Bittenborough
+conversation_hp4wcb_text	В какое чудесное время мы живем. Боты долгие годы не проникали так глубоко, как ты.	Speaker=Davy Bittenborough
+conversation_ekx3en_text	Но тебе стоит отправиться еще глубже История покровительствует смелым.	Speaker=Davy Bittenborough
+conversation_bb807w_text	Западная пустыня - суровый засушливый край, но все же боты жили там веками.	Speaker=Davy Bittenborough
+conversation_6e53tq_text	Уверен, среди камней и песков там скрывается множество интересного.	Speaker=Davy Bittenborough
+conversation_ja68cp_text	Я очень высоко ценю артефакты.	Speaker=Davy Bittenborough
+conversation_9w2c24_text	Знаешь, обычно нужны {format emph}миллиарды лет{format reset}, чтобы Земля поменяла геологическую структуру.	Speaker=Davy Bittenborough
+conversation_aactqp_text	Эти новые землетрясения способны изменить рельеф за пару десятков лет.	Speaker=Davy Bittenborough
+conversation_fn5brp_text	Скоро мы разберемся с землетрясениями.	Speaker=Dorothy
+conversation_d0c0zs_text	А что если шахта полностью обрушится? Мои карты станут бесполезны. Возмутительно!	Speaker=Davy Bittenborough
+conversation_w56u9v_text	Знаешь, это последнее землетрясение создало множество проблем.	Speaker=Davy Bittenborough
+conversation_mcnumi_text	Может, профессор Шерман права... Возможно, нам всем придется покинуть эту планету.	Speaker=Davy Bittenborough
+conversation_mq34gi_text	Мы делаем все, чтобы этого избежать.	Speaker=Dorothy
+conversation_h0mzw3_text	Создание звездных карт может оказаться интереснейшей задачей, подумай об этом.	Speaker=Davy Bittenborough
+
+# blueprint_vendor_02
+conversation_uyr4r4_text	А, {format singsong}привет, милашка!{format reset} Отличный вид отсюда, правда? Повезло нашему мэру!	Speaker=Clifford Heisenberg Notes=This person id located upp on a trellis with a fantastic view.
+conversation_w3sayh_text	Только зря он профессора не слушает. Эти землетрясения сами по себе не кончатся!	Speaker=Clifford Heisenberg
+conversation_cww3zx_text	Мэра на месте нет. Интересно, когда он вернется.	Speaker=Clifford Heisenberg
+conversation_0g6nsc_text	Это бомба у тебя?	Speaker=Dorothy Notes=*format*
+conversation_474v8c_text	Скажи мне, что ты сейчас взорвешь этот домишко-уродец.	Speaker=Fen Notes=This is Fen talking
+conversation_o24esm_text	{format laugh}Да!{format reset} То есть, нет!	Speaker=Clifford Heisenberg
+conversation_yi4qcu_text	Я хотел показать мэру Йонкеру мою улучшенную пневмобомбу. Как раз то, что нужно городу!	Speaker=Clifford Heisenberg Notes=*new* changed water bomb to pressure bomb
+conversation_bqmi7g_text	Только... От но меня отмахнулся и сказал принести ее в кабинет. А тут нет никого...	Speaker=Clifford Heisenberg
+conversation_5kay5a_text	Ну, ничего, я подожду! Мэр наверняка скоро вернется. Возможно. Наверное. Когда-нибудь.	Speaker=Clifford Heisenberg
+conversation_73lt57_text	У бомб много применений. Их можно использовать {format emph}везде{format reset}. Более или менее.	Speaker=Clifford Heisenberg
+conversation_2t4ktx_text	Можно туннели пробивать, разбивать твердые минералы, расчищать мусор и завалы...	Speaker=Clifford Heisenberg
+conversation_tkp0i2_text	Про разрушение ради разрушения не забудь!	Speaker=Fen Notes=This is Fen talking
+conversation_2ynw9y_text	Когда-то они в шахтах постоянно грохотали. Ах, то была музыка для моих ушей!	Speaker=Clifford Heisenberg Notes=*format*
+conversation_2vgr7k_text	Прекрасные взрывы со смертельным исходом!	Speaker=Fen Notes=This is Fen talking
+conversation_4nhr7x_text	Я так надеюсь, что мэр одобрит мою разработку новой пневмобомбы... За ними будущее!	Speaker=Clifford Heisenberg Notes=*new* changed pressurized water bomb to pressure bomb
+conversation_gbuars_text	А он соображает!	Speaker=Fen Notes=This is Fen talking
+conversation_h4evh3_text	Я рада, что ты нашла родственную душу, но лучше б у вас были другие общие интересы.	Speaker=Dorothy Notes=This is Dorothy talking
+conversation_v0gx3y_text	Я обязательно докажу мэру, что за моими бомбами будущее.	Speaker=Clifford Heisenberg
+conversation_hwchba_text	Мистер Биттенборо как-то раз принес мне искореженный корпус от бомбы. Сказал, что нашел его на территории бомжей.	Speaker=Clifford Heisenberg
+conversation_q0vd7o_text	Мне аж смотреть тошно было! Ты знала, что бомжи делают бомбы из {format nervous}нитроглицерина и бузы?{format reset}	Speaker=Clifford Heisenberg
+conversation_shtyfr_text	А что тут не так? Взрывается же?	Speaker=Fen Notes=This is Fen talking
+conversation_4nsm4v_text	Точно. Вместе с твоими пальцами, если повезет!	Speaker=Clifford Heisenberg
+conversation_s7nbis_text	Нет, спасибо! Я выбираю старую добрую пневмобомбу, надежную и безопасную.	Speaker=Clifford Heisenberg Notes=*format* *new* changed pressurized water bomb to pressure bomb
+conversation_p2i5l7_text	Отстой.	"Speaker=Fen Notes=*format* *new* removed ""..."""
+conversation_ptgzep_text	Осторожней там внизу. С бомжами шутки плохи.	Speaker=Clifford Heisenberg
+conversation_l8kkmb_text	Ты уже видела новую ракету профессора Шерман? Красавица!	Speaker=Clifford Heisenberg
+conversation_9yditf_text	Да, впечатляет.	Speaker=Dorothy Notes=This is Dororthy talking
+conversation_b8svck_text	И абсолютно надежна. Я же ей помогал с расчетами!	Speaker=Clifford Heisenberg
+conversation_wz8w9f_text	Чтобы запустить такую махину в космос, нужно много усилий. Все нужно просчитать до тысячных долей!	Speaker=Clifford Heisenberg
+conversation_516qkn_text	Я хочу сказать, по сути-то ракета - это огромная бомба, согласна?	Speaker=Clifford Heisenberg Notes=*format*
+conversation_8ly6iv_text	Мне нравится, к чему он клонит. Может, попросим профессора дать покататься?	Speaker=Fen Notes=This is Fen talking
+conversation_pawve3_text	Может, позже, Фен.	Speaker=Dorothy Notes=This is Dorothy talking
+conversation_sqkxyn_text	Не беспокойся. Если речь о бомбах, я никогда не ошибаюсь!	Speaker=Clifford Heisenberg
+conversation_ha9646_text	Я тут думаю об этих землетрясениях. Землетрясение - это ведь по сути сильная вибрация, так?	Speaker=Clifford Heisenberg
+conversation_fs869d_text	{format singsong}И-и-и-и...{format reset} если создать эквивалентную вибрацию и попасть в {format emph}антирезонанс{format reset}, то они взаимоуничтожатся!	Speaker=Clifford Heisenberg
+conversation_1frwlw_text	Э... Вы... Я вас правильно поняла?	Speaker=Dorothy
+conversation_qd7crv_text	Именно! Бомбы! Всего-то и нужно, что создать сеть синхронизируемых бомб и нейтрализовать вибрацию!	Speaker=Clifford Heisenberg Notes=*format*
+conversation_t8xdab_text	Прелесть! Отличный план.	Speaker=Fen
+conversation_50z3oe_text	Я так рад, что тебе нравится! Надо только поработать над расчетами годик-другой. Безопасность прежде всего!	Speaker=Clifford Heisenberg
+conversation_wdv8yf_text	Ой...	Speaker=Fen Notes=*new*
+conversation_dx83ih_text	Надо немедленно рассказать мэру Йонкеру о моем плане. Он наверняка будет в восторге! Когда же он вернется... Его уже давно нет.	Speaker=Clifford Heisenberg
+conversation_hu5cr9_text	Не нравятся мне эти разговоры про большое землетрясение. Слишком много неизвестных. Насколько большое? Когда начнется? Где?	Speaker=Clifford Heisenberg
+conversation_achdi1_text	С тех пор как обрушило лифт, я все думаю, что случится, если землетрясение будет {format emph}и впрямь{format reset} большим.	Speaker=Clifford Heisenberg
+conversation_k2l3ob_text	Профессор Шерман говорит, что ситуация будет ухудшаться.	Speaker=Dorothy
+conversation_ioi3ht_text	Ее стоит послушать. Она в городе самая умная.	Speaker=Clifford Heisenberg
+conversation_5oey6i_text	Кажется мне, что мэр в кабинет не вернется.	Speaker=Clifford Heisenberg
+conversation_xoknkn_text	{format singsong}Ого!{format reset} Это что... пневмогранатомет? О да, роскошная модель!	Speaker=Clifford Heisenberg Notes=*format* *new* changed format from laugh to singsong
+conversation_uhq93q_text	Так ты... тоже любительница бомб? Как я?	Speaker=Clifford Heisenberg Notes=*format*
+conversation_8o8ba8_text	Я покажу тебе мой секретный проект! О, я просто {format nervous}разрывался{format reset} от желания поделиться с ценителем!	Speaker=Clifford Heisenberg
+conversation_ux8mwy_text	Патент только на рассмотрении, но с этой модификацией твой гранатомет станет {format emph}втрое разрушительнее{format reset}!	Speaker=Clifford Heisenberg Notes=*new* changed format from highligh to emph
+conversation_4urlt2_text	Я бы дал тебе испытать ее в полевых условиях, только... {format singsong}Н-ну-у-у-у{format reset}... мой бюджет на исследования последнее время немного иссяк.	Speaker=Clifford Heisenberg
+conversation_uxln27_text	Может, если ты пожертвуешь, скажем ${var pricelist_next:blueprint_vendor_02}{image money_small}, я мог бы предложить уникальный, только для своих, {format highlight}чертеж{format reset} моего изобретения. Как тебе?	Speaker=Clifford Heisenberg
+conversation_dgw94e_text	Кстати, не надумала еще пожертвовать на науку? Всего-то ${var pricelist_next:blueprint_vendor_02}{image money_small} за первый и уникальный {format highlight}чертеж{format reset}!	Speaker=Clifford Heisenberg
+conversation_20o2j5_text	Отлично! Держи!	Speaker=Clifford Heisenberg Notes=*format* *new* split this line up
+conversation_52n8bq_text	Отправляйся в мастерскую и пусти его в дело: улучши свои пушки.	Speaker=Clifford Heisenberg Notes=*new*
+conversation_9p7l5p_text	Чего ждешь? Иди и разбей что-нибудь вдребезги!	Speaker=Clifford Heisenberg Notes=*new*
+conversation_gui6im_text	Похоже, у тебя тоже с финансами туго. Не горюй! Приходи, как будешь при деньгах.	Speaker=Clifford Heisenberg
+conversation_ijkhew_text	Понимаю! Приходи в любое время, если передумаешь.	Speaker=Clifford Heisenberg
+conversation_02qawb_text	Ну что, помог тебе чертеж? Ну как, нашла что взорвать?	Speaker=Clifford Heisenberg Notes=*format*
+
+# blueprint_vendor_03
+conversation_1hq43e_text	Привет, подруга. С этими землетрясениями доставлять почту стало опасно.	Speaker=Ty Nuzak Notes=This Character is a mail man/pony express person.
+conversation_k6q6hf_text	Кое-кто из наших ребят говорил, что в пустыне появились какие-то провалы.	Speaker=Ty Nuzak
+conversation_ple2sp_text	Там для наших теперь небезопасно.	Speaker=Ty Nuzak
+conversation_dum6i9_text	Извини, подруга, сейчас я тебе с почтой помочь не могу.	Speaker=Ty Nuzak
+conversation_qy63x4_text	Все наши сотрудники сейчас на доставке, бедолаги.	Speaker=Ty Nuzak
+conversation_4nc6nw_text	А вы почему не с ними?	Speaker=Dorothy
+conversation_aozfk3_text	Нет ничего {format nervous}страшнее{format reset}, чем открытые пространства. Пустота. Мили пустоты.	Speaker=Ty Nuzak
+conversation_opkpi5_text	У меня от одной мысли клаустрофобия начинается.	Speaker=Ty Nuzak Notes=*format*
+conversation_opmgdu_text	Поверь, подруга, нет ничего ужасней огромных открытых пространств.	Speaker=Ty Nuzak
+conversation_384qc9_text	Наши пони бегали по всей пустыне. Эти землетрясения повсюду, подруга.	Speaker=Ty Nuzak
+conversation_c3vack_text	Деревушки вокруг старых храмов в панике.	Speaker=Ty Nuzak
+conversation_alusmw_text	Мы даже больше не можем перевозить сюда руду.	Speaker=Ty Nuzak
+conversation_5nkkkg_text	В этом городе многие зарабатывали на перевозке товаров по всей равнине.	Speaker=Ty Nuzak
+conversation_1u0u2r_text	"И лучший способ перевозок - это ""Паропони Экспресс""."	Speaker=Ty Nuzak
+conversation_2ufqac_text	"У ""Паропони Экспресс"" отличная репутация. Я не хочу, чтобы эти землетрясения разрушили и ее, подруга."	Speaker=Ty Nuzak
+conversation_7idj7v_text	А ваши пони заходили в храмы?	Speaker=Dorothy
+conversation_vfl4c6_text	Забавно, что ты спрашиваешь, подруга. У нас была срочная доставка в восточный храм буквально в том месяце.	Speaker=Ty Nuzak Notes=*new* removed reference to Ron
+conversation_51nddn_text	Нам пришлось отправить курьера прямиком через Ветреные равнины.	Speaker=Ty Nuzak Notes=*new* changes to phrasing
+conversation_hsitea_text	А надо сказать, через такие вихри можно пробежать только на очень сильных ногах.	"Speaker=Ty Nuzak Notes=*new* removed ""pardner""."
+conversation_g6i2qw_text	Они заказали партию роскошных жаровен и просили доставить их как можно скорее.	Speaker=Ty Nuzak Notes=*new* removed reference to four braziers as this is no longer relevant. Also changed he to they, to make sense with changes above
+conversation_j223bu_text	Наверное, для своей дурацкой секты.	Speaker=Ty Nuzak
+conversation_p4ogy4_text	Тот, кто хочет пересечь Ветреные равнины, должен быть готов к сильному встречному ветру, подруга.	Speaker=Ty Nuzak
+conversation_pgpn5x_text	Говорят, ты глубоко копаешь, подруга.	Speaker=Ty Nuzak
+conversation_2ir3fn_text	Да, мы ищем моего друга, он может быть там, в шахте.	Speaker=Dorothy
+conversation_l0q9lw_text	Иногда мне так хочется уйти из этого заржавелого города и посмотреть на мир.	Speaker=Ty Nuzak Notes=*new* doggone to coggone
+conversation_l0wgkw_text	А потом я слышу рассказы про всякие страшные штуки вроде подземных джунглей.	Speaker=Ty Nuzak
+conversation_qgwwxu_text	Я начинаю размышлять о тайнах и опасностях, скрытых там, внизу.	Speaker=Ty Nuzak Notes=*new*
+conversation_5phwat_text	У меня начинается {format nervous}сердцебиение{format reset} и дрожь в коленках.	Speaker=Ty Nuzak
+conversation_cp57ox_text	Шпорами клянусь, я самый трусливый пони из всех, что ты встречала, правда же?	Speaker=Ty Nuzak
+conversation_x5lp6f_text	Мне хотелось бы быть посмелее, а париться поменьше. В мире так много всего интересного, а я все пропускаю.	Speaker=Ty Nuzak
+conversation_w4by19_text	А с этими землетрясениями стало еще хуже. У меня все четыре коленки трясутся.	Speaker=Ty Nuzak
+conversation_d4gln9_text	По-моему, нам всем надо сматываться отсюда на ракете, да побыстрее.	Speaker=Ty Nuzak
+conversation_w15szm_text	Не то чтоб мне нравилась идея лететь в это пустое небо.	Speaker=Ty Nuzak
+conversation_jnag7u_text	Но если планета развалится, то выбора-то особо нет...	Speaker=Ty Nuzak
+conversation_oawrk7_text	Похоже, подруга, придется мне покинуть зону комфорта.	Speaker=Ty Nuzak
+conversation_e1e8ry_text	Если вся планета разлетится на куски, мне просто придется отправиться навстречу приключениям.	Speaker=Ty Nuzak
+conversation_cqe4nv_text	Здорово, подруга! Было здорово встретить земляка-копальщика, особенно сейчас, когда из-за землетрясений все вверх дном.	Speaker=Ty Nuzak
+
+# cultist_worship_rusty
+conversation_jm66o2_text	...	Speaker=Dorothy
+conversation_igsxan_text	Вы что, поклоняетесь {format emph}статуе Расти{format reset}?	Speaker=Dorothy
+conversation_1voalp_text	Да... Великий Расти - Разрушитель обетованный.	Speaker=Cultist Notes=*format*
+conversation_pd5hzj_text	Его пришествие предрек Великий Пророк. Он предвидел приход {format singsong}благословенного конца{format reset}.	Speaker=Cultist Notes=*new* removed reference to Ron and expanded the text format
+conversation_y6xyie_text	Вы, ребята, что найдете, тому и поклоняетесь, что ли?	Speaker=Fen
+conversation_e76l4q_text	Путеводный Свет! Эта неверная похитила тебя из Храма Пути!	Speaker=Cultist Notes=*format*
+conversation_qo16zi_text	Я принесу ее детали в жертву очищающему пламени!	Speaker=Cultist Notes=*format*
+
+# yonker_01
+conversation_mdyvq0_text	О, привет! Я-то думал, {format nervous}меня никто не найдет{format reset}.	Speaker=Zebulon Yonker
+conversation_zcgves_text	Я не то чтоб там потерялся, нет, просто сюда непросто добраться!	Speaker=Zebulon Yonker
+conversation_ara3qe_text	Надо б тебе подарить что-нибудь за хлопоты. А у меня только вот, чертежик.	"Speaker=Zebulon Yonker Notes=""Feels like Ah should give..."" is ""Feels like I should give..."""
+conversation_2ebftt_text	Но ты только учти, если его применишь, твое путешествие может стать {format danger}сложнее{format reset}.	Speaker=Zebulon Yonker Notes=*NEW*
+conversation_6jeiwp_text	Так что используй его, только если хочешь заморочиться!	Speaker=Zebulon Yonker Notes=*NEW*
+conversation_pvpsai_text	Ты не боись, я не потерялся. Я тут отдыхаю.	Speaker=Zebulon Yonker
+conversation_jbfsb5_text	Мой брательник такой тупой, он заблочил всю старую транспортную систему.	Speaker=Zebulon Yonker
+conversation_rq43xc_text	Сказал, там опасно или что-то вроде того. Я вообще-то не слушал.	Speaker=Zebulon Yonker
+conversation_v4t07d_text	Я иногда думаю, что эти все мэрские заморочки ему шурупы в башке заклинили.	Speaker=Zebulon Yonker
+conversation_y4mgz6_text	Без лифтов-то плохо. Домой придется ногами топать.	Speaker=Zebulon Yonker
+conversation_9kai6i_text	С этими пустынями что-то неладное творится, точно тебе говорю.	Speaker=Zebulon Yonker
+conversation_1hh5hs_text	Видел этих чудил из секты возле храма.	Speaker=Zebulon Yonker
+conversation_vpsiim_text	Я в ихних гитиках не разбираюсь. У них там ритуалы странные, все такое.	Speaker=Zebulon Yonker Notes=*format*
+conversation_efhbif_text	В шахте любой спятит, если долго вылезать не будет.	Speaker=Zebulon Yonker
+conversation_914qie_text	Я б тут еще чуток посидел. А то ж работать заставят...	Speaker=Zebulon Yonker
+
+# yonker_02
+conversation_ppa3hq_text	{format emph}У-у{format reset}, я думал, ты из тех {format nervous}тупых бомжей!{format reset}	Speaker=Luke Yonker
+conversation_rtaarn_text	Не знаю, что и сказать. Это место отличается от всего, что я видел.	Speaker=Luke Yonker
+conversation_rqui5d_text	Приятно встретить тут другого робота!	Speaker=Luke Yonker
+conversation_xpaj1a_text	Спасибо за компанию. Вот, возьми чертеж, это тебе.	Speaker=Luke Yonker Notes=Acquiring Blueprints is how you get new upgrade slots for your equipment, not a physical thing, but only expressed in text.
+conversation_5zxme4_text	Но ты смотри. Если его применишь, твое путешествие может стать {format danger}сложнее{format reset}.	Speaker=Luke Yonker Notes=*NEW*
+conversation_ncsd4z_text	Не хочешь лишних приключений - не используй чертеж!	Speaker=Luke Yonker
+conversation_yp736j_text	Эй, привет подруга-бот!	Speaker=Luke Yonker
+conversation_g21tdm_text	Мои брательники говорят, что это они построили большую часть стены, но я-то знаю, что это не так.	Speaker=Luke Yonker
+conversation_iehmo4_text	Они ставили заплатки, было дело, но стена тут всегда стояла.	Speaker=Luke Yonker
+conversation_aytv9n_text	В этих чуваках столько горячего воздуха, что они взлететь готовы!	Speaker=Luke Yonker
+conversation_8srkg6_text	Что я точно усвоил - это что стену всегда можно обойти.	Speaker=Luke Yonker
+conversation_vb6b0a_text	Точно говорю, я намедни видел, как эти грибы двигаются.	Speaker=Luke Yonker
+conversation_0yu226_text	Как думаешь, быстро они до города доберутся?	Speaker=Luke Yonker
+conversation_onpk10_text	Я пока тут побуду, посмотрю на грибочки.	Speaker=Luke Yonker
+
+# yonker_03
+conversation_xfyeov_text	Прикинь, работал тут, работал, а потом - бац! - оказалось, что я инструменты забыл!	Speaker=Josh Yonker
+conversation_t1bq4v_text	Если будешь про это помалкивать, дам тебе одну клевую бумажку.	Speaker=Josh Yonker
+conversation_odkj11_text	Но тогда твои приключения станут... {format danger}сложнее{format reset}.	Speaker=Josh Yonker Notes=*NEW*
+conversation_nvlvnn_text	Так что бери ее, только если сам черт тебе не брат!	Speaker=Josh Yonker Notes=*NEW*
+conversation_ajyl7v_text	О, и братикам ничего не говори, лады?	Speaker=Josh Yonker Notes=*NEW*
+conversation_zdkcdy_text	Рад, что мы друг друга поняли!	Speaker=Josh Yonker
+conversation_wpy2vc_text	Не надо говорить моим, что ты меня тут нашла.	Speaker=Josh Yonker
+conversation_0fsp3k_text	Я вообще-то прохвесс... пруфесс... {format emph}Искперт{format reset} я в общем, когда дело до стен доходит, точно тебе говорю.	Speaker=Josh Yonker
+conversation_l2xfyd_text	Еще бы бомжары эти сюда не лезли.	Speaker=Josh Yonker
+conversation_a09h0a_text	У меня нет времени везде ходить и все проверять.	Speaker=Josh Yonker
+conversation_sy2ct5_text	Я уже давно бомжей не видал. До землетрясений мне с ними постоянно приходилось разбираться.	Speaker=Josh Yonker
+conversation_w8p7tf_text	Если мои брательники узнают, что я сам себя замуровал, они ж мне проходу не дадут.	Speaker=Josh Yonker
+
+# sign_red_rock
+conversation_rbdoyh_text	"""Краснокаменный штрек"""	Speaker=Dorothy
+
+# fen_on_rocket
+conversation_jofluh_text	Ох! Ты посмотри, какое крушение. {format singsong}Крруть ваще!!!!{format reset}	Speaker=Fen
+conversation_rgfncb_text	Будем надеяться, профессор внесет в новую ракету серьезные улучшения.	Speaker=Dorothy
+conversation_1mx9ap_text	Угу. Добавит лазеры и всякое такое!	Speaker=Fen Notes=*format*
+
+# firetemple_boss_intro
+conversation_z6izd0_text	Кто посмел предстать пред очи Великого пророка Разрушителя?	Speaker=Great Prophet Notes=*format*
+conversation_cu9az7_text	Эй, я знаю этого парня! Это он принес меня в тот другой храм!	Speaker=Fen
+conversation_4ljao8_text	Путеводный Свет! Что ты делаешь в компании этого никчемного бота в моем храме?	Speaker=Great Prophet Notes=*format*
+conversation_m8bbt4_text	Где Расти? Что ты {format emph}с ним сделал?{format reset}	Speaker=Dorothy
+conversation_6jm46x_text	Как было предсказано мной, Расти Разрушитель устроит {format laugh}Большое Землетрясение{format reset} и сбросит наши бренные оковы.	Speaker=Great Prophet Notes=*new* moved text format to other words.
+conversation_mhn5s6_text	Он дал нам машину рока! А затем покинул нас. Его пути неисповедимы.	Speaker=Great Prophet Notes=*format*
+conversation_davhio_text	...	Speaker=Dorothy
+conversation_39dqwa_text	Я должна обезвредить эту штуку!	Speaker=Dorothy
+conversation_f5igne_text	Да! Скажи нам, где скрыта машина рока, и мы {format laugh}взорвем ее{format reset}!	Speaker=Fen Notes=*format* removed one of the text formats
+conversation_t03c7h_text	Ах, Путеводный Свет! Какое падение. Я не позволю вам испортить наш прекрасный апокалипсис!	Speaker=Great Prophet
+
+# firetemple_boss_outro
+conversation_5ppdcr_text	{format nervous}А-а-а!{format reset} Вам не остановить грядущее {format laugh}Большое Землетрясение{format reset}.	Speaker=Great Prophet
+conversation_veu3hm_text	Машина рока в безопасности. Нам всем {format singsong}коне-е-ец!{format reset}	Speaker=Great Prophet
+
+# sign_maze_01
+conversation_1l6ojp_text	"""Впереди призрачная стена!"""	Speaker=Dorothy Notes=There actually is an illusory wall that the player can go through. This is also a refference to the game Dark Souls, where people could set up signs in other players game-worlds with hints, and it was very common for people to troll other players by saying there is a false wall where there in fact is nothing but a regular wall.s
+
+# fen_4_brazier_not_lit
+conversation_cp9bbp_text	Ну что, никак?	Speaker=Fen Notes=*new* removed the reference to dooms day device since player might read this before knowing about the device.
+conversation_p1i3bn_text	Мне нужно только {format highlight}зажечь больше жаровен{format reset}, чтобы активировать кристаллы.	Speaker=Dorothy Notes=*new* changed an I to a We.
+conversation_xqev6z_text	Они должны быть где-то здесь!	Speaker=Dorothy Notes=*new* changed this to reflect that the braziers are close by now, and not spread around the temple.
+conversation_kk5j23_text	Ага, давай уже зажжем их!	Speaker=Fen Notes=*new* changed the phrasing to be more Fen-like
+conversation_4dihd5_text	Да, тебе нужно зажечь все жаровни.	Speaker=Fen Notes=*new* changed this to be said by Fen and re-phrased it to fit. Removed the previous player_buddy line to optimize it too. Removed reference to four braziers as this in no longer relevant.
+
+# sign_vectron2_1
+conversation_7gz2cu_text	"""СМЕРТЬ ВПЕРЕДИ!"""	Speaker=Dorothy
+
+# cultist_worship_rusty_intro
+conversation_8fufl9_text	О Великий Разрушитель, нам всем точно конец!	Speaker=Cultist Notes=*format*
+
+# hub_teleporter_blocked
+conversation_bj94jz_text	В чем задержка? Давай!	Speaker=Fen
+conversation_i7wge8_text	Странно... Шахта обратно в Оазис не работает.	Speaker=Dorothy Notes=*new* made it clear that it's only the pipe to the oasis that is closed
+conversation_t6jhkm_text	Это подозрительно... Может, выход с той стороны засорился?	Speaker=Fen Notes=*new* now said by Fen instead of Dorothy. Changed this to work with thne
+conversation_kbmx5q_text	Нам нужно расчистить последний участок, чтобы вернуться.	Speaker=Dorothy Notes=*new* now said by Dorothy instead of Fen. Changed this to work with the changes on above line
+conversation_dhpyma_text	Шахта обратно в Оазис все еще не работает!	Speaker=Dorothy Notes=*new* changed this to not refert to whole tube system
+conversation_xdvi4z_text	Ну так давай {format highlight}найдем другой путь в Оазис{format reset}.	"Speaker=Fen Notes=*new* added a ""come on then,"""
+
+# exiting_vectron_firsttime_03
+conversation_efpvk6_text	Ты...Ты вернулась!	Speaker=Fen Notes=*format*
+conversation_xs0zex_text	Да, я точно не знаю, как я выбралась, но я же говорила, что вернусь.	Speaker=Dorothy
+conversation_2gp05g_text	А мне пришлось тут в одиночестве... Торчать. Наверное... Меня сморило.	Speaker=Fen Notes=*format*
+conversation_v8dyjq_text	Мне снилось... кое-что... Что надо рассказать тебе.	Speaker=Fen Notes=*format*
+conversation_xvqfeq_text	Это связано с землетрясением, током и...	Speaker=Fen
+conversation_6uvdlp_text	{format emph}Дороти!{format reset}	Speaker=Fen Notes=*new* changed format from nervous to emph
+conversation_x1cve3_text	Что, Фен? Что тебе снилось?	Speaker=Dorothy
+conversation_c268na_text	Там были... Нет... Там ощущались ... Ощущались другие машины рока.	Speaker=Fen
+conversation_glw2u1_text	Давай, надо {format highlight}рассказать Рози{format reset}. Мы еще не разобрались с землетрясением.	"Speaker=Dorothy Notes=*new* added the phrase ""come on"" at the start of the line."
+
+# temple_generator_destroyed
+conversation_vduxpt_text	{format laugh}Хи-хи...{format reset} круто было!	Speaker=Fen
+conversation_bez5tc_text	Да, теперь эта штука выглядит безобидной, правда?	Speaker=Dorothy
+conversation_02t7hw_text	Тут соединены части робота и Вектрона.	Speaker=Dorothy
+conversation_nloh4y_text	Зачем Расти построил такой механизм?	Speaker=Dorothy
+conversation_uo5vst_text	Ты слишком много думаешь. Больше взрывов, меньше слов!	Speaker=Fen Notes=*format*
+conversation_cqegx4_text	Нам нужно {format highlight}вернуться в Оазис{format reset} и сказать Рози, что устройство обезврежено.	Speaker=Dorothy
+
+# last_generator_destroyed
+conversation_o7pn77_text	Чувствую странное удовольствие.	Speaker=Dorothy
+conversation_fhtom3_text	О, становится интересно!	Speaker=Fen Notes=*format*
+conversation_0j9ty2_text	...	Speaker=Dorothy
+conversation_j80dt5_text	Вот это ощущалось, Фен?	Speaker=Dorothy Notes=*format*
+conversation_4ctogi_text	Не знаю, может быть.	Speaker=Fen
+conversation_5r8xoq_text	Как будто дрожь.	Speaker=Dorothy
+conversation_ue7igm_text	Давай пойдем и {format highlight}раскрошим еще одно устройство{format reset}!	Speaker=Fen
+conversation_kx4acl_text	Еще один готов!	Speaker=Dorothy
+conversation_7knnev_text	{format laugh}Да!{format reset}	Speaker=Fen
+conversation_7xkz1w_text	Круто, когда есть с кем работать... Когда ты в компании...	Speaker=Dorothy Notes=*new*
+conversation_orn1ay_text	Эй, а вот это точно было землетрясение!	Speaker=Dorothy Notes=*format*
+conversation_b59rnh_text	Может, это из-за той штуки, что мы разгрохали.	Speaker=Fen Notes=*new*
+conversation_s51o2b_text	{format emph}Когда{format reset} найдем Расти, ему придется все это объяснить!	Speaker=Dorothy Notes=*new*
+conversation_lxj451_text	Не волнуйся, я тебя прикрою.	Speaker=Fen Notes=*new*
+conversation_mk9qpq_text	{format laugh}Ура!{format reset}	Speaker=Fen
+conversation_p2ot9u_text	Последний.	Speaker=Dorothy
+conversation_xxw7zr_text	Ого, круто тряхнуло!	Speaker=Dorothy Notes=*format*
+conversation_p4nitu_text	В этом нет никакого смысла. Мне казалось, теперь не будет никаких землетрясений.	Speaker=Dorothy Notes=*new*
+conversation_48h46n_text	Да, это точно было самое последнее устройство.	Speaker=Fen
+conversation_vkntr1_text	У меня плохое предчувствие. Слишком много вопросов без ответа.	Speaker=Dorothy Notes=*format* *new*
+conversation_nzra7p_text	Секта конца света и ядовитые джунгли! И где Расти?	Speaker=Dorothy Notes=*new*
+conversation_3r7w00_text	Да, подозрительно...	Speaker=Fen Notes=*new*
+conversation_mboiam_text	Может, Расти ни при чем? Может, Рози ошиблась...	Speaker=Fen Notes=*new*
+conversation_iz5s2x_text	Или не все нам рассказала.	Speaker=Fen Notes=*new*
+conversation_xd4lj1_text	Нам нужно возвращаться в Оазис и {format highlight}поговорить с Рози{format reset}.	Speaker=Dorothy Notes=*new*
+
+# fen_0_brazier_lit
+conversation_7k0m7s_text	Еще один бесполезный рычаг?	Speaker=Fen Notes=*new* changed this since we now have the old version of it triggered up by the first lever at the entrance to this temple
+conversation_bqsv37_text	Кажется, нужно и сюда {format highlight}подать питание{format reset}.	Speaker=Dorothy Notes=*new* same as above
+conversation_rzhlfx_text	Пока ничего!	Speaker=Dorothy
+
+# fen_0_brazier_lit_b
+conversation_1l90nu_text	Эта жаровня должна сработать.	Speaker=Fen
+conversation_q9t7dt_text	Да, нужно только как-то ее поджечь.	Speaker=Dorothy Notes=*new* rephrased it.
+conversation_sb7zou_text	Давай уже {format laugh}подпалим{format reset} эту штуку!	Speaker=Fen
+
+# rosie_boss_intro_03
+conversation_utqc5b_text	Не стоило тебе возвращаться сюда.	Speaker=Rosie
+conversation_8jri1u_text	Что ты делаешь?! Рози, отпусти его!	Speaker=Dorothy
+conversation_q1eysc_text	Ты знаешь, сколько бомжей покалечилось, пока его схватили? Он чудовище!	"Speaker=Rosie Notes=*format* *new* changed ""he was"" to ""he's"""
+conversation_0g9r4c_text	Теперь он лишь батарейка в моем робо-костюме, а мне наконец-то хватит сил избавиться от вас!	Speaker=Rosie Notes=*format*
+conversation_icw8pm_text	Ты {format emph}лгала{format reset} мне!	Speaker=Dorothy Notes=*new* changed format from nervous to emph
+conversation_ir71cz_text	Я {format emph}использовала{format reset} тебя! Ты инструмент! Кому-то нужно было обезвредить эти гадкие устройства.	Speaker=Rosie Notes=*new*
+conversation_d3ola6_text	Он построил их, чтобы вытянуть всю энергию из моего Дистиллятора... Но больше этому не бывать!	Speaker=Rosie Notes=*format*
+conversation_pdqri5_text	С этим реактором я смогу полностью контролировать мой народ, ведь я получу... Бесконечный источник бузы!	Speaker=Rosie Notes=*format*
+conversation_rdwldu_text	Им больше не придется рыскать вокруг. Они будут сидеть здесь, в безопасности, и {format emph}воздавать мне почести{format reset}.	Speaker=Rosie
+conversation_03yhdy_text	Ах, так вот что ты имела в виду, когда говорила, что они только бушуют и дерутся.	Speaker=Fen Notes=*format*
+conversation_hj0t32_text	{format nervous}Землетрясения... Реактор - нестабильная технология Вектрона{format reset}...	Speaker=invisible_dummy_01 Notes=*new* removed a couple of format tags and just enclosed the whole line
+conversation_jndfz3_text	{format laugh}САМИ ВЫ НЕСТАБИЛЬНЫЕ! Я ЗДЕСЬ ГЛАВНАЯ!{format reset}	Speaker=Rosie Notes=*new* changed format from nervous to laugh
+conversation_18qzvo_text	Сумасшедшая!	Speaker=Dorothy Notes=*format*
+conversation_8q2tds_text	{format laugh}ДОВОЛЬНО!{format reset}	Speaker=Rosie Notes=*new* changed format from nervous to laugh
+
+# rosie_boss_intro_02
+conversation_iot2uu_text	{format nervous}Д... Дот?{format reset}	Speaker=invisible_dummy_01
+
+# hub_guard_2
+conversation_rtuuk8_text	А?	Speaker=hub_guard_2
+conversation_4hbzdf_text	Привет, а что вы здесь делаете?	Speaker=Dorothy Notes=*new*
+conversation_n15uxu_text	Ыа-а-а-а! Тварь!	Speaker=hub_guard_2
+
+# run_away_with_rusty_2
+conversation_ciyvzv_text	{format nervous}Реактор... Сейчас взорвется!{format reset}	Speaker=Rusty
+conversation_8qc79q_text	{format nervous}Землетрясение здесь все уничтожит...{format reset}	Speaker=Rusty
+conversation_118c4u_text	{format nervous}Тебе нужно уходить отсюда!{format reset}	Speaker=Rusty
+conversation_qm6zc7_text	Черта с два! Нам {format emph}надо выбираться вместе!{format reset}	Speaker=Dorothy
+
+# enter_endgame_teleporter_2
+conversation_7421mi_text	Ни за что! Я тебя здесь не оставлю!	Speaker=Dorothy
+conversation_90knk7_text	Ты не сможешь пройти здесь с нами...	Speaker=Dorothy
+conversation_0kxcna_text	Нет времени спорить. Другой дороги нет. Вы двое, полезайте сюда.	Speaker=endgame_teleporter
+conversation_cd5m29_text	Быстро!	Speaker=endgame_teleporter
+
+# buddy_everyone_left
+conversation_ebuimt_text	Куда все подевались?	Speaker=Dorothy Notes=*new* changed phrasing
+conversation_nr0trv_text	Хм... чего-то {format nervous}мне жутко страшно.{format reset}	Speaker=Fen
+conversation_5r1v5j_text	Нам нужно {format highlight}найти Рози{format reset} и понять, что она задумала.	Speaker=Dorothy Notes=*new*
+
+# buddy_first_generator_seen
+conversation_17f2xe_text	Ого! Наверное, это и есть машина рока.	Speaker=Dorothy Notes=*format*
+conversation_jiz6v8_text	Я не хочу верить, что Расти мог сделать что-то подобное...	Speaker=Dorothy
+conversation_nkppty_text	Похоже, в этой штуке полно кусков от Вектрона.	Speaker=Fen
+conversation_5mvh1h_text	Раздолбаем ее! {format laugh}Ура!{format reset}	Speaker=Fen
+conversation_t5tmkl_text	Ничего себе! Это что за штука?	Speaker=Dorothy
+conversation_96wcqq_text	Похоже на технологию Вектрона.	Speaker=Fen
+conversation_3ss3dz_text	Раздолбаем ее!	Speaker=Fen Notes=*format*
+
+# player_oasis_locked
+conversation_4kheve_text	Вход блокирован!	Speaker=Dorothy
+conversation_ruxx9o_text	Думаешь, это из-за землетрясения?	Speaker=Fen
+conversation_cct3lh_text	Нам нужно {format highlight}найти другой путь туда{format reset} и поговорить с Рози.	Speaker=Dorothy
+
+# cutscene_fen_04
+conversation_s6wiy7_text	И что, плавать тут в тоске и одиночестве?	Speaker=Fen
+conversation_qzc1ay_text	У тебя в топке тепло и уютно, а подкалывать тебя очень весело. {format laugh}Хи-хи-хи!{format reset}	Speaker=Fen
+conversation_ruux6m_text	{format nervous}Ржа тебя заешь!{format reset} У меня нет времени на это, мне нужно {format highlight}выбираться{format reset} отсюда!	Speaker=Dorothy
+conversation_34h62o_text	{format laugh}Хи-хи-хи!{format reset} Кажется, тебе все-таки нужна моя помощь...	Speaker=Fen
+conversation_de9yap_text	Эта область уже просканирована, так что, {format emph}полагаю{format reset}, ты можешь воспользоваться моей картой.	Speaker=Fen
+conversation_wk05yo_text	А теперь давай выбираться отсюда!	Speaker=Fen
+conversation_h6d5t0_text	Эх! Ладно, пошли, что ли.	Speaker=Dorothy Notes=*new*
+
+# fen_haspants
+conversation_a9gtqb_text	Привет! Что здесь делает этот жуткий мутант?	Speaker=Fen
+conversation_hsioxg_text	Фен, это бомж. Не шуми, пусть он спит.	Speaker=Dorothy
+
+# crab
+conversation_cl8j2w_text	Бар-гыр!	Speaker=Handy Gabby Notes=*new*
+conversation_erniqz_text	Бар-гыр-бар-гар-гур!	Speaker=Handy Gabby Notes=*format* Crab is a hideously mutated Shiner. Look like Crab. Talk like people.
+conversation_hgy6ga_text	Прошу прощения, я только...	Speaker=Dorothy
+conversation_xsba9s_text	Камушки, быр-гыр!	Speaker=Handy Gabby Notes=*format* Speaks jibberish and half sentences.
+conversation_eottc5_text	Э-э.. Ладно...	Speaker=Dorothy
+conversation_tolx3y_text	Бар-гыр!	Speaker=Handy Gabby
+conversation_cmj0mp_text	Бар-гыр!	Speaker=Handy Gabby
+conversation_kqftzz_text	Эй, как тебе удалось забраться так далеко?	Speaker=Dorothy Notes=*new* added a introductory line for dorothy
+conversation_x2c4hn_text	Бар-гыр-бар-гар-гур!	Speaker=Handy Gabby Notes=*format*
+conversation_1d144p_text	Извините, но...	Speaker=Dorothy
+conversation_opes3o_text	Трубочки, быр-гыр!	Speaker=Handy Gabby Notes=*format*
+conversation_kzffu7_text	Ладно, но здесь, внизу, небезопасно. Лучше тебе подыскать другое место.	Speaker=Dorothy Notes=*new*
+conversation_514n8o_text	Бар-гыр!	Speaker=Handy Gabby
+conversation_rjibkc_text	Ладно, ладно.	Speaker=Dorothy
+conversation_q4yhzp_text	Бар-гыр!	Speaker=Handy Gabby
+
+# swimmer
+conversation_mo6w8t_text	Я тут моюсь. Давно пора. Чтоб не вонять.	Speaker=Wet Willy Notes=*new*
+conversation_i5u7gc_text	А еще я пускаю {format singsong}пузырики.{format reset}	Speaker=Wet Willy Notes=*new*
+conversation_h9b611_text	Да уж, удивительное местечко.	Speaker=Dorothy
+conversation_7u1oej_text	Это все Рози.. Она в детстве была такая мелкая.	Speaker=Wet Willy Notes=*new*
+conversation_d9pcrg_text	Щас-то она большая и сильная... И вся буза у нее.	Speaker=Wet Willy
+conversation_5hc8jc_text	Искупаться бы в бузе! Тогда бы и {format emph}я{format reset} стал сильным.	Speaker=Wet Willy Notes=*format* *new* broke this up into two lines
+conversation_dqkik7_text	А Рози к бузе даже не притрагивается. Она тяжести таскает. Вот глупая!	Speaker=Wet Willy Notes=*new*
+conversation_jra7p9_text	Хочу бузы!	Speaker=Wet Willy Notes=*new*
+conversation_0ga9xz_text	Мне тут нравится, но эти туннели... они зовут меня...	Speaker=Wet Willy Notes=*format*
+conversation_6i3ly8_text	Они дрожат и кричат.	Speaker=Wet Willy
+conversation_l4t4ta_text	Хочу поплавать в бузе.	Speaker=Wet Willy
+conversation_brmgbs_text	Она густая и мутная, но я все равно пускаю пузырики.	Speaker=Wet Willy Notes=*format*
+conversation_iyntgs_text	Меня все время зовут в те туннели!	Speaker=Wet Willy
+conversation_rb7d43_text	Видели тех тварей в туннелях?	Speaker=Wet Willy
+conversation_s21hym_text	Из них выйдет отличный шашлык!	Speaker=Wet Willy
+conversation_ky29gq_text	Только надо их {format singsong}помариновать в бузе.{format reset}	Speaker=Wet Willy
+conversation_7w4sjb_text	И можно устроить отличный пикник!	Speaker=Wet Willy Notes=*new*
+conversation_4b9cj5_text	М-м-м, щас бы шашлычка из тварей.	Speaker=Wet Willy
+conversation_ofc7fu_text	От бузы я стану сильный! От бузы я стану самолучший!	Speaker=Wet Willy
+conversation_l41o8r_text	И смогу ходить на трех ногах.	Speaker=Wet Willy
+
+# generator_sequence_break
+conversation_hu136t_text	{format laugh}Ура!{format reset} {format singsong}Внезапный приступ разрушения!{format reset}	Speaker=Fen
+
+# enter_endgame_teleporter_3
+conversation_sfe0sl_text	...	Speaker=Dorothy
+conversation_fjpwyo_text	Фен... Я за тобой вернусь!	Speaker=Dorothy
+conversation_va1y6u_text	Знаю.	Speaker=endgame_teleporter
+conversation_5idlry_text	Иди!	Speaker=endgame_teleporter
+
+# sign_vectron2_2
+conversation_x36dp8_text	"""ВНИМАНИЕ: НЕ ВХОДИТЬ!"""	Speaker=Dorothy
+
+# golden_hatch_open
+conversation_p6icsu_text	Эти сектанты, просто чокнутые.	Speaker=Fen Notes=*new* chenged this to not be a quesetion
+conversation_rm0amb_text	Точно.	Speaker=Dorothy
+conversation_4rm6n6_text	А вот испарять их было весело. Давай поищем, может, они еще где-нибудь остались?	Speaker=Fen
+conversation_5q7isk_text	Мне надо {format highlight}найти их пророка{format reset}. Он может знать, где Расти.	Speaker=Dorothy
+
+# player_oasis_locked_2
+conversation_jd7aed_text	Тут столько труб. Может, получится забраться через сток?	Speaker=Fen
+conversation_5wy6ob_text	У меня такое чувство, что эта труба выведет нас к подземным джунглям.	Speaker=Dorothy Notes=*format*
+
+# fen_entering_yarrow2
+conversation_444mtr_text	Смотри, эта штука течет! Как думаешь, зачем она?	Speaker=Fen
+conversation_9gicpx_text	Не знаю, но она мне не нравится.	Speaker=Dorothy Notes=*format*
+conversation_h3f7cn_text	Наверное, очистная система этих сейсмогенераторов.	Speaker=Fen
+conversation_jf4lyk_text	Не знаю, что тут творится, но джунгли, похоже, разрастаются.	Speaker=Dorothy Notes=*format*
+conversation_tkhd41_text	Давай уже, пошли найдем эту машину и разобьем ее!	Speaker=Fen Notes=*format*
+
+# fen_treasure_brazier
+conversation_uo28un_text	Хм, опять эти кристаллы. Не вижу никаких жаровен.	Speaker=Dorothy Notes=*new* this whole conversation is new
+conversation_orh8x3_text	Они где-то внутри этого проклятого храма!	Speaker=Dorothy Notes=*new* this whole conversation is new
+conversation_fytrwl_text	А вот машины рока здесь нет. Я хочу уничтожить эту штуку {format emph}прямо сейчас!{format reset}	Speaker=Fen Notes=*new* this whole conversation is new
+conversation_w7ohum_text	Да, ты еще не нашла все жаровни.	Speaker=Fen Notes=*new* this whole conversation is new
+conversation_r9v53t_text	А я хочу уничтожить машину рока прямо сейчас.	Speaker=Fen Notes=*new* this whole conversation is new
+
+# sign_rons_chamber
+conversation_ubahwy_text	"""Сокровищница Рональда. Вход разрешен только прислужникам уровня VI и выше."""	Speaker=Dorothy Notes=*new* added new sign. Operating Acolytes is a referenece to Operating Thetan from Scientology
+
+# fen_entrance_brazier_not_lit
+conversation_y2rvga_text	Ворота не движутся. От рычага толку нет.	Speaker=Fen Notes=*new*
+conversation_voevwm_text	Может, нужно как-то {format highlight}подать питание{format reset}?	Speaker=Dorothy Notes=*new*
+conversation_29icwu_text	Пока без толку!	Speaker=Fen Notes=*new*
+conversation_86fd8m_text	Я думаю, надо все же как-то {format highlight}подать питание{format reset}.	Speaker=Dorothy Notes=*new*
+
+# fen_on_armor_upgrade
+conversation_one4s1_text	Эй, новая броня очень крутая. Тебе больше не придется жаловаться на удары и повреждения.	Speaker=Fen Notes=*new*
+conversation_i2p8ul_text	Нет, конечно, совсем беззаботной быть нельзя, но выглядит действительно шикарно, правда ведь?	Speaker=Dorothy Notes=*new*
+conversation_6i6u7w_text	А знаешь, что сделает ее еще шикарнее?	Speaker=Fen Notes=*new*
+conversation_716uhd_text	{format singsong}Пламя!{format reset}	Speaker=Fen Notes=*new*
+
+# fen_on_ramjet_upgrade
+conversation_mg2reo_text	Ух ты! Это устройство превратило мой реактивный двигатель в оружие.	Speaker=Dorothy Notes=*new*
+conversation_3ldyrw_text	Прелесть! Пошли сожжем парочку растительных мутантов!	Speaker=Fen Notes=*new*
+conversation_gbh1g1_text	Надеюсь, оно и с грязью справиться. Кажется, нас тут завалило!	Speaker=Dorothy Notes=*new*
+
+# fen_on_death_pit
+conversation_tvs6ch_text	Эй, тут же внизу нет ничего опасного, да? Как по мне, безопасно.	Speaker=Fen Notes=*new*
+conversation_5oflga_text	А давай просто разобьем эту стену и посмотрим, что там внизу? {format laugh}Хи-хи-хи!{format reset}	Speaker=Fen Notes=*new*
+conversation_6nymg5_text	Я думаю, стену тут не зря поставили.	Speaker=Dorothy Notes=*new*
+conversation_a8vok3_text	И если мы упадем на самый низ, ты не разобьешься, в отличие от некоторых.	Speaker=Dorothy Notes=*new*
+conversation_pi5rzp_text	Ох, а где же твоя жажда приключений?	Speaker=Fen Notes=*new*
+
+# fen_on_lava_sea
+conversation_2h7zkh_text	Вот это {format emph}здоровый бассейн{format reset} расплавленной руды!	Speaker=Fen Notes=*new*
+conversation_tw04k8_text	Эта секта и вправду помешалась на этом всем: конец света, огненные реки. Я расплавлюсь, если попытаюсь перейти здесь.	Speaker=Dorothy Notes=*new* These -> This
+conversation_c0o17p_text	А может, сунешь ногу и посмотришь? Там не может быть {format emph}настолько{format reset} горячо.	Speaker=Fen Notes=*new*
+conversation_651wxm_text	Да тут нужна невоспламеняемость!	Speaker=Dorothy Notes=*new*
+conversation_1hn8s0_text	А вот если бы ты была такая же крутая, как я, могла бы просто перелететь через эту штуку.	Speaker=Fen Notes=*new*
+
+# fen_on_hubtube
+conversation_8yyuh8_text	Мое дурное предчувствие не проходит. Что-то здесь не так.	Speaker=Dorothy Notes=*new*
+conversation_jytjex_text	Когда вернемся в Оазис, Рози придется многое объяснить.	Speaker=Dorothy Notes=*new*
+conversation_g4kaqx_text	Надо было с самого начала подозревать худшее!	Speaker=Dorothy Notes=*new*
+conversation_vigvfw_text	Если бы ты с самого начала подозревала худшее, мне бы так и пришлось торчать в том храме.	Speaker=Fen Notes=*new*
+conversation_2h3jtj_text	А теперь давай выбираться из этого стока. Надо понять, что происходит.	Speaker=Fen Notes=*new*
+
+# buddy_rosie_boss_fight_help
+conversation_w0gsxo_text	Эй! Эти ракеты точь в точь как те, что мы видели по пути сюда.	Speaker=Fen Notes=*new*
+conversation_n0y3vf_text	Попробуй вдарь по ним киркой!	Speaker=Fen Notes=*new*
+
+# fen_on_temple_of_guidance_2
+conversation_nctmv1_text	Кто бы мог подумать, что я вернусь в этот храм.	Speaker=Fen Notes=*new*
+conversation_77tocr_text	А здесь просторно, не сравнить с тем закутком.	Speaker=Fen Notes=*new*
+conversation_jpag4c_text	Когда сидишь внутри тотема, других частей храма особо не видно.	Speaker=Fen Notes=*new*
+conversation_rzcgxv_text	Здесь должно быть полно смертельных ловушек и всяких крутых штук.	Speaker=Fen Notes=*new*
+
+# aftermath_elmachino
+conversation_hbejz0_text	{format nervous}Эй!{format reset} А ну, с дороги! Сначала спасайте мэров и детей!	Speaker=Mayor Mic Yonker Notes=*new*
+conversation_ma479g_text	{format nervous}Извините! Э... Я делаю, что могу!{format reset}	Speaker=Turtle Bucket Notes=*new*
+conversation_fudqd9_text	Народ, успокойтесь! По одному! Становитесь в очередь, слышите!	Speaker=Coral Armstrong Notes=*new*
+conversation_pox4ng_text	Эй! Нет времени в очередях стоять! Просто лезьте в ракету, пока тут все не разлетелось на куски!	Speaker=Mayor Mic Yonker Notes=*new*
+conversation_ewm51b_text	Челюсть прикрути! В проклятой шахте еще есть боты. Мы своих не бросаем!	Speaker=Ma Yonker Notes=*new*
+conversation_tdyz6x_text	Мистер Хейзенберг готов запускать ракету, и я могу задержать вылет только на пару минут... А потом {format emph}стартуем{format reset}.	Speaker=Professor Sherman Notes=*new*
+conversation_vtsrcc_text	{format nervous}Бип-бип{format reset}, быр-гыр!	Speaker=Barnacle Jones? Notes=*new*
+conversation_9s60lp_text	Да! Золотые слова, Клешнерукий!	Speaker=Turtle Bucket Notes=*new*
+conversation_qo44wn_text	Что? Я ни слова не говорил.	Speaker=Barnacle Jones Notes=*new*
+conversation_353gqh_text	{format nervous}Ржа их съешь!{format reset}	Speaker=Ma Yonker Notes=*new*
+conversation_1engeq_text	Ох, вот и ты, милочка! Ты цела, вот радость-то!	Speaker=Ma Yonker Notes=*new*
+conversation_ch1z21_text	Замечательно! Я уже волновался, что ты потерялась.	Speaker=Davy Bittenborough Notes=*new*
+conversation_tb8wpb_text	Вижу, ты нашла шахтера с красным шарфом. Но где то сияющее существо, что было с тобой?	Speaker=Ma Yonker Notes=*new*
+conversation_pbnvye_text	Это... Это долгая история. Пришлось...	Speaker=Dorothy Notes=*new*
+conversation_u2fefz_text	Что ж, я рада видеть вас целыми и невредимыми, но должна напомнить: {format emph}время вышло{format reset}.	Speaker=Professor Sherman Notes=*new*
+conversation_hi1tn7_text	Все на борт ракеты!	Speaker=Professor Sherman Notes=*new*
+conversation_t4edhq_text	Пришло время паровых космоботов! {format singsong}И-и-и-ха!{format reset}	Speaker=Ty Nuzak Notes=*new*
+
+# guard_open_hatch_post
+conversation_as8gn2_text	И последнее замечание, мисс.	Speaker=Coral Armstrong Notes=*new*
+conversation_3qlskx_text	Вы собираетесь исследовать огромный загадочный мир там, внизу...	Speaker=Coral Armstrong Notes=*new*
+conversation_24mz6s_text	Чтобы отслеживать, куда вы направляетесь, можно использовать отметки на карте ({image quest_pointer_arrow} и {image quest_pointer_crosshair}).	Speaker=Coral Armstrong Notes=*new*
+conversation_4j1s12_text	Их использование - свидетельство ума и зрелости.	Speaker=Coral Armstrong Notes=*new*
+conversation_mdsij3_text	И не умаляет храбрости.	Speaker=Coral Armstrong Notes=*new*
+conversation_vaf0gm_text	Вы, вероятно, уже обратили внимание на синие стрелки ({image quest_pointer_arrow}) и крестики ({image quest_pointer_crosshair}) на карте.	Speaker=Coral Armstrong Notes=*new*
+conversation_4zvbgq_text	Если не пользоваться отметками, ваш путь может стать классическим приключением. Сами решайте, хорошо это или плохо...	Speaker=Coral Armstrong Notes=*new*
+conversation_9ah4fv_text	Но не волнуйтесь. Отметки можно включить и выключить в любой момент на вкладке модификаций в мастерской.	Speaker=Coral Armstrong Notes=*new*
+conversation_rkswy7_text	Так что скажете? Вы выбираете использовать отметки ({image quest_pointer_arrow} и {image quest_pointer_crosshair}), чтобы указать путь?	Speaker=Coral Armstrong Notes=*new*
+conversation_w3uj01_text	Как я уже говорил...	Speaker=Coral Armstrong Notes=*new*
+conversation_bw07t1_text	Включайте и выключайте отметки по собственному желанию. Это можно сделать в мастерской в городе.	Speaker=Coral Armstrong Notes=*new*
+conversation_dvacv4_text	Все, больше не буду вас задерживать. Желаю удачи {format highlight}с прочисткой труб{format reset} в Краснокаменном штреке.	Speaker=Coral Armstrong Notes=*new*
+
+# fen_on_teleporter_2
+conversation_wamta4_text	Эй, это похоже на технологию Вектрона!	Speaker=Dorothy Notes=*new*
+conversation_lkvb6m_text	Но, кажется, оно не работает.	Speaker=Dorothy Notes=*new*
+conversation_ocl1pj_text	...	Speaker=Dorothy Notes=*new*
+conversation_llzd7n_text	Фен?	Speaker=Dorothy Notes=*new*
+conversation_74v2pp_text	...	Speaker=Dorothy Notes=*new*
+conversation_hi83wt_text	Кажется, здесь тупик. Давай выбираться.	Speaker=Dorothy Notes=*new*
+
+# fen_on_teleporter_1
+conversation_u4cd0d_text	Что это, Фен?	Speaker=Dorothy Notes=*new*
+conversation_3rpf0f_text	Я не хочу идти {format emph}туда{format reset}. Давай повернем.	Speaker=Fen Notes=*new*
+conversation_supvbe_text	Нам есть чем заняться в шахтах.	Speaker=Fen Notes=*new*
+
+# fen_on_lava_sea_2
+conversation_tm3xhy_text	Это бассейн из расплавленной руды, да?	Speaker=Fen Notes=*new*
+conversation_35yo2u_text	Думаю, в этот раз нам {format emph}придется{format reset} перебраться через него.	Speaker=Dorothy Notes=*new*
+conversation_mhir26_text	Хорошо, что ты теперь такая же крутая, как и я, так что...	Speaker=Fen Notes=*new*
+conversation_fnd2g3_text	Ну почти.	Speaker=Fen Notes=*new*
+conversation_b0opbb_text	Вот это {format emph}здоровый бассейн{format reset} расплавленной руды!	Speaker=Fen Notes=*new*
+conversation_17hzlg_text	Секта и вправду помешалась на этом всем: конец света, огненные реки.	Speaker=Dorothy Notes=*new*
+conversation_b7hr8v_text	Давай уже перейдем через него.	Speaker=Dorothy Notes=*new*
+conversation_alk15j_text	Точно! Знаешь, с новым оборудованием твоя крутость уже равна моей...	Speaker=Fen Notes=*new*
+conversation_qa992m_text	Ну почти.	Speaker=Fen Notes=*new*
+
+# fen_on_totem
+conversation_2ou9oe_text	Смотри! Остатки моего старого тотема.	Speaker=Fen Notes=*new*
+conversation_wz87u3_text	Такое ощущение, что уже сто лет прошло с нашей встречи, правда?	Speaker=Dorothy Notes=*new*
+conversation_qxncbz_text	Угу... Но не могу сказать, что скучаю по своему пребыванию {format emph}здесь.{format reset}	Speaker=Fen Notes=*new*
+conversation_rvd9qx_text	Да, испарять сектантов было весело и все такое, но ведь приходилось сидеть тут безвылазно.	Speaker=Fen Notes=*new*
+
+# fen_on_distillery_door
+conversation_flred4_text	В открытом виде оно выглядит еще страшнее.	Speaker=Fen Notes=*new*
+conversation_z5ls33_text	Нам точно нужно туда идти?	Speaker=Fen Notes=*new*
+conversation_n7df2r_text	Ладно. Давай посмотрим, что на для приготовил этот бомж.	Speaker=Fen Notes=*new*
+conversation_viru7l_text	Мы не знаем, что задумала Рози. Может, нужно сначала подготовиться, а уже потом идти?	Speaker=Dorothy Notes=*new*
+
+# sign_trials_all_upgrades
+conversation_tkltgz_text	"""Все улучшения разрешены."""	Speaker=Dorothy Notes=*new*
+
+# sign_trials_bedrock
+conversation_40ih51_text	"""Фасады и иллюзии."""	Speaker=Dorothy Notes=*new*
+
+# sign_trials_no_hook
+conversation_m31axp_text	"""Нельзя использовать кошку."""	Speaker=Dorothy Notes=*new*
+
+# sign_trials_no_hook_jetpack
+conversation_cbb9jh_text	"""Без реактивного двигателя, \nбез кошки."""	Speaker=Dorothy Notes=*new*
+
+# sign_trials_no_jetpack
+conversation_0tzxsw_text	"""Без реактивного двигателя."""	Speaker=Dorothy Notes=*new*
+
+# sign_trials_no_upgrades
+conversation_3k7mx1_text	"""Без улучшений."""	Speaker=Dorothy Notes=*new*
+
+# sign_trials_only_hook
+conversation_mrg3os_text	"""Только кошка."""	Speaker=Dorothy Notes=*new*
+
+# sign_trials_only_jetpack
+conversation_ytjucx_text	"""Только реактивный двигатель."""	Speaker=Dorothy Notes=*new*
+
+# sign_floor_is_lava
+conversation_nol9uu_text	"""Если закрыта дверь,\nЛава тебе повредит.\nНе до тебя теперь,\nВыйди и снова зайди"""	Speaker=Dorothy Notes=*TEMP* *NEW*

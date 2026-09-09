@@ -1,0 +1,5 @@
+/tests/fixtures/*.rebuilded
+/entries.json
+/letters.json
+/uniques.json
+/query.sql

@@ -1,0 +1,1299 @@
+string	ру́сский (円,원,$,£,€,zł)	comment. Include all currency characters here to get them included in used_chars.txt, because they're retrieved automatically from the 3DS eShop.
+
+# ----- Generic ----
+next	Далее	
+done	Готово	
+back	Назад	
+yes	Да	
+no	Нет	
+ok	OK	
+skip	Пропустить	*DEMO*
+skip_confirm	Подтвердите пропуск	
+yay	Ура!	"A in ""horray!"""
+continue	Продолжить	*DEMO*
+options_yes_thanks	Хочу все знать!	Answer to a question regarding if the player wants a tutorial.
+options_no_thanks	Я и так все знаю.	Answer to a question regarding if the player wants a tutorial.
+options_no_advanced	Нет {format bold}(для опытных игроков) 	
+options_explain	Объяснить?	
+
+press_up_to_talk	Поговорить	To talk to
+press_up_to_sell	Продать	To trecieve cash for goods
+press_up_to_use	Использовать	To interact with *DEMO*
+press_up_to_use_door	Войти в дверь	
+press_up_to_use_ladder	Подняться по лестнице	
+press_up_to_use_workbench	Работать в мастерской	A station that let the player modify it's items
+press_up_to_light	Осветить	To light a burning lamp
+press_up_to_read	Читать	
+press_up_to_el_machino	Войти в Эль Макино	El Machino is a town. Should not be translated.
+press_up_to_archaea	Войти в шахту Архея	Archaea is the name for the top area of the mine, should not translate
+
+upgrade_cog	{image cogs_down} Шестеренка	A cog (gear) that can be inserted into the equipment to give new abilities. *DEMO*
+gain_xp	{format exp_text}%1% опыта{format reset}	DO NOT TRANSLATE
+gain_gold	{format gold_text}$%1%{format reset}{image money_small_down}	Do not translate
+pickup_resource	{image %1%} %2% $%3%{image money_small_down}	Do not translate
+need_light	Нужен свет...	The players lightsource has gone out. This message is showed on screen to remind the player that the light need to be replenished
+need_water	Нужна вода...	The players water has run out. This message is showed on screen to remind the player that water need to be replenished
+view_inventory	Посмотреть ресурсы	
+
+unassigned	НЕ НАЗНАЧЕНО	
+
+notification_saving	Сохранение...	Screen prompt telling the player that the game is saving. *DEMO*
+notification_saving_failed	{color 1,0,0,1}Не удалось сохранить игру!	 Screen prompt shown if saving of game for some reason failed. Normally not encountered.
+notification_saving_settings	Сохранение настроек...	 *DEMO* Screen prompt telling the player that the settings are being saved.
+notification_saving_settings_failed	{color 1,0,0,1}Не удалось сохранить настройки!	 Screen prompt shown if saving settings failed. Normally not encountered.
+
+difficulty_easy	Легко 	*NEW*
+difficulty_normal	Средне 	*NEW*
+
+# ----- Ask Choice ----
+carson_buy	Одну {image cogs_small} шестеренку, пожалуйста!	 See Upgrade Cog
+carson_dontbuy	Не сейчас.	 Decline option to interact
+
+blueprint_buy	Беру!	 As in buy with money
+blueprint_dontbuy	Может, позже...	" As in leave the shop. The vendor is standing outside, so ""get out"" is not an analogue"
+
+workbench_choice_upgrades	Улучшения {image money_small}	Headline for GUI
+workbench_choice_cogs	Шестеренки {image cogs_small}	"Cog, Gear. Is direct reference to ""Upgrade Cog"""
+workbench_choice_tutorial	Расскажи о шестеренках...	
+workbench_choice_cancel	Отмена	
+
+options_markers_yes	Пожалуй, мне это нужно.	
+options_markers_no	Мне это не понадобится {format bold}(для опытных игроков)	
+options_markers_explain	Как оно работает?	
+
+
+carson_ask_yes	Давай я расскажу...	
+carson_ask_yes2	Давай...	
+carson_ask_no	Как-нибудь потом.	
+
+rocketeer_ask_yes	Что так?	
+rocketeer_ask_no	Лучше спускайся назад!	Into the mine.
+
+distillery_ask_yes	Кажется, нам придется, Фен.	 About entering the final battle room
+distillery_ask_no	Пока нет.	 About entering the final battle room
+
+teleport_ask_yes	Мне придется, Фен.	 About entering Vectron
+teleport_ask_no	Погоди секунду...	 About entering Vectron
+
+# ------ Levels -------
+level_west_desert	Западная пустыня	
+level_east_desert	Ветреные равнины	
+level_el_machino	Эль Макино	Do not translate
+level_archaea	Архея	Do not translate
+level_yarrow	Ярроу	Do not translate, An underground mushroom forest full of dangers and acid lakes.'
+level_fire_temple	Храм Разрушителя	
+level_temple_of_guidance	Храм Пути	*DEMO*
+level_hub	Оазис	
+level_hubtube	Труба канализации	
+level_distillery	Реактор	Like in neuclear reactor
+level_vectron	Вектрон	Do not translate
+level_hell	Испытания	
+
+# ------ Caves -------
+level_archaea_cave_pressurebomb	Взрывная станция	*Tool 2* Burster as in Burst or explode/erupt. The player gets a preasure bomb upgrade here
+level_archaea_cave_jackhammer	Камнеломная станция	*Tool 3* The player get a powered fist that can break brick here
+level_hub_cave_grapplinghook	Склад Рози	*Tool 4* Rosie is the leader of the Shiners, a troglodytic subterranian breed of humans.
+level_temple_cave_hookjump	Спелеостанция	*Tool 5*
+level_fire_temple_cave_flamer	Станция внутреннего сгорания	Cave where you face The Great Prophet and find the Fire Pickaxe.
+
+level_fire_temple_cave_treasure_chamber	Сокровищница Рональда	
+
+level_archaea_cave_unclimbable	Стены с заплатками	Patch; as in patching a hole.
+
+level_archaea_cave_runjump	Разбег - прыжок	
+level_archaea_cave_fallblock_puzzle	Комната с часовым механизмом	Bomb reference
+level_archaea_cave_ladders	Лестницы Генезиса	
+level_archaea_cave_runfallblock	Сквозь строй камешков	"Gauntlet , as in ""running a gauntlet""."
+level_archaea_cave_snakestone	Грот трещин	The puzzles in this cave is based on a type of cracked rock-tile.
+level_archaea_cave_snakestone_blocks	Подземные развалины	
+level_archaea_cave_trilobite_puzzle	Трилобитовый обрыв	Bluff here refers to cliff
+level_archaea_cave_cactus	Колючая панорама	High cliffs and cacti part of the world!
+level_archaea_cave_sinkstone_stickybomb	Тикающая бездна	Ticker, as in clock, as in timer, as in timed bomb
+level_archaea_cave_vectron_entrance	Таинственная пещера	
+
+level_fire_temple_cave_crusher	Жареное безумие	
+level_fire_temple_cave_lavachase	Колыбель демона	
+level_fire_temple_cave_batcave	Мышиная пещера	
+level_fire_temple_cave_armor	Солнечный арсенал	
+
+level_fire_temple_cave_spikeconveyor	Шипы и конвейеры	
+level_fire_temple_cave_lava_shooters	Стрельба лавой	
+level_fire_temple_cave_hell_carts	Шахтное безумие	
+level_fire_temple_cave_generator	Машина Судного дня	
+level_fire_temple_cave_generator2	Разрушающая машина	
+level_fire_temple_cave_golem	Мрачная лощина	
+level_fire_temple_floor_is_lava	Пол - это лава	
+level_fire_temple_cave_boxes	Зловещий груз	
+
+
+level_yarrow_cave_water	Плыви, греби, качайся	
+level_yarrow_cave_gauntlet	Логово с протечками	
+level_yarrow_cave_steampack_slayer	Аэростанция станция	
+level_yarrow_cave_generator	Машина бедствий	
+level_yarrow_cave_cliffhanger	Ералаш на подвесе	
+level_yarrow_cave_mushimushiroom	Грибное местечко	
+level_yarrow_cave_bats	Улей в засаде	
+level_yarrow_cave_run	Лаймовая петля	
+level_yarrow_cave_snakestone	Ход в грот трещин	"This name is referring to the previous name """"Rupture Rock Hollow"""" as this level is sort of a sequel."""
+
+level_west_desert_cave_cart_puzzle	Ох уж эти тележки	
+
+level_east_desert_cave_runfallblock	Камнепад	
+level_east_desert_cave_hell_end	Конец испытаний	
+level_east_desert_cave_hell_crushers	Испытание разрушителей	
+level_east_desert_cave_hell_acoknights	Испытание рыцарей-сектантов	
+level_east_desert_cave_hell_vectron	Испытание побега	
+level_east_desert_cave_hell_rockets	Испытание ракет	
+level_east_desert_cave_hell_bedrock	Испытание кнопок	
+level_east_desert_cave_hell_skillness	Испытание искусности	
+east_desert_cave_hell_lava_flight	Испытание полета	
+
+level_temple_cave_arrowtraps	Склеп стрел	
+level_temple_cave_pushthecarts	Склеп колес	
+level_temple_cave_fallblock_mega	Склеп разрушения	
+level_temple_cave_maze	Склеп тайн	
+level_temple_cave_generator	Машина опустошения	
+
+level_hub_cave_hubtube	Грязевая излучина	
+
+level_vectron_cave_generator	Генератор Вектрона	DO NOT TRANSLATE, NOT USED
+
+# ------ Talk UI ------
+talk_continue_prompt	Продолжить	
+talk_confirm_prompt	Подтвердить	
+talk_cancel_prompt	Отмена	
+
+# ------ Tutorial indicators ------
+indicator_move	Идти на восток	Screen prompt that tell you to go right
+indicator_move_02	Нет, в другую сторону	Screen prompt that tell you to go right if you go left
+indicator_wall_jump	Прыжок по стене	
+indicator_jump	Прыгнуть	
+indicator_attack	Копать	With a pickaxe *DEMO*
+indicator_attack_down	Подкапывать	
+indicator_run	(Удерживать) Бежать	instructions to hold the run button *DEMO*
+indicator_talk_to_buddy	Поговорить с Фен	Fen is Dorothys Companion that can give hints and sassy comments.
+indicator_run_jump	прыжок при пробежке	Make a running jump *DEMO*
+indicator_pressurebomb	Бросить пневмобомбу	
+indicator_direction_pressurebomb	Бросить пневмобомбу	
+indicator_jackhammer	(Удерживать) Использовать отбойный молоток	
+indicator_hook	(Удерживать) Использовать кошку	 added (Hold)
+indicator_hook_up	(Удерживать) Использовать кошку	 added (Hold)
+indicator_steampack	(Удерживать) Использовать реактивный двигатель	
+indicator_pressurebomb_launcher	(Удерживать) Использовать бомбомет	
+
+# ------ Conversation special ------
+ui_conversation_name_separator	:	Separator between name of character and the text they're saying. No additional spaces added.
+ui_conversation_ellipsis_start	...	Added at the start of text that continues from a previous page. No additional spaces added.
+ui_conversation_ellipsis_end	...	Added at the end of text that will continue on the next page. No additional spaces added.
+
+# ----- NPCs ----
+character_player	Дороти	Do not translate, main character. *DEMO*
+character_player_buddy	Фен	"Fen is reference to ""Fenlights"", a supernatural folklore being that lured people into the woods. The ""Fen"" name should not be translated and should be translated in the conversation part of the document."
+character_fen_sprite	Спрайт	This is the nomination Fen get before she is named in the game. Sprite as in spirit.
+character_ore_vendor	Клешнерукий Джонс	Translate if possible, look like a crab
+character_mechanic	Ведроид	Translate if possible,
+character_mayor_01	Мэр Мик Йонкер	Translate title only
+character_rocketeer	Профессор Шерман	Translate title only The professor is a She
+character_inhabitant_01	Мамаша Йонкер	Translate title only (Ma mama, mother)
+character_inhabitant_02	Пенни Чайникс	Translate if possible
+character_old_salesbot_01	Торговец Карсон	Translate title only
+character_blueprint_vendor_01	Дэви Биттенборо	Translate if possible, This is a refference to famous nature film maker David Attenbourough
+character_blueprint_vendor_02	Клиффорд Хейзенберг	Do not translate
+character_blueprint_vendor_03	Тай Нузак	Do not translate
+character_yonker_01	Зебулон Йонкер	Do not translate
+character_yonker_02	Люк Йонкер	Do not translate
+character_yonker_03	Джош Йонкер	Do not translate
+character_climber_01	Леди Боттерли	Translate title only
+character_worshipper	Фанатик	*DEMO*
+character_guard_archaea	Корал Армстронг	Do not translate
+character_fen_prison	Путеводный свет	"Is connected to ""Temple of Guidance"" *DEMO*"
+character_rosie	Рози	Rosie is the only articulate shiner to our knowlage. Leader of their ilk and a rather hefty at that. Do not translate.
+character_hub_guard	Шон Торопыга	Translate if possible
+character_floaty	Клео Джонсон	Do not translate
+character_swimmer	Вилли-купальщик	Do not translate
+character_crab	Рукастая Габби	Do not translate
+character_crab_disguised	Клешнерукий Джонс?	
+character_gran	Взрывная Харриет	Translate if possible
+character_helpfulhelen	Злая Хелен	Translate if possible
+character_priest_glorious	Великий пророк	A non specific description of a character.
+character_rusty	Расти	Do not translate, main character.
+character_rosie_boss	Рози	Do not translate, main character.
+character_acolyte_cutscene	Фанатик	*DEMO*
+
+# ----- Resources ----
+resource_description_value	Цена за штуку: $%1%{image money_small}.	 A paragraph in resource descriptions, stating its individual value. %1% is the value.
+resource_trashium	Мусорий	*DEMO*
+resource_trashium_desc	Проще говоря, куча металлолома, спаянная воедино силами природы.	
+resource_copper	Медь	
+resource_copper_desc	Высокая прочность и низкое сопротивление меди делают ее эффективным и надежным проводником.	
+resource_cinnabar	Киноварь	
+resource_cinnabar_desc	Яркий и ядовитый сульфид ртути. Раньше использовался как краситель. С ним вы будете выглядеть на вермильон долларов!	"Vermillion is a scarlet pigment made of Cinnabar, expression ""you look like a million dollars"""
+resource_ironium	Ирониум	Like irony
+resource_ironium_desc	В чистом виде довольно мягок, но если подлить масла в огонь, становится очень жестким.	
+resource_cornflorium	Василек	From cornflower blue, color from the flower
+resource_cornflorium_desc	В природе встречается редко. Популярен у живописцев нижних Нидерландов из-за красивого синего оттенка.	
+resource_obsidian	Ингвиум	Spoof on Yngwie Malmsteen - swedish famous guitarr virtuoso
+resource_obsidian_desc	Настоящий виртуоз из магматического семейства Мальмстин.	
+resource_silver	Серебро	
+resource_silver_desc	Если к вам во двор забредет стая оборотней, надежней защиты нет. А они забредут, это только вопрос времени.	Werewolves are best killed with silver
+resource_zoinkonium	Зойнконий	
+resource_zoinkonium_desc	Этот яркий минерал источает легкий, но устойчивый запах меда.	Spoof on video game company Zoink and their titles Zombie Vikings and Stick it to the man
+resource_gold	Золото	
+resource_gold_desc	Королевский металл. Вызывает у шахтеров золотую лихорадку. Выбор инвесторов с 3000 г. до н. э.	connectors = gold are used in technology
+resource_lazurite	Лазурит	
+resource_lazurite_desc	Хрупкий минерал, широко используемый как краситель.	
+resource_saturnium	Сатурний	Saturnus, god of fertility
+resource_saturnium_desc	Фермеры верят, что он хорошо влияют на урожай, и обкладывают им поля при посеве.	
+resource_plutonium	Плутоний	
+resource_plutonium_desc	Широко использовался в конце Великих Бомжацких Войн. Склонил весы в ничью пользу. Вопреки распространенному мифу, к диснеевской собаке отношения не имеет.	Shiner Wars is an old conflict preceeding the game story, Pluto = disney dog
+resource_meteorum	Метеорит	
+resource_meteorum_desc	Впервые обнаружен у особняка на углу Гилберт-авеню и Винник-стрит.	Nod to Game Maniac Mansion and the antagonist Dr Fred Edison, also the game creators Gilbert and Winnick
+resource_unobtainium	Недостаний	Just a spoof on the word unobtainable
+resource_unobtainium_desc	Его никто не смог получить, и данных о нем нет. Извините.	
+resource_darkmatter	Темная материя	
+resource_darkmatter_desc	Мама вас о таком предупреждала. Часто обретается у дешевых баров и... Ой, нет. Ошибочка вышла.	Play with mothers comments on dating bad boys
+
+resource_sodium	Сода	NOT CURRENTLY USED
+resource_sodium_desc	Белый порошок. Длительный контакт приводит к обезвоживанию.	
+resource_aluminium	Алюминий	NOT CURRENTLY USED
+resource_aluminium_desc	Самые обширные запасы на планете. Самый распространенный металл. Из него получаются отличные контейнеры для традиционных напитков человеческой расы.	
+
+resource_beryl	Берилл	
+resource_beryl_desc	Говорят, он помогает воплотить мечты и желания и уничтожает негативную энергию.	
+resource_azurite	Голубец	Azurite just sounds like these two expressions put together – Do as you want with this :)
+resource_azurite_desc	 Только вот есть его не надо.	
+resource_tremolite	Тремолит	
+resource_tremolite_desc	 К музыке отношения не имеет. К болезням тоже.	Dr Dre = music producer and rapper – Dr Tre is a made up brother to make a pun on the resource name – mole pun molite
+resource_topaz	Топаз	
+resource_topaz_desc	Наполняет пространство теплой аурой понимания и заботы. Фиолетовая разновидность очень редка.	
+resource_ametrine	Аметрин	
+resource_ametrine_desc	Редкий камень. По слухам, обладает странными свойствами. Самый крупный экземпляр, как утверждают, хранится в склепе испанской королевы.	The spanish queen was said to have been given an ametrine stone as gift from the first batch leaving the mines
+resource_diamond	Алмаз	
+resource_diamond_desc	Классика. Холоден и тверд, как объятья Маргарет Тэтчер. Ваш лучший друг, даже если вы не женщина.	Margareth Thatcher was chosen for her reputation as cold hearted – feel free to exchange for other politician of your country!
+resource_bismuth	Висмут	
+resource_bismuth_desc	Открыт алхимиками в XV веке. Его часто путают со свинцом и с первым рейхсканцлером Германии.	Bismuth sounds a bit like Bismarck, thats why the pun is on German Otto Bismarck, but if the mineral is named something else in your country, feel free to pun away :) https://en.wikipedia.org/wiki/Otto_von_Bismarck
+resource_imagenite	Вообразит	
+resource_imagenite_desc	Шахтеры так и не договорились между собой, существует он или нет. Наука также пока не установила существование жизнамарсита.	A pun on song from John Lennon Imagine – imagine there's no heaven, and no religion too
+
+resource_amethyst	Аметист	NOT CURRENTLY USED
+resource_amethyst_desc	Его блеск утешит вас в горе, вызовет эмоциональный подъем - и отправит на поиски новой большой и чистой любви.	
+
+resource_blooddrop	Кровавик	
+resource_blooddrop_desc	Концентрат гнева призрачных существ.	
+resource_bloodstone	Кровавит	
+resource_bloodstone_desc	Восстанавливает ясность ума.	
+resource_bloodrock	Кровавище	
+resource_bloodrock_desc	Сгусток страха и недобрых намерений. Обостряет чувства, но затуманивает разум.	
+
+resource_vectron	Шифровка 5-1 16.17.4.8	
+resource_vectron_desc	x U G N W t M g n A N O M A L Y . j D z 6 k g D E S T I N A T I O N : R i B 6 s p j 1 0 U N V h q i a k m C B N j h E R P Y 5 q b b W 6 u U O r n l 7 B 3 1 l b 8 K 2 j 1 Y U 6 v 8 F U 2 l z J J 9 U N A U T H O R I Z E D c I U M v J P N n N 6 9 f E N l N M X L 5 U u A g b C 9 6 s J s i 3 u r h q c 4 S h E T k f 4 q N N n F 2 4 x n i n n T P N N J a r 1 l I D 0 u e u 0 j i L p B O c o P C a U X v B R 6 D M n W h 8 2 F F E w X E t C q 8 2 s 9 c o L w L V V H v u p n Z s V t y e D c H m D N p m S q p K w R q X 4 E b r R I S L L R 6 k f 6 6 i c a z a F H t 8 i U P D A T E D . 6 Y G E f T R L g l n q 3 v A 8 3 H G o 4 w S y 7 x n A 7 p l W L W 0 M 8 4 0 N g l y Z 9 v 5 p O 1 C c 1 s Q F m v P S a r 6 6 R 7 D H u j u G 7 z X y 4 Q	ANOMALY. DESTINATION: UNAUTHORIZED UPDATED. this is machine code, do not translate
+resource_vectron_02	Шифровка 5-2 10.15.9	
+resource_vectron_desc_02	y S 0 q l X l a s I 2 L 8 M V P Z 1 s F c 1 l M v U V P l z c P O S I T I V E a b c i g S x 5 Y 6 1 N T G E r U f H C l 9 a Y t w g w o E L x C 3 y R 7 G 6 z s g Y r k e y G V 4 A C X b E J E C T I N G r l D i Y J m K X Z X r a 2 c c C Q z q 4 i i D p I x A n o 7 y 1 t r 2 k Q b b 1 u g I I S 2 4 F Z n K v n n 2 B I N P Z O D K Y F z I G u O B u V L Z R x N 3 V 8 A 1 7 M 9 A O n A 1 l o h R 6 e 4 N M F p O f 9 T C I p r t N H o X 4 X T h f j 6 P 7 X f M J V U H c C B Q k x I O H i P G e v 7 5 5 W h L V L v 8 y f t v U C v a N 4 O Z T A o r b T V Q p C Z F J a I 6 J R u Y E 4 k R 7 y t M 6 J J j R i q H U X E 8 0 0 r E I 8 o I m 9 G 2 N 4 4 C I h e k e P O S S I B L E l y l V W g e t u G k I M b E t N U P U z v s	POSITIVE EJECTING POSSIBLE this is machine code, do not translate
+resource_vectron_03	Шифровка 5-3 7.3.14.5	
+resource_vectron_desc_03	Q n u 2 R K B F B 2 Z 5 c M q O 1 m F p W 0 a G V k W m a S u R 5 v 1 x M 3 w P z J w q I K e D J z j 7 U g 8 D s t 9 z y P W c v G O A L 7 C y X r V s b Q q U O 1 F b s v Z q 7 q c Y M f 4 M R i 2 3 b 9 e 7 V 0 y h A B 0 I N I T I A T E D . N 6 y b 9 K p m r e b B a R u E x R r z A 1 e w h 2 8 W T 1 K a q O j D 0 L G Y w c q 7 o 6 p S x q f j V 4 q u L z A R b g w D a e w n M Q J q R 7 O C h j E G S c N j x p y w h E 3 b z r h Q x y k 7 E a R c b 2 k n Q j Y B S t k j m m O N 3 w H 5 s j q I y N 1 T L n 4 W H H p b r j c u H 3 y 8 w A o e I 8 g x J T n i g e a H L 3 x 2 Z E R O . e 0 8 b V x h T o o P i D q 8 D i X V C o 7 g C 6 L S 2 V u U b U S A G E 1 c N c I c y V q A e	GOAL INITIATED. ZERO. USAGE this is machine code, do not translate
+resource_vectron_04	Шифровка 5-4 12.18.2.1	
+resource_vectron_desc_04	V s c K N q 3 u J W z E g S V 5 y l u f M m y O 7 6 a w x P Y 4 s 8 i r G R E A T E R 6 M O O N j 6 z b M H r a c f w r O Q e a Z 0 C K W m 2 8 6 0 i D D C N 6 2 m 5 v C 2 h X L U q Y N 5 E K V 5 Z J 8 X a I A 5 R z m T V H u V q X 9 k B O O T m k I p G 9 9 Y L Z c 1 G c 9 p R S V C 2 m o A a O l L U 5 x N B o Q J A q t 5 Q 0 P h 0 7 3 M S m L 9 1 x Y D N n h a R p B P P H g S v p G f 0 v G T O n F Y r i v 3 t b W b j t f U Y K n w D 4 K 5 P 8 4 5 Q L e 5 2 S L 9 j D W 0 s Q f A E G p E r G L 2 f Q V a K 6 9 1 f X 9 V l M S 7 E t v o 0 z 0 4 y 4 h V I g j b L C E r p P Z P A u c 9 s h 7 3 H P k V 0 b x S u M F X 2 7 k D a h S 4 z R i S A F E b 2 M . 8 a A U e O Z t y O 2 J X 8 M 9 S 9 n J 5 U r r M f O G	GREATER MOON BOOT SAFE changed pilot to moon; this is machine code, do not translate
+resource_vectron_05	Шифровка 5-5 6.19.11.13	
+resource_vectron_desc_05	m x k 3 Y A m D E T E C T E D . y x 1 4 Z 6 n i 7 f o L N b Y 2 u A m j i Y W K Y Y F R W O U 9 I c u 1 A a m T E 8 X L a P f x 2 Z 0 N U N f U i f S T A T I O N . s a S g 6 4 x 6 l 4 a I l X u j o K 6 J D Y 9 w E o M T A Z H o g z m J T P M u q f I B C I e G x K 2 y v Z b S W D N U U X v 8 O J E l N q T H y O h U L s h W 4 U V o F A q j C F t E 4 9 O U T C O M E : i l e F C c 4 o c A h f 1 i t T 8 B e 1 V 9 h l W w 0 U 5 q p F R o L X a T o Q j r n P X Q c 9 B J H j Y p P q 5 j 6 F m J T e 1 W H Z t e I X G X 0 N F p R q a a 5 C b g 1 D p 2 o X j k A 9 F 0 l z T V K v V T 7 J p C w 5 P n f u w J c f h y M o 8 8 F e J t e 6 K 7 M 9 U r I Z i i D y L q R e c T H A N m 6 o s 5 t O y 0 k I l a S s U L	DETECTED. STATION. OUTCOME: THAN this is machine code, do not translate
+
+# ----- Upgrades ----
+upgrade_lamp	Фонарь	
+upgrade_broken_lamp	Разбитый фонарь	
+upgrade_broken_lamp_desc	"""Разбился при падении. Нужно срочно починить или заменить."""	Dorothy fell and broke her lamp.
+upgrade_broken_lamp_next_level_desc	Чтобы попасть в шахту, нужно починить фонарь.	
+upgrade_lamp_desc	Освещает все вокруг. Расходует горючее. Запасы можно пополнить в городе.	
+upgrade_lamp_next_level_desc	Если улучшить фонарь, можно снизить расход горючего.	
+upgrade_lamp_01	Плохонький фонарь	Rock bottom, as in the lowest value. To hit rock bottom, etc.
+upgrade_lamp_01_desc	"""Не сломан, но этим дело и ограничивается."""	
+upgrade_lamp_02	Шахтерская горелка	
+upgrade_lamp_02_desc	"""Светит дольше, потребляет меньше."""	
+upgrade_lamp_03	Карбидная лампа	
+upgrade_lamp_03_desc	"""Стабильнее горит, меньше расходует топливо."""	
+upgrade_lamp_04	Полярная звезда	
+upgrade_lamp_04_desc	"""Гори, гори, моя звезда!"""	Rudolf the Red nose reindeer – lyrics pun.
+upgrade_lamp_05	Светильник	
+upgrade_lamp_05_desc	"""Во тьме ночной, при свете дня руде не скрыться от меня!"""	Green Lantern pun – Green lantern inaguration text.
+upgrade_lamp_06	Маяк	The Alexandrian Lighthouse
+upgrade_lamp_06_desc	"""Усилен расплавленным свинцом. Долговечнее обычного."""	
+upgrade_lamp_07	Солнечный круг	"*NEW* Name meaning ""Unconquered Sun"", Official sun god of the later Roman Empire and also reference to Emperor Constantines old roman coins with inscription SOL INVICTO COMITI = Commited to the Invincible Sun"
+upgrade_lamp_07_desc	"""Да здравствует солнце, да скроется тьма! Радиус освещения увеличен."""	
+
+upgrade_lamp_increased_area_01	Светлее солнца	"Backstreet Boys pun, lyrics from """"""Larger than Life"""""" too for flare."
+upgrade_lamp_increased_area_01_desc	Расширяет радиус освещения.	
+upgrade_lamp_increased_area_01_flavor	"""Всем выйти из сумрака!"""	"Backstreet Boys pun, lyrics from ""Larger than Life"" too for flare."
+upgrade_lamp_light_pickup_01	Призыв	
+upgrade_lamp_light_pickup_01_desc	Шанс дополнительных световых сфер от побежденных врагов.	 new: minor rephrasing
+upgrade_lamp_light_pickup_01_flavor	"""Выпусти их внутреннее солнце!"""	
+upgrade_lamp_infinite_light_01	Чистый разум	Movie Eternal Sunshine on the spotless mind.
+upgrade_lamp_infinite_light_01_desc	Не дает свету падать ниже 50%%.	
+upgrade_lamp_infinite_light_01_flavor	"""Тени исчезают... сейчас."""	
+upgrade_lamp_damaging_light_01	Пламя преисподней	Song: I am the God of hellfire by Arthur Brown*NOT CURRENTLY USED*
+upgrade_lamp_damaging_light_01_desc	Наносит урон врагам в радиусе освещения.	*NOT CURRENTLY USED*
+upgrade_lamp_damaging_light_01_flavor	"""Гори!"""	*NOT CURRENTLY USED*
+upgrade_lamp_lit_pickups_01	Пламя Куберы	 Kubera – Hindu Mythology Lord of Wealth, Quote is from Thomas Aquinas
+upgrade_lamp_lit_pickups_01_desc	Находки сияют, чтобы их легче было обнаружить.	
+upgrade_lamp_lit_pickups_01_flavor	"""Лучше что-то освещать, чем сиять впустую."""	
+upgrade_lamp_lightning_reflexes	Рефлекс Гордона	" Gordon is a reference to character Flash Gordon and particularily important is the """"Flash"""" part which is referencing this upgrade being for the light."""
+upgrade_lamp_lightning_reflexes_desc	Увеличивает шанс автоматически уклоняться от падающих камней и подобных смертельных ловушек.	
+upgrade_lamp_lightning_reflexes_flavor	"""Спасайся с огоньком!"""	"*NEW* Quote is a reference to Queen Song ""Flash"" and the lyrics- He save with a mighty hand every man, every woman every child, with a mighty Flash"
+upgrade_lamp_eye_for_weakness	Зримая хрупкость	 Text from Pink Floyd's song Another brick in the wall: We don't need no education ,We don't need no thought control, All in all you're just another brick in the wall . Quote by Joseph Ford Newton regarding intolerans, hate and not enough love in the world.
+upgrade_lamp_eye_for_weakness_desc	"Посветив на стену, вы увидите хрупкие участки. Так и скажите стене: ""Я тебя насквозь вижу"","	
+upgrade_lamp_eye_for_weakness_flavor	"""Люди строят слишком много стен и слишком мало мостов."""	
+
+upgrade_pickaxe	Кирка	
+upgrade_pickaxe_desc	Основной инструмент Дороти.	
+upgrade_pickaxe_next_level_desc	Улучшите кирку, чтобы повысить ее эффективность.	 This means that whatever you hit, you'll need to hit it two times less when you equip this cog in your Pickaxe
+upgrade_pickaxe_01	Ржавая кирка	it's rusty
+upgrade_pickaxe_01_desc	"""Намахалась на своем веку - это уж точно."""	
+upgrade_pickaxe_02	Железная кирка	
+upgrade_pickaxe_02_desc	"""Базовый инструмент шахтера."""	
+upgrade_pickaxe_03	Ухватистая кирка Бардура	 Bardur is an Icelandic half-troll half-man from their mythology.
+upgrade_pickaxe_03_desc	"""Скромный, но прочный товарищ."""	
+upgrade_pickaxe_04	Кирка Кирка	Pun on Pikachu
+upgrade_pickaxe_04_desc	"""Космическая капитанская кирка. Верно, мистер Спок?"""	Based on the old Japanese Cho measuring system, cho, an ancient Japanese unit of length approximately equal to 109.1 meters
+upgrade_pickaxe_05	Кирка из сплава	 Reordered some names
+upgrade_pickaxe_05_desc	"""Углеродистая сталь обеспечивает идеальный баланс."""	 Reordered some names
+upgrade_pickaxe_06	Вольфрамовая кирка	 Reordered some names
+upgrade_pickaxe_06_desc	"""Идеальная плотность и прочность для идеального копания."""	 Reordered some names
+upgrade_pickaxe_07	Кирка полярника	 Reordered some names
+upgrade_pickaxe_07_desc	"""Прочность и эффективность повышены. То, что нужно для Крайнего Севера!"""	 Reordered some names
+upgrade_pickaxe_08	Образцовая кирка	 Reordered some names
+upgrade_pickaxe_08_desc	"""Идеальный вес. Ощущение, что она сама копает."""	 Reordered some names
+
+upgrade_pickaxe_enemy_damage_01	Заостренный край	This is an upgrade for the pickaxe
+upgrade_pickaxe_enemy_damage_01_desc	Дополнительный урон врагам.	
+upgrade_pickaxe_enemy_damage_01_flavor	"""Режу - не могу!"""	From song The first cut is the deepest.
+upgrade_pickaxe_speed_01	Экспресс-кирка	Pun on movie title Midnight Express
+upgrade_pickaxe_speed_01_desc	Улучшенная аэродинамика ускоряет работу.	 new: minor rephasing
+upgrade_pickaxe_speed_01_flavor	"""Раззудись, плечо! Размахнись, рука!"""	Old Duke Ellington song.
+upgrade_pickaxe_resource_damage_01	Ресурсобой	
+upgrade_pickaxe_resource_damage_01_desc	Дополнительный урон плиткам с ресурсами.	
+upgrade_pickaxe_resource_damage_01_flavor	"""Пришел. Увидел. Нарубил."""	Spoof on Patrik Swayzee line from Roadhouse: My way or the highway
+upgrade_pickaxe_knockback_01	Отпад и улет	Movie Total Recall
+upgrade_pickaxe_knockback_01_desc	Отбрасывает врагов.	
+upgrade_pickaxe_knockback_01_flavor	"""Аста ла виста, бэби."""	Arnold Schwartzenegger quote from T2
+upgrade_pickaxe_deflect_projectiles_01	Возвращено отправителю	
+upgrade_pickaxe_deflect_projectiles_01_desc	Перехватывает снаряды в воздухе и меняет их направление.	 new: minor rephrasing.
+upgrade_pickaxe_deflect_projectiles_01_flavor	"""Вам возвращая ваш снаряд..."""	
+upgrade_pickaxe_fire	Пламенный топор	
+upgrade_pickaxe_fire_desc	Улучшает урон и дальнобойность кирки, позволяет наносить больше урона. Можно использовать и по-другому...	
+upgrade_pickaxe_fire_flavor	"""Зажигай!"""	
+upgrade_pickaxe_bonus_xp	Пик охотника	
+upgrade_pickaxe_bonus_xp_desc	За каждого поверженного киркой врага вы получите +5 дополнительного опыта.	
+upgrade_pickaxe_bonus_xp_flavor	"""Если охотник вернулся с грибами, лучше не спрашивай, как он поохотился."""	 Old Ghanaian proverb meaning that the hunter didn't get anything that he hunted so instead he picked mushrooms, but telling him that might hurt his feelings
+upgrade_pickaxe_bounty	В поисках наживы	
+upgrade_pickaxe_bounty_desc	За каждого убитого киркой врага вы получите деньги.	
+upgrade_pickaxe_bounty_flavor	"""Одни охотятся ради наживы, а другие - ради самой охоты."""	
+upgrade_pickaxe_health_pickup	Целитель	
+upgrade_pickaxe_health_pickup_desc	Шанс получить дополнительные сферы здоровья от врагов, убитых киркой.	
+upgrade_pickaxe_health_pickup_flavor	"""Приходи ко мне лечиться, если вылетела спица..."""	"*NEW* Marvin Gaye song ""sexual healing"""
+
+upgrade_backpack	Рюкзак	
+upgrade_backpack_desc	Там лежат собранные камни и руда.	
+upgrade_backpack_next_level_desc	Каждое улучшение добавляет по ячейке для самоцветов и руды.	
+upgrade_backpack_01	Шахтерский рюкзак	
+upgrade_backpack_01_desc	"""Невелик, но туда помещается немало руды и самоцветов."""	
+upgrade_backpack_02	Мешок из кротовьей шкуры	
+upgrade_backpack_02_desc	"""Только для настоящих уКРОТителей."""	"Pun on Shakespeare play ""Taming of the shrew"""
+upgrade_backpack_03	Бездонный мешок	
+upgrade_backpack_03_desc	"""Так и есть. Честно."""	
+upgrade_backpack_04	Троянский мешок	 Pun on the lost epic of ancient Greek litterature, The Sack of Troy
+upgrade_backpack_04_desc	"""Да в него коня поместить можно."""	 Pun on Achillean heel,expression meaning where your weakness is
+upgrade_backpack_05	Сумка. Сделано с умом!	"Pun on the old ""I can't believe it's not butter"" https://en.wikipedia.org/wiki/I_Can%27t_Believe_It%27s_Not_Butter!"
+upgrade_backpack_05_desc	"""Места хватит на все!"""	When re-released the product had an additional line on the package - Good on everything.
+upgrade_backpack_06	Переноска для гремлина	
+upgrade_backpack_06_desc	"""Не кормите после полуночи!"""	 A pun on the creatures Gremlins from movie Gremlins. They get evil if they eat after midnight.
+upgrade_backpack_07	Эльфийская торба	Elves like Legolas from Lord of The rings
+upgrade_backpack_07_desc	"""Пахарь хорош в поле, выдра - в воде, а для ходьбы по траве, листьям и снегу нужна сумка!"""	Pun on Legolas quote: let a ploughman plough, but choose an otter for swimming, and for running light over grass and leaf, or over snow--an Elf.
+upgrade_backpack_08	Одна на все - и все в одну!	Lord of the Rings pun - One ring to tame them all.
+upgrade_backpack_08_desc	"""Шутка, повторенная дважды, становится понятней. Но сумка-то хорошая. Честное слово."""	
+upgrade_backpack_09	Мамонтовая сумка	 The big and extinct Elephant-like creature.
+upgrade_backpack_09_desc	"""Большая и мохнатая."""	
+upgrade_backpack_10	Сума сумоиста	Pun on the Hindu Scripture Bhagavad Gita https://en.wikipedia.org/wiki/Bhagavad_Gita
+upgrade_backpack_10_desc	"""Послушай восточную мудрость. Наполни эту суму радостью жизни! Большим людям - большие сумки."""	sanskrit vedanta – vedan't ya? Hinduism - Hindsight
+
+upgrade_backpack_magnetic_pull_01	Магнит-сепаратор	
+upgrade_backpack_magnetic_pull_01_desc	Притягивает к вам открытые ресурсы.	 new: minor rephrasing
+upgrade_backpack_magnetic_pull_01_flavor	"""Акцио все - и побольше!"""	Harry Potter pun on spell accio = fetch
+upgrade_backpack_extra_ore_01	Карман Фрейра	 Norse God Freyr owned a ship that he could fold into his pocket when not needed
+upgrade_backpack_extra_ore_01_desc	По дополнительному куску руды в каждую ячейку.	
+upgrade_backpack_extra_ore_01_flavor	"""Прозаично, поэтично, прелестно."""	 Taken from norse mythology, The books of Snorri, The prose Edda, The poetic Edda.
+upgrade_backpack_extra_gem_01	Двойная порция	
+upgrade_backpack_extra_gem_01_desc	Можно класть два камня в ячейку.	 new: rephrasing
+upgrade_backpack_extra_gem_01_flavor	"""Мал кошелек, да дорог."""	
+upgrade_backpack_discard_give_money_01	Деньги назад	
+upgrade_backpack_discard_give_money_01_desc	Выбрасывая ресурс, вы получаете его стоимость в монетах.	
+upgrade_backpack_discard_give_money_01_flavor	"""Вывоз металлолома. Дорого."""	Lyrics From Sades song Smooth Operator
+upgrade_backpack_discard_give_health	Второе дыхание	 Pun on Elton john song circle of life meaning that everything goes around and comes back to life – from song circle of life, Recycle the present is just a quote on how recycling today will make the future a better place.
+upgrade_backpack_discard_give_health_desc	Выбросив ресурс, вы восстанавливаете немного здоровья. За камень восстанавливается больше здоровья, чем за руду.	
+upgrade_backpack_discard_give_health_flavor	"""Избавься от лишнего, иди налегке."""	
+upgrade_backpack_lower_death_penalty_01	Смерть со скидкой	
+upgrade_backpack_lower_death_penalty_01_desc	Умирая, вы теряете меньше ресурсов.	 new: minor rephrasing
+upgrade_backpack_lower_death_penalty_01_flavor	"""Смерть не страшна!"""	Blue Öyster Cult cult classic song Don't fear the reaper
+upgrade_backpack_town_portal	Портал спасения	
+upgrade_backpack_town_portal_desc	Возможность мгновенно вернуться в Эль Макино без потери ресурсов. Активируйте эту способность в системной вкладке.\n\n{format bold}Не работает в пещерах и когда вам грозит опасность. Значок способности {image town_portal_small} показывает, когда можно ее использовать.{format reset}	El Machino is the name of the city
+upgrade_backpack_town_portal_flavor	"""Оставайся при своих."""	
+upgrade_backpack_double_resources	Двойная радуга	Famous Internet meme Double Rainbow https://www.youtube.com/watch?v=OQSNhk5ICTI
+upgrade_backpack_double_resources_desc	Шанс получить два ресурса с одной плитки.	new: minor rephrasing
+upgrade_backpack_double_resources_flavor	"""Дважды да!"""	From meme double rainbow
+upgrade_backpack_pickup_money	Король бродяг	
+upgrade_backpack_pickup_money_desc	Собирая ресурсы низкой ценности, вы тут же получаете деньги. Чем ниже ценность, тем больше денег. Ничего не получите за ресурс дороже $7.	
+upgrade_backpack_pickup_money_flavor	"""Мы словно в сказке очутились."""	 Quote from Tolkiens books, character Samwise Gamgee's line: It's like in the great stories, Mr. Frodo, the ones that really mattered.
+upgrade_backpack_extra_value	Призовая игра	Pun on Bruce Willis Line in Die Hard, yippie ki-yay combined with yuppie as in newly rich person that makes money
+upgrade_backpack_extra_value_desc	Продавая ресурсы, вы получите на 30%% больше денег.	
+upgrade_backpack_extra_value_flavor	"""Денег куры не клюют!"""	From Internet meme: http://knowyourmeme.com/memes/it-prints-money
+
+upgrade_armor	Доспехи	
+upgrade_armor_desc	Защищают вас от опасностей глубин.	
+upgrade_armor_next_level_desc	Улучшите доспехи и увеличьте запас здоровья.	
+upgrade_armor_01	Листовая броня	
+upgrade_armor_01_desc	"""Базовые доспехи. Ничего особенного."""	
+upgrade_armor_02	Прочные доспехи	
+upgrade_armor_02_desc	"""Прочнее, чем обычные, но и только."""	
+upgrade_armor_03	Латы	
+upgrade_armor_03_desc	"""Отличная защита в опасной ситуации."""	
+upgrade_armor_04	Закаленный доспех	
+upgrade_armor_04_desc	"""Классическая европейская закалка."""	
+upgrade_armor_05	Легендарный доспех	
+upgrade_armor_05_desc	"""Наша новая знаменитость."""	From lyrics to song Fame from movie Fame
+upgrade_armor_06	Доспех рока	
+upgrade_armor_06_desc	"""Доспех для тех, кому и море по колено."""	"From Doom game manual description of their armor and pun on title ""knee-deep in the dead"" – the first level from original Doom"
+upgrade_armor_07	Лунный доспех	
+upgrade_armor_07_desc	"""Он несет свет во имя... В общем, с ним не пропадешь."""	"Reference to Tom Petty's song ""Won't back down"" from album ""Full Moon Fever"""
+upgrade_armor_08	Доспех-феникс	
+upgrade_armor_08_desc	"""Восстань из пепла, отряхнись и воссияй."""	Thou – old english
+
+upgrade_armor_reduce_falldamage_01	Грация пумы	 Landing soft like the cougar feline
+upgrade_armor_reduce_falldamage_01_desc	Сокращает урон при падении.	
+upgrade_armor_reduce_falldamage_01_flavor	"""Поймай меня, ведь ты сможешь."""	
+upgrade_armor_thorns	Карма	
+upgrade_armor_thorns_desc	Наносит урон всем, кто атакует вас в ближнем бою.	
+upgrade_armor_thorns_flavor	"""Нет роз без шипов."""	A power ballad song by band Poison
+upgrade_armor_guts	Мастер выживания	A spoof on Hasselhoff's song True Survivor for short film Kung Fury
+upgrade_armor_guts_desc	После первого смертельного удара вместо смерти происходит полное восстановление здоровья. Способность восстанавливается в городе.	
+upgrade_armor_guts_flavor	"""В огне не горим и в воде не тонем!"""	
+upgrade_armor_resistliquids	Сапоги Видара	Vidar = The Norse God that slayed the Fenrir Wolf
+upgrade_armor_resistliquids_desc	Ненадолго дает иммунитет к кислоте и лаве.	
+upgrade_armor_resistliquids_flavor	"""Этим сапогам не страшны Ни кислота, ни лава."""	
+upgrade_armor_damage_reduction	Сверхкомпозитная броня	
+upgrade_armor_damage_reduction_desc	Снижает получаемый урон.	
+upgrade_armor_damage_reduction_flavor	"""Не защищает разве что от кариеса."""	
+upgrade_armor_rainbow_orbs	Ядерное разнообразие	"*NEW* Song ""As long as you love me"" by Backstreet Boys. I don't care who you are, Where you're from, What you did, As long as you love me. The terms diversity, fluid and rainbow are used as an hommage to tolerance and the LGBTQ community."
+upgrade_armor_rainbow_orbs_desc	Текучая цветная броня, которая дает маленький шанс получить  3 радужных сферы при каждой победе над врагом.	
+upgrade_armor_rainbow_orbs_flavor	"""Неважно, кто ты, откуда и что копаешь. Главное, чтобы костюмчик сидел."""	
+upgrade_armor_deflect	Арамидная броня	
+upgrade_armor_deflect_desc	Отражает первый попавший в вас снаряд. Восстанавливается за 30 секунд.	
+upgrade_armor_deflect_flavor	"""Кто обзывается, сам так называется."""	A riposte used when someone calls you a name. Indicates that whatever ... I'm rubber you're glue, your words bounce off me and stick to you. Also a nod to its usage in Monkey Island game series.
+
+upgrade_watertank	Водяная цистерна	
+upgrade_watertank_desc	Многие инструменты работают на воде. Ее запасы можно пополнить в водных резервуарах в шахте.	
+upgrade_watertank_next_level_desc	Улучшение цистерны увеличивает ваш запас воды.	
+upgrade_watertank_01	Простая банка	
+upgrade_watertank_01_desc	"""Базовое приспособление паровой технологии."""	
+upgrade_watertank_02	Клапан Мелвилла	Herman Melville - author of Moby Dick
+upgrade_watertank_02_desc	"""Технология с налетом классики."""	
+upgrade_watertank_03	Аквариус	The Notourious B.I.G. and his song Mo money Mo problems
+upgrade_watertank_03_desc	"""Истина - в воде!"""	
+upgrade_watertank_04	Королевский бак	Old band The Sisters of Mercy
+upgrade_watertank_04_desc	"""Потоп? Кто сказал про потоп?"""	One of their songs
+upgrade_watertank_05	Наутилус 2	From Captain Nemo's submarine Nautilus
+upgrade_watertank_05_desc	"""Двадцать тысяч литров воды."""	Spoof on Jules Verne's book Twenty Thousand Leagues under the sea
+
+upgrade_watertank_water_pickup_01	Водяной	
+upgrade_watertank_water_pickup_01_desc	Шанс дополнительных водяных сфер от побежденных врагов.	 new: minor rephrasing.
+upgrade_watertank_water_pickup_01_flavor	"""Кажется, дождь начинается..."""	BJ Thomas song Raindrops Keep falling on my head
+upgrade_watertank_improved_water_pump	Водокачка	Technotronics old song
+upgrade_watertank_improved_water_pump_desc	Быстрее поглощает воду из водоемов.	
+upgrade_watertank_improved_water_pump_flavor	"""Кто возьмет деталей пачку, тот получит..."""	From the song Pump up the Jam
+upgrade_watertank_water_condenser	Испаритель	
+upgrade_watertank_water_condenser_desc	Преобразует влагу в поток воды, восстанавливая ваши запасы.	
+upgrade_watertank_water_condenser_flavor	"""Шахта туманная, влагой покрытая..."""	Jimmy cliff song lyrics: I can see clearly now the rain is gone
+upgrade_watertank_light_orbs_to_water	Верхом на буре	
+upgrade_watertank_light_orbs_to_water_desc	Это оборудование превращает световые сферы в водяные. Не действует на радужные сферы.	
+upgrade_watertank_light_orbs_to_water_flavor	"""Свет в воду, потом воду в вино. Старый фокус, о нем все читали."""	Reference to the Bible where Jesus turned water into wine
+upgrade_watertank_regeneration	Водная регенерация	
+upgrade_watertank_regeneration_desc	Восстанавливает здоровье в водоемах.	 new: minor rephrasing
+upgrade_watertank_regeneration_flavor	"""Верни меня к жизни."""	
+
+upgrade_minimap	Карта	
+upgrade_minimap_desc	Показывает, где вы были и куда идете.	
+upgrade_minimap_01	Карта	
+upgrade_minimap_01_desc	"""Все, что вам нужно, - это план, дорожная карта и смелость идти к цели."""	Quote from Earl Nightingale, american writer
+
+upgrade_minimap_quest_pointer	Отметки на карте	 (Renamed)
+upgrade_minimap_quest_pointer_desc	Показывает на карте отметки ({image quest_pointer_arrow} и {image quest_pointer_crosshair}), направляющие к целям вашей миссии. \n\n{format bold}Если вы не любите, когда вам указывают, отключите эту модификацию.{format reset}	 Text within { } should not be translated.
+upgrade_minimap_quest_pointer_flavor	"""Не знаю, ребята, я сам здесь впервой..."""	A nod to Lemmy's Show and the character Falconhoof. https://www.youtube.com/watch?v=oWmiShFb0go
+
+upgrade_minimap_mineral_detector	Карта минералов	Nod to the Harry Potter Marauder's Map
+upgrade_minimap_mineral_detector_desc	Открывает все ресурсы на мини-карте.	
+upgrade_minimap_mineral_detector_flavor	"""Сезам, откройся!"""	Small pun on actor Roger Moore
+upgrade_minimap_hp_bar	Око Одина	 Odin – all-seeing father of norse mythology, quote is merely a question without reference, feel free to make it into your own languages equivalent
+upgrade_minimap_hp_bar_desc	При нанесении урона врагу показывает, сколько у него осталось здоровья.	
+upgrade_minimap_hp_bar_flavor	"""Главного глазами не увидишь, зорко только сердце."""	
+
+upgrade_run_boots	Беговая гидравлика	*DEMO*
+upgrade_run_boots_desc	Чтобы бежать, удерживайте при движении {indicator run}.\nБег позволяет быстрее двигаться и выше прыгать.	
+upgrade_run_boots_flavor	"""Еще чуть-чуть быстрее - и мы обгоним время!"""	I Blame Coco lyrics from song Quicker
+
+upgrade_buddy	Фен	Name
+upgrade_buddy_desc	Таинственный призрак, поселившийся в вашем паровом котле.	
+
+upgrade_fate	Машина судьбы	
+upgrade_fate_desc	Таинственные модификации, меняющие устройство мира.	
+upgrade_fate_flavor	"""Отречемся от старого мира!"""	Black Sabbath lyrics from song Symptom of the universe
+upgrade_fate_bloodquest	{image danger}Кровавый путь{image danger}	
+upgrade_fate_bloodquest_desc	Добыча ценой крови!\nУдваивает шанс получить кровавики при гибели врага, но при этом увеличивает урон.\n\n{format bold}Активация этой модификации усложнит выполнение миссий. Подходит только опытным бойцам.{format reset}	Blood Stone is a resource in the game. Text within { } should not be translated. 
+upgrade_fate_bloodquest_flavor	"""Обоюдоострый меч."""	
+upgrade_fate_xpx2	{image danger}В погоне за риском{image danger}	
+upgrade_fate_xpx2_desc	Удваивает опыт за убийства, но сферы вы получите только за креативные убийства и бонусы.\n\n{format bold}Активация этой модификации усложнит выполнение миссий. Подходит только опытным бойцам.{format reset}	Text within { } should not be translated. 
+upgrade_fate_xpx2_flavor	"""Труден путь, но высока награда."""	Made up proverb
+upgrade_fate_explosions	{image danger}Смертевзрыв{image danger}	
+upgrade_fate_explosions_desc	Враги взрываются, когда умирают.\n\n{format bold}Активация этой модификации усложнит выполнение миссий.{format reset}	Text within { } should not be translated. 
+upgrade_fate_explosions_flavor	"""Да будет взрыв!"""	Let there be light, from the bible
+upgrade_fate_resource_exploder	Перекрестный взрыв	 Criss-Cross is refering to that the adjacent tiles will break in a cross pattern. Totally krossed out is Rap duo Kriss-Kross debut album, so it's a pun on that, but with correct spelling with c, not k.
+upgrade_fate_resource_exploder_desc	Разбивая плитки с ресурсами, кирка вызывает взрыв, повреждающий смежные плитки.	
+upgrade_fate_resource_exploder_flavor	"""Крестики, нолики... взрыв."""	
+upgrade_fate_hell_cave_sigil	Фигуры райские и адские	 Latin for Seal of Heaven and Hell
+upgrade_fate_hell_cave_sigil_desc	Вершина одиночества в пустыне,\nНелегок путь среди песков опасных.\nТвоя судьба на небесах отныне,\nСокрыта в месте странном и прекрасном.	
+upgrade_fate_hell_cave_sigil_flavor	"""Судьба, идем со мной."""	 Nod to Twin Peaks: Fire Walk With Me, meaning that you invite the devil to join you. Fate walk with me implies that you invite fate into your life.
+
+upgrade_steampack	Реактивный двигатель	
+upgrade_steampack_desc	Чтобы лететь, удерживайте {indicator jump}.\nЭкспериментальный двигатель внутреннего сгорания не потребляет воду, но быстро перегревается.	
+upgrade_steampack_next_level_desc	Улучшите реактивный двигатель, чтобы двигаться дольше.	
+upgrade_steampack_01	Secord Mod 38	From Rocketeer comic origin 1939, character Cliff Secord
+upgrade_steampack_01_desc	"""Базовый четырехцилиндровый двигатель."""	
+upgrade_steampack_02	Двойной циклон	
+upgrade_steampack_02_desc	"""Инверсный, с воздушным охлаждением."""	
+upgrade_steampack_03	Le Rhône 69	Reference to a French WW1 engine.
+upgrade_steampack_03_desc	"""Комбинированная воздушно-водяная система охлаждения. Все - или ничего."""	
+
+upgrade_steampack_slayer	Воздушно-реактивная сила	
+upgrade_steampack_slayer_desc	Использование реактивного двигателя наносит урон врагам и хрупким плиткам рядом с вами.	
+upgrade_steampack_slayer_flavor	"""А вместо сердца - пламенный мотор!"""	Reference to Eric Clapton song Grand Illusion
+upgrade_steampack_feather_fall	Стабилизатор скорости	 References is to song Falling by Julee Cruise, and song line Don't let yourself be hurt this time.
+upgrade_steampack_feather_fall_desc	Когда реактивный двигатель перегревается, удерживайте {indicator jump}, чтобы уменьшить скорость падения.	
+upgrade_steampack_feather_fall_flavor	"""В этот раз постарайся не разбиться."""	
+upgrade_steampack_boost	Полный форсаж	 Quote from character Maverick from movie Top Gun. Maverick Afterburner is also a reference to the character played by Tom Cruise.
+upgrade_steampack_boost_desc	Увеличивает скорость реактивного двигателя, так что тапку в пол и слушайте радостный рев.	
+upgrade_steampack_boost_flavor	"""Тормоза придумал трус."""	
+upgrade_steampack_in_air_cooling	Воздушное охлаждение	"*NEW* Eastbound and down is a song from the movie ""Smokey and the Bandit"" Cletus Snow is a character from the movie, and his dog's name is Fred."
+upgrade_steampack_in_air_cooling_desc	Отпустите {indicator jump} в полете, чтобы охладить двигатель. Изготовлено с холодным расчетом.	
+upgrade_steampack_in_air_cooling_flavor	"""Лети, лети, лепесток... Не перегревайся!"""	
+
+upgrade_pressurebomb	Газовая бомба	
+upgrade_pressurebomb_desc	Можно бросать вперед, вверх и вниз Расходует воду.\nЧтобы бросить, нажмите {indicator tool_pressurebomb}!	
+upgrade_pressurebomb_next_level_desc	Улучшите газовые бомбы, чтобы увеличить дальнобойность.	
+upgrade_pressurebomb_01	Осмотический код	Osmotic= water pressure terminology
+upgrade_pressurebomb_01_desc	"""Высокое давление дает силу удара... И проблемы со здоровьем."""	A small refernence, mid-range migraine, to song The Message by Grandmaster Flash and the Furious Five
+upgrade_pressurebomb_02	Гидростатика Сколандера	Per Scholander= physiologist renowned for pressure bomb technology
+upgrade_pressurebomb_02_desc	"""Ее можно кидать еще дальше!"""	
+upgrade_pressurebomb_03	Кислотная бомба	
+upgrade_pressurebomb_03_desc	"""Не путать с кислой миной."""	Reference to Scooter song Acid Bomb
+upgrade_pressurebomb_04	Бомба-бабах	"*NEW* Reference: Song Who Put The Bomp by Barry Mann: ""Who put the bomp in the bomp bah bomp bah bomp / Who put the ram in the rama lama ding dong / Who put the bop in the bop shoo bop shoo bop / Who put the dip in the dip da dip da dip."" =So now you can throw the bomb further = bomb bah LONGA' =longer"
+upgrade_pressurebomb_04_desc	"""Не просто взрыв, а с прибабахом! Вы не поверите, но они летают еще дальше!"""	
+
+upgrade_pressurebomb_brickbreaker	Взрывпакеты	
+upgrade_pressurebomb_brickbreaker_desc	Бомбы будут взрывать еще более твердые породы!	
+upgrade_pressurebomb_brickbreaker_flavor	"""Вижу цель, не вижу препятствий!"""	Ghostbusters pun - When there's something strange in the neighbourhood, who ya gonna call
+upgrade_pressurebomb_launcher	Гранатомет	
+upgrade_pressurebomb_launcher_desc	Удерживайте {indicator tool_pressurebomb}. Граната полетит по дуге и вызовет массовые разрушения.	
+upgrade_pressurebomb_launcher_flavor	"""Взвейтесь кострами, бочки с бензином..."""	Billy Ray Cyrus song Achy breaky heart
+upgrade_pressurebomb_improved_water	Скидка	*NOT CURRENTLY USED*
+upgrade_pressurebomb_improved_water_desc	Сокращает расход воды вдвое.	*NOT CURRENTLY USED*
+upgrade_pressurebomb_improved_water_flavor	"""Главное - не выплеснуть младенца."""	*NOT CURRENTLY USED* Biblical referense to Moses
+upgrade_pressurebomb_water_pickup	Очень Мокрая Бомба	
+upgrade_pressurebomb_water_pickup_desc	Плитки, разрушенные бомбами, дают дополнительную водяную сферу.	
+upgrade_pressurebomb_water_pickup_flavor	"""Я как бомба в океане..."""	Reference to band Wet Wet Wet and their song Love is all around
+upgrade_pressurebomb_increased_radius	Сверхдавление	*NOT CURRENTLY USED*
+upgrade_pressurebomb_increased_radius_desc	Взрывная волна от бомбы уничтожает врагов в большем радиусе.	*NOT CURRENTLY USED*
+upgrade_pressurebomb_increased_radius_flavor	"""Огненный круг, взрывы вокруг..."""	*NOT CURRENTLY USED* Chris Cornell song wave Goodbye
+upgrade_pressurebomb_self_immunity	Прививка Молотова	Pun on Molotov Cocktail
+upgrade_pressurebomb_self_immunity_desc	Не дает бомбам наносить урон вам.	
+upgrade_pressurebomb_self_immunity_flavor	"""Я прививок не боюсь, Если надо, не взорвусь."""	
+upgrade_pressurebomb_launcher_triple	Утроенная граната	 ThreeForce is a reference to the Legend of Zelda TriForce, The quote is just a rhyme and not important.
+upgrade_pressurebomb_launcher_triple_desc	При броске пневмогранаты эта тройная штучка выпустит три гранаты сразу!	
+upgrade_pressurebomb_launcher_triple_flavor	"""Одна голова хорошо, а три много!"""	
+upgrade_pressurebomb_air_bomb	Небесная атака	 Norman Greenbaum song lyrics Spirit in the sky, pun on somebody being a mean spirit = bad and mean to people.
+upgrade_pressurebomb_air_bomb_desc	Дает возможность использовать газовые бомбы в полете. Вперед, небо зовет, швыряйте бомбы с безопасного расстояния!	
+upgrade_pressurebomb_air_bomb_flavor	"""Кстати о птичках... Хорошо, что коровы не летают."""	
+
+
+
+upgrade_jackhammer	Отбойный молоток	
+upgrade_jackhammer_desc	Отличный инструмент для раскопок и разрушения твердых пород. А вот против врагов бесполезен. Расходует воду. Удерживайте {indicator tool_jackhammer}, чтобы повысить мощность!	
+upgrade_jackhammer_next_level_desc	Улучшите отбойный молоток, чтобы повысить его эффективность.	
+upgrade_jackhammer_01	Кузнечный молот	Pun on Peter Gabriels song Sledgehammer
+upgrade_jackhammer_01_desc	"""Каждый - сам кузнец своего счастья!"""	Pun on Peter Gabriels song Sledgehammer - I want to be your sledgehammer
+upgrade_jackhammer_02	Титанический бур	Titans=Mythological adversaries to the gods
+upgrade_jackhammer_02_desc	"""Повышена эффективность: больше грохота на ведро воды."""	Removed MC Hammer reference
+upgrade_jackhammer_03	Победитель	From Rocky 4 - Character Ivan Drago
+upgrade_jackhammer_03_desc	"""Наконечник усилен победитом. Его никому не победить."""	"His signature phrase ""I must break you"""
+upgrade_jackhammer_04	Зов Мьёлнира	In norse mythology Mjölnir is the hammer of the mighty Thor
+upgrade_jackhammer_04_desc	"""Космос и хаос зовут."""	
+
+upgrade_jackhammer_improved_water	Сухой, как лист	Jab - to punch NOT CURRENTLY USED
+upgrade_jackhammer_improved_water_desc	Сокращает расход воды вдвое.	NOT CURRENTLY USED
+upgrade_jackhammer_improved_water_flavor	"""Жарко, но не парко."""	NOT CURRENTLY USED
+upgrade_jackhammer_faster_windup	Синтетическая смазка	
+upgrade_jackhammer_faster_windup_desc	Ускоряет запуск отбойного молотка.	
+upgrade_jackhammer_faster_windup_flavor	"""Пойдет как по маслу!"""	Frankie goes to Hollywood song Relax
+upgrade_jackhammer_faster_maxspeed	Олимпийский цилиндр	Tribute to band KLF - also known as the Justified Ancients of Mu Mu
+upgrade_jackhammer_faster_maxspeed_desc	Улучшенный пневматический цилиндр. Повышает максимальную скорость работы, расходуя больше воды.	
+upgrade_jackhammer_faster_maxspeed_flavor	"""Выше! Дальше! Быстрее!"""	Their tune Last train to Trancentral
+upgrade_jackhammer_push	Управление потоком	
+upgrade_jackhammer_push_desc	Двигает вас вперед, когда отбойный молоток пробивает породу.	
+upgrade_jackhammer_push_flavor	"""Мой молоток вперед летит!"""	Pun on Dolly Parton and Kenny Rodgers song Islands in the stream lyrics
+upgrade_jackhammer_shockwave	Сейсмовзрыв	DO NOT TRANSLATE, NOT CURRENTLY USED
+upgrade_jackhammer_shockwave_desc	Отбойный молоток разрушает несколько плиток подряд.	DO NOT TRANSLATE, NOT CURRENTLY USED
+upgrade_jackhammer_shockwave_flavor	"""Одним махом семерых разбивахом!"""	DO NOT TRANSLATE, NOT CURRENTLY USED Reference to Guile from Street Fighter-series
+upgrade_jackhammer_slower_winddown	Тихоход	"*NEW* Slow Hand – Eric Claptons nickname, quote is flavor from his song ""Going down slow"": I feel like I'm going, I'm going down slow."
+upgrade_jackhammer_slower_winddown_desc	Продлевает инерцию: отбойный молоток после включения работает дольше.	
+upgrade_jackhammer_slower_winddown_flavor	"""Тише едешь - дальше будешь."""	
+
+upgrade_hook	Кошка	It's like a grappling hook
+upgrade_hook_desc	Чтобы использовать, нажмите {indicator tool_hookshot}. Подтягивает в указанном направлении. Можно использовать против врагов и получать разные эффекты.	
+upgrade_hook_next_level_desc	Улучшения увеличивают радиус действия.	
+upgrade_hook_01	Кошка	
+upgrade_hook_01_desc	"""Зацепил - подтянулся. Примерно так она и работает."""	 Minor rephracing
+upgrade_hook_long	Дальнобойная кошка	
+upgrade_hook_long_desc	Кошка летит дальше и цепляется лучше!	
+upgrade_hook_long_flavor	"""Выше только потолок."""	Pun on Blue Swede song Hooked on a feeling.
+
+# ----- Quests ----
+quest_get_to_elmachino	~Попасть в Эль Макино~	
+quest_talk_to_mayor	~Поговорить с мэром~	
+
+quest_gather_resources	~Добывать ресурсы~	
+obj_gather_resources	Собрано: $%1%{image money_small_up} / $%2%{image money_small_up}	
+
+quest_sell_resources	~Продать ресурсы~	
+
+quest_fix_lamp	~Починить фонарь~	
+
+quest_lit_the_lamp	~Войти в Архею~	
+quest_find_teleporter	~Починить пневмотрубу~	
+quest_investigate_cave_in	~Расчистить проход~	
+quest_get_pressurebomb	~Найти взрывчатку~	
+quest_clear_cave_in	~Расчистить проход~	
+quest_get_jackhammer	~Найти станцию~	
+
+quest_report_to_mayor	~Поговорить с мэром~	
+
+quest_find_the_hub	~Войти в город бомжей~	
+
+quest_talk_to_rosie	~Поговорить с Рози~	
+quest_get_grapplinghook	~Войти на станцию~	
+quest_find_rocketeer	~Найти маленького бота~	
+quest_enter_firetemple	~Войти в восточный храм~	
+quest_kill_priest	~Сразиться с Пророком~	
+quest_destroy_temple_generators	~Отключить машину~	
+
+quest_enter_vectron	~Исследовать Вектрон~	
+quest_report_to_rosie_vectron1	~Вернуться в Оазис~	
+
+quest_hubtube	~Найти другой вход~	
+quest_confront_rosie	~Сразиться с Рози~	
+quest_destroy_the_last_generators	~Уничтожить машины~	
+
+quest_objective_in_progress	{image objective_in_progress}	
+quest_objective_finished	{image objective_finished}	
+
+# -- %1% is finished sub-objectives, %2% is sub-objective count, %3% is either quest_objective_in_progress or quest_objective_finished
+quest_destroy_the_last_generators_objective_guidance	Западный храм %3%	 Keep name same as level_temple_of_guidance
+quest_destroy_the_last_generators_objective_fire	Восточный храм %3%	 Keep name same as level_fire_temple
+quest_destroy_the_last_generators_objective_yarrow	Ярроу %3%	 Keep name same as level_yarrow
+
+# ----- Banners -----
+banner_bonusup	Бонус за продажу!	
+banner_bonusup_text	Бонус: %1%%%	
+banner_levelup	Открыты новые улучшения!	
+banner_levelup_text	Купить в мастерской	
+banner_gain_ability	%1%!	Value is the upgrade you recieve *DEMO*
+banner_died_header	Вы на свалке	*DEMO*
+banner_blueprint_header	{image cogs_up} %1%	
+banner_blueprint_text_in_tools	Модификации: {indicator_high menu_next_tab}	
+banner_blueprint_text_other	Использовать в мастерской	
+banner_teleport_header	Открыта транспортная пневмотруба!	
+banner_secret_header	Открыта секретная зона!	*DEMO*
+banner_artifact_text	Добавлено в коллекцию	 Subtitle on banner when player picks up an artifact *DEMO*
+
+# ----- Popups -----
+popup_died	Вернуться	
+popup_died_lost_all_text	Вы погибли и потеряли все собранные ресурсы.	
+popup_died_lost_some_text	Вы погибли и потеряли часть собранных ресурсов.	
+popup_died_lost_none_text	Вы погибли, но не потеряли ресурсы.	
+popup_died_end_text	\nВы вернетесь в город.	Death popup end text appended to the variants above
+
+popup_died_checkpoint_title	Попробуйте еще раз!	
+popup_died_checkpoint_text	Вы вернетесь к последней метке.	
+
+popup_inventory_discard_title	Выбросить	
+popup_inventory_discard_text	Выбросить ресурсы (%1% x %2%)?\n\nВернуть их не удастся.	
+popup_inventory_discard_give_money_text	Выбросить ресурсы (%1%x %2%)?\n\nЗа выброшенные ресурсы вы получите $%3%{image money_small} (из $%4%{image money_small}).	
+popup_inventory_discard_give_health_text	Выбросить ресурсы (%1% x %2%)?\n\nЗа выброшенные ресурсы вы восстановите %3% здоровья.	
+popup_inventory_discard_give_money_and_health_text	Выбросить ресурсы (%1%x %2%)?\n\nЗа выброшенные ресурсы вы получите $%3%{image money_small} (из $%4%{image money_small}) и восстановите %5% здоровья.	
+
+popup_find_map_title	Карта	
+popup_find_map_text	Чтобы найти карту мира, нажмите {indicator menu_pause}.	 New note: Removed second sentence about switching tabs.
+
+popup_press_input_title_gamepad	Назначить кнопку	
+popup_press_input_title_keyboard	Назначить клавишу	
+popup_press_input_text_gamepad	Чтобы назначить кнопку на действие, нажмите ее.\n\nДля отмены нажмите {indicator menu_pause}.	
+popup_press_input_text_keyboard	Чтобы назначить клавишу на действие, нажмите ее.\n\nДля отмены нажмите {indicator menu_pause}.	
+popup_wrong_input_type_title	Неверный тип ввода	
+popup_wrong_input_type_text	Нельзя менять местами геймпад и клавиатуру с мышью.	
+popup_error_mouse_left_title	Кнопка занята	
+popup_error_mouse_left_text	Нельзя назначить левую кнопку мыши.	
+
+popup_tools_screen_buy_upgrade_title	Купить модификацию?	 
+popup_tools_screen_buy_upgrade_text	%1% стоит $%2%{image money_small}. Купить?	
+
+popup_tools_screen_enable_cog_title	Выбрать модификацию.	
+popup_tools_screen_enable_cog_text	Эта модификация усложнит выполнение миссий. Но может быть весело!\n\nВыбрать эту модификацию?	
+
+popup_difficulty_title	Выберите сложность	
+popup_difficulty_newgame_text	Выберите уровень сложности.\nСложность можно будет изменить в любой момент.	 Text when setting difficulty before a new game.
+popup_difficulty_change_text	Выберите уровень сложности.\nТекущий уровень: %1%.	 Text when changing difficulty in game. %1% is the name of the current difficulty.
+
+# ----- Menus -----
+main_menu_start	Начать игру	
+main_menu_options	Параметры	
+main_menu_extras	Дополнительно	
+main_menu_exit	Выход	
+
+menu_profile_slot_empty_header	Создать игру	
+menu_profile_slot_empty_details	Новое приключение	
+menu_profile_header	Игра	
+menu_profile_header_corrupt	Профиль поврежден	
+menu_profile_corrupt_desc	Не удается загрузить	
+popup_info_profile_corrupt_title	Профиль поврежден	
+popup_info_profile_corrupt_text	Не удается загрузить профиль	
+
+menu_profile_delete	Удалить сохранение	
+menu_profile_continue	Продолжить	
+menu_profile_start	Начать игру	
+menu_profile_money	$%1% {image money_profile}	No translation needed
+menu_profile_cogs	%1% {image cogs_profile}	No translation needed
+menu_profile_artifacts	%1% / %2% {image artifacts_profile}	No translation needed
+menu_profile_secrets_header	Тайны	 Header to a percentage of how many secrets have been found in the game.
+
+menu_credits	Авторы	
+menu_contact	Контакты	 Information on how to contact us
+
+popup_confirm_erase_profile_title	Удалить профиль?	
+popup_confirm_erase_profile_text	Профиль канет во тьму навеки... Продолжить?	
+
+menu_gamepad_info	Лучше всего играть с геймпада. Хватайте его - и копайте!	Text displayed at startup when informing player of gamepad
+
+menu_epilepsy_info_header	ВНИМАНИЕ: СВЕТОЧУВСТВИТЕЛЬНОСТЬ/ЭПИЛЕПСИЯ	
+menu_epilepsy_info_text	"Эта игра содержит сцены, способные спровоцировать приступ эпилепсии. \n\nЧтобы минимизировать риск, установите флажок ""Откл. мерцание"" в меню параметров."	
+
+menu_xp_level	Уровень %1%	Value is the current character level
+menu_xp_tonext	Далее: %1% опыта	Value is the amount of experience you need for the next level
+xp_bar_level_up	НОВЫЙ УРОВЕНЬ!	
+
+ui_status_label_hits	{image hits} x %1%	For indicating the number of hits it takes to destroy a tile. Does not need translation.
+ui_status_inventory_full	Недостаточно места	
+
+menu_statusui_currency_cogs	{format header_drop}%1%	The text format should be added in the flash and removed from here
+menu_statusui_currency_money	{format header_drop}$%1%	The text format should be added in the flash and removed from here
+menu_statusui_currency_cogs_presentation	{format currency_presentation}+%1%	The text format should be added in the flash and removed from here
+menu_statusui_currency_money_presentation	{format currency_presentation}+$%1%	The text format should be added in the flash and removed from here
+menu_statusui_currency_cogs_presentation_negative	{format currency_presentation_negative}-%1%	The text format should be added in the flash and removed from here
+menu_statusui_currency_money_presentation_negative	{format currency_presentation_negative}-$%1%	The text format should be added in the flash and removed from here
+
+menu_currency_money	$%1% {image money}	
+menu_currency_money_small	$%1%{image money_small}	
+
+menu_sell_resources_stack	x %1%	
+menu_sell_resources_bonus	Бонус: %1%%%	"*NEW* Only translate ""Bonus:"""
+menu_sell_resources_value	Продать за:	
+
+# ------ Contact Menu -----
+menu_contact_top_header	Давайте поговорим!	 Header for contact menu
+menu_contact_text	Добро пожаловать в SteamWorld! Мы сотрудники Image & Form, и это благодаря вам у нас есть работа. Хотите что-то сказать? Обсудить? Напишите нам. Мы на связи почти все время, вам не придется долго ждать ответа.	 Main body text of contact menu
+menu_contact_signature	– Brjánn, CEO	 Displayed directly below main body text in contacts menu (Do not translate)
+menu_twitter_text	Twitter: @imageform	 Our twitter handle (Do not translate)
+menu_facebook_text	Facebook: Image & Form Games	 Our facebook page (Do not translate)
+menu_youtube_text	YouTube: youtube.com/c/imageform	 Our Youtube page (Do not translate)
+menu_website_text	Сайт: www.imageform.se	 Our website (Translate only first word if needed: 'Website')
+menu_email_text	Е-мейл: info@imageform.se	 Our e-mail (Translate only first word if needed: 'Email')
+
+# ------ Post-Game Ranking Screen -----
+menu_ranking_header	Рейтинг	
+menu_ranking_playtime	Время	
+menu_ranking_deaths	Смертей	
+menu_ranking_networth	Капитал	
+menu_ranking_secrets	Тайны	
+menu_ranking_close	Закрыть	
+
+
+# ------ Map Screen -----
+menu_map_header	Карта	
+menu_map_secrets	%1%\nТайны: %2%%%	
+menu_map_no_secrets	%1%	
+menu_map_legend_player	Дороти	
+menu_map_legend_door	Дверь	
+menu_map_legend_tube	Труба	
+menu_map_legend_cave	Пещера	
+menu_map_legend_cave_done	Пещера пройдена	
+menu_map_legend_quest	Миссия	
+
+menu_teleport_prompt	Вперед	
+menu_quest_sequence_done_prompt	Продолжить	
+menu_quick_hub_teleport	Вернуться (Эль Макино)	
+menu_quick_return_teleport	Последнее размещение	
+
+menu_map_zoom	Приблизить/удалить	
+
+# ------ Transport Tube Names -----
+
+tube_teleporter_yarrow_2_tumblers_01	Сверкающая штольня	 Transport tube located near a lot of luminescent lights right before the first tumblers
+tube_teleporter_yarrow_2_tumblers_02	Над Кислотным болотом	 Transport tube located right before the first acid pools
+tube_teleporter_yarrow_2_lock_01	Под Кислотным болотом	 Transport tube right before Leaky Lodge
+tube_teleporter_yarrow_2_spitters	Грибной пруд	 Transport tube below the spitters and above the flies
+tube_teleporter_yarrow_2_bats	Комарино-минное поле	 Transport tube surrounded by acid flies
+tube_firetemple_teleporter_01	Вход в шахту	 Transport tube in the fire temple entrance shaft
+tube_firetemple_teleporter_02	Конвейерный лабиринт	 Transport tube near the first conveyors
+tube_firetemple_teleporter_03	Лавовый коридор	 Transport tube near the first lava drippers and bats
+tube_firetemple_teleporter_04	Алтарь големов	 Transport tube in a large open area, near a brazier
+tube_firetemple_teleporter_05	Внутри храма	 Transport tube near large gate and lever
+tube_firetemple_teleporter_06	Висячий лава-сад	 ransport tube in a section with a lot of small lava pools
+tube_firetemple_teleporter_09	Большая река лавы	 Transport tube in the middle of the large lava river in lower fire temple
+tube_firetemple_teleporter_08	Вход в арсенал	"Transport tube near the """"sun armory"""" cave and all the temple priests"""
+tube_firetemple_teleporter_07	Вход в подвал	 Transport tube at the start of the bottom section of the fire temple
+tube_firetemple_teleporter_10	Внутреннее святилище	 Transport tube at the very end of the fire temple, near the generator
+tube_archaea_teleporter_01	Краснокаменный штрек	 Transport tube located at the top of archaea
+tube_archaea_teleporter_02	Питомник кактусов	 Transport tube in early archaea, near east desert entrance
+tube_archaea_teleporter_03	Над стеной	 Transport tube located above the shiner wall
+tube_archaea_teleporter_04	Под стеной	 Transport tube located below the shiner wall
+tube_archaea_teleporter_05	Застава нижней шахты	 Transport tube near some mining equipment in lower archaea
+tube_archaea_teleporter_06	Нижний уровень шахты	 Transport tube at the bottom of archaea, near the vectron entrance
+tube_eastdesert_teleporter_01	Вход в храм	 Transport tube in desert near entrance to temple of the destroyer
+tube_thehub_teleporter_01	Оазис	 Transport tube in the shiner hub
+tube_elmachino_teleporter_01	Эль Макино	 Transport tube in the center of el machino
+tube_templeofguidance_teleporter_01	Шахта Нижнего храма	 Transport tube right before the entrance shaft to temple of guidance 2
+tube_temple_of_guidance2_teleporter	Цистерна храма	 Transport tube at the bottom of temple of guidance 2, near the water pool
+
+# ------ Upgrades Screen -----
+
+menu_upgrades_header_cogs	Модификации	
+menu_upgrades_header_upgrades	Улучшения	
+
+menu_upgrades_minor_prompt_insertcogs	Вставить Шестеренка	
+menu_upgrades_minor_prompt_removecogs	Удалить Шестеренка	
+
+menu_upgrades_price	$%1%{image money_up}	
+menu_upgrades_level	Треб. Уровень %1%	
+menu_upgrades_maxed	МАКС.	
+menu_upgrades_tooltier	Ступень %1% %2%	
+
+menu_upgrades_switch_to_cogs	К модификациям	
+menu_upgrades_switch_to_upgrade	К улучшениям	
+menu_upgrades_buy_upgrade	Купить улучшение	
+menu_upgrades_cogs_slot	Поставить модификацию	
+menu_upgrades_cogs_unslot	Снять модификацию	
+
+menu_upgrades_lockedupgrade	(Недоступно)	
+menu_upgrades_desc_minor_upper_needlevel	{format upgrade_locked}- Требуется: %2% %1% ступени -{format reset}	
+menu_upgrades_desc_minor_upper_needworkbench	{format upgrade_locked}- Установить можно в мастерской -{format reset}	
+menu_upgrades_desc_minor_upper_needcog	{format upgrade_locked}- Нужна {image cogs_small} Шестеренка -{format reset}	
+menu_upgrades_desc_minor_upper_needcogs	{format upgrade_locked}- Нужны {image cogs_small} Шестеренки: %1% -{format reset}	
+menu_upgrades_desc_minor_upper_havecog	- Можно открыть за 1 {image cogs_small} -	
+menu_upgrades_desc_minor_upper_havecogs	- Можно открыть за %1% {image cogs_small} -	
+menu_upgrades_desc_minor_upper_nocogs	- Бесплатно -	
+menu_upgrades_desc_minor_upper_cogged_needworkbench	{format upgrade_locked}- Снять можно в мастерской -{format reset}	
+menu_upgrades_desc_minor_upper_cogged	- Установлено -	
+
+menu_upgrades_desc_minor_header_needblueprint	???	
+menu_upgrades_desc_minor_upper_needblueprint	{format upgrade_locked}- Требуется чертеж -{format reset}	
+menu_upgrades_desc_minor_needblueprint	Эта модификация требует чертежа.	
+
+menu_upgrades_desc_major_upper_needlevel	{format upgrade_locked}- Новое улучшение доступно на %1% уровне -{format reset}	
+menu_upgrades_desc_major_upper_cantafford	{format upgrade_locked}- За улучшение нужно отдать $%1%{image money_small} -{format reset}	
+menu_upgrades_desc_major_upper_price	- За улучшение нужно отдать $%1%{image money_small} -	
+menu_upgrades_desc_major_upper_needworkbench	{format upgrade_locked}- Улучшить в мастерской за $%1%{image money_small} -{format reset}	
+menu_upgrades_desc_major_upper_needlevel_us	{format upgrade_locked}- Открывается на уровне %1% -{format reset}	
+menu_upgrades_desc_major_upper_cantafford_us	{format upgrade_locked}- Доступно за $%1%{image money_small} -{format reset}	
+menu_upgrades_desc_major_upper_price_us	- Цена: $%1%{image money_small} - 	
+
+menu_upgrades_desc_major_upper_max	Этот инструмент улучшен до максимальной ступени.	
+menu_upgrades_desc_major_upper_cantupgrade	Этот инструмент нельзя улучшить.	
+
+menu_upgrades_desc_major_header_unavailable	???	
+menu_upgrades_desc_major_upper_unavailable	{format upgrade_locked}- Недоступно -{format reset}	
+menu_upgrades_desc_major_unavailable	Улучшение еще не открыто.	
+
+menu_upgrades_desc_major_upper_tier	- Ступень %1% %2% -	
+
+menu_upgrades_desc_unlock_cog	Модификация: %1%	
+menu_upgrades_desc_unlock_cog_header	Открывает модификации:	*NEW*
+
+# ------ Collectibles Screen -----
+menu_collectibles_header	Артефакты	
+
+menu_collectibles_empty	Артефактов пока нет	
+menu_collectibles_empty_header	Артефактов пока нет	
+menu_collectibles_empty_text	Вы пока не находили артефактов. Когда найдете, они появятся здесь.	
+
+menu_collectibles_totalcollect_text	Собрано	
+menu_collectibles_totalcollect	%1%/%2%	
+
+# ------ Inventory Screen -----
+menu_inventory_header	Ресурсы	
+
+menu_inventory_slot_value	$%1%{image money_small}	
+menu_inventory_totalvalue	$%1%	
+menu_inventory_totalvalue_text	Общая стоимость:	
+menu_inventory_discard_prompt	Выбросить	
+
+menu_inventory_infobox_header	%1% x %2%	
+menu_inventory_infobox_header_empty	Освободить ячейку рюкзака	
+menu_inventory_infobox_header_money	$%1%{image money}	
+menu_inventory_infobox_text_empty	В этой ячейке помещается до 4 единиц одной руды или один драгоценный камень..	
+
+# ------ System Menu -----
+menu_system_header	Система	
+
+menu_system_selfdestruct	Самоуничтожение	
+menu_system_selfdestruct_desc	Запустите самоуничтожение, чтобы вернуться в город.	
+menu_system_selfdestruct_checkpoint	Самоуничтожение	
+menu_system_selfdestruct_checkpoint_desc	Запустите самоуничтожение, чтобы вернуться к последней метке.	
+menu_system_town_portal	{image town_portal} Портал {image town_portal}	
+menu_system_town_portal_desc	Телепортируйтесь обратно в город, используя модификацию Портал спасения.	
+menu_system_difficulty	Сложность	
+menu_system_difficulty_desc	Выберите сложность.	
+menu_system_options	Параметры	
+menu_system_options_desc	Изменение настроек, элементов управления, языка и пр.	
+menu_system_exit	Выход	
+menu_system_exit_desc	Выйти в главное меню Несохраненный прогресс будет потерян.	
+
+popup_exittomenu_title	Выход	
+popup_exittomenu_text	Несохраненный прогресс будет потерян. Вернуться в главное меню?\nС прошлого сохранения: %1% мин., %2% сек.	
+popup_selfdestruct_title	Самоуничтожение	
+popup_selfdestruct_text	Все ваши ресурсы могут быть потеряны, а вы вернетесь в город. Самоуничтожиться?	 Changed inventory->resources for consistency
+popup_selfdestruct_checkpoint_text	Вы вернетесь к последней метке. Самоуничтожиться?	
+popup_town_portal_title	Телепорт	
+popup_town_portal_text	Перенестись в город?	
+popup_town_portal_disabled_title	Помилование невозможно	
+popup_town_portal_disabled_text	Здесь нельзя использовать Портал спасения. Для использования нужно стоять на твердой поверхности, вдали от врагов и не внутри пещеры.	
+
+# ------ Options Menu -----
+menu_options	Параметры	
+menu_options_changing_language	Смена языка	 Title header in the popup that appears when you change the current language.
+menu_options_pleasewait	Минуточку...	
+menu_options_reset	Сбросить все настройки	
+menu_options_category_game	Игра	
+menu_options_category_game_desc	Изменить игровые настройки.	
+menu_options_category_video	Видео	
+menu_options_category_video_desc	Изменить настройки видео.	
+menu_options_category_video2	Доп. видео	
+menu_options_category_video2_desc	Изменить дополнительные настройки видео.	
+menu_options_category_sound	Звук	
+menu_options_category_sound_desc	Изменить настройки звука.	
+menu_options_category_language	Язык	
+menu_options_category_language_desc	Сменить язык.	
+menu_options_category_input	Управление	
+menu_options_category_input_desc	Настройте элементы управления.	
+menu_options_category_back	Назад	
+menu_options_category_back_desc	К предыдущему меню.	
+menu_options_sound_music	Громкость музыки	
+menu_options_sound_sound	Громкость эффектов	
+
+menu_options_rumble	Вибрация	Rumble/vibration feature for gamepads
+menu_options_rumble_desc	Настройка силы вибрации. Чтобы отключить, сместите ползунок влево до упора.	
+menu_options_disable_flashing	Откл. мерцание	
+menu_options_disable_flashing_desc	Отключает мерцающий свет. Поставьте флажок и перезапустите игру.	"*new* changed ""flashing effects"" to ""flashing lights"""
+menu_options_skip_intro	Пропустить справку и введение	
+menu_options_skip_intro_desc	Пропустить экраны сведений и введения перед главным меню.	
+menu_options_lost_focus_pause	Пауза при потере фокуса	
+menu_options_lost_focus_pause_desc	Пауза в игре при потере фокуса игрового окна.	
+
+menu_options_sound_music_desc	Изменить громкость музыки.	
+menu_options_sound_sound_desc	Изменить громкость эффектов.	
+
+menu_options_fullscreen	Полный экран	
+menu_options_fullscreen_desc	Переключение между оконным и полноэкранным режимами.	Computer monitor.
+menu_options_vsync	Вертикальная синхронизация	
+menu_options_vsync_desc	Включает вертикальную синхронизацию. Сокращает разрыв изображения и расход энергии. Может повысить задержку кадров.	
+menu_options_enable_ao	Окружающая окклюзия	
+menu_options_enable_ao_desc	Рассеянное затенение придает происходящему достоверности. Значительно снижает производительность.	
+menu_options_enable_bloom	Свечение	
+menu_options_enable_bloom_desc	Включает эффект свечения Снижает производительность.	
+menu_options_gamma	Яркость	
+menu_options_gamma_desc	Настройка яркости (гаммы).	
+menu_options_res_scale	Разрешение	
+menu_options_res_scale_desc	Настройка разрешения. Низкое значение повышает производительность.	
+menu_options_safe_area_resize	Регулировка развертки	HD
+menu_options_safe_area_resize_desc	Изменить размер интерфейса под зону отображения.	HD
+menu_options_screen_custom_scale	Масштаб окна паузы	HD
+menu_options_screen_custom_scale_desc	Изменить размер интерфейса паузы.	HD
+menu_options_blackbars	Черные границы при широком экране	HD
+menu_options_blackbars_desc	Боковые черные полосы в широкоэкранном формате вместо обрезания изображения сверху и снизу.	HD
+menu_options_hiqualitylight	Световая текстура высокого качества	HD 
+menu_options_hiqualitylight_desc	16-битная световая текстура. Размывает полосы света. Незначительно снижает быстродействие.	HD 
+
+menu_options_set_input	Установить	
+menu_options_clear_input	Очистить	
+menu_options_reset_all_inputs	Сброс управления	
+menu_options_input_move_up	Смотреть/лезть вверх	
+menu_options_input_move_up_desc	Смотреть вверх и подниматься по лестницам.	
+menu_options_input_move_down	Смотреть/лезть вниз	
+menu_options_input_move_down_desc	Смотреть вниз и спускаться по лестницам.	
+menu_options_input_move_left	Влево	
+menu_options_input_move_left_desc	Идти влево.	
+menu_options_input_move_right	Вправо	
+menu_options_input_move_right_desc	Идти вправо.	
+menu_options_input_jump	Прыжок	
+menu_options_input_jump_desc	Прыжок. Удерживайте, чтобы прыгнуть выше.	
+menu_options_input_run	Бег	
+menu_options_input_run_desc	Удерживайте, чтобы бежать быстрее. Требуется улучшение.	
+menu_options_input_interact	Взаимодействие	
+menu_options_input_interact_desc	Взаимодействовать с доступными предметами и персонажами.	
+menu_options_input_talk_to_buddy	Говорить со спутником	
+menu_options_input_talk_to_buddy_desc	Разговаривать со спутником в определенных ситуациях.	
+menu_options_input_skip	Пропустить	
+menu_options_input_skip_desc	Нажмите дважды, чтобы пропускать диалоги и некоторые сцены (например, при продаже руды).	
+menu_options_input_tool_pickaxe	Ударить киркой.	
+menu_options_input_tool_pickaxe_desc	Используйте свою кирку.	
+menu_options_input_tool_pressurebomb	Бросить бомбу	
+menu_options_input_tool_pressurebomb_desc	Бросьте газовую бомбу.	
+menu_options_input_tool_jackhammer	Работать отбойным молотком	
+menu_options_input_tool_jackhammer_desc	Удерживайте, чтобы использовать отбойный молоток.	
+menu_options_input_tool_hookshot	Использовать кошку	
+menu_options_input_tool_hookshot_desc	Используйте кошку.	
+
+menu_options_reset_text	Вернуться к настройкам по умолчанию?	
+menu_options_reset_title	Сброс настроек	
+menu_options_reset_controls_text	Вернуться к настройкам управления по умолчанию?	
+menu_options_reset_controls_title	Сбросить настройки управления	 
+
+# ------ Collectibles -----
+
+collectible_amulet	Амулет Симсамсунгсалябим	"Pun on Boom boxx song ""Balla da li"""
+collectible_amulet_desc	Уж точно помощнее, чем четырехлистник или кроличья лапка. Глаза зловеще мерцают. Становится жарковато. Изнутри доносится пение?	
+collectible_amulet_flavor	"""Ша-ла-ла-ла!"""	https://www.youtube.com/watch?v=iVC6nlhU4-E Phrase from song
+
+collectible_cereal	Миска с хлопьями	
+collectible_cereal_desc	Когда-то это было главное блюдо дня. Теперь - высохшие останки ушедшего мира.	Pun on Jurassic Park 2 - The lost world
+collectible_cereal_flavor	"""Скажи мне, что ты ешь..."""	"Pun on Winston Churchill quote ""History will be kind to me for I intend to write it."""
+
+
+collectible_dead_rat	Rattus norvegicus	Latin for a rat type
+collectible_dead_rat_desc	Они так соседствуют с людьми, что практически сроднились с ними. Поразительно обучаемы. Одну даже выбрали премьер-министром Норвегии.	
+collectible_dead_rat_flavor	"""Если ты то, что ты ешь, то лучше есть хорошее."""	
+
+
+collectible_fertilizer	Удобрение	
+collectible_fertilizer_desc	Кто бы ни оставил эту великолепную кучу, обед у него был явно обильный. Чувствуются ноты пряных трав - должно быть, прованских.	It's poop.
+collectible_fertilizer_flavor	"""Входит - и выходит. Замечательно выходит!"""	Bowel movements.
+
+
+collectible_scented_candle	Аромасвеча	
+collectible_scented_candle_desc	Грозный козий череп. Источает флюиды ужаса, неминуемого уничтожения и... ванили?	http://www.ucl.ac.uk/archaeology/boneview/Interactive%20Components/Mammalian%20Skeleton/Elements/Skull/oviscapralateral.html
+collectible_scented_candle_flavor	"""Позыв к уничтожению - это тоже творческий позыв."""	
+
+
+collectible_wrapped_gift	Кто Шредингера?	Pun on Schrödinger's cat https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat
+collectible_wrapped_gift_desc	О-ля-ля! В этом аккуратном свертке может быть что угодно. Кукла, мячик - или всего лишь некая структурализация пространства...	
+collectible_wrapped_gift_flavor	"""Что внутри?"""	
+
+
+collectible_holy_toast	Тост побери	"Pun on Expression ""Holy... and then anything"" Like Holy Moly!"
+collectible_holy_toast_desc	А вы знали, что Вселенная порой передает нам послания через самые обыденные предметы? Этот предмет - не из таких.	
+collectible_holy_toast_flavor	"""Колобок, колобок, я тебя съем!"""	Pun on all things bread = BREADy, SOUR = sour dough, DONUT, LOAF = loaf of bread
+
+
+collectible_lime_snowman	Лаймовый снеговик	
+collectible_lime_snowman_desc	Трусишка зайка серенький под пальмочкой скакал...	Spoof on song White Christmas
+collectible_lime_snowman_flavor	"""Все стало вокруг кислым, круглым, зеленым..."""	
+
+
+collectible_inflatable_friend	Надувной друг	
+collectible_inflatable_friend_desc	Одиночество - это когда сам себя обнимаешь, когда грустно.	
+collectible_inflatable_friend_flavor	"""Когда я набираю номер, никого нет дома."""	Lyrics from Celine Dion song All by myself
+
+
+collectible_book_groda	Доктор Квак - детям	Groda = Frog in Swedish
+collectible_book_groda_desc	Знаменитый доктор Квак! У него найдется совет на все случаи жизни.	
+collectible_book_groda_flavor	"""Забудьте о КВАтастрофах. Пейте КВАс и простоКВАшу!"""	Frogret is a frog pun on word forget.
+
+
+collectible_birdie_seeds	Птичка, ням-ням	"From Peter Sellers movie ""The Party"""
+collectible_birdie_seeds_desc	Эти семечки превратят любую кормежку в вечеринку. Редкое лакомство даст вам преимущество на рынке.	Peter Sellers
+collectible_birdie_seeds_flavor	"""Синица в руках не стоит ничего, пока вы не найдете покупателя."""	Pun on old adverb A bird in the hand is worth two in the bush = what you got is more worth than what you don't have
+
+
+collectible_straw_doll	Кукла для акупунктуры	Woodoo Doll
+collectible_straw_doll_desc	Впечатляющая работа! Брызги красной краски делают ее почти живой.	
+collectible_straw_doll_flavor	"""Рукоделие полезно для здоровья!"""	
+
+
+collectible_glowing_goo	Светящаяся слизь	
+collectible_glowing_goo_desc	Выглядит настолько склизкой и странной, что совать ее в рот явно не стоит.	
+collectible_glowing_goo_flavor	"""Не ешь, непонятно чем станешь!"""	Web series.
+
+
+collectible_lost_penguin	Фотография бывшего любовника	 Just a lost lonely penguin that has a photo of his missing loved one. Name shortened from last iteration
+collectible_lost_penguin_desc	Прыгать и танцевать непросто, если потерял свою любовь.	
+collectible_lost_penguin_flavor	"""Пингвины любят раз и навсегда!"""	True nature fact
+
+
+collectible_old_invitations	Старые неоткрытые приглашения	
+collectible_old_invitations_desc	Надежды и мечты. Собраны, подшиты, пронумерованы. Пылятся в забвении.	
+collectible_old_invitations_flavor	"""Это нелегко принять..."""	
+
+
+collectible_sacred_documentation	Священные документы	
+collectible_sacred_documentation_desc	Эти движущиеся фигуры когда-то определяли культуру целых поколений...	"Celebration of the old hit tv series ""Dallas"""
+collectible_sacred_documentation_flavor	"""Самые трагичные повороты судьбы может смыть простой душ."""	Character Bobby Ewing, dead since last season, appears in the shower = last season was just a dream.
+
+
+collectible_chainsaw	"Пила ""Халло Катце"""	Spoof on popular brand Hello Kitty, Katze = Cat in german
+collectible_chainsaw_desc	Популярный бренд техасских модных аксессуаров.	
+collectible_chainsaw_flavor	"""Мое сердце распилено надвое!"""	
+
+
+collectible_toy_rocket	Игрушечная ракета	
+collectible_toy_rocket_desc	Вперед по реке вместе с Гекльберри.	Song reference: Moon River by Henry Mancini
+collectible_toy_rocket_flavor	"""Кто знает, что ждет за поворотом?"""	
+
+
+collectible_monster_plushy	Плюшевый монстр	Chtuhlu reference
+collectible_monster_plushy_desc	Детская игрушечка. Хм. Предупреждение о риске удушья написано на шумерском, древнеегипетском, аккадском и еще нескольких древних языках.	A referense to Chtuhlu,HP Lovecrafts mythical creation
+collectible_monster_plushy_flavor	"""Пнглуи мглунафх Ктулху Р'лайх угахнагл фтагн!"""	In his house at R'lyeh dead Cthulhu waits dreaming = translation from Lovecrafts fictional language
+
+
+collectible_shark_tooth	Акулий зуб Гинсу	Ginsu sharks lived around 80 million years ago.
+collectible_shark_tooth_desc	Хорошо режет. Плохо чистится	
+collectible_shark_tooth_flavor	"""Страшный сон стоматолога."""	Calcium, like in teeth and bone
+
+
+collectible_rubber_chickens	Мешок резиновых цыплят	
+collectible_rubber_chickens_desc	Изнутри доносится какофония из писка, квохтанья и криков. Гвалт достиг перепутья.	Pun: Why did the chicken cross the road? Hence crossroads
+collectible_rubber_chickens_flavor	"""Услада слуха. Услада... Вы пробовали курицу в карамели?"""	Pun on expression Like poetry to my ears.
+
+
+collectible_cake	Торт	Pun on the Cake from game Portal
+collectible_cake_desc	Истина дня: Нет ничего лучше хорошего тортика.	
+collectible_cake_flavor	"""Разве что два хороших тортика."""	Lyric from Celebration by kool and the gang
+
+
+collectible_banana_peels	Консервированные банановые шкурки	
+collectible_banana_peels_desc	Почему шкурки? Потому что это небанально!	Expression that's just bananas - that's just crazy
+collectible_banana_peels_flavor	"""Шкурка может понадобиться в любой момент, шьерт побьери!"""	Pun: Fruit flies - they like bananas. If impossible to translate - make up something completely different :)
+
+
+collectible_theremin	Терменвокс	The musical instrument
+collectible_theremin_desc	Будущее электронной музыки! Водите руками над инструментом и извлекайте упоительные звуки, похожие на голос человека, упавшего в колодец. Похоже, никто его не трогал уже много лет...	
+collectible_theremin_flavor	"""За оперную звезду вам не сойти..."""	Its original selling text when it was modern!
+
+
+collectible_weird_stone	Странный камень	
+collectible_weird_stone_desc	Странная форма. Напоминает не то коллапсирующую туманность, не то поющий хор.	
+collectible_weird_stone_flavor	"""Не можешь взять нужную ноту - вини звезды!"""	
+
+
+collectible_action_figure	Фигурка кошки-ниндзя	
+collectible_action_figure_desc	Вливайся! Становись мяутантом! Кошки-ниндзя, вперед!	"Tennage mutant ninja turtles spoof: Meow-Taunt = Mutant, then Vanilla Ice lyrics ""Go Ninja Go Ninja Go"" from song Ninja Rap"
+collectible_action_figure_flavor	"""Шреддер? Я сама кого хочешь в клочья порву!"""	April O'Neill character spoof from Turtles
+
+
+collectible_fossil	Ископаемое	
+collectible_fossil_desc	Электрическое присутствие Вектрона повлияло как на живых, так и на ископаемых обитателей шахт.	See Vectron
+collectible_fossil_flavor	"""Археология всегда докапывается до глубин! Мне кажется, или шутки у нас какие-то доистерические?.."""	Pun on pre-historical
+
+
+collectible_diary	Спелеожурнал	
+collectible_diary_desc	Дневник Брианны Гирсон, отважной исследовательницы, побывавшей в самых темных уголках Археи. Здесь упоминается о нехватке храбрых добровольцев, готовых вести раскопки и исследовать дальние территории. Несмотря на аляповатые картинки, дневник навевает грусть.	See Archaea.
+collectible_diary_flavor	"""Когда вкапываешься в бездну, она начинает докапываться до тебя."""	
+
+
+collectible_fifty	Пятьдесят оттенков клише	Pun on Book Fifty Shades of Gray
+collectible_fifty_desc	Выхолощенная история, состоящая из пресной серой материи.	
+collectible_fifty_flavor	"""- Почему тебе не нравится эта книга? спросила Скукотейша, вглядываясь в унылые водянистые глаза. - Потому что она меня достала всеми пятьюдесятью оттенками!"""	"Pun of passage from the book: ""Why don't you like to be touched"" Ana whispered, staring up into soft grey eyes. ""Because I'm fifty shades of fucked-up, Anastasia"""
+
+
+
+collectible_wagon_wheel	Колесо фургона	
+collectible_wagon_wheel_desc	Сквозь дождь и ветер шли на юг отважные боты из крохотных городишек. Для многих из них мечта о большом городе так и не осуществилась, сгинув в песках Западной пустыни.	
+collectible_wagon_wheel_flavor	"""Путь пионера всегда труден."""	
+
+
+collectible_black_box	Черный ящик с ракеты	Like a plane's black box.
+collectible_black_box_desc	Организация любителей космоса, особенно кучка очкариков-всезнаек, просто удавится за этот ящик.	
+collectible_black_box_flavor	"""И да, ребята, он оранжевый."""	"An aeroplane's ""black"" box is typically orange even though."
+
+
+collectible_red_cloth	Клочок красной материи	Nod to Character Rusty from Steamworld Dig
+collectible_red_cloth_desc	Плотная потертая материя. Кажется, лоскут оторвали в драке. Похоже на ковбойский шейный платок.	Western, as in from The Wild West.
+collectible_red_cloth_flavor	"""Пионеры похожи на черепах: пока шею из панциря не высунешь, вперед не продвинешься."""	
+
+
+collectible_cult_list	Список дел фанатика из культа Рока	
+collectible_cult_list_desc	Найти божественное воплощение уничтожения (готово)\nСоставить схему организации культа (готово)\nЗаменить испарившихся членов совета (готово)\nВыслушать требования божества (готово)\nОбезглавить старый идол (готово)\nКупить молоко (?)\nНаладить паломничество (готово)\nПриготовиться к концу света (в работе)	
+collectible_cult_list_flavor	"""О я услышал одно из четырех животных, говорящее как бы громовым голосом."""	First line of lyrics from Johnny Cash's song The Man comes around. Also in the bible.
+
+collectible_amiigo	Статуэтка Амииго	Pun on Amiibo, line of Nintendo toys
+collectible_amiigo_desc	Лишь достойнейшим из жрецов храма разрешается увековечивать себя в скульптуре. Это, э... величественное изваяние символизирует высшее и почитаемое существо.	
+collectible_amiigo_flavor	"""ВНИМАНИЕ: ОПАСНОСТЬ УДУШЕНИЯ: самомнение фигурки превышает нормы безопасности."""	
+
+
+collectible_stone_tablet	Печать огня	
+collectible_stone_tablet_desc	Начертания на древней табличке изображают основателей культа как огнепоклонников. Зажигательная компания!	
+collectible_stone_tablet_flavor	"""Нет храма - нет дома."""	
+
+
+collectible_orchid	Светящаяся орхидея	
+collectible_orchid_desc	Отрава, капающая из старых труб, вызвала мутации у растений в Ярроу. Некоторым ночным животным пришлось адаптироваться к новому циркадному ритму.	See Yarrow
+collectible_orchid_flavor	"""Отличный подарок к началу новой палеозойской эры!"""	carbon dating pun= determin how old things are
+
+
+collectible_manual	Руководство к сборке продукции ИНКРЕА	Pun on swedish brand IKEA
+collectible_manual_desc	Этот самособирающийся аппарат был незаменим для улучшения шахтерского оборудования. Его название звучит не то как бессмыслица, не то как проклятие из сурового северного королевства.	You never seem to get all the parts you need.
+collectible_manual_flavor	"""Есть идея - есть ИНКРЕА!"""	
+
+
+collectible_pills	Желтые пилюли	
+collectible_pills_desc	"Маленькие, желтенькие - типичные пилюльки. В рецепте написано: ""Доктор Швестер"" - и нарисован значок с большим пальцем вверх."	Doktor Schwester - A pun because it would be like saying Doctor Nurse.
+collectible_pills_flavor	"""То, что доктор прописал!"""	
+
+collectible_painting	Натюрморт в натуре	
+collectible_painting_desc	Хотите сказать, что это полотно - воплощение чувства, преобразованное творческой мыслью? Или просто картинка нравится? Так или иначе, без искусства мир был бы скучен.	
+collectible_painting_flavor	"""Я художник. Я так вижу."""	
+
+collectible_six_pack	Ящик бузы	Moon Juice is like moon shine homemade booze but we can't say it's that.
+collectible_six_pack_desc	Мечта любого бомжа. Точно известно две вещи: Они по нему с ума сходят, но без него точно свихнутся! Точняк!	caddywompus = crazy
+collectible_six_pack_flavor	"""Лучше, чем кажется!"""	It looks like alcohol but we can't say that it's alcohol.
+
+collectible_building_plans	Отвергнутые планы постройки	*DEMO*
+collectible_building_plans_desc	Кто-то отклонил их очень креативно. С другой стороны... Что бы вы предпочти: неправильно построенный дом, готовый обрушиться именно тогда, когда никто не ждет, или отлично сделанную устрицу-оригами?	
+collectible_building_plans_flavor	"""Нет дома - нет проблемы. Так считает строительная инспекция Эль Макино."""	Spoof on No Woman No Cry (Bob Marley song)
+
+collectible_dumbells	Гантели Рози	Dumbbells = weight for training
+collectible_dumbells_desc	Пропахли потом и желанием бросить это дело.	
+collectible_dumbells_flavor	"""Гайки не закрутишь - совсем разБОЛТаешься!"""	Nuttin' = Reference to nut, as in nuts and bolts.
+
+collectible_completion_proof	Доказательство прохождения	
+collectible_completion_proof_desc	Приносим извинения за неудобства.	
+collectible_completion_proof_flavor	"""Как говорится: Арбайтен, копайтен и не отдыхайтен!"""	
+
+# ------ Vectron messages ------
+message_pre	>	
+message_post	_	
+message_trespasser_text_1	SURGE BOOT: INITIATING THREAT ANALYSIS\n\nDIRECTIVE A, B, COMPILED.  #8F000025.28C40A8\nVCT_SYSTEM_OFFLINE\nAX=000A DIRECTIVE A: BLUE SAVIOR, FAIL LEVEL: CRITICAL BX=7FFF SP=000007C4\nCX=0000 PRE-LOAD DIRECTIVE B: MOON ESCAPE DX=7FFF IP=0800F108\nEX=6060 FX=7FFF XP=080FFFAA\nBACK-UP COMPLETED\nSPACE CAPSULE: SECURE\n\n\nERROR RESULT:	 Error message. Translate only actual words. Keep approximate length between \n.
+message_trespasser_text_2	ANOMALY DETECTED	Part of the error message. Translate.
+message_final_text	DISASTER PROTOCOL\nDIRECTIVE A: BLUE SAVIOR\nINITIATED	 Part of the error message. Translate. Preserve \n. Keep approximate length between \n.
+
+message_hell_bedrock_01	TEST RESULT:\nTEST SUBJECT PRESSED 3 BUTTONS\nTEST SUBJECT EXPECTS A...REWARD...?\n\nREWARD INITIATED:\n......o..o..o......\n......I..I..I......\n....(VVVVVVVVV)....\n....l--.--.--.l....\n....l.--.--.--l....\n....l_________l....\n...................\n\nOBSERVATION:\nTEST SUBJECT ENJOYED THE REWARD\n\nEXPECTATION: \nCONTINUED MINIMAL SIGNS OF INTELLIGENCE\n	
+message_hell_bedrock_02	TEST SUBJECT INITIATED ESCAPE\n\nTEST SESSION: STOPPED\n\n\nDEACTIVATE TEST CHAMBER\n\nALSO: HIDE THE CAKE	
+
+# ------ Languages -----
+language_english	English	Do not translate
+language_spanish	Español	Do not translate
+language_portuguese	Português	Do not translate
+language_italian	Italiano	Do not translate
+language_german	Deutsch	Do not translate
+language_french	Français	Do not translate
+language_russian	Русский	Do not translate
+language_japanese	Japanese	Do not translate

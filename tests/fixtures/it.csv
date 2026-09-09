@@ -1,0 +1,1299 @@
+string	italiano (円,원,$,£,€,zł)	comment. Include all currency characters here to get them included in used_chars.txt, because they're retrieved automatically from the 3DS eShop.
+		
+# ----- Generic ----		
+next	Successivo	
+done	Fatto	
+back	Indietro	
+yes	Sì	
+no	No	
+ok	OK	
+skip	Salta	*DEMO*
+skip_confirm	Vuoi davvero saltare?	
+yay	Evviva!	"A in ""horray!"""
+continue	Continua	*DEMO*
+options_yes_thanks	Certo, spiegami tutto!	Answer to a question regarding if the player wants a tutorial.
+options_no_thanks	No, grazie lo stesso.	Answer to a question regarding if the player wants a tutorial.
+options_no_advanced	No {format bold}(advanced)	
+options_explain	Spiegazione?	
+		
+press_up_to_talk	Parla	To talk to
+press_up_to_sell	Vendi	To trecieve cash for goods
+press_up_to_use	Usa	To interact with *DEMO*
+press_up_to_use_door	Entra nella Porta	
+press_up_to_use_ladder	Sali la Scala	
+press_up_to_use_workbench	Usa Banco da Lavoro	A station that let the player modify it's items
+press_up_to_light	Accendi la Luce	To light a burning lamp
+press_up_to_read	Leggi	
+press_up_to_el_machino	Entra a El Machino	El Machino is a town. Should not be translated.
+press_up_to_archaea	Entra nella Miniera Archaea	Archaea is the name for the top area of the mine, should not translate
+		
+upgrade_cog	{image cogs_down} Ingranaggio di Potenziamento	A cog (gear) that can be inserted into the equipment to give new abilities. *DEMO*
+gain_xp	{format exp_text}%1% PE{format reset}	DO NOT TRANSLATE
+gain_gold	{format gold_text}$%1%{format reset}{image money_small_down}	Do not translate
+pickup_resource	{image %1%} %2% $%3%{image money_small_down}	Do not translate
+need_light	C'è bisogno di luce...	The players lightsource has gone out. This message is showed on screen to remind the player that the light need to be replenished
+need_water	C'è bisogno di acqua...	The players water has run out. This message is showed on screen to remind the player that water need to be replenished
+view_inventory	Controlla inventario	
+		
+unassigned	NON ASSEGNATO	
+		
+notification_saving	Salvataggio partita...	Screen prompt telling the player that the game is saving. *DEMO*
+notification_saving_failed	{color 1,0,0,1}Impossibile salvare il gioco!	 Screen prompt shown if saving of game for some reason failed. Normally not encountered.
+notification_saving_settings	Salvataggio impostazioni...	 *DEMO* Screen prompt telling the player that the settings are being saved.
+notification_saving_settings_failed	{color 1,0,0,1}Impossibile salvare le impostazioni!	 Screen prompt shown if saving settings failed. Normally not encountered.
+		
+difficulty_easy	Facile	
+difficulty_normal	Normale	
+		
+# ----- Ask Choice ----		
+carson_buy	Un {image cogs_small} Ingranaggio, per favore!	 See Upgrade Cog
+carson_dontbuy	Non ora.	 Decline option to interact
+		
+blueprint_buy	Lo prendo!	 As in buy with money
+blueprint_dontbuy	Magari più tardi...	" As in leave the shop. The vendor is standing outside, so ""get out"" is not an analogue"
+		
+workbench_choice_upgrades	Potenziamenti {image money_small}	Headline for GUI
+workbench_choice_cogs	Ingranaggi {image cogs_small}	"Cog, Gear. Is direct reference to ""Upgrade Cog"""
+workbench_choice_tutorial	Dimmi di Ingranaggi...	
+workbench_choice_cancel	Annulla	
+		
+options_markers_yes	Questi potrebbero servirmi.	
+options_markers_no	Non mi servono {format bold}(advanced)	
+options_markers_explain	Come funzionano?	
+		
+		
+carson_ask_yes	Lascia che te lo dica...	
+carson_ask_yes2	Va bene...	
+carson_ask_no	Magari più tardi.	
+		
+rocketeer_ask_yes	Come mai?	
+rocketeer_ask_no	Meglio scendere!	Into the mine.
+		
+distillery_ask_yes	Dobbiamo farlo, Fen.	 About entering the final battle room
+distillery_ask_no	Non ancora.	 About entering the final battle room
+		
+teleport_ask_yes	Devo farlo, Fen.	 About entering Vectron
+teleport_ask_no	Dammi un secondo...	 About entering Vectron
+		
+# ------ Levels -------		
+level_west_desert	Deserto Occidentale	
+level_east_desert	Pianure Ventose	
+level_el_machino	El Machino	Do not translate
+level_archaea	Archaea	Do not translate
+level_yarrow	Yarrow	Do not translate, An underground mushroom forest full of dangers and acid lakes.'
+level_fire_temple	Tempio del Distruttore	
+level_temple_of_guidance	Tempio della Guida	*DEMO*
+level_hub	L'Oasi	
+level_hubtube	Tubo di Scarico	
+level_distillery	Il Reattore	Like in neuclear reactor
+level_vectron	Vectron	Do not translate
+level_hell	Inferno	
+		
+# ------ Caves -------		
+level_archaea_cave_pressurebomb	Stazione dell'Esplosione	*Tool 2* Burster as in Burst or explode/erupt. The player gets a preasure bomb upgrade here
+level_archaea_cave_jackhammer	Stazione del Muratore	*Tool 3* The player get a powered fist that can break brick here
+level_hub_cave_grapplinghook	Deposito di Rosie	*Tool 4* Rosie is the leader of the Shiners, a troglodytic subterranian breed of humans.
+level_temple_cave_hookjump	Stazione dello Speleologo	*Tool 5*
+level_fire_temple_cave_flamer	Stazione della Combustione	Cave where you face The Great Prophet and find the Fire Pickaxe.
+		
+level_fire_temple_cave_treasure_chamber	Stanza del tesoro di Ronald	
+		
+level_archaea_cave_unclimbable	Grotta dei Muri Rattoppati	Patch; as in patching a hole.
+		
+level_archaea_cave_runjump	Bivio Corri-Salta	
+level_archaea_cave_fallblock_puzzle	Stanza Tic Tic Boom	Bomb reference
+level_archaea_cave_ladders	Scale della Genesi	
+level_archaea_cave_runfallblock	Ostacoli di Ghiaia	"Gauntlet , as in ""running a gauntlet""."
+level_archaea_cave_snakestone	Buca della Roccia Incrinata	The puzzles in this cave is based on a type of cracked rock-tile.
+level_archaea_cave_snakestone_blocks	Catacomba della Frana	
+level_archaea_cave_trilobite_puzzle	Scogliera dei Trilobiti	Bluff here refers to cliff
+level_archaea_cave_cactus	Panorama Spinoso	High cliffs and cacti part of the world!
+level_archaea_cave_sinkstone_stickybomb	Vuoto Ticchettante	Ticker, as in clock, as in timer, as in timed bomb
+level_archaea_cave_vectron_entrance	Caverna Misteriosa	
+		
+level_fire_temple_cave_crusher	Sfida Rovente	
+level_fire_temple_cave_lavachase	Culla del Demone	
+level_fire_temple_cave_batcave	La Caverna dei Pipistrelli	
+level_fire_temple_cave_armor	L'Armeria del Sole	
+		
+level_fire_temple_cave_spikeconveyor	Spuntoni e Convogliatori	
+level_fire_temple_cave_lava_shooters	Cannoni di Lava	
+level_fire_temple_cave_hell_carts	Follia di Vagoni	
+level_fire_temple_cave_generator	Dispositivo dell'Apocalisse	
+level_fire_temple_cave_generator2	Dispositivo della Distruzione	
+level_fire_temple_cave_golem	Valle Lugubre	
+level_fire_temple_floor_is_lava	Il Suolo è di Lava	
+level_fire_temple_cave_boxes	Casse Infernali	
+		
+		
+level_yarrow_cave_water	Pozza del Nuotatore	
+level_yarrow_cave_gauntlet	Zona Permeabile	
+level_yarrow_cave_steampack_slayer	Stazione dell'Aeronauta	
+level_yarrow_cave_generator	Dispositivo del Disastro	
+level_yarrow_cave_cliffhanger	Cava degli Appigli	
+level_yarrow_cave_mushimushiroom	Area Fungosa	
+level_yarrow_cave_bats	Alveare Boscoso	
+level_yarrow_cave_run	Circuito del Lime	
+level_yarrow_cave_snakestone	Buca della Roccia Frantumata	"This name is referring to the previous name """"Rupture Rock Hollow"""" as this level is sort of a sequel."""
+		
+level_west_desert_cave_cart_puzzle	Carrelli Ostinati	
+		
+level_east_desert_cave_runfallblock	Cascate di Rocce	
+level_east_desert_cave_hell_end	Fine della Prova	
+level_east_desert_cave_hell_crushers	Prova dei Frantumatori	
+level_east_desert_cave_hell_acoknights	Prova degli Accoliti	
+level_east_desert_cave_hell_vectron	Prova di Fuga	
+level_east_desert_cave_hell_rockets	Prova dei Razzi	
+level_east_desert_cave_hell_bedrock	Prova dei Pulsanti	
+level_east_desert_cave_hell_skillness	Prova di Abilità	
+east_desert_cave_hell_lava_flight	Prova di Volo	
+		
+level_temple_cave_arrowtraps	Camera delle Frecce	
+level_temple_cave_pushthecarts	Camera delle Ruote	
+level_temple_cave_fallblock_mega	Camera della Distruzione	
+level_temple_cave_maze	Camera dei Segreti	
+level_temple_cave_generator	Dispositivo della Devastazione	
+		
+level_hub_cave_hubtube	Ansa del Fiume Melmoso	
+		
+level_vectron_cave_generator	Vectron Generator	DO NOT TRANSLATE, NOT USED
+		
+# ------ Talk UI ------		
+talk_continue_prompt	Continua	
+talk_confirm_prompt	Conferma	
+talk_cancel_prompt	Annulla	
+		
+# ------ Tutorial indicators ------		
+indicator_move	Cammina verso est	Screen prompt that tell you to go right
+indicator_move_02	No, l'ALTRO est	Screen prompt that tell you to go right if you go left
+indicator_wall_jump	Salta muro	
+indicator_jump	Salta	
+indicator_attack	Scava	With a pickaxe *DEMO*
+indicator_attack_down	Scava verso il basso	
+indicator_run	(Tieni premuto) Corri	instructions to hold the run button *DEMO*
+indicator_talk_to_buddy	Parla con Fen	Fen is Dorothys Companion that can give hints and sassy comments.
+indicator_run_jump	Salto in corsa	Make a running jump *DEMO*
+indicator_pressurebomb	Lancia bomba a pressione	
+indicator_direction_pressurebomb	Lancia bomba a pressione	
+indicator_jackhammer	(Tieni premuto) Usa Martello pneumatico	
+indicator_hook	(Tieni premuto) Usa Rampino	 added (Hold)
+indicator_hook_up	(Tieni premuto) Usa Rampino	 added (Hold)
+indicator_steampack	(Tieni premuto) Usa Motore Aeronautico	
+indicator_pressurebomb_launcher	(Tieni premuto) Usa Lanciarazzi	
+		
+# ------ Conversation special ------		
+ui_conversation_name_separator	:	Separator between name of character and the text they're saying. No additional spaces added.
+ui_conversation_ellipsis_start	...	Added at the start of text that continues from a previous page. No additional spaces added.
+ui_conversation_ellipsis_end	...	Added at the end of text that will continue on the next page. No additional spaces added.
+		
+# ----- NPCs ----		
+character_player	Dorothy	Do not translate, main character. *DEMO*
+character_player_buddy	Fen	"Fen is reference to ""Fenlights"", a supernatural folklore being that lured people into the woods. The ""Fen"" name should not be translated and should be translated in the conversation part of the document."
+character_fen_sprite	Spirito	This is the nomination Fen get before she is named in the game. Sprite as in spirit.
+character_ore_vendor	Cirripede Jones	Translate if possible, look like a crab
+character_mechanic	Turtle Bucket	Translate if possible,
+character_mayor_01	Sindaco Mic Yonker	Translate title only
+character_rocketeer	Professor Sherman	Translate title only The professor is a She
+character_inhabitant_01	Mamma Yonker	Translate title only (Ma mama, mother)
+character_inhabitant_02	Penny Kettlebottom	Translate if possible
+character_old_salesbot_01	Mercante Carson	Translate title only
+character_blueprint_vendor_01	Davy Bittenborough	Translate if possible, This is a refference to famous nature film maker David Attenbourough
+character_blueprint_vendor_02	Clifford Heisenberg	Do not translate
+character_blueprint_vendor_03	Ty Nuzlak	Do not translate
+character_yonker_01	Zebulon Yonker	Do not translate
+character_yonker_02	Luke Yonker	Do not translate
+character_yonker_03	Josh Yonker	Do not translate
+character_climber_01	Lady Botterley	Translate title only
+character_worshipper	Cultista	*DEMO*
+character_guard_archaea	Coral Armstrong	Do not translate
+character_fen_prison	La Luce Guida	"Is connected to ""Temple of Guidance"" *DEMO*"
+character_rosie	Rosie	Rosie is the only articulate shiner to our knowlage. Leader of their ilk and a rather hefty at that. Do not translate.
+character_hub_guard	Shawn Sbracato	Translate if possible
+character_floaty	Cleo Johnson	Do not translate
+character_swimmer	Wet Willy	Do not translate
+character_crab	Handy Gabby	Do not translate
+character_crab_disguised	Cirripede Jones?	
+character_gran	Dinamite Harriet	Translate if possible
+character_helpfulhelen	Stabby Helen	Translate if possible
+character_priest_glorious	Grande Profeta	A non specific description of a character.
+character_rusty	Rusty	Do not translate, main character.
+character_rosie_boss	Rosie	Do not translate, main character.
+character_acolyte_cutscene	Cultista	*DEMO*
+		
+# ----- Resources ----		
+resource_description_value	Valore individuale $%1%{image money_small}.	 A paragraph in resource descriptions, stating its individual value. %1% is the value.
+resource_trashium	Rifiutonio	*DEMO*
+resource_trashium_desc	In parole povere, parti di metallo di scarto saldate insieme dalla forza della natura.	
+resource_copper	Rame	
+resource_copper_desc	La grande forza del rame e la sua bassa resistenza ne fanno un conduttore elettrico efficace e affidabile.	
+resource_cinnabar	Cinabro	
+resource_cinnabar_desc	Solfuro di mercurio: un minerale brillante e tossico, utilizzato nell'antichità come pigmento. Avrai l'aspetto di un Vermiglione di dollari!	"Vermillion is a scarlet pigment made of Cinnabar, expression ""you look like a million dollars"""
+resource_ironium	Ferronico	Like irony
+resource_ironium_desc	Relativamente morbido nella sua forma più pura, una volta scaldato si indurisce notevolmente.	
+resource_cornflorium	Fiordalonio	From cornflower blue, color from the flower
+resource_cornflorium_desc	Molto raro in natura. Particolarmente noto tra gli artigiani dei bassi Paesi Bassi, per il suo bluissimo blu.	
+resource_obsidian	Yngwinio	Spoof on Yngwie Malmsteen - swedish famous guitarr virtuoso
+resource_obsidian_desc	Un minerale per veri maestri, della famiglia magmatica Malmsteen.	
+resource_silver	Argento	
+resource_silver_desc	Un materiale che si può rivelare utile nel caso che un'orda di lupi mannari invada il tuo cortile. E prima o poi accadrà. È solo questione di tempo.	Werewolves are best killed with silver
+resource_zoinkonium	Zoinkonio	
+resource_zoinkonium_desc	Un leggero ma persistente odore di idromele circonda questo materiale semplice ma colorato.	Spoof on video game company Zoink and their titles Zombie Vikings and Stick it to the man
+resource_gold	Oro	
+resource_gold_desc	Un metallo regale che lascia a scavatori e minatori un desiderio incontrollabile di trovarne di più. La scelta di investitori e connettori dal 3000 a.C.	connectors = gold are used in technology
+resource_lazurite	Lazurite	
+resource_lazurite_desc	Un fragile minerale molto ricercato per il suo uso nella pittura e nelle tinture come pigmento.	
+resource_saturnium	Saturnio	Saturnus, god of fertility
+resource_saturnium_desc	I contadini sostenevano che avesse un impatto positivo sul raccolto, e per questo motivo veniva posizionato sui campi durante la stagione della semina.	
+resource_plutonium	Plutonio	
+resource_plutonium_desc	Un elemento chimico ampiamente usato durante la fine della Grande guerra dei Grappisti. In seguito, ha spostato l'ago della bilancia senza portare benefici a nessuno. Al contrario di quanto si crede, non deve il suo nome a un famoso cane.	Shiner Wars is an old conflict preceeding the game story, Pluto = disney dog
+resource_meteorum	Roccia Meteorica	
+resource_meteorum_desc	Scoperta per la prima volta nei pressi di una villa all'incrocio tra Gilbert Avenue e Winnick Road.	Nod to Game Maniac Mansion and the antagonist Dr Fred Edison, also the game creators Gilbert and Winnick
+resource_unobtainium	Introvabilanio	Just a spoof on the word unobtainable
+resource_unobtainium_desc	Nessuno si è mai illuso di poterlo trovare, e per questo non c'è alcuna informazione disponibile. Peccato.	
+resource_darkmatter	Materia Oscura	
+resource_darkmatter_desc	La materia per cui genitori e insegnanti continuano a tormentarti. Giorni, e persino settimane passate sui libri non ti basterebbero comunque per... oh, scusa, errore mio.	Play with mothers comments on dating bad boys
+		
+resource_sodium	Sodio	NOT CURRENTLY USED
+resource_sodium_desc	Un contatto continuo con la sua polvere soffice, bianca e luminosa può causare una rapida disidratazione.	
+resource_aluminium	Alluminio	NOT CURRENTLY USED
+resource_aluminium_desc	Il metallo più abbondante e diffuso sul pianeta. Perfetto per creare contenitori per le comuni bevande degli umani.	
+		
+resource_beryl	Berillio	
+resource_beryl_desc	Si pensa che sia capace di trasformare i sogni e i desideri in realtà, nonché di eliminare le energie negative.	
+resource_azurite	Azzurrite	Azurite just sounds like these two expressions put together – Do as you want with this :)
+resource_azurite_desc	" La combinazione tra ""azzurro"" e ""dermatite""."	
+resource_tremolite	Tremolite	
+resource_tremolite_desc	 Un minerale noto per le sue vibrazioni positive, le quali influenzano l'umore di chiunque si avvicini facendolo fremere di gioia per qualche secondo.	Dr Dre = music producer and rapper – Dr Tre is a made up brother to make a pun on the resource name – mole pun molite
+resource_topaz	Topazio	
+resource_topaz_desc	Permea l'ambiente circostante con una radiosa aura rilassante. La varietà di colore viola è estremamente rara.	
+resource_ametrine	Ametrina	
+resource_ametrine_desc	Una pietra rara che si dice abbia strani poteri. Si pensa che l'esemplare più grande sia sepolto sotto la tomba di una regina spagnola.	The spanish queen was said to have been given an ametrine stone as gift from the first batch leaving the mines
+resource_diamond	Diamante	
+resource_diamond_desc	Un grande classico, duro e freddo come un abbraccio di Margaret Thatcher. Che tu sia uomo o donna, i diamanti saranno i tuoi migliori amici, per sempre.	Margareth Thatcher was chosen for her reputation as cold hearted – feel free to exchange for other politician of your country!
+resource_bismuth	Bismuto	
+resource_bismuth_desc	Scoperto intorno al 1400 d.C. da un misterioso alchimista. Spesso confuso con il piombo o con qualche specie di animale.	Bismuth sounds a bit like Bismarck, thats why the pun is on German Otto Bismarck, but if the mineral is named something else in your country, feel free to pun away :) https://en.wikipedia.org/wiki/Otto_von_Bismarck
+resource_imagenite	Imaginite	
+resource_imagenite_desc	È oggetto di un acceso dibattito tra i minatori. Esiste veramente? Imaginite there's no Heavenite, and no Religionite too.	A pun on song from John Lennon Imagine – imagine there's no heaven, and no religion too
+		
+resource_amethyst	Ametista	NOT CURRENTLY USED
+resource_amethyst_desc	La sua luce darà conforto alla tua sofferenza, stimolerà le tue emozioni e ti convincerà a tornare alla ricerca del vero amore.	
+		
+resource_blooddrop	Goccia di Sangue	
+resource_blooddrop_desc	Un concentrato di rabbia eliotropica proveniente da creature della penombra.	
+resource_bloodstone	Pietra di Sangue	
+resource_bloodstone_desc	Questo eliotropo ripristina la lucidità mentale di chi la possiede	
+resource_bloodrock	Roccia di Sangue	
+resource_bloodrock_desc	Paura e cattive intenzioni coagulate. Affina i sensi ma annebbia gli occhi della mente.	
+		
+resource_vectron	Criptio n. 5-1 16.17.4.8	
+resource_vectron_desc	x U G N W t M g n A N O M A L Y . j D z 6 k g D E S T I N A T I O N : R i B 6 s p j 1 0 U N V h q i a k m C B N j h E R P Y 5 q b b W 6 u U O r n l 7 B 3 1 l b 8 K 2 j 1 Y U 6 v 8 F U 2 l z J J 9 U N A U T H O R I Z E D c I U M v J P N n N 6 9 f E N l N M X L 5 U u A g b C 9 6 s J s i 3 u r h q c 4 S h E T k f 4 q N N n F 2 4 x n i n n T P N N J a r 1 l I D 0 u e u 0 j i L p B O c o P C a U X v B R 6 D M n W h 8 2 F F E w X E t C q 8 2 s 9 c o L w L V V H v u p n Z s V t y e D c H m D N p m S q p K w R q X 4 E b r R I S L L R 6 k f 6 6 i c a z a F H t 8 i U P D A T E D . 6 Y G E f T R L g l n q 3 v A 8 3 H G o 4 w S y 7 x n A 7 p l W L W 0 M 8 4 0 N g l y Z 9 v 5 p O 1 C c 1 s Q F m v P S a r 6 6 R 7 D H u j u G 7 z X y 4 Q	ANOMALY. DESTINATION: UNAUTHORIZED UPDATED. this is machine code, do not translate
+resource_vectron_02	Criptio n. 5-2 10.15.9	
+resource_vectron_desc_02	y S 0 q l X l a s I 2 L 8 M V P Z 1 s F c 1 l M v U V P l z c P O S I T I V E a b c i g S x 5 Y 6 1 N T G E r U f H C l 9 a Y t w g w o E L x C 3 y R 7 G 6 z s g Y r k e y G V 4 A C X b E J E C T I N G r l D i Y J m K X Z X r a 2 c c C Q z q 4 i i D p I x A n o 7 y 1 t r 2 k Q b b 1 u g I I S 2 4 F Z n K v n n 2 B I N P Z O D K Y F z I G u O B u V L Z R x N 3 V 8 A 1 7 M 9 A O n A 1 l o h R 6 e 4 N M F p O f 9 T C I p r t N H o X 4 X T h f j 6 P 7 X f M J V U H c C B Q k x I O H i P G e v 7 5 5 W h L V L v 8 y f t v U C v a N 4 O Z T A o r b T V Q p C Z F J a I 6 J R u Y E 4 k R 7 y t M 6 J J j R i q H U X E 8 0 0 r E I 8 o I m 9 G 2 N 4 4 C I h e k e P O S S I B L E l y l V W g e t u G k I M b E t N U P U z v s	POSITIVE EJECTING POSSIBLE this is machine code, do not translate
+resource_vectron_03	Criptio n. 5-3 7.3.14.5	
+resource_vectron_desc_03	Q n u 2 R K B F B 2 Z 5 c M q O 1 m F p W 0 a G V k W m a S u R 5 v 1 x M 3 w P z J w q I K e D J z j 7 U g 8 D s t 9 z y P W c v G O A L 7 C y X r V s b Q q U O 1 F b s v Z q 7 q c Y M f 4 M R i 2 3 b 9 e 7 V 0 y h A B 0 I N I T I A T E D . N 6 y b 9 K p m r e b B a R u E x R r z A 1 e w h 2 8 W T 1 K a q O j D 0 L G Y w c q 7 o 6 p S x q f j V 4 q u L z A R b g w D a e w n M Q J q R 7 O C h j E G S c N j x p y w h E 3 b z r h Q x y k 7 E a R c b 2 k n Q j Y B S t k j m m O N 3 w H 5 s j q I y N 1 T L n 4 W H H p b r j c u H 3 y 8 w A o e I 8 g x J T n i g e a H L 3 x 2 Z E R O . e 0 8 b V x h T o o P i D q 8 D i X V C o 7 g C 6 L S 2 V u U b U S A G E 1 c N c I c y V q A e	GOAL INITIATED. ZERO. USAGE this is machine code, do not translate
+resource_vectron_04	Criptio n. 5-4 12.18.2.1	
+resource_vectron_desc_04	V s c K N q 3 u J W z E g S V 5 y l u f M m y O 7 6 a w x P Y 4 s 8 i r G R E A T E R 6 M O O N j 6 z b M H r a c f w r O Q e a Z 0 C K W m 2 8 6 0 i D D C N 6 2 m 5 v C 2 h X L U q Y N 5 E K V 5 Z J 8 X a I A 5 R z m T V H u V q X 9 k B O O T m k I p G 9 9 Y L Z c 1 G c 9 p R S V C 2 m o A a O l L U 5 x N B o Q J A q t 5 Q 0 P h 0 7 3 M S m L 9 1 x Y D N n h a R p B P P H g S v p G f 0 v G T O n F Y r i v 3 t b W b j t f U Y K n w D 4 K 5 P 8 4 5 Q L e 5 2 S L 9 j D W 0 s Q f A E G p E r G L 2 f Q V a K 6 9 1 f X 9 V l M S 7 E t v o 0 z 0 4 y 4 h V I g j b L C E r p P Z P A u c 9 s h 7 3 H P k V 0 b x S u M F X 2 7 k D a h S 4 z R i S A F E b 2 M . 8 a A U e O Z t y O 2 J X 8 M 9 S 9 n J 5 U r r M f O G	GREATER MOON BOOT SAFE changed pilot to moon; this is machine code, do not translate
+resource_vectron_05	Criptio n. 5-5 6.19.11.13	
+resource_vectron_desc_05	m x k 3 Y A m D E T E C T E D . y x 1 4 Z 6 n i 7 f o L N b Y 2 u A m j i Y W K Y Y F R W O U 9 I c u 1 A a m T E 8 X L a P f x 2 Z 0 N U N f U i f S T A T I O N . s a S g 6 4 x 6 l 4 a I l X u j o K 6 J D Y 9 w E o M T A Z H o g z m J T P M u q f I B C I e G x K 2 y v Z b S W D N U U X v 8 O J E l N q T H y O h U L s h W 4 U V o F A q j C F t E 4 9 O U T C O M E : i l e F C c 4 o c A h f 1 i t T 8 B e 1 V 9 h l W w 0 U 5 q p F R o L X a T o Q j r n P X Q c 9 B J H j Y p P q 5 j 6 F m J T e 1 W H Z t e I X G X 0 N F p R q a a 5 C b g 1 D p 2 o X j k A 9 F 0 l z T V K v V T 7 J p C w 5 P n f u w J c f h y M o 8 8 F e J t e 6 K 7 M 9 U r I Z i i D y L q R e c T H A N m 6 o s 5 t O y 0 k I l a S s U L	DETECTED. STATION. OUTCOME: THAN this is machine code, do not translate
+		
+# ----- Upgrades ----		
+upgrade_lamp	Lampada	
+upgrade_broken_lamp	Lampada Rotta	
+upgrade_broken_lamp_desc	"""Rotta dopo un brusco atterraggio, necessita di essere riparata o sostituita con urgenza."""	Dorothy fell and broke her lamp.
+upgrade_broken_lamp_next_level_desc	Ripara la lampada per poter entrare nella miniera.	
+upgrade_lamp_desc	Illumina l'area intorno a te. Consuma carburante nel tempo, di cui si può far rifornimento in città.	
+upgrade_lamp_next_level_desc	Potenzia la lampada per ridurre il consumo di carburante.	
+upgrade_lamp_01	Lampada di Scarsa Qualità	Rock bottom, as in the lowest value. To hit rock bottom, etc.
+upgrade_lamp_01_desc	"""Non è rotta, perlomeno."""	
+upgrade_lamp_02	Luce del Minatore	
+upgrade_lamp_02_desc	"""Una combustione più economica."""	
+upgrade_lamp_03	Lampada a Carburo Modificata	
+upgrade_lamp_03_desc	"""Una fiamma migliore grazie a un controllo del flusso ottimizzato."""	
+upgrade_lamp_04	Stella Polare	
+upgrade_lamp_04_desc	"""C'era una stella che danzava, e sotto quella sono nata."""	Rudolf the Red nose reindeer – lyrics pun.
+upgrade_lamp_05	Lanterna	
+upgrade_lamp_05_desc	"""Nel giorno più splendente, nella notte più profonda, nessun metallo sfugga alla mia ronda."""	Green Lantern pun – Green lantern inaguration text.
+upgrade_lamp_06	Luce di Pharos	The Alexandrian Lighthouse
+upgrade_lamp_06_desc	"""Rinforzato con piombo colato per resistere alla prova del tempo."""	
+upgrade_lamp_07	Sol Invictus	"*NEW* Name meaning ""Unconquered Sun"", Official sun god of the later Roman Empire and also reference to Emperor Constantines old roman coins with inscription SOL INVICTO COMITI = Commited to the Invincible Sun"
+upgrade_lamp_07_desc	"""Inginocchiati davanti al potere del Sole Invincibile, o almeno fai buon uso del fascio di luce più ampio."""	
+		
+upgrade_lamp_increased_area_01	Luce del Cammino	"Backstreet Boys pun, lyrics from """"""Larger than Life"""""" too for flare."
+upgrade_lamp_increased_area_01_desc	Aumenta l'ampiezza della luce della tua lampada.	
+upgrade_lamp_increased_area_01_flavor	"""Luce Cammina con Me."""	"Backstreet Boys pun, lyrics from ""Larger than Life"" too for flare."
+upgrade_lamp_light_pickup_01	Evocatore	
+upgrade_lamp_light_pickup_01_desc	Aggiunge la possibilità di rilascio di un globo di luce extra dai nemici sconfitti.	 new: minor rephrasing
+upgrade_lamp_light_pickup_01_flavor	"""Libera il loro sole interiore."""	
+upgrade_lamp_infinite_light_01	Eterno Fulgore	Movie Eternal Sunshine on the spotless mind.
+upgrade_lamp_infinite_light_01_desc	Impedisce alla tua luce di andare al di sotto del 50%%.	
+upgrade_lamp_infinite_light_01_flavor	"""Non sarai mai solo nell'oscurità."""	
+upgrade_lamp_damaging_light_01	Ingranaggio Infernale	Song: I am the God of hellfire by Arthur Brown*NOT CURRENTLY USED*
+upgrade_lamp_damaging_light_01_desc	Infligge danni ai nemici all'interno della tua luce.	*NOT CURRENTLY USED*
+upgrade_lamp_damaging_light_01_flavor	"""Scatenate l'inferno!"""	*NOT CURRENTLY USED*
+upgrade_lamp_lit_pickups_01	Fiamma di Kubera	 Kubera – Hindu Mythology Lord of Wealth, Quote is from Thomas Aquinas
+upgrade_lamp_lit_pickups_01_desc	Fa sì che gli oggetti emettano luce, rendendoli più facili da trovare.	
+upgrade_lamp_lit_pickups_01_flavor	"""È meglio illuminare che brillare per sé stessi."""	
+upgrade_lamp_lightning_reflexes	Riflessi di Gordon	" Gordon is a reference to character Flash Gordon and particularily important is the """"Flash"""" part which is referencing this upgrade being for the light."""
+upgrade_lamp_lightning_reflexes_desc	Aumenta la possibilità di evitare automaticamente le rocce che cadono e altre trappole mortali simili.	
+upgrade_lamp_lightning_reflexes_flavor	"""Salvati in un flash!"""	"*NEW* Quote is a reference to Queen Song ""Flash"" and the lyrics- He save with a mighty hand every man, every woman every child, with a mighty Flash"
+upgrade_lamp_eye_for_weakness	Occhio per i dettagli	 Text from Pink Floyd's song Another brick in the wall: We don't need no education ,We don't need no thought control, All in all you're just another brick in the wall . Quote by Joseph Ford Newton regarding intolerans, hate and not enough love in the world.
+upgrade_lamp_eye_for_weakness_desc	Ti permette di vedere le parti deboli di un muro quando lo illumini. Parlare al muro non serve, basta guardarlo.	
+upgrade_lamp_eye_for_weakness_flavor	"""Gli uomini costruiscono troppi muri e troppi pochi ponti."""	
+		
+upgrade_pickaxe	Piccone	
+upgrade_pickaxe_desc	L'attrezzo principale usato da Dorothy per scavare.	
+upgrade_pickaxe_next_level_desc	Potenzia il piccone per migliorarne l'efficacia.	 This means that whatever you hit, you'll need to hit it two times less when you equip this cog in your Pickaxe
+upgrade_pickaxe_01	Piccone Arrugginito	it's rusty
+upgrade_pickaxe_01_desc	"""Ha fatto il suo tempo, senza dubbio."""	
+upgrade_pickaxe_02	Classico Piccone di Ferro	
+upgrade_pickaxe_02_desc	"""L'attrezzo di base di un minatore."""	
+upgrade_pickaxe_03	Piccone con Impugnatura di Bardur	 Bardur is an Icelandic half-troll half-man from their mythology.
+upgrade_pickaxe_03_desc	"""Un compagno semplice ma robusto."""	
+upgrade_pickaxe_04	Piccon-chu	Pun on Pikachu
+upgrade_pickaxe_04_desc	"""Accuratamente calibrato con un tradizionale sistema di misura giapponese."""	Based on the old Japanese Cho measuring system, cho, an ancient Japanese unit of length approximately equal to 109.1 meters
+upgrade_pickaxe_05	Piccone in Lega d'Acciaio	 Reordered some names
+upgrade_pickaxe_05_desc	"""Questo trattamento al carbonio brevettato dona ai tuoi colpi un magnifico equilibrio."""	 Reordered some names
+upgrade_pickaxe_06	Piccone in Tungsteno	 Reordered some names
+upgrade_pickaxe_06_desc	"""La densità e la robustezza perfetta per la migliore esperienza di scavo."""	 Reordered some names
+upgrade_pickaxe_07	Piccone dell'Arido Nord	 Reordered some names
+upgrade_pickaxe_07_desc	"""Più durevole ed efficace. Proprio ciò che serve per l'arido Nord."""	 Reordered some names
+upgrade_pickaxe_08	Piccone dei Templari	 Reordered some names
+upgrade_pickaxe_08_desc	"""Bilanciato alla perfezione. Sembra quasi che scavi da solo."""	 Reordered some names
+		
+upgrade_pickaxe_enemy_damage_01	Punta Affilata	This is an upgrade for the pickaxe
+upgrade_pickaxe_enemy_damage_01_desc	Infligge danni extra ai nemici.	
+upgrade_pickaxe_enemy_damage_01_flavor	"""Il primo colpo non si scorda mai."""	From song The first cut is the deepest.
+upgrade_pickaxe_speed_01	Scheggia Come un Scheggia	Pun on movie title Midnight Express
+upgrade_pickaxe_speed_01_desc	Un assetto aerodinamico migliorato per velocizzare i tuoi colpi.	 new: minor rephasing
+upgrade_pickaxe_speed_01_flavor	"""Si vive e si muore alla velocità della luce!"""	Old Duke Ellington song.
+upgrade_pickaxe_resource_damage_01	Delirio di Risorse	
+upgrade_pickaxe_resource_damage_01_desc	Infligge danni extra alle mattonelle che contengono risorse.	
+upgrade_pickaxe_resource_damage_01_flavor	"""Le mattonelle non sono quello che sembrano."""	Spoof on Patrik Swayzee line from Roadhouse: My way or the highway
+upgrade_pickaxe_knockback_01	Impatto Imminente	Movie Total Recall
+upgrade_pickaxe_knockback_01_desc	Respinge ulteriormente i nemici all'impatto.	
+upgrade_pickaxe_knockback_01_flavor	"""Hasta la vista, baby."""	Arnold Schwartzenegger quote from T2
+upgrade_pickaxe_deflect_projectiles_01	Rispediti al Mittente	
+upgrade_pickaxe_deflect_projectiles_01_desc	Ti permette di colpire i proiettili a mezz'aria e invertirne la direzione.	 new: minor rephrasing.
+upgrade_pickaxe_deflect_projectiles_01_flavor	"""C'è posta per te."""	
+upgrade_pickaxe_fire	Ascia di Fuoco	
+upgrade_pickaxe_fire_desc	Aggiunge fuoco, portata ed efficacia al tuo fedele piccone. Potrebbe avere anche altri utilizzi...	
+upgrade_pickaxe_fire_flavor	"""Alziamo la temperatura!"""	
+upgrade_pickaxe_bonus_xp	Punta del Cacciatore	
+upgrade_pickaxe_bonus_xp_desc	Ottieni 5 PE extra quando sconfiggi i nemici con il piccone.	
+upgrade_pickaxe_bonus_xp_flavor	"""Se il cacciatore torna a casa con i funghi, non chiedergli come è andata la caccia."""	 Old Ghanaian proverb meaning that the hunter didn't get anything that he hunted so instead he picked mushrooms, but telling him that might hurt his feelings
+upgrade_pickaxe_bounty	Cacciatore di Taglie	
+upgrade_pickaxe_bounty_desc	Ottieni un premio in denaro quando sconfiggi i nemici con il piccone.	
+upgrade_pickaxe_bounty_flavor	"""C'è chi lo fa per soldi, e chi per il gusto di cacciare."""	
+upgrade_pickaxe_health_pickup	Guaritore	
+upgrade_pickaxe_health_pickup_desc	Aggiunge la possibilità di rilascio di un globo di salute extra dai nemici sconfitti.	
+upgrade_pickaxe_health_pickup_flavor	"""Prenditi cura di me."""	"*NEW* Marvin Gaye song ""sexual healing"""
+		
+upgrade_backpack	Zaino	
+upgrade_backpack_desc	Contiene i minerali e le gemme che trovi.	
+upgrade_backpack_next_level_desc	Migliora il tuo zaino per ottenere uno slot extra per minerali e gemme.	
+upgrade_backpack_01	Sacca del Minatore	
+upgrade_backpack_01_desc	"""Non molto grande, ma può contenere diversi tipi di minerali e gemme."""	
+upgrade_backpack_02	Sacca in Pelle di Puzzola	
+upgrade_backpack_02_desc	"""Catturare le puzzole senza subirne le conseguenze è un'operazione delicata, per questo non è facile da trovare."""	"Pun on Shakespeare play ""Taming of the shrew"""
+upgrade_backpack_03	Borsa Porta-tutto	
+upgrade_backpack_03_desc	"""Il nome dice tutto. Non serve aggiungere altro."""	
+upgrade_backpack_04	Sacco di Troia	 Pun on the lost epic of ancient Greek litterature, The Sack of Troy
+upgrade_backpack_04_desc	"""Se cercavi una borsa di qualità, sei a cavallo."""	 Pun on Achillean heel,expression meaning where your weakness is
+upgrade_backpack_05	Borsa delle Brame	"Pun on the old ""I can't believe it's not butter"" https://en.wikipedia.org/wiki/I_Can%27t_Believe_It%27s_Not_Butter!"
+upgrade_backpack_05_desc	"""La più capiente del reame!"""	When re-released the product had an additional line on the package - Good on everything.
+upgrade_backpack_06	Sacca Gremlin	
+upgrade_backpack_06_desc	"""Passata la mezzanotte, tienila lontano dal cibo."""	 A pun on the creatures Gremlins from movie Gremlins. They get evil if they eat after midnight.
+upgrade_backpack_07	Borsa Elfica	Elves like Legolas from Lord of The rings
+upgrade_backpack_07_desc	"""Fate arare il campo al coltivatore, ma scegliete una lontra per nuotare, e per correre veloce su erbe e foglie... una borsa."""	Pun on Legolas quote: let a ploughman plough, but choose an otter for swimming, and for running light over grass and leaf, or over snow--an Elf.
+upgrade_backpack_08	Una Borsa per Ghermirli	Lord of the Rings pun - One ring to tame them all.
+upgrade_backpack_08_desc	"""Non è fantastico sentire le stesse battute riciclate in tutti i modi? La borsa ti piacerà, comunque. Davvero."""	
+upgrade_backpack_09	Borsa del Mammut	 The big and extinct Elephant-like creature.
+upgrade_backpack_09_desc	"""Lanosa e capiente."""	
+upgrade_backpack_10	Borsa Shiva	Pun on the Hindu Scripture Bhagavad Gita https://en.wikipedia.org/wiki/Bhagavad_Gita
+upgrade_backpack_10_desc	"""Una borsa di proporzioni mitologiche. Non indù-giare, riempila delle ricchezze più pregiate."""	sanskrit vedanta – vedan't ya? Hinduism - Hindsight
+		
+upgrade_backpack_magnetic_pull_01	Separatore Magnetico	
+upgrade_backpack_magnetic_pull_01_desc	Le risorse esposte verranno attirate verso di te.	 new: minor rephrasing
+upgrade_backpack_magnetic_pull_01_flavor	"""Accio!"""	Harry Potter pun on spell accio = fetch
+upgrade_backpack_extra_ore_01	Tasca di Freyr	 Norse God Freyr owned a ship that he could fold into his pocket when not needed
+upgrade_backpack_extra_ore_01_desc	Ti permette di aggiungere un pezzo di minerale extra per ciascuno slot.	
+upgrade_backpack_extra_ore_01_flavor	"""Prosaica, poetica, elegante."""	 Taken from norse mythology, The books of Snorri, The prose Edda, The poetic Edda.
+upgrade_backpack_extra_gem_01	Doppio Deposito	
+upgrade_backpack_extra_gem_01_desc	Ciascuno slot può contenere due gemme.	 new: rephrasing
+upgrade_backpack_extra_gem_01_flavor	"""Nella borsa piccola c'è il profitto buono."""	
+upgrade_backpack_discard_give_money_01	Incentivo per lo smaltimento	
+upgrade_backpack_discard_give_money_01_desc	Scartando una risorsa otterrai anche una parte del suo valore in denaro.	
+upgrade_backpack_discard_give_money_01_flavor	"""Non vedi che è un vero affare? Non perdere l'occasione."""	Lyrics From Sades song Smooth Operator
+upgrade_backpack_discard_give_health	Il Cerchio della Vita	 Pun on Elton john song circle of life meaning that everything goes around and comes back to life – from song circle of life, Recycle the present is just a quote on how recycling today will make the future a better place.
+upgrade_backpack_discard_give_health_desc	Scartando una risorsa ripristini una parte della tua salute. Scartando una gemma recuperi più salute che scartando un minerale.	
+upgrade_backpack_discard_give_health_flavor	"""Ricicla il presente, salva il futuro."""	
+upgrade_backpack_lower_death_penalty_01	Lo Sconto del Mietitore	
+upgrade_backpack_lower_death_penalty_01_desc	Ti permette di perdere meno risorse quando muori.	 new: minor rephrasing
+upgrade_backpack_lower_death_penalty_01_flavor	"""La morte ti fa più bella."""	Blue Öyster Cult cult classic song Don't fear the reaper
+upgrade_backpack_town_portal	Portale del Perdono	
+upgrade_backpack_town_portal_desc	Ti permette di tornare subito a El Machino senza perdere risorse. Attiva questa abilità nella scheda Sistema.\n\n{format bold}Disattivata nelle caverne e quando sei in pericolo. L'icona dell'abilità {image town_portal_small} ti mostra quando può essere usata.{format reset}	El Machino is the name of the city
+upgrade_backpack_town_portal_flavor	"""Puoi tenere ciò che è tuo."""	
+upgrade_backpack_double_resources	Scava e Raddoppia	Famous Internet meme Double Rainbow https://www.youtube.com/watch?v=OQSNhk5ICTI
+upgrade_backpack_double_resources_desc	Aggiunge la possibilità di ottenere due risorse da una singola mattonella.	new: minor rephrasing
+upgrade_backpack_double_resources_flavor	"""Allegria!"""	From meme double rainbow
+upgrade_backpack_pickup_money	Soldi Facili	
+upgrade_backpack_pickup_money_desc	Ti permette di ottenere denaro istantaneamente quando raccogli risorse di basso valore. Più il valore è basso, più soldi guadagni. Non funziona con le risorse di valore superiore a $7.	
+upgrade_backpack_pickup_money_flavor	"""Ti aspettano lì, devi solo andare a prenderli."""	 Quote from Tolkiens books, character Samwise Gamgee's line: It's like in the great stories, Mr. Frodo, the ones that really mattered.
+upgrade_backpack_extra_value	Fiuto per gli affari	Pun on Bruce Willis Line in Die Hard, yippie ki-yay combined with yuppie as in newly rich person that makes money
+upgrade_backpack_extra_value_desc	Ottieni il 30%% di denaro in più quando vendi le risorse.	
+upgrade_backpack_extra_value_flavor	"""Non c'è nobiltà nella povertà."""	From Internet meme: http://knowyourmeme.com/memes/it-prints-money
+		
+upgrade_armor	Armatura	
+upgrade_armor_desc	L'armatura ti protegge dai pericoli delle profondità.	
+upgrade_armor_next_level_desc	Potenzia l'armatura per incrementare la tua salute totale.	
+upgrade_armor_01	Armatura a Piastre	
+upgrade_armor_01_desc	"""Armatura protettiva di base. Niente di speciale."""	
+upgrade_armor_02	Armatura Robusta	
+upgrade_armor_02_desc	"""Più robusta del modello di base, ma sempre della stessa fascia."""	
+upgrade_armor_03	Armatura Rinforzata	
+upgrade_armor_03_desc	"""Fornisce un'ottima protezione in zone pericolose."""	
+upgrade_armor_04	Armatura Temperata	
+upgrade_armor_04_desc	"""La tempratura è eseguita con una tecnica diversa da quella tradizionale europea."""	
+upgrade_armor_05	Armatura Leggendaria	
+upgrade_armor_05_desc	"""Le migliori armature non sono mai perfette come le leggende che le circondano."""	From lyrics to song Fame from movie Fame
+upgrade_armor_06	Armatura Apocalittica	
+upgrade_armor_06_desc	"""Un'armatura di protezione standard progettata per una difesa da fine del mondo."""	"From Doom game manual description of their armor and pun on title ""knee-deep in the dead"" – the first level from original Doom"
+upgrade_armor_07	Armatura della Luna Piena	
+upgrade_armor_07_desc	"""Quando ululerai davanti alle porte dell'Inferno, ti sarà di grande aiuto."""	"Reference to Tom Petty's song ""Won't back down"" from album ""Full Moon Fever"""
+upgrade_armor_08	Armatura della Fenice	
+upgrade_armor_08_desc	"""Scrollati la cenere di dosso e inizia una nuova vita."""	Thou – old english
+		
+upgrade_armor_reduce_falldamage_01	Cuscinetti da Felino	 Landing soft like the cougar feline
+upgrade_armor_reduce_falldamage_01_desc	Riduce i danni da caduta.	
+upgrade_armor_reduce_falldamage_01_flavor	"""Non è forte colui che non cade mai, ma colui che cadendo si rialza."""	
+upgrade_armor_thorns	Piastre del Karma	
+upgrade_armor_thorns_desc	Infligge danni a chiunque ti ferisca con il tocco.	
+upgrade_armor_thorns_flavor	"""Ogni rosa ha le sue spine."""	A power ballad song by band Poison
+upgrade_armor_guts	Duro a Morire	A spoof on Hasselhoff's song True Survivor for short film Kung Fury
+upgrade_armor_guts_desc	Quando subisci un danno letale per la prima volta, la tua salute si rigenera completamente. L'abilità si resetta in città.	
+upgrade_armor_guts_flavor	"""Sorridi, domani andrà peggio."""	
+upgrade_armor_resistliquids	Stivali di Vidar	Vidar = The Norse God that slayed the Fenrir Wolf
+upgrade_armor_resistliquids_desc	Capaci di resistere ad acido e lava, tuttavia necessitano di un periodo di assestamento dopo l'esposizione.	
+upgrade_armor_resistliquids_flavor	"""uesti stivali ti tolgono acido e lava dai piedi. Letteralmente."""	
+upgrade_armor_damage_reduction	Ultra Composito	
+upgrade_armor_damage_reduction_desc	Riduce i danni subiti.	
+upgrade_armor_damage_reduction_flavor	"""Un materiale protettivo tra i più solidi mai creati."""	
+upgrade_armor_rainbow_orbs	Varietà Sostanziale	"*NEW* Song ""As long as you love me"" by Backstreet Boys. I don't care who you are, Where you're from, What you did, As long as you love me. The terms diversity, fluid and rainbow are used as an hommage to tolerance and the LGBTQ community."
+upgrade_armor_rainbow_orbs_desc	Un'armatura fluida e policromatica che dona una piccola possibilità di ottenere 3 globi arcobaleno ogni volta che un nemico viene sconfitto.	
+upgrade_armor_rainbow_orbs_flavor	"""Non ha importanza chi sei, da dove vieni o perché stai scavando, finché la indossi."""	
+upgrade_armor_deflect	Armatura Aramidica	
+upgrade_armor_deflect_desc	Devia il primo proiettile che ti colpisce. Necessita di 30 secondi per ricaricarsi.	
+upgrade_armor_deflect_flavor	"""Io sono la gomma, tu la colla."""	A riposte used when someone calls you a name. Indicates that whatever ... I'm rubber you're glue, your words bounce off me and stick to you. Also a nod to its usage in Monkey Island game series.
+		
+upgrade_watertank	Tanica di acqua	
+upgrade_watertank_desc	Molte delle tue attrezzature utilizzano acqua, di cui puoi fare rifornimento nelle sorgenti all'interno della miniera.	
+upgrade_watertank_next_level_desc	Potenzia la tanica di acqua per espandere la tua riserva totale.	
+upgrade_watertank_01	Vaso semplice	
+upgrade_watertank_01_desc	"""La pietra miliare della tecnologia a vapore."""	
+upgrade_watertank_02	Regolatore Melville	Herman Melville - author of Moby Dick
+upgrade_watertank_02_desc	"""Dona un tocco classico alla tecnologia ad acqua."""	
+upgrade_watertank_03	Water Whitman	The Notourious B.I.G. and his song Mo money Mo problems
+upgrade_watertank_03_desc	"""Cogli l'acqua quando è il momento."""	
+upgrade_watertank_04	Cistern-act	Old band The Sisters of Mercy
+upgrade_watertank_04_desc	"""La madre superiora delle cisterne."""	One of their songs
+upgrade_watertank_05	Nautilus II	From Captain Nemo's submarine Nautilus
+upgrade_watertank_05_desc	"""Ventimila leghe d'acqua."""	Spoof on Jules Verne's book Twenty Thousand Leagues under the sea
+		
+upgrade_watertank_water_pickup_01	Il Mago della Pioggia	
+upgrade_watertank_water_pickup_01_desc	Aggiunge la possibilità di rilascio di un globo d'acqua extra dai nemici sconfitti.	 new: minor rephrasing.
+upgrade_watertank_water_pickup_01_flavor	"""Nemici a frittelle, globi a catinelle."""	BJ Thomas song Raindrops Keep falling on my head
+upgrade_watertank_improved_water_pump	Pompa Magna	Technotronics old song
+upgrade_watertank_improved_water_pump_desc	Raccoglie l'acqua dalle pozze più rapidamente.	
+upgrade_watertank_improved_water_pump_flavor	"""Tanica bagnata, tanica fortunata."""	From the song Pump up the Jam
+upgrade_watertank_water_condenser	Condensatore di Umidità	
+upgrade_watertank_water_condenser_desc	Trasforma l'umidità in acqua allo stato liquido.	
+upgrade_watertank_water_condenser_flavor	"""Ti lascia secco, ma non ti lascia a secco."""	Jimmy cliff song lyrics: I can see clearly now the rain is gone
+upgrade_watertank_light_orbs_to_water	Cacciatore di Tempeste	
+upgrade_watertank_light_orbs_to_water_desc	Converte tutti i globi di luce rilasciati in globi d'acqua. Non ha effetto sui globi arcobaleno.	
+upgrade_watertank_light_orbs_to_water_flavor	"""Dalla luce all'acqua, dall'acqua al vino. È un trucco vecchio come il mondo."""	Reference to the Bible where Jesus turned water into wine
+upgrade_watertank_regeneration	Rigenerazione Acquatica	
+upgrade_watertank_regeneration_desc	Rigenera vita nelle pozze d'acqua.	 new: minor rephrasing
+upgrade_watertank_regeneration_flavor	"""Curarne uno per curarli tutti."""	
+		
+upgrade_minimap	Mappa	
+upgrade_minimap_desc	Tiene traccia dei luoghi dove sei stato e di dove sei diretto.	
+upgrade_minimap_01	Mappa	
+upgrade_minimap_01_desc	"""Tiene traccia dei luoghi dove sei stato e di dove sei diretto."""	Quote from Earl Nightingale, american writer
+		
+upgrade_minimap_quest_pointer	Indicatori	 (Renamed)
+upgrade_minimap_quest_pointer_desc	Mostra gli indicatori ({image quest_pointer_arrow} e {image quest_pointer_crosshair}) sulla mappa per guidarti verso la destinazione da raggiungere nella tua missione.\n\n{format bold}Se preferisci esplorare senza indicazioni, disabilita questa Mod con ingranaggio.{format reset}	 Text within { } should not be translated.
+upgrade_minimap_quest_pointer_flavor	"""Segui l'indicatore e ti mostrerà la via."""	A nod to Lemmy's Show and the character Falconhoof. https://www.youtube.com/watch?v=oWmiShFb0go
+		
+upgrade_minimap_mineral_detector	Trovarisorse	Nod to the Harry Potter Marauder's Map
+upgrade_minimap_mineral_detector_desc	Ti mostra tutte le risorse sulla mini-mappa.	
+upgrade_minimap_mineral_detector_flavor	"""Mettici una pietra sopra. E un'altra. E un'altra..."""	Small pun on actor Roger Moore
+upgrade_minimap_hp_bar	Sguardo di Odino	 Odin – all-seeing father of norse mythology, quote is merely a question without reference, feel free to make it into your own languages equivalent
+upgrade_minimap_hp_bar_desc	Mostra la salute dei tuoi nemici quando li danneggi.	
+upgrade_minimap_hp_bar_flavor	"""Cosa c'è oltre gli occhi della mente?"""	
+		
+upgrade_run_boots	Sprint Idraulico	*DEMO*
+upgrade_run_boots_desc	Per correre, tieni premuto {indicator run} mentre ti muovi.\nCorrendo, ti muoverai più velocemente e salterai più in alto.	
+upgrade_run_boots_flavor	"""Se vuoi vivere, devi camminare. Se vuoi vivere a lungo, devi correre."""	I Blame Coco lyrics from song Quicker
+		
+upgrade_buddy	Fen	Name
+upgrade_buddy_desc	Una misteriosa entità simile a un fantasma, che ora considera la tua fornace la sua casa.	
+		
+upgrade_fate	Motore del Destino	
+upgrade_fate_desc	Potenziamenti misteriosi che fanno muovere gli ingranaggi mettendo in moto l'universo.	
+upgrade_fate_flavor	"""Un unico, semplice, elegante potenziamento per spiegare tutto!"""	Black Sabbath lyrics from song Symptom of the universe
+upgrade_fate_bloodquest	{image danger}Missione di Sangue{image danger}	
+upgrade_fate_bloodquest_desc	Ottieni ricompense in cambio di sangue!\nRaddoppia la possibilità di ottenere Pietre di sangue quando i nemici muoiono, ma raddoppia anche i danni che essi ti infliggono.\n\n{format bold}Attivando questa Mod con ingranaggio la tua missione sarà molto più difficile. Consigliata solo per i più esperti.{format reset}	Blood Stone is a resource in the game. Text within { } should not be translated. 
+upgrade_fate_bloodquest_flavor	"""Una vera arma a doppio taglio."""	
+upgrade_fate_xpx2	{image danger}Brivido dell'Avventuriero{image danger}	
+upgrade_fate_xpx2_desc	Ottieni il doppio dell'esperienza dalle uccisioni, ma i nemici rilasciano solo globi da uccisioni creative o bonus.\n\n{format bold}Attivando questa Mod con ingranaggio la tua missione sarà molto più difficile. Consigliata solo per i più esperti.{format reset}	Text within { } should not be translated. 
+upgrade_fate_xpx2_flavor	"""Impara come se dovessi vivere per sempre."""	Made up proverb
+upgrade_fate_explosions	{image danger}Esplosioni Finali{image danger}	
+upgrade_fate_explosions_desc	I nemici esplodono non appena muoiono.\n\n{format bold}Attivando questa Mod con ingranaggio la tua missione sarà molto più difficile.{format reset}	Text within { } should not be translated. 
+upgrade_fate_explosions_flavor	"""Ho appena ucciso un nemico... i nemici esplodono!"""	Let there be light, from the bible
+upgrade_fate_resource_exploder	Esplosione incrociata	 Criss-Cross is refering to that the adjacent tiles will break in a cross pattern. Totally krossed out is Rap duo Kriss-Kross debut album, so it's a pun on that, but with correct spelling with c, not k.
+upgrade_fate_resource_exploder_desc	Distruggendo i blocchi di minerali provocherai una piccola esplosione che danneggerà le mattonelle adiacenti.	
+upgrade_fate_resource_exploder_flavor	"""Rapido e distruttivo."""	
+upgrade_fate_hell_cave_sigil	Sigillum Caelum et Infernum	 Latin for Seal of Heaven and Hell
+upgrade_fate_hell_cave_sigil_desc	Vicino al picco della solitudine\nL'abbraccio di un deserto piangente\nAffronta il cielo per sigillare il tuo destino\nIn un posto strano e sorprendente.	
+upgrade_fate_hell_cave_sigil_flavor	"""Il fuoco è il diavolo celato come un codardo nel fumo."""	 Nod to Twin Peaks: Fire Walk With Me, meaning that you invite the devil to join you. Fate walk with me implies that you invite fate into your life.
+		
+upgrade_steampack	Motore Aeronautico	
+upgrade_steampack_desc	Per volare, tieni premuto {indicator jump} quando sei in aria.\nQuesta camera di combustione diesel sperimentale non consuma acqua, ma si surriscalda dopo poco tempo.	
+upgrade_steampack_next_level_desc	Potenzia il Motore Aeronautico per aumentare la durata.	
+upgrade_steampack_01	Secord Mod 38	From Rocketeer comic origin 1939, character Cliff Secord
+upgrade_steampack_01_desc	"""Un semplice motore in linea a quattro cilindri."""	
+upgrade_steampack_02	Doppio Ciclone	
+upgrade_steampack_02_desc	"""Raffreddato ad aria e invertito."""	
+upgrade_steampack_03	Le Rhône 69	Reference to a French WW1 engine.
+upgrade_steampack_03_desc	"""Con un sistema di raffreddamento combinato aria/acqua. Tutto o niente."""	
+		
+upgrade_steampack_slayer	Statoreattore Vigoroso	
+upgrade_steampack_slayer_desc	Quando usi il tuo Motore Aeronautico, i nemici e le mattonelle deboli che vengono in contatto con te saranno distrutte.	
+upgrade_steampack_slayer_flavor	"""Tra fuoco e follia."""	Reference to Eric Clapton song Grand Illusion
+upgrade_steampack_feather_fall	Cruise Control	 References is to song Falling by Julee Cruise, and song line Don't let yourself be hurt this time.
+upgrade_steampack_feather_fall_desc	Quando il Motore Aeronautico si surriscalda, tieni premuto {indicator jump} per ridurre la tua velocità di caduta.	
+upgrade_steampack_feather_fall_flavor	"""Quello che il nemico ama più dell'eroe è vederlo cadere!"""	
+upgrade_steampack_boost	Postbruciatore Maverick	 Quote from character Maverick from movie Top Gun. Maverick Afterburner is also a reference to the character played by Tom Cruise.
+upgrade_steampack_boost_desc	Aumenta la velocità del tuo motore aeronautico. Manda il motore su di giri e ascolta quel soave ruggito.	
+upgrade_steampack_boost_flavor	"""Sento il bisogno... il bisogno di velocità!"""	
+upgrade_steampack_in_air_cooling	Raffreddamento ad Aria	"*NEW* Eastbound and down is a song from the movie ""Smokey and the Bandit"" Cletus Snow is a character from the movie, and his dog's name is Fred."
+upgrade_steampack_in_air_cooling_desc	Rilascia {indicator jump} mentre sei in aria per raffreddare il Motore Aeronautico. Prodotto da Snow & Fred Ltd.	
+upgrade_steampack_in_air_cooling_flavor	"""Volare è utile, raffreddare è necessario!"""	
+		
+upgrade_pressurebomb	Bomba a Pressione	
+upgrade_pressurebomb_desc	Può essere lanciata in avanti, in alto o in basso. Consuma acqua.\nPremi {indicator tool_pressurebomb} per lanciare!	
+upgrade_pressurebomb_next_level_desc	Potenzia le bombe a pressione per poterle lanciare più lontano.	
+upgrade_pressurebomb_01	Bomba Osmotica	Osmotic= water pressure terminology
+upgrade_pressurebomb_01_desc	"""Alta pressione = Grande forza = Notevole mal di testa."""	A small refernence, mid-range migraine, to song The Message by Grandmaster Flash and the Furious Five
+upgrade_pressurebomb_02	Bomba Idrostatica Scholander	Per Scholander= physiologist renowned for pressure bomb technology
+upgrade_pressurebomb_02_desc	"""Lancia quel demonio sotto pressione ancora più lontano!"""	
+upgrade_pressurebomb_03	Bomba Acida	
+upgrade_pressurebomb_03_desc	"""Una scioglievolezza irresistibile."""	Reference to Scooter song Acid Bomb
+upgrade_pressurebomb_04	Chewing-Bomb	Reference: Song Who Put The Bomp by Barry Mann: ""Who put the bomp in the bomp bah bomp bah bomp / Who put the ram in the rama lama ding dong / Who put the bop in the bop shoo bop shoo bop / Who put the dip in the dip da dip da dip."" =So now you can throw the bomb further = bomb bah LONGA' =longer", In Italian the refference is that the bomb sticks, like chewing gum.
+upgrade_pressurebomb_04_desc	"""Un'esplosione, ma non di freschezza."""	
+		
+upgrade_pressurebomb_brickbreaker	Cartucce Buster	
+upgrade_pressurebomb_brickbreaker_desc	Aggiunge potere perforante alle tue bombe a pressione per far andare in frantumi anche le rocce più dure!	
+upgrade_pressurebomb_brickbreaker_flavor	"""E chi chiamerai?"""	Ghostbusters pun - When there's something strange in the neighbourhood, who ya gonna call
+upgrade_pressurebomb_launcher	Lanciagranate	
+upgrade_pressurebomb_launcher_desc	Tieni premuto {indicator tool_pressurebomb} per un lancio ad arco della granata che scatena una devastazione incredibile.	
+upgrade_pressurebomb_launcher_flavor	"""Un trionfo d'arco."""	Billy Ray Cyrus song Achy breaky heart
+upgrade_pressurebomb_improved_water	Riduzione delle Tasse	*NOT CURRENTLY USED*
+upgrade_pressurebomb_improved_water_desc	Divide il consumo d'acqua a metà.	*NOT CURRENTLY USED*
+upgrade_pressurebomb_improved_water_flavor	"""Una divisione degna di Mosè."""	*NOT CURRENTLY USED* Biblical referense to Moses
+upgrade_pressurebomb_water_pickup	Bomba Aqua	
+upgrade_pressurebomb_water_pickup_desc	Un globo d'acqua extra verrà rilasciato dalle mattonelle distrutte dalle Bombe a Pressione.	
+upgrade_pressurebomb_water_pickup_flavor	"""Doctor Acqua."""	Reference to band Wet Wet Wet and their song Love is all around
+upgrade_pressurebomb_increased_radius	Amplificatore di Pressione	*NOT CURRENTLY USED*
+upgrade_pressurebomb_increased_radius_desc	L'onda d'urto della bomba a pressione danneggia i nemici a distanze maggiori.	*NOT CURRENTLY USED*
+upgrade_pressurebomb_increased_radius_flavor	"""Tic tic... BOOM!"""	*NOT CURRENTLY USED* Chris Cornell song wave Goodbye
+upgrade_pressurebomb_self_immunity	Vaccino contro le Molotov	Pun on Molotov Cocktail
+upgrade_pressurebomb_self_immunity_desc	Impedisce alle Bombe a Pressione di danneggiarti.	
+upgrade_pressurebomb_self_immunity_flavor	"""Come restare immuni dai pericoli? Basta vaccinarsi."""	
+upgrade_pressurebomb_launcher_triple	Granata Triforza	 ThreeForce is a reference to the Legend of Zelda TriForce, The quote is just a rhyme and not important.
+upgrade_pressurebomb_launcher_triple_desc	Quando carichi per sparare una Granata a Pressione, ti consente di sparare ben tre Granate a Pressione!	
+upgrade_pressurebomb_launcher_triple_flavor	"""Tripla sorpresa!"""	
+upgrade_pressurebomb_air_bomb	Assalto dai Cieli	 Norman Greenbaum song lyrics Spirit in the sky, pun on somebody being a mean spirit = bad and mean to people.
+upgrade_pressurebomb_air_bomb_desc	Ti consente di usare le Bombe a Pressione mentre sei in aria, quindi spicca il volo e lancia le tue bombe da una distanza di sicurezza!	
+upgrade_pressurebomb_air_bomb_flavor	"""Degno della più spietata divinità dei cieli!"""	
+		
+		
+		
+upgrade_jackhammer	Martello Pneumatico	
+upgrade_jackhammer_desc	Un eccezionale attrezzo da scavo che distrugge i materiali troppo duri per il piccone. Funziona ad acqua. Tieni premuto {indicator tool_jackhammer} per una maggiore potenza!	
+upgrade_jackhammer_next_level_desc	Potenzia il Martello Pneumatico per migliorarne notevolmente l'efficacia.	
+upgrade_jackhammer_01	Martello Poderoso	Pun on Peter Gabriels song Sledgehammer
+upgrade_jackhammer_01_desc	"""Ci va giù pesante!"""	Pun on Peter Gabriels song Sledgehammer - I want to be your sledgehammer
+upgrade_jackhammer_02	Trivella del Titano	Titans=Mythological adversaries to the gods
+upgrade_jackhammer_02_desc	"""Grazie al maggiore risparmio di carburante, potrai gestire le tue riserve in modo più sostenibile."""	Removed MC Hammer reference
+upgrade_jackhammer_03	"Modello ""Ivan Drago"" Mark IV"	From Rocky 4 - Character Ivan Drago
+upgrade_jackhammer_03_desc	"""Possiede una punta rinforzata con carburo di tungsteno, per spiezzare in due qualsiasi cosa."""	"His signature phrase ""I must break you"""
+upgrade_jackhammer_04	Martello Mjölnir	In norse mythology Mjölnir is the hammer of the mighty Thor
+upgrade_jackhammer_04_desc	"""Il richiamo di caos e cosmo."""	
+		
+upgrade_jackhammer_improved_water	Martello a Secco	Jab - to punch NOT CURRENTLY USED
+upgrade_jackhammer_improved_water_desc	Divide il consumo d'acqua a metà.	NOT CURRENTLY USED
+upgrade_jackhammer_improved_water_flavor	"""Caldo, ma direi più un caldo secco."""	NOT CURRENTLY USED
+upgrade_jackhammer_faster_windup	Lubrificante Sintetico	
+upgrade_jackhammer_faster_windup_desc	Migliora la velocità di carica del martello pneumatico.	
+upgrade_jackhammer_faster_windup_flavor	"""Pronto a martellare!"""	Frankie goes to Hollywood song Relax
+upgrade_jackhammer_faster_maxspeed	Il Cilindro del Destino	Tribute to band KLF - also known as the Justified Ancients of Mu Mu
+upgrade_jackhammer_faster_maxspeed_desc	Un cilindro pneumatico potenziato. Porta la velocità operativa al massimo, ma aumenta l'utilizzo di acqua.	
+upgrade_jackhammer_faster_maxspeed_flavor	"""Il martellamento comincia domani all'alba di mezzogiorno."""	Their tune Last train to Trancentral
+upgrade_jackhammer_push	Scia	
+upgrade_jackhammer_push_desc	Ti spinge in avanti ogni volta che il martello pneumatico riesce a sfondare una superficie.	
+upgrade_jackhammer_push_flavor	"""Serve una spinta?"""	Pun on Dolly Parton and Kenny Rodgers song Islands in the stream lyrics
+upgrade_jackhammer_shockwave	Frattura Profonda	DO NOT TRANSLATE, NOT CURRENTLY USED
+upgrade_jackhammer_shockwave_desc	Il tuo martello pneumatico danneggia ulteriori mattonelle.	DO NOT TRANSLATE, NOT CURRENTLY USED
+upgrade_jackhammer_shockwave_flavor	"""Profondo rotto."""	DO NOT TRANSLATE, NOT CURRENTLY USED Reference to Guile from Street Fighter-series
+upgrade_jackhammer_slower_winddown	Ammortizzatore Halen	"*NEW* Slow Hand – Eric Claptons nickname, quote is flavor from his song ""Going down slow"": I feel like I'm going, I'm going down slow."
+upgrade_jackhammer_slower_winddown_desc	Il martello pneumatico impiega di più a rallentare, rimanendo ad alti regimi per più tempo dopo l'uso.	
+upgrade_jackhammer_slower_winddown_flavor	"""La forza inarrestabile di un'eruzione!"""	
+		
+upgrade_hook	Rampino	It's like a grappling hook
+upgrade_hook_desc	Premi {indicator tool_hookshot} per usarlo. Ti trascina nella direzione verso cui tieni premuto. Può essere usato contro i nemici per ottenere vari effetti.	
+upgrade_hook_next_level_desc	Potenzialo per aumentarne la portata!	
+upgrade_hook_01	Rampino	
+upgrade_hook_01_desc	"""Aggancia e tira, aggancia e tira. È questo che fa un buon rampino."""	 Minor rephracing
+upgrade_hook_long	Rampino Lungo	
+upgrade_hook_long_desc	Aumenta la gittata del tuo incredibile rampino!	
+upgrade_hook_long_flavor	"""Per 'tirare la corda' all'infinito, o quasi."""	Pun on Blue Swede song Hooked on a feeling.
+		
+# ----- Quests ----		
+quest_get_to_elmachino	~Vai a El Machino~	
+quest_talk_to_mayor	~Parla al sindaco~	
+		
+quest_gather_resources	~Estrai risorse~	
+obj_gather_resources	Raccolte: $%1%{image money_small_up} / $%2%{image money_small_up}	
+		
+quest_sell_resources	~Vendi risorse~	
+		
+quest_fix_lamp	~Aggiusta lampada~	
+		
+quest_lit_the_lamp	~Entra ad Archaea~	
+quest_find_teleporter	~Ripara il tubo pneumatico~	
+quest_investigate_cave_in	~Libera il passaggio~	
+quest_get_pressurebomb	~Trova gli esplosivi~	
+quest_clear_cave_in	~Libera il passaggio~	
+quest_get_jackhammer	~Trova la stazione mineraria~	
+		
+quest_report_to_mayor	~Parla al sindaco~	
+		
+quest_find_the_hub	~Entra nel Paese dei Grappisti~	
+		
+quest_talk_to_rosie	~Parla con Rosie~	
+quest_get_grapplinghook	~Entra nella stazione mineraria~	
+quest_find_rocketeer	~Trova uno Smart Bot~	
+quest_enter_firetemple	~Entra nel Tempio Est~	
+quest_kill_priest	~Affronta il profeta~	
+quest_destroy_temple_generators	~Disabilita i generatori~	
+		
+quest_enter_vectron	~Esplora Vectron~	
+quest_report_to_rosie_vectron1	~Torna all'Oasi~	
+		
+quest_hubtube	~Trova un altro modo per entrare~	
+quest_confront_rosie	~Affronta Rosie~	
+quest_destroy_the_last_generators	~Distruggi i generatori~	
+		
+quest_objective_in_progress	{image objective_in_progress}	
+quest_objective_finished	{image objective_finished}	
+		
+# -- %1% is finished sub-objectives, %2% is sub-objective count, %3% is either quest_objective_in_progress or quest_objective_finished		
+quest_destroy_the_last_generators_objective_guidance	Tempio della Guida %3%	 Keep name same as level_temple_of_guidance
+quest_destroy_the_last_generators_objective_fire	Tempio del Distruttore %3%	 Keep name same as level_fire_temple
+quest_destroy_the_last_generators_objective_yarrow	Yarrow %3%	 Keep name same as level_yarrow
+		
+# ----- Banners -----		
+banner_bonusup	Bonus di vendita migliorato!	
+banner_bonusup_text	Bonus: %1%%%	
+banner_levelup	Nuovi potenziamenti sbloccati!	
+banner_levelup_text	Acquista al Banco da Lavoro	
+banner_gain_ability	Hai ottenuto %1%!	Value is the upgrade you recieve *DEMO*
+banner_died_header	Ti hanno demolito	*DEMO*
+banner_blueprint_header	{image cogs_up} %1%	
+banner_blueprint_text_in_tools	Vedi modifiche: {indicator_high menu_next_tab}	
+banner_blueprint_text_other	Equipaggia sul banco da lavoro	
+banner_teleport_header	Tubo di trasporto sbloccato!	
+banner_secret_header	Area segreta scoperta!	*DEMO*
+banner_artifact_text	Aggiunto alla tua raccolta	 Subtitle on banner when player picks up an artifact *DEMO*
+		
+# ----- Popups -----		
+popup_died	Riassemblaggio	
+popup_died_lost_all_text	Ti hanno demolito e hai perso tutte le risorse che hai raccolto.	
+popup_died_lost_some_text	Ti hanno demolito e hai perso alcune delle risorse che hai raccolto.	
+popup_died_lost_none_text	Ti hanno demolito ma non hai perso nessuna risorsa.	
+popup_died_end_text	\nTi riassembleranno in città.	Death popup end text appended to the variants above
+		
+popup_died_checkpoint_title	Prova ancora!	
+popup_died_checkpoint_text	Tornerai all'ultimo checkpoint dopo il riassemblaggio.	
+		
+popup_inventory_discard_title	Scarta	
+popup_inventory_discard_text	Vuoi scartare %1% x %2%?\n\nLe risorse scartate andranno perse per sempre.	
+popup_inventory_discard_give_money_text	Vuoi scartare %1%x %2%?\n\nOtterrai $%3%{image money_small} (su $%4%{image money_small}) per le risorse scartate.	
+popup_inventory_discard_give_health_text	Vuoi scartare %1%x %2%?\n\nRecupererai $%3% punti salute per le risorse scartate.	
+popup_inventory_discard_give_money_and_health_text	Vuoi scartare %1%x %2%?\n\nOtterrai $%3%{image money_small} (su $%4%{image money_small}) e recupererai %5% punti salute per le risorse scartate.	
+		
+popup_find_map_title	La Mappa	
+popup_find_map_text	Apri la mappa mondiale premendo {indicator menu_pause}.	 New note: Removed second sentence about switching tabs.
+		
+popup_press_input_title_gamepad	Assegna pulsante	
+popup_press_input_title_keyboard	Assegna tasto	
+popup_press_input_text_gamepad	Premi un pulsante qualsiasi per assegnarlo a questa azione.\n\nPremi {indicator menu_pause} per annullare.	
+popup_press_input_text_keyboard	Premi un tasto qualsiasi per assegnarlo a questa azione.\n\nPremi {indicator menu_pause} per annullare.	
+popup_wrong_input_type_title	Tipo di Input non corretto	
+popup_wrong_input_type_text	Impossibile assegnare al Gamepad e a Tastiera/Mouse.	
+popup_error_mouse_left_title	Pulsante riservato	
+popup_error_mouse_left_text	Impossibile assegnare il tasto sinistro del mouse.	
+		
+popup_tools_screen_buy_upgrade_title	Acquista Potenziamento	
+popup_tools_screen_buy_upgrade_text	Vuoi comprare %1% per $%2%{image money_small}?	
+		
+popup_tools_screen_enable_cog_title	Attiva Ingranaggio	
+popup_tools_screen_enable_cog_text	Questa Mod Ingranaggio renderà la tua missione più difficile... e forse più divertente!\n\nVuoi veramente attivarla?	
+		
+popup_difficulty_title	Seleziona Difficoltà	
+popup_difficulty_newgame_text	Che livello di difficoltà preferisci?\nPuoi cambiare questa impostazione in qualsiasi momento.	 Text when setting difficulty before a new game.
+popup_difficulty_change_text	Che livello di difficoltà preferisci?\nDifficoltà attuale: %1%	 Text when changing difficulty in game. %1% is the name of the current difficulty.
+		
+# ----- Menus -----		
+main_menu_start	Inizia gioco	
+main_menu_options	Opzioni	
+main_menu_extras	Extra	
+main_menu_exit	Esci	
+		
+menu_profile_slot_empty_header	Nuova partita	
+menu_profile_slot_empty_details	Inizia una Nuova Avventura	
+menu_profile_header	Slot	
+menu_profile_header_corrupt	Corrotto	
+menu_profile_corrupt_desc	Impossibile caricare	
+popup_info_profile_corrupt_title	Profilo Corrotto	
+popup_info_profile_corrupt_text	Questo profilo non può essere caricato.	
+		
+menu_profile_delete	Cancella salvataggio	
+menu_profile_continue	Continua	
+menu_profile_start	Inizia gioco	
+menu_profile_money	$%1% {image money_profile}	No translation needed
+menu_profile_cogs	%1% {image cogs_profile}	No translation needed
+menu_profile_artifacts	%1% / %2% {image artifacts_profile}	No translation needed
+menu_profile_secrets_header	Segreti	 Header to a percentage of how many secrets have been found in the game.
+		
+menu_credits	Riconoscimenti	
+menu_contact	Contatti	 Information on how to contact us
+		
+popup_confirm_erase_profile_title	Eliminare Profilo?	
+popup_confirm_erase_profile_text	Se elimini questo profilo, verrà disperso nelle profondità oscure per sempre... Sei sicuro?	
+		
+menu_gamepad_info	È molto meglio giocare con un gamepad, quindi prendine uno e scava, scava, SCAVA!	Text displayed at startup when informing player of gamepad
+		
+menu_epilepsy_info_header	ATTENZIONE: FOTOSENSIBILITÀ/ATTACCHI EPILETTICI	
+menu_epilepsy_info_text	"Questo gioco contiene delle scene che possono potenzialmente scatenare attacchi epilettici. \n\nPer minimizzare questi rischi, vai su ""Disabilita flash"" nel menu ""Opzioni""."	
+		
+menu_xp_level	Livello %1%	Value is the current character level
+menu_xp_tonext	Successivo: %1% PE	Value is the amount of experience you need for the next level
+xp_bar_level_up	AUMENTO DI LIVELLO!	
+		
+ui_status_label_hits	{image hits} x %1%	For indicating the number of hits it takes to destroy a tile. Does not need translation.
+ui_status_inventory_full	Spazio insufficiente	
+		
+menu_statusui_currency_cogs	{format header_drop}%1%	The text format should be added in the flash and removed from here
+menu_statusui_currency_money	{format header_drop}$%1%	The text format should be added in the flash and removed from here
+menu_statusui_currency_cogs_presentation	{format currency_presentation}+%1%	The text format should be added in the flash and removed from here
+menu_statusui_currency_money_presentation	{format currency_presentation}+$%1%	The text format should be added in the flash and removed from here
+menu_statusui_currency_cogs_presentation_negative	{format currency_presentation_negative}-%1%	The text format should be added in the flash and removed from here
+menu_statusui_currency_money_presentation_negative	{format currency_presentation_negative}-$%1%	The text format should be added in the flash and removed from here
+		
+menu_currency_money	$%1% {image money}	
+menu_currency_money_small	$%1%{image money_small}	
+		
+menu_sell_resources_stack	x %1%	
+menu_sell_resources_bonus	Bonus: %1%%%	"*NEW* Only translate ""Bonus:"""
+menu_sell_resources_value	Valore di vendita:	
+		
+# ------ Contact Menu -----		
+menu_contact_top_header	Contattaci!	 Header for contact menu
+menu_contact_text	Ti diamo il benvenuto su SteamWorld! Grazie a te, e agli altri giocatori come te, noi della Image & Form possiamo andare al lavoro tutti i giorni. Se c'è qualcosa di cui vorresti parlare con noi, scrivici qualcosa. Siamo offline molto di rado, perciò ti risponderemo molto presto.	 Main body text of contact menu
+menu_contact_signature	– Brjánn, CEO	 Displayed directly below main body text in contacts menu (Do not translate)
+menu_twitter_text	Twitter: @imageform	 Our twitter handle (Do not translate)
+menu_facebook_text	Facebook: Image & Form Games	 Our facebook page (Do not translate)
+menu_youtube_text	YouTube: youtube.com/c/imageform	 Our Youtube page (Do not translate)
+menu_website_text	Website: www.imageform.se	 Our website (Translate only first word if needed: 'Website')
+menu_email_text	Email: info@imageform.se	 Our e-mail (Translate only first word if needed: 'Email')
+		
+# ------ Post-Game Ranking Screen -----		
+menu_ranking_header	Classifica	
+menu_ranking_playtime	Tempo	
+menu_ranking_deaths	Morti	
+menu_ranking_networth	Ricchezza	
+menu_ranking_secrets	Segreti	
+menu_ranking_close	Chiudi	
+		
+		
+# ------ Map Screen -----		
+menu_map_header	Mappa	
+menu_map_secrets	%1%\nSegreti: %2%%%	
+menu_map_no_secrets	%1%	
+menu_map_legend_player	Dorothy	
+menu_map_legend_door	Porta	
+menu_map_legend_tube	Tubo	
+menu_map_legend_cave	Caverna	
+menu_map_legend_cave_done	Completata	
+menu_map_legend_quest	Missione	
+		
+menu_teleport_prompt	Vai	
+menu_quest_sequence_done_prompt	Continua	
+menu_quick_hub_teleport	Torna indietro (El Machino)	
+menu_quick_return_teleport	Ultimo luogo	
+		
+menu_map_zoom	Attiva/Disattiva Zoom	
+		
+# ------ Transport Tube Names -----		
+		
+tube_teleporter_yarrow_2_tumblers_01	Foresta di Luci	 Transport tube located near a lot of luminescent lights right before the first tumblers
+tube_teleporter_yarrow_2_tumblers_02	Sopra la Palude Acida	 Transport tube located right before the first acid pools
+tube_teleporter_yarrow_2_lock_01	Sotto la Palude Acida	 Transport tube right before Leaky Lodge
+tube_teleporter_yarrow_2_spitters	Stagno dei Funghi	 Transport tube below the spitters and above the flies
+tube_teleporter_yarrow_2_bats	Campo Minato delle Zanzare	 Transport tube surrounded by acid flies
+tube_firetemple_teleporter_01	Condotto d'Ingresso	 Transport tube in the fire temple entrance shaft
+tube_firetemple_teleporter_02	Labirinto dei Convogliatori	 Transport tube near the first conveyors
+tube_firetemple_teleporter_03	Corridoio dello Scolo di Lava	 Transport tube near the first lava drippers and bats
+tube_firetemple_teleporter_04	Altare del Golem	 Transport tube in a large open area, near a brazier
+tube_firetemple_teleporter_05	Viscere del Tempio	 Transport tube near large gate and lever
+tube_firetemple_teleporter_06	Giardini Pensili di Lava	 ransport tube in a section with a lot of small lava pools
+tube_firetemple_teleporter_09	Il Grande Fiume di Lava	 Transport tube in the middle of the large lava river in lower fire temple
+tube_firetemple_teleporter_08	Entrata dell'Armeria	"Transport tube near the """"sun armory"""" cave and all the temple priests"""
+tube_firetemple_teleporter_07	Entrata dei Sotterranei	 Transport tube at the start of the bottom section of the fire temple
+tube_firetemple_teleporter_10	Santuario Interno	 Transport tube at the very end of the fire temple, near the generator
+tube_archaea_teleporter_01	Passaggio della Roccia Rossa	 Transport tube located at the top of archaea
+tube_archaea_teleporter_02	Piantagione di Cactus	 Transport tube in early archaea, near east desert entrance
+tube_archaea_teleporter_03	Al di sopra del Muro	 Transport tube located above the shiner wall
+tube_archaea_teleporter_04	Al di sotto del Muro	 Transport tube located below the shiner wall
+tube_archaea_teleporter_05	Avamposto di Estrazione Inferiore	 Transport tube near some mining equipment in lower archaea
+tube_archaea_teleporter_06	Fondo della Miniera	 Transport tube at the bottom of archaea, near the vectron entrance
+tube_eastdesert_teleporter_01	Entrata del Tempio	 Transport tube in desert near entrance to temple of the destroyer
+tube_thehub_teleporter_01	L'Oasi	 Transport tube in the shiner hub
+tube_elmachino_teleporter_01	El Machino	 Transport tube in the center of el machino
+tube_templeofguidance_teleporter_01	Condotto Inferiore del Tempio	 Transport tube right before the entrance shaft to temple of guidance 2
+tube_temple_of_guidance2_teleporter	Cisterna del Tempio	 Transport tube at the bottom of temple of guidance 2, near the water pool
+		
+# ------ Upgrades Screen -----		
+		
+menu_upgrades_header_cogs	Mod con ingranaggi	
+menu_upgrades_header_upgrades	Potenziamenti	
+		
+menu_upgrades_minor_prompt_insertcogs	Inserisci ingranaggi(o)	
+menu_upgrades_minor_prompt_removecogs	Rimuovi ingranaggi(o)	
+		
+menu_upgrades_price	$%1%{image money_up}	
+menu_upgrades_level	Richiede Lvl %1%	
+menu_upgrades_maxed	MAX	
+menu_upgrades_tooltier	Classe %1% %2%	
+		
+menu_upgrades_switch_to_cogs	Passa a Mod con Ingranaggi	
+menu_upgrades_switch_to_upgrade	Passa a Potenziamenti	
+menu_upgrades_buy_upgrade	Acquista Potenziamento	
+menu_upgrades_cogs_slot	Installa Mod	
+menu_upgrades_cogs_unslot	Disinstalla Mod	
+		
+menu_upgrades_lockedupgrade	(Non disponibile)	
+menu_upgrades_desc_minor_upper_needlevel	{format upgrade_locked}- Necessaria Classe %1% %2% -{format reset}	
+menu_upgrades_desc_minor_upper_needworkbench	{format upgrade_locked}- Vai al Banco di lavoro per installare -{format reset}	
+menu_upgrades_desc_minor_upper_needcog	{format upgrade_locked}- Necessario {image cogs_small} Ingranaggio di Potenziamento -{format reset}	
+menu_upgrades_desc_minor_upper_needcogs	{format upgrade_locked}- Necessari %1% {image cogs_small} Ingranaggi di Potenziamento -{format reset}	
+menu_upgrades_desc_minor_upper_havecog	- Disponibile per 1 {image cogs_small} -	
+menu_upgrades_desc_minor_upper_havecogs	- Disponibile per %1% {image cogs_small} -	
+menu_upgrades_desc_minor_upper_nocogs	- Disponibile senza alcun costo -	
+menu_upgrades_desc_minor_upper_cogged_needworkbench	{format upgrade_locked}- Vai al Banco di Lavoro per disinstallare -{format reset}	
+menu_upgrades_desc_minor_upper_cogged	- Installato -	
+		
+menu_upgrades_desc_minor_header_needblueprint	???	
+menu_upgrades_desc_minor_upper_needblueprint	{format upgrade_locked}- Necessario Progetto -{format reset}	
+menu_upgrades_desc_minor_needblueprint	Questa Mod con Ingranaggio necessita di un progetto per essere usata.	
+		
+menu_upgrades_desc_major_upper_needlevel	{format upgrade_locked}- Prossimo Potenziamento al Livello %1% -{format reset}	
+menu_upgrades_desc_major_upper_cantafford	{format upgrade_locked}- Potenziamento disponibile per $%1%{image money_small} -{format reset}	
+menu_upgrades_desc_major_upper_price	- Potenziamento disponibile per $%1%{image money_small} -	
+menu_upgrades_desc_major_upper_needworkbench	{format upgrade_locked}- Potenzia al Banco da lavoro per $%1%{image money_small} -{format reset}	
+menu_upgrades_desc_major_upper_needlevel_us	{format upgrade_locked}- Unlocked at Level %1% -{format reset}	
+menu_upgrades_desc_major_upper_cantafford_us	{format upgrade_locked}- Available for $%1%{image money_small} -{format reset}	
+menu_upgrades_desc_major_upper_price_us	- Disponibile per $%1%{image money_small} -	
+		
+menu_upgrades_desc_major_upper_max	Questo attrezzo è stato potenziato alla massima classe disponibile.	
+menu_upgrades_desc_major_upper_cantupgrade	Questo attrezzo non può essere potenziato.	
+		
+menu_upgrades_desc_major_header_unavailable	???	
+menu_upgrades_desc_major_upper_unavailable	{format upgrade_locked}- Non disponibile -{format reset}	
+menu_upgrades_desc_major_unavailable	Non hai ancora scoperto questo potenziamento.	
+		
+menu_upgrades_desc_major_upper_tier	- Classe %1% %2% -	
+		
+menu_upgrades_desc_unlock_cog	Mod con ingranaggio: %1%	
+menu_upgrades_desc_unlock_cog_header	Sblocca Mod con Ingranaggi:	
+		
+# ------ Collectibles Screen -----		
+menu_collectibles_header	Manufatti	
+		
+menu_collectibles_empty	Nessun manufatto al momento	
+menu_collectibles_empty_header	Nessun manufatto al momento	
+menu_collectibles_empty_text	Non hai ancora scoperto alcun manufatto. Non appena ne troverai, appariranno qui.	
+		
+menu_collectibles_totalcollect_text	Raccolti	
+menu_collectibles_totalcollect	%1%/%2%	
+		
+# ------ Inventory Screen -----		
+menu_inventory_header	Risorse	
+		
+menu_inventory_slot_value	$%1%{image money_small}	
+menu_inventory_totalvalue	$%1%	
+menu_inventory_totalvalue_text	Valore totale:	
+menu_inventory_discard_prompt	Scarta	
+		
+menu_inventory_infobox_header	%1% x %2%	
+menu_inventory_infobox_header_empty	Slot Zaino Vuoto	
+menu_inventory_infobox_header_money	$%1%{image money}	
+menu_inventory_infobox_text_empty	Questo slot dello zaino può contenere fino a quattro esemplari dello stesso minerale, oppure una gemma preziosa.	
+		
+# ------ System Menu -----		
+menu_system_header	Sistema	
+		
+menu_system_selfdestruct	Autodistruzione	
+menu_system_selfdestruct_desc	Attiva il processo di autodistruzione, per poi farti riassemblare in città.	
+menu_system_selfdestruct_checkpoint	Autodistruzione	
+menu_system_selfdestruct_checkpoint_desc	Attiva il processo di autodistruzione e torna all'ultimo checkpoint.	
+menu_system_town_portal	{image town_portal} Portale del Perdono {image town_portal}	
+menu_system_town_portal_desc	Usa la Mod con ingranaggio Portale del Perdono per teletrasportarti in città.	
+menu_system_difficulty	Difficoltà	
+menu_system_difficulty_desc	Cambia la difficoltà.	
+menu_system_options	Opzioni	
+menu_system_options_desc	Cambia le impostazioni, le combinazioni di tasti, la lingua ecc.	
+menu_system_exit	Esci	
+menu_system_exit_desc	Esci e torna al menu principale. I progressi non salvati andranno persi.	
+		
+popup_exittomenu_title	Esci	
+popup_exittomenu_text	I progressi non salvati andranno persi. Vuoi veramente tornare al menu principale?\nTempo trascorso dal tuo ultimo salvataggio: %1% min, %2% sec	
+popup_selfdestruct_title	Autodistruzione	
+popup_selfdestruct_text	Le risorse che porti con te potrebbero andare perdute e tornerai in città per farti riassemblare. Vuoi veramente autodistruggerti?	 Changed inventory->resources for consistency
+popup_selfdestruct_checkpoint_text	Tornerai all'ultimo checkpoint. Vuoi veramente autodistruggerti?	
+popup_town_portal_title	Teletrasporto	
+popup_town_portal_text	Vuoi teletrasportarti in città?	
+popup_town_portal_disabled_title	Portale disabilitato	
+popup_town_portal_disabled_text	Il Portale del Perdono non può essere usato qui. Devi trovarti su un terreno solido, lontano dai nemici e fuori dalle caverne.	
+		
+# ------ Options Menu -----		
+menu_options	Opzioni	
+menu_options_changing_language	Modifica lingua...	 Title header in the popup that appears when you change the current language.
+menu_options_pleasewait	Attendi...	
+menu_options_reset	Ripristina tutte le impostazioni.	
+menu_options_category_game	Gioco	
+menu_options_category_game_desc	Modifica le opzioni di gioco.	
+menu_options_category_video	Video	
+menu_options_category_video_desc	Modifica le opzioni video.	
+menu_options_category_video2	Altre opzioni video	
+menu_options_category_video2_desc	Modifica opzioni video aggiuntive.	
+menu_options_category_sound	Audio	
+menu_options_category_sound_desc	Modifica le opzioni audio.	
+menu_options_category_language	Lingua	
+menu_options_category_language_desc	Modifica le opzioni della lingua.	
+menu_options_category_input	Controlli	
+menu_options_category_input_desc	Modifica le impostazioni dei tasti.	
+menu_options_category_back	Indietro	
+menu_options_category_back_desc	Torna al menu precedente.	
+menu_options_sound_music	Volume musica	
+menu_options_sound_sound	Volume suoni	
+		
+menu_options_rumble	Vibrazione	Rumble/vibration feature for gamepads
+menu_options_rumble_desc	Regola l'intensità della vibrazione. Trascina all'estrema sinistra per disattivare la vibrazione.	
+menu_options_disable_flashing	Disabilita luci lampeggianti	
+menu_options_disable_flashing_desc	Disabilita alcune luci lampeggianti. Per disabilitare, spunta questa casella e ricarica il gioco.	"*new* changed ""flashing effects"" to ""flashing lights"""
+menu_options_skip_intro	Salta introduzione e informazioni	
+menu_options_skip_intro_desc	Salta le informazioni e le schermate introduttive prima del menu principale.	
+menu_options_lost_focus_pause	Pausa con finestra deselezionata	
+menu_options_lost_focus_pause_desc	Mette il gioco in pausa se la finestra è deselezionata.	
+		
+menu_options_sound_music_desc	Modifica il volume della musica.	
+menu_options_sound_sound_desc	Modifica il volume dei suoni.	
+		
+menu_options_fullscreen	Schermo intero	
+menu_options_fullscreen_desc	Seleziona la modalità schermo intero o finestra.	Computer monitor.
+menu_options_vsync	Vsync	
+menu_options_vsync_desc	Attiva il Vsync. Può ridurre lo screen tearing e il consumo di energia. Può aumentare la latenza dei fotogrammi.	
+menu_options_enable_ao	Ambient Occlusion	
+menu_options_enable_ao_desc	Attiva l'ambient occlusion, aumentando l'ombreggiatura. Ha un forte impatto sulle prestazioni.	
+menu_options_enable_bloom	Bloom	
+menu_options_enable_bloom_desc	Attiva l'effetto Bloom. Ha un impatto medio sulle prestazioni.	
+menu_options_gamma	Luminosità	
+menu_options_gamma_desc	Regola la luminosità (gamma).	
+menu_options_res_scale	Scala risoluzione	
+menu_options_res_scale_desc	Regola la scala di risoluzione del mondo. Per migliorare le prestazioni, usa un parametro basso.	
+menu_options_safe_area_resize	Regolazione overscan	HD
+menu_options_safe_area_resize_desc	Regola le dimensioni del display nell'area dello schermo nel caso il display abbia un overscan e non possa essere impostato per una mappatura 1:1.	HD
+menu_options_screen_custom_scale	Scala Interfaccia di pausa	HD
+menu_options_screen_custom_scale_desc	Modifica la dimensione dell'Interfaccia di pausa in base alla vicinanza e alla grandezza del display.	HD
+menu_options_blackbars	Ultra Widescreen - Bordi neri	HD
+menu_options_blackbars_desc	Bordi neri laterali nei formati Ultra Widescreen invece dell'area visibile ridotta sopra e sotto.	HD
+menu_options_hiqualitylight	Texture luce - Alta qualità	HD 
+menu_options_hiqualitylight_desc	Usa la texture della luce a 16 bit. Evita l'effetto banding. Bassa incidenza sulle prestazioni.	HD 
+		
+menu_options_set_input	Imposta	
+menu_options_clear_input	Ripristina	
+menu_options_reset_all_inputs	Ripristina i controlli	
+menu_options_input_move_up	Guarda in alto/Sali le scale	
+menu_options_input_move_up_desc	Guarda in alto e sali le scale.	
+menu_options_input_move_down	Guarda in basso/Scendi le scale	
+menu_options_input_move_down_desc	Guarda in basso e scendi le scale.	
+menu_options_input_move_left	Muovi a sinistra	
+menu_options_input_move_left_desc	Cammina a sinistra.	
+menu_options_input_move_right	Muovi a destra	
+menu_options_input_move_right_desc	Cammina a destra.	
+menu_options_input_jump	Salta	
+menu_options_input_jump_desc	Salta! Tieni premuto per saltare più in alto.	
+menu_options_input_run	Corri	
+menu_options_input_run_desc	Tieni premuto per correre più veloce. Richiede un potenziamento.	
+menu_options_input_interact	Interagisci	
+menu_options_input_interact_desc	Interagisce con alcuni oggetti e con le persone nelle vicinanze.	
+menu_options_input_talk_to_buddy	Parla al compagno	
+menu_options_input_talk_to_buddy_desc	Parla con il tuo compagno in alcune occasioni.	
+menu_options_input_skip	Salta	
+menu_options_input_skip_desc	Premi due volte per saltare le conversazioni e alcune scene, per esempio quando vendi i minerali.	
+menu_options_input_tool_pickaxe	Usa Piccone	
+menu_options_input_tool_pickaxe_desc	Usa il piccone.	
+menu_options_input_tool_pressurebomb	Usa Bomba a pressione	
+menu_options_input_tool_pressurebomb_desc	Usa la bomba a pressione.	
+menu_options_input_tool_jackhammer	Usa Martello Pneumatico	
+menu_options_input_tool_jackhammer_desc	Tieni premuto per usare il martello pneumatico.	
+menu_options_input_tool_hookshot	Usa Rampino	
+menu_options_input_tool_hookshot_desc	Usa il rampino.	
+		
+menu_options_reset_text	Vuoi ripristinare le impostazioni predefinite?	
+menu_options_reset_title	Reset impostazioni	
+menu_options_reset_controls_text	Vuoi ripristinare le impostazioni predefinite dei tuoi controlli?	
+menu_options_reset_controls_title	Ripristina i controlli	
+		
+# ------ Collectibles -----		
+		
+collectible_amulet	Amuleto di Baal Ahdahli-Dihla	"Pun on Boom boxx song ""Balla da li"""
+collectible_amulet_desc	Senza dubbio più potente di un quadrifoglio portafortuna o di una zampa di coniglio. Gli occhi emettono un bagliore misterioso, e si inizia a sentire caldo. Sbaglio o si sente della musica provenire dall'interno?	
+collectible_amulet_flavor	"""Shalalala-la."""	https://www.youtube.com/watch?v=iVC6nlhU4-E Phrase from song
+		
+collectible_cereal	Ciotola di Cereali	
+collectible_cereal_desc	Un tempo, il pasto più importante della giornata. Ora, i resti essiccati di un mondo perduto.	Pun on Jurassic Park 2 - The lost world
+collectible_cereal_flavor	"""La storia sarà gentile con me, poiché intendo mangiarla."""	"Pun on Winston Churchill quote ""History will be kind to me for I intend to write it."""
+		
+		
+collectible_dead_rat	Rattus Norvegicus	Latin for a rat type
+collectible_dead_rat_desc	Vive a stretto contatto con gli umani, al punto che penseresti che siano cugini. Sono dotati di un'incredibile capacità di apprendimento. Uno di loro è stato persino eletto primo ministro della Norvegia.	
+collectible_dead_rat_flavor	"""Se tu sei quel che mangi, allora io voglio solo mangiare roba buona."""	
+		
+		
+collectible_fertilizer	Fertilizzante	
+collectible_fertilizer_desc	Qualunque grossa creatura abbia lasciato questo incredibile cumulo deve aver mangiato qualcosa di pesante per cena. Puzza di spezie, forse erbe provenzali.	It's poop.
+collectible_fertilizer_flavor	"""Meglio fuori che dentro."""	Bowel movements.
+		
+		
+collectible_scented_candle	Candela Profumata	
+collectible_scented_candle_desc	Con la forma di un teschio caprino. Emana un aroma di paura, distruzione imminente e... sniff sniff... è per caso vaniglia, questa?	http://www.ucl.ac.uk/archaeology/boneview/Interactive%20Components/Mammalian%20Skeleton/Elements/Skull/oviscapralateral.html
+collectible_scented_candle_flavor	"""Ogni atto di creazione è, prima di tutto, un atto di distruzione."""	
+		
+		
+collectible_wrapped_gift	Schrödinger Chi?	Pun on Schrödinger's cat https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat
+collectible_wrapped_gift_desc	Incredibile! Dentro questa scatola ben chiusa potrebbe esserci qualsiasi cosa. Forse una bambola, un pallone da calcio, o forse solo una sagoma e una variazione nella struttura dello spazio.	
+collectible_wrapped_gift_flavor	"""Cosa c'è nella scatola?"""	
+		
+		
+collectible_holy_toast	Santo Toast	"Pun on Expression ""Holy... and then anything"" Like Holy Moly!"
+collectible_holy_toast_desc	Hai presente quando l'universo prova a mandarci dei velati messaggi attraverso le cose più banali? Questa non è una di quelle.	
+collectible_holy_toast_flavor	"""Pasta aspettare, c'è una sorpresa per tè! Lievitati di forno, ho la luna torta."""	Pun on all things bread = BREADy, SOUR = sour dough, DONUT, LOAF = loaf of bread
+		
+		
+collectible_lime_snowman	Pupazzo di Neve al Lime	
+collectible_lime_snowman_desc	I'm dreaming of a liiime Christmaaas...	Spoof on song White Christmas
+collectible_lime_snowman_flavor	"""Fresco come un cocktail mattutino, limpido e verde."""	
+		
+		
+collectible_inflatable_friend	Amico Gonfiabile	
+collectible_inflatable_friend_desc	La solitudine è essere l'unico che si presenta a un appuntamento al buio.	
+collectible_inflatable_friend_flavor	"""La solitudine è l'inquietudine di vivere la vita senza te."""	Lyrics from Celine Dion song All by myself
+		
+		
+collectible_book_groda	Libro per Bambini del Dottor Groda	Groda = Frog in Swedish
+collectible_book_groda_desc	Ahh, caro vecchio dottor Groda! Vede sempre un lato istruttivo nei momenti difficili della vita.	
+collectible_book_groda_flavor	"""Non impantanarti! L'importante è la salute."""	Frogret is a frog pun on word forget.
+		
+		
+collectible_birdie_seeds	Semi Cipicipi Gnam-gnam	"From Peter Sellers movie ""The Party"""
+collectible_birdie_seeds_desc	Noti per essere la prima scelta ai party di Hollywood per nutrire i pappagalli. Una specialità per veri intenditori.	Peter Sellers
+collectible_birdie_seeds_flavor	"""L'uccello in gabbia canta per invidia o per rabbia."""	Pun on old adverb A bird in the hand is worth two in the bush = what you got is more worth than what you don't have
+		
+		
+collectible_straw_doll	Bambola di Paglia per Agopuntura	Woodoo Doll
+collectible_straw_doll_desc	Una creazione eccezionale! Con quelle chiazze di vernice rossa sembra quasi che prenda vita.	
+collectible_straw_doll_flavor	"""Le attività manuali possono avere un effetto positivo sul tuo benessere."""	
+		
+		
+collectible_glowing_goo	Viscidume Luminoso	
+collectible_glowing_goo_desc	Ha un aspetto viscido come poche altre cose al mondo. Cerca di resistere alla tentazione di mettertelo in bocca.	
+collectible_glowing_goo_flavor	"""Anche con un poco di zucchero, il viscidume non va giù."""	Web series.
+		
+		
+collectible_lost_penguin	Foto di un Amore Perduto	 Just a lost lonely penguin that has a photo of his missing loved one. Name shortened from last iteration
+collectible_lost_penguin_desc	È difficile ballare e saltare di gioia quando ti sei perso e l'amore della tua vita è lontano, da qualche parte.	
+collectible_lost_penguin_flavor	"""L'amore di un pinguino dura per sempre."""	True nature fact
+		
+		
+collectible_old_invitations	Vecchi Inviti Mai Aperti	
+collectible_old_invitations_desc	Sogni e speranze, pensieri annotati e poi lasciati a marcire nelle braccia dell'oblio.	
+collectible_old_invitations_flavor	"""Lasciati affrancare."""	
+		
+		
+collectible_sacred_documentation	Documentazione Sacra	
+collectible_sacred_documentation_desc	Immagini commoventi che hanno definito la cultura pop per tutte le generazioni future.	"Celebration of the old hit tv series ""Dallas"""
+collectible_sacred_documentation_flavor	"""Gli intrecci più complessi della vita possono essere risolti con una semplice doccia."""	Character Bobby Ewing, dead since last season, appears in the shower = last season was just a dream.
+		
+		
+collectible_chainsaw	Hallo Katze con Motosega	Spoof on popular brand Hello Kitty, Katze = Cat in german
+collectible_chainsaw_desc	Un marchio molto popolare, con uno dei tanti accessori della serie Texas-style.	
+collectible_chainsaw_flavor	"""Apri la porta del tuo cuore."""	
+		
+		
+collectible_toy_rocket	Razzo giocattolo	
+collectible_toy_rocket_desc	Sogna di raggiungere quella luna che si specchia nel fiume.	Song reference: Moon River by Henry Mancini
+collectible_toy_rocket_flavor	"""Il fiume è dentro di noi, il mare tutto intorno a noi."""	
+		
+		
+collectible_monster_plushy	Mostro di Peluche	Chtuhlu reference
+collectible_monster_plushy_desc	"Un tenero peluche che tiene compagnia ai bambini durante la nanna. Uhm, l'avviso di ""pericolo soffocamento"" sembra sia scritto in sumero, egizio, accadico e altre lingue antiche."	A referense to Chtuhlu,HP Lovecrafts mythical creation
+collectible_monster_plushy_flavor	"""Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn."""	In his house at R'lyeh dead Cthulhu waits dreaming = translation from Lovecrafts fictional language
+		
+		
+collectible_shark_tooth	Dente di Squalo Ginsu	Ginsu sharks lived around 80 million years ago.
+collectible_shark_tooth_desc	Aggressivo e brutale, difficile da tenere pulito.	
+collectible_shark_tooth_flavor	"""Il sogno calcificato di un dentista."""	Calcium, like in teeth and bone
+		
+		
+collectible_rubber_chickens	Sacco di Polli di Gomma	
+collectible_rubber_chickens_desc	L'interno di questo sacco è una cacofonia di versi striduli, baccano e confusione con semplici armonie di tre note.	Pun: Why did the chicken cross the road? Hence crossroads
+collectible_rubber_chickens_flavor	"""Una vera polli-fonia."""	Pun on expression Like poetry to my ears.
+		
+		
+collectible_cake	Torta	Pun on the Cake from game Portal
+collectible_cake_desc	Non c'è premio migliore di una bella torta alla fine di una giornata impegnativa.	
+collectible_cake_flavor	"""Deliziosa. Non è una bugia."""	Lyric from Celebration by kool and the gang
+		
+		
+collectible_banana_peels	Bucce di Banana	
+collectible_banana_peels_desc	Qualcuno ha davvero conservato le bucce? Che cervelli di scimmia.	Expression that's just bananas - that's just crazy
+collectible_banana_peels_flavor	"""Le banane c'entrano sempre!"""	Pun: Fruit flies - they like bananas. If impossible to translate - make up something completely different :)
+		
+		
+collectible_theremin	Theremin	The musical instrument
+collectible_theremin_desc	Il futuro dell'elettronica è qui! Solleva la mano e crea quella strana sensazione che, da qualche parte, qualcuno sia caduto dentro a un pozzo e abbia bisogno di aiuto. A pensarci bene, sembra che non sia stato usato da molto, molto tempo.	
+collectible_theremin_flavor	"""Facile come fischiettare."""	Its original selling text when it was modern!
+		
+		
+collectible_weird_stone	Pietra Strana	
+collectible_weird_stone_desc	La sua interessante forma porta la tua mente verso una nebulosa che implode o verso i canti di un coro.	
+collectible_weird_stone_flavor	"""Quando non riesci a prendere le note giuste, dai la colpa alle stelle."""	
+		
+		
+collectible_action_figure	Action Figure Ninja Cat	
+collectible_action_figure_desc	Segui l'onda dei miao-tanti più popolari del momento: Go Ninja Cat, Go Ninja Cat... GO!	"Tennage mutant ninja turtles spoof: Meow-Taunt = Mutant, then Vanilla Ice lyrics ""Go Ninja Go Ninja Go"" from song Ninja Rap"
+collectible_action_figure_flavor	"""Alla riscossa!"""	April O'Neill character spoof from Turtles
+		
+		
+collectible_fossil	Fossile	
+collectible_fossil_desc	La presenza elettrica di Vectron ha avuto un impatto inaspettato sia sulle creature vive che su quelle fossilizzate del sottosuolo.	See Vectron
+collectible_fossil_flavor	"""L'archeologia è una scienza che scava nelle nostre radici! È una mia impressione, o questi giochi di parole sono pre-isterici...?"""	Pun on pre-historical
+		
+		
+collectible_diary	Diario dell'Esploratrice	
+collectible_diary_desc	Il diario di viaggio di Bree-Anne C.G. Gearson, un'esperta di trivellazioni che si è avventurata negli angoli più bui di Archaea. Accenna alla mancanza di volontari coraggiosi disposti a estendere gli scavi più in profondità. Sebbene sia interamente illustrato con quelli che sembrano essere colori a dita, leggendo le sue parole si può percepire malinconia e amarezza.	See Archaea.
+collectible_diary_flavor	"""Quando scavi in un abisso, l'abisso scava dentro di te."""	
+		
+		
+collectible_fifty	Cinquanta Sfumature di Cliché	Pun on Book Fifty Shades of Gray
+collectible_fifty_desc	Una banale storia condita con una piatta e noiosa materia grigia.	
+collectible_fifty_flavor	"""'Perché non ti piace questo libro?' sussurrò, guardando nei suoi occhi spenti. 'Perché dentro ho cinquanta sfumature di noia, Barbastasia.'"""	"Pun of passage from the book: ""Why don't you like to be touched"" Ana whispered, staring up into soft grey eyes. ""Because I'm fifty shades of fucked-up, Anastasia"""
+		
+		
+		
+collectible_wagon_wheel	Ruota del Carro	
+collectible_wagon_wheel_desc	Attraversando vento e pioggia, molti bot hanno sfidato le loro paure. Gran parte dei loro sogni di fortuna e gloria nelle grandi città non sono stati avverati, finendo sepolti nelle aride dune del Deserto Occidentale.	
+collectible_wagon_wheel_flavor	"""La via dei pionieri è sempre dura."""	
+		
+		
+collectible_black_box	Scatola Nera del Razzo	Like a plane's black box.
+collectible_black_box_desc	La rete nazionale di fanatici della tecnologia, in pratica un'organizzazione di cervelloni so-tutto-io, dovrebbe trarre grandi vantaggi da questi dati.	
+collectible_black_box_flavor	"""Sì, genio, è arancione."""	"An aeroplane's ""black"" box is typically orange even though."
+		
+		
+collectible_red_cloth	Pezzo di Tessuto Rosso	Nod to Character Rusty from Steamworld Dig
+collectible_red_cloth_desc	Cucito con un materiale resistente, deve essersi strappato in seguito a una violenta lotta. Sembra un tipico fazzoletto in stile Far West.	Western, as in from The Wild West.
+collectible_red_cloth_flavor	"""I pionieri sono molto simili alle tartarughe: fanno grandi progressi quando tirano fuori la testa."""	
+		
+		
+collectible_cult_list	"Lista ""Da fare"" della Setta dell'Apocalisse"	
+collectible_cult_list_desc	Trovare divinità della distruzione – Fatto\nSpiegare l'organigramma della setta – Fatto\nSostituire i membri vaporizzati del consiglio – Fatto\nAscoltare le richieste della divinità – Fatto\nDecapitare l'antica statua – Fatto\nComprare il latte – ?\nOrganizzare il pellegrinaggio – Fatto\nPrepararsi per la fine del mondo – In corso	
+collectible_cult_list_flavor	"""E la udii, con voce come di tuono."""	First line of lyrics from Johnny Cash's song The Man comes around. Also in the bible.
+		
+collectible_amiigo	Statuetta Amiigo	Pun on Amiibo, line of Nintendo toys
+collectible_amiigo_desc	Solo ai più venerabili tra i sacerdoti del tempio era permesso prestare il proprio volto per le opere degli antichi artigiani e scultori sacri. Questa, ehm... gloriosa statuetta rappresenta sicuramente un essere supremo e adorato.	
+collectible_amiigo_flavor	"""ATTENZIONE: PERICOLO SOFFOCAMENTO – la statuetta contiene una certa aria di presunzione."""	
+		
+		
+collectible_stone_tablet	Simbolo del Fuoco	
+collectible_stone_tablet_desc	I simboli su questa antica tavola descrivono gli originali fondatori del tempio come una setta di umani che adorava il fuoco. Roba che scotta!	
+collectible_stone_tablet_flavor	"""Là dove non c'è tempio, non vi saranno dimore."""	
+		
+		
+collectible_orchid	Orchidea Radiosa	
+collectible_orchid_desc	Poiché è stata a lungo esposta ai materiali contaminati che fuoriuscivano dalle tubature malconce, la flora di Yarrow è mutata. Alcune creature notturne hanno avuto notevoli difficoltà ad adattarsi alla rottura del ritmo circadiano.	See Yarrow
+collectible_orchid_flavor	"""Il regalo perfetto per un San Valentino al profumo di carbonio."""	carbon dating pun= determin how old things are
+		
+		
+collectible_manual	Manuale INCREA	Pun on swedish brand IKEA
+collectible_manual_desc	Un tempo, questo sistema fai-da-te era essenziale per migliorare l'attrezzatura da miniera. Il nome stampato sul congegno sembrava una parola senza senso, o un'imprecazione tipica di un freddo regno nordico.	You never seem to get all the parts you need.
+collectible_manual_flavor	"""Il diritto di recesso entra 30 giorni non include la spedizione, ma comprende un sorrisetto compiaciuto in omaggio."""	
+		
+		
+collectible_pills	Pillole Gialle	
+collectible_pills_desc	Piccole e gialle, proprio come le pillole dovrebbero essere. La prescrizione scritta a mano dice semplicemente: Doktor Schwester - con un pollice in su disegnato.	Doktor Schwester - A pun because it would be like saying Doctor Nurse.
+collectible_pills_flavor	"""È quello che ha detto il medico."""	
+		
+collectible_painting	Finché c'è vita, c'è speranza	
+collectible_painting_desc	Definiresti questo dipinto come l'elaborazione di un momento creativo, o semplicemente 'grazioso'? In entrambi i casi, un mondo senza arte sarebbe un luogo vuoto e miserabile in cui vivere.	
+collectible_painting_flavor	"""Il mondo senza arte sarebbe proprio... nah."""	
+		
+collectible_six_pack	Confezione da 6 di Succo Speciale	Moon Juice is like moon shine homemade booze but we can't say it's that.
+collectible_six_pack_desc	Il sogno segreto (!) di tutti i Grappisti. Due cose sono certe: ne vanno matti, e diventerebbero matti se rimanessero senza.	caddywompus = crazy
+collectible_six_pack_flavor	"""Molto meglio di ciò a cui somiglia."""	It looks like alcohol but we can't say that it's alcohol.
+		
+collectible_building_plans	Piani di Costruzione Rifiutati	*DEMO*
+collectible_building_plans_desc	Qualcuno è stato molto creativo mentre li respingeva. Ma d'altronde, preferiresti avere (a) una casa costruita su una faglia geologica che si sfracellerà quando meno te lo aspetti o (b) un origami a forma di struzzo?	
+collectible_building_plans_flavor	"""No building no cry – con gli ossequi dell'Ufficio Ispezioni di El Machino."""	Spoof on No Woman No Cry (Bob Marley song)
+		
+collectible_dumbells	Manubri di Rosie	Dumbbells = weight for training
+collectible_dumbells_desc	Un senso di stanchezza muscolare e di insofferenza aleggia intorno a questi manubri consumati.	
+collectible_dumbells_flavor	"""Con l'impegno si ottiene tutto!"""	Nuttin' = Reference to nut, as in nuts and bolts.
+		
+collectible_completion_proof	Prova di Completamento	
+collectible_completion_proof_desc	Ci scusiamo per l'inconveniente.	
+collectible_completion_proof_flavor	"""Come dicono nella cara, vecchia Svezia: De ska va gôtt å gräva!"""	
+		
+# ------ Vectron messages ------		
+message_pre	>	
+message_post	_	
+message_trespasser_text_1	SURGE BOOT: INITIATING THREAT ANALYSIS\n\nDIRECTIVE A, B, COMPILED.  #8F000025.28C40A8\nVCT_SYSTEM_OFFLINE\nAX=000A DIRECTIVE A: BLUE SAVIOR, FAIL LEVEL: CRITICAL BX=7FFF SP=000007C4\nCX=0000 PRE-LOAD DIRECTIVE B: MOON ESCAPE DX=7FFF IP=0800F108\nEX=6060 FX=7FFF XP=080FFFAA\nBACK-UP COMPLETED\nSPACE CAPSULE: SECURE\n\n\nERROR RESULT:	 Error message. Translate only actual words. Keep approximate length between \n.
+message_trespasser_text_2	ANOMALY DETECTED	Part of the error message. Translate.
+message_final_text	DISASTER PROTOCOL\nDIRECTIVE A: BLUE SAVIOR\nINITIATED	 Part of the error message. Translate. Preserve \n. Keep approximate length between \n.
+		
+message_hell_bedrock_01	TEST RESULT:\nTEST SUBJECT PRESSED 3 BUTTONS\nTEST SUBJECT EXPECTS A...REWARD...?\n\nREWARD INITIATED:\n......o..o..o......\n......I..I..I......\n....(VVVVVVVVV)....\n....l--.--.--.l....\n....l.--.--.--l....\n....l_________l....\n...................\n\nOBSERVATION:\nTEST SUBJECT ENJOYED THE REWARD\n\nEXPECTATION: \nCONTINUED MINIMAL SIGNS OF INTELLIGENCE\n	
+message_hell_bedrock_02	TEST SUBJECT INITIATED ESCAPE\n\nTEST SESSION: STOPPED\n\n\nDEACTIVATE TEST CHAMBER\n\nALSO: HIDE THE CAKE	
+		
+# ------ Languages -----		
+language_english	English	Do not translate
+language_spanish	Español	Do not translate
+language_portuguese	Português	Do not translate
+language_italian	Italiano	Do not translate
+language_german	Deutsch	Do not translate
+language_french	Français	Do not translate
+language_russian	Русский	Do not translate
+language_japanese	Japanese	Do not translate
