@@ -122,6 +122,17 @@ describe("extract behavior", () => {
     expect(extract('"next"\t"Next"\r\n')).toStrictEqual([{ key: "_.next", value: "Next" }]);
   });
 
+  it("decodes \\n escape to a real line break", () => {
+    expect(extract("hello\tHi\\nBye\r\n")).toStrictEqual([{ key: "_.hello", value: "Hi\nBye" }]);
+    expect(extract("hello\tHi\tPreserve \\n here\r\n")).toStrictEqual([
+      { key: "_.hello", value: "Hi", metadata: { raw: "Preserve \n here" } },
+    ]);
+    expect(extract("a\tHi\tSpeaker=Fen Notes=Line1\\nLine2\r\n")).toStrictEqual([
+      { key: "_.a", value: "Hi", metadata: { notes: "Line1\nLine2" } },
+      { key: "_.a.Speaker", value: "Fen" },
+    ]);
+  });
+
   it("rejects duplicate key", () => {
     expect(() => extract("dup\tone\r\ndup\ttwo\r\n")).toThrow('duplicate key: "_.dup"');
   });

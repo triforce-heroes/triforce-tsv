@@ -77,25 +77,42 @@ export function isIgnorable(content: string): boolean {
   return true;
 }
 
+const SEPARATOR_PATTERN = /[\t\r\n]/v;
+
+// Files store line breaks as the two-character escape "\n" to keep every row
+// on a single TSV line. Extract decodes it to a real line break, rebuild
+// encodes it back.
+export function unescapeText(value: string): string {
+  return value.replaceAll("\\n", "\n");
+}
+
+export function escapeText(value: string): string {
+  return value.replaceAll("\n", "\\n");
+}
+
 export function parseFields(line: string): string[] {
   if (!line.includes('"')) {
     const first = line.indexOf("\t");
 
     if (first === -1) {
-      return [line];
+      return [unescapeText(line)];
     }
 
     const second = line.indexOf("\t", first + 1);
 
     if (second === -1) {
-      return [line.slice(0, first), line.slice(first + 1)];
+      return [unescapeText(line.slice(0, first)), unescapeText(line.slice(first + 1))];
     }
 
     if (line.includes("\t", second + 1)) {
-      return line.split("\t");
+      return line.split("\t").map((field) => unescapeText(field));
     }
 
-    return [line.slice(0, first), line.slice(first + 1, second), line.slice(second + 1)];
+    return [
+      unescapeText(line.slice(0, first)),
+      unescapeText(line.slice(first + 1, second)),
+      unescapeText(line.slice(second + 1)),
+    ];
   }
 
   const fields: string[] = [];
@@ -145,27 +162,27 @@ export function parseFields(line: string): string[] {
   current += line.slice(segment);
   fields.push(current);
 
-  return fields;
+  return fields.map((field) => unescapeText(field));
 }
 
-const SEPARATOR_PATTERN = /[\t\r\n]/v;
-
 export function serializeField(value: string): string {
-  if (value.length === 0) {
-    return value;
+  const escaped = escapeText(value);
+
+  if (escaped.length === 0) {
+    return escaped;
   }
 
-  const first = value.codePointAt(0);
+  const first = escaped.codePointAt(0);
 
-  if (first !== 34 && first !== 35 && !SEPARATOR_PATTERN.test(value)) {
-    return value;
+  if (first !== 34 && first !== 35 && !SEPARATOR_PATTERN.test(escaped)) {
+    return escaped;
   }
 
-  if (!value.includes('"')) {
-    return `"${value}"`;
+  if (!escaped.includes('"')) {
+    return `"${escaped}"`;
   }
 
-  return `"${value.replaceAll('"', '""')}"`;
+  return `"${escaped.replaceAll('"', '""')}"`;
 }
 
 export function parseMetadata(raw: string): { metadata?: Metadata; speaker?: string } {

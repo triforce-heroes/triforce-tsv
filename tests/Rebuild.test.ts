@@ -46,6 +46,19 @@ describe("roundtrip: Extract + Rebuild", () => {
         'plain\tOi\nquoted\tDiz "oi"\ntabbed\t"a\tb"\n',
       );
     });
+
+    it("encodes real line breaks as \\n", () => {
+      const document: Document = [
+        { key: "_.hello", value: "Hi\nBye" },
+        { key: "_.note", value: "Hi", metadata: { raw: "a\nb" } },
+      ];
+
+      const rebuilt = rebuildRaw(document).toString("utf-8");
+
+      expect(rebuilt).toBe("_.hello\tHi\\nBye\n_.note\tHi\ta\\nb\n");
+      expect(rebuilt).not.toContain("\n\n");
+      expect(extract(rebuilt)).toStrictEqual(document);
+    });
   });
 
   describe("rebuild: selective patch", () => {
@@ -106,6 +119,13 @@ describe("roundtrip: Extract + Rebuild", () => {
         { key: "_.hello", value: "Hi" },
         { key: `_.hello${SPEAKER_SUFFIX}`, value: "Fen" },
       ]);
+    });
+
+    it("escapes patched line breaks as \\n", () => {
+      const rebuilt = rebuild("hello\tHi\n", new Map([["_.hello", "A\nB"]]));
+
+      expect(rebuilt.toString("utf-8")).toBe("hello\tA\\nB\n");
+      expect(extract(rebuilt)).toStrictEqual([{ key: "_.hello", value: "A\nB" }]);
     });
   });
 

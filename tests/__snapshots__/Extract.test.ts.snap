@@ -2083,7 +2083,9 @@ exports[`extract(tests\\fixtures\\de.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "El Machino is the name of the city",
     },
-    "value": "Kehre sofort nach El Machino zurück ohne Ressourcen zu verlieren. Aktiviere diese Fähigkeit im System-Reiter.\\n\\n{format bold}Funktioniert nicht in Höhlen und wenn du in Gefahr bist. Das Symbol der Fähigkeit {image town_portal_small} zeigt dir an, wenn sie verwendet werden kann.{format reset}",
+    "value": "Kehre sofort nach El Machino zurück ohne Ressourcen zu verlieren. Aktiviere diese Fähigkeit im System-Reiter.
+
+{format bold}Funktioniert nicht in Höhlen und wenn du in Gefahr bist. Das Symbol der Fähigkeit {image town_portal_small} zeigt dir an, wenn sie verwendet werden kann.{format reset}",
   },
   {
     "key": "upgrades.upgrade_backpack_town_portal_flavor",
@@ -2515,7 +2517,9 @@ exports[`extract(tests\\fixtures\\de.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": " Text within { } should not be translated.",
     },
-    "value": "Zeigt Markierungen ({image quest_pointer_arrow} und {image quest_pointer_crosshair}) auf deiner Karte zu deinen Questzielen.\\n\\n{format bold}Wenn du es vorziehst, ohne Hilfe zu erkunden, kannst du diese Rädchenmod deaktivieren.{format reset}",
+    "value": "Zeigt Markierungen ({image quest_pointer_arrow} und {image quest_pointer_crosshair}) auf deiner Karte zu deinen Questzielen.
+
+{format bold}Wenn du es vorziehst, ohne Hilfe zu erkunden, kannst du diese Rädchenmod deaktivieren.{format reset}",
   },
   {
     "key": "upgrades.upgrade_minimap_quest_pointer_flavor",
@@ -2566,7 +2570,8 @@ exports[`extract(tests\\fixtures\\de.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "upgrades.upgrade_run_boots_desc",
-    "value": "Halte {indicator run} gedrückt, während du läufst, um zu rennen.\\nDurch rennen kannst du dich schneller bewegen und höher springen.",
+    "value": "Halte {indicator run} gedrückt, während du läufst, um zu rennen.
+Durch rennen kannst du dich schneller bewegen und höher springen.",
   },
   {
     "key": "upgrades.upgrade_run_boots_flavor",
@@ -2610,7 +2615,10 @@ exports[`extract(tests\\fixtures\\de.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "Blood Stone is a resource in the game. Text within { } should not be translated. ",
     },
-    "value": "Du erhältst eine Prämie, aber zu einem Preis.\\nVerdoppelt die Chance, Blutsteine von Gegnern zu erhalten, aber verdoppelt auch den Schaden, den sie dir zufügen.\\n\\n{format bold}Das Aktivieren dieser Rädchenmod macht deine Mission um einiges schwerer. Sie wird nur Veteranen empfohlen.{format reset}",
+    "value": "Du erhältst eine Prämie, aber zu einem Preis.
+Verdoppelt die Chance, Blutsteine von Gegnern zu erhalten, aber verdoppelt auch den Schaden, den sie dir zufügen.
+
+{format bold}Das Aktivieren dieser Rädchenmod macht deine Mission um einiges schwerer. Sie wird nur Veteranen empfohlen.{format reset}",
   },
   {
     "key": "upgrades.upgrade_fate_bloodquest_flavor",
@@ -2625,7 +2633,9 @@ exports[`extract(tests\\fixtures\\de.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "Text within { } should not be translated. ",
     },
-    "value": "Erhalte fürs Gegnerausschalten die doppelten Erfahrungspunkte. Allerdings werden Kugeln nur noch von Gegnern hinterlassen, die du kreativ oder via Boni ausschaltest.\\n\\n{format bold}Das Aktivieren dieser Rädchenmod macht deine Mission um einiges schwerer. Sie wird nur Veteranen empfohlen.{format reset}",
+    "value": "Erhalte fürs Gegnerausschalten die doppelten Erfahrungspunkte. Allerdings werden Kugeln nur noch von Gegnern hinterlassen, die du kreativ oder via Boni ausschaltest.
+
+{format bold}Das Aktivieren dieser Rädchenmod macht deine Mission um einiges schwerer. Sie wird nur Veteranen empfohlen.{format reset}",
   },
   {
     "key": "upgrades.upgrade_fate_xpx2_flavor",
@@ -2643,7 +2653,9 @@ exports[`extract(tests\\fixtures\\de.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "Text within { } should not be translated. ",
     },
-    "value": "Besiegte Gegner explodieren.\\n\\n{format bold}Das Aktivieren dieser Rädchenmod macht deine Mission um einiges schwerer.{format reset}",
+    "value": "Besiegte Gegner explodieren.
+
+{format bold}Das Aktivieren dieser Rädchenmod macht deine Mission um einiges schwerer.{format reset}",
   },
   {
     "key": "upgrades.upgrade_fate_explosions_flavor",
@@ -2676,7 +2688,10 @@ exports[`extract(tests\\fixtures\\de.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "upgrades.upgrade_fate_hell_cave_sigil_desc",
-    "value": "Nahe am Höhepunkt der Einsamkeit\\nDie Umarmung einer jaulenden Wüste\\nIm Himmel wirst du deine Bestimmung finden\\nAn einem wundersamen und wunderschönen Ort",
+    "value": "Nahe am Höhepunkt der Einsamkeit
+Die Umarmung einer jaulenden Wüste
+Im Himmel wirst du deine Bestimmung finden
+An einem wundersamen und wunderschönen Ort",
   },
   {
     "key": "upgrades.upgrade_fate_hell_cave_sigil_flavor",
@@ -2691,7 +2706,8 @@ exports[`extract(tests\\fixtures\\de.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "upgrades.upgrade_steampack_desc",
-    "value": "Halte {indicator jump} gedrückt, um zu fliegen.\\n Dieses experimentelle Dieseltriebwerk verbraucht zwar kein Wasser, überhitzt allerdings schnell.",
+    "value": "Halte {indicator jump} gedrückt, um zu fliegen.
+ Dieses experimentelle Dieseltriebwerk verbraucht zwar kein Wasser, überhitzt allerdings schnell.",
   },
   {
     "key": "upgrades.upgrade_steampack_next_level_desc",
@@ -2793,7 +2809,8 @@ exports[`extract(tests\\fixtures\\de.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "upgrades.upgrade_pressurebomb_desc",
-    "value": "Kann nach vorne, oben oder unten geworfen werden. Verbraucht Wasser.\\nDrücke {indicator tool_pressurebomb}, um sie zu werfen!",
+    "value": "Kann nach vorne, oben oder unten geworfen werden. Verbraucht Wasser.
+Drücke {indicator tool_pressurebomb}, um sie zu werfen!",
   },
   {
     "key": "upgrades.upgrade_pressurebomb_next_level_desc",
@@ -3399,7 +3416,8 @@ exports[`extract(tests\\fixtures\\de.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "Death popup end text appended to the variants above",
     },
-    "value": "\\nDu wirst in der Stadt wieder zusammengesetzt.",
+    "value": "
+Du wirst in der Stadt wieder zusammengesetzt.",
   },
   {
     "key": "popups.popup_died_checkpoint_title",
@@ -3415,19 +3433,27 @@ exports[`extract(tests\\fixtures\\de.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "popups.popup_inventory_discard_text",
-    "value": "Möchtest du %1%x %2% wegwerfen?\\n\\nWeggeworfene Ressourcen gehen für immer verloren.",
+    "value": "Möchtest du %1%x %2% wegwerfen?
+
+Weggeworfene Ressourcen gehen für immer verloren.",
   },
   {
     "key": "popups.popup_inventory_discard_give_money_text",
-    "value": "Möchtest du %1%x %2% wegwerfen?\\n\\nDu erhältst für die weggeworfenen Ressourcen $%3%{image money_small} von $%4%{image money_small}.",
+    "value": "Möchtest du %1%x %2% wegwerfen?
+
+Du erhältst für die weggeworfenen Ressourcen $%3%{image money_small} von $%4%{image money_small}.",
   },
   {
     "key": "popups.popup_inventory_discard_give_health_text",
-    "value": "Möchtest du %1%x %2% wegwerfen?\\n\\nDu stellst für weggeworfene Gegenstände %3% Gesundheit wieder her.",
+    "value": "Möchtest du %1%x %2% wegwerfen?
+
+Du stellst für weggeworfene Gegenstände %3% Gesundheit wieder her.",
   },
   {
     "key": "popups.popup_inventory_discard_give_money_and_health_text",
-    "value": "Möchtest du %1%x %2% wegwerfen?\\n\\nDu erhältst für weggeworfene Gegenstände $%3%{image money_small} von $%4%{image money_small} und stellst %5% Gesundheit wieder her.",
+    "value": "Möchtest du %1%x %2% wegwerfen?
+
+Du erhältst für weggeworfene Gegenstände $%3%{image money_small} von $%4%{image money_small} und stellst %5% Gesundheit wieder her.",
   },
   {
     "key": "popups.popup_find_map_title",
@@ -3450,11 +3476,15 @@ exports[`extract(tests\\fixtures\\de.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "popups.popup_press_input_text_gamepad",
-    "value": "Drücke einen beliebigen Knopf, um ihm diese Aktion zuzuweisen.\\n\\nDrücke {indicator menu_pause} um abzubrechen.",
+    "value": "Drücke einen beliebigen Knopf, um ihm diese Aktion zuzuweisen.
+
+Drücke {indicator menu_pause} um abzubrechen.",
   },
   {
     "key": "popups.popup_press_input_text_keyboard",
-    "value": "Drücke eine beliebige Taste, um ihr diese Aktion zuzuweisen.\\n\\nDrücke {indicator menu_pause} um abzubrechen.",
+    "value": "Drücke eine beliebige Taste, um ihr diese Aktion zuzuweisen.
+
+Drücke {indicator menu_pause} um abzubrechen.",
   },
   {
     "key": "popups.popup_wrong_input_type_title",
@@ -3489,7 +3519,9 @@ exports[`extract(tests\\fixtures\\de.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "popups.popup_tools_screen_enable_cog_text",
-    "value": "Diese Rädchenmod erhöht die Schwierigkeit deiner Mission – und möglicherweise deinen Spaß!\\n\\nBist du dir sicher, dass du sie aktivieren willst?",
+    "value": "Diese Rädchenmod erhöht die Schwierigkeit deiner Mission – und möglicherweise deinen Spaß!
+
+Bist du dir sicher, dass du sie aktivieren willst?",
   },
   {
     "key": "popups.popup_difficulty_title",
@@ -3500,14 +3532,16 @@ exports[`extract(tests\\fixtures\\de.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": " Text when setting difficulty before a new game.",
     },
-    "value": "Welchen Schwierigkeitsgrad bevorzugst du?\\nDie Einstellung kann jederzeit geändert werden.",
+    "value": "Welchen Schwierigkeitsgrad bevorzugst du?
+Die Einstellung kann jederzeit geändert werden.",
   },
   {
     "key": "popups.popup_difficulty_change_text",
     "metadata": {
       "raw": " Text when changing difficulty in game. %1% is the name of the current difficulty.",
     },
-    "value": "Welchen Schwierigkeitsgrad bevorzugst du?\\nAktuelle Schwierigkeit: %1%",
+    "value": "Welchen Schwierigkeitsgrad bevorzugst du?
+Aktuelle Schwierigkeit: %1%",
   },
   {
     "key": "menus.main_menu_start",
@@ -3625,7 +3659,9 @@ exports[`extract(tests\\fixtures\\de.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "menus.menu_epilepsy_info_text",
-    "value": "Dieses Spiel enthält Szenen, die epileptische Anfälle auslösen können. \\n\\nSiehe "Lichteffekte deaktivieren" unter "Optionen", um das Risiko zu minimieren.",
+    "value": "Dieses Spiel enthält Szenen, die epileptische Anfälle auslösen können. 
+
+Siehe "Lichteffekte deaktivieren" unter "Optionen", um das Risiko zu minimieren.",
   },
   {
     "key": "menus.menu_xp_level",
@@ -3807,7 +3843,8 @@ exports[`extract(tests\\fixtures\\de.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "map_screen.menu_map_secrets",
-    "value": "%1%\\nGeheimnisse: %2%%%",
+    "value": "%1%
+Geheimnisse: %2%%%",
   },
   {
     "key": "map_screen.menu_map_no_secrets",
@@ -4324,7 +4361,8 @@ exports[`extract(tests\\fixtures\\de.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "system_menu.popup_exittomenu_text",
-    "value": "Ungespeicherter Fortschritt geht verloren. Möchtest du wirklich zum Hauptmenü zurückkehren?\\nLetzter Speichervorgang vor: %1% Min., %2% Sek.",
+    "value": "Ungespeicherter Fortschritt geht verloren. Möchtest du wirklich zum Hauptmenü zurückkehren?
+Letzter Speichervorgang vor: %1% Min., %2% Sek.",
   },
   {
     "key": "system_menu.popup_selfdestruct_title",
@@ -5268,7 +5306,14 @@ exports[`extract(tests\\fixtures\\de.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "collectibles.collectible_cult_list_desc",
-    "value": "Göttliche Entität der Zerstörung ausfindig machen – Fertig\\nOrganisationsschaubild des Kults erläutern – Fertig\\nVaporisierte Mitglieder des Komitees ersetzen – Fertig\\nWünsche der Entität vernehmen – Fertig\\nAlte Statue enthaupten – Fertig\\nMilch kaufen – ?\\nPilgerreise ausrichten – Fertig\\nAuf das Ende der Welt vorbereiten – in Arbeit",
+    "value": "Göttliche Entität der Zerstörung ausfindig machen – Fertig
+Organisationsschaubild des Kults erläutern – Fertig
+Vaporisierte Mitglieder des Komitees ersetzen – Fertig
+Wünsche der Entität vernehmen – Fertig
+Alte Statue enthaupten – Fertig
+Milch kaufen – ?
+Pilgerreise ausrichten – Fertig
+Auf das Ende der Welt vorbereiten – in Arbeit",
   },
   {
     "key": "collectibles.collectible_cult_list_flavor",
@@ -5365,7 +5410,9 @@ exports[`extract(tests\\fixtures\\de.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "collectibles.collectible_painting_flavor",
-    "value": ""Ein schönes Gemälde, nicht wahr?\\nWie heißt dieser Künstler?\\nVincent der Koch!"",
+    "value": ""Ein schönes Gemälde, nicht wahr?
+Wie heißt dieser Künstler?
+Vincent der Koch!"",
   },
   {
     "key": "collectibles.collectible_six_pack",
@@ -5447,9 +5494,21 @@ exports[`extract(tests\\fixtures\\de.csv) function > matches snapshot > tests\\f
   {
     "key": "vectron_messages.message_trespasser_text_1",
     "metadata": {
-      "raw": " Error message. Translate only actual words. Keep approximate length between \\n.",
+      "raw": " Error message. Translate only actual words. Keep approximate length between 
+.",
     },
-    "value": "SURGE BOOT: INITIATING THREAT ANALYSIS\\n\\nDIRECTIVE A, B, COMPILED.  #8F000025.28C40A8\\nVCT_SYSTEM_OFFLINE\\nAX=000A DIRECTIVE A: BLUE SAVIOR, FAIL LEVEL: CRITICAL BX=7FFF SP=000007C4\\nCX=0000 PRE-LOAD DIRECTIVE B: MOON ESCAPE DX=7FFF IP=0800F108\\nEX=6060 FX=7FFF XP=080FFFAA\\nBACK-UP COMPLETED\\nSPACE CAPSULE: SECURE\\n\\n\\nERROR RESULT:",
+    "value": "SURGE BOOT: INITIATING THREAT ANALYSIS
+
+DIRECTIVE A, B, COMPILED.  #8F000025.28C40A8
+VCT_SYSTEM_OFFLINE
+AX=000A DIRECTIVE A: BLUE SAVIOR, FAIL LEVEL: CRITICAL BX=7FFF SP=000007C4
+CX=0000 PRE-LOAD DIRECTIVE B: MOON ESCAPE DX=7FFF IP=0800F108
+EX=6060 FX=7FFF XP=080FFFAA
+BACK-UP COMPLETED
+SPACE CAPSULE: SECURE
+
+
+ERROR RESULT:",
   },
   {
     "key": "vectron_messages.message_trespasser_text_2",
@@ -5461,17 +5520,46 @@ exports[`extract(tests\\fixtures\\de.csv) function > matches snapshot > tests\\f
   {
     "key": "vectron_messages.message_final_text",
     "metadata": {
-      "raw": " Part of the error message. Translate. Preserve \\n. Keep approximate length between \\n.",
+      "raw": " Part of the error message. Translate. Preserve 
+. Keep approximate length between 
+.",
     },
-    "value": "DISASTER PROTOCOL\\nDIRECTIVE A: BLUE SAVIOR\\nINITIATED",
+    "value": "DISASTER PROTOCOL
+DIRECTIVE A: BLUE SAVIOR
+INITIATED",
   },
   {
     "key": "vectron_messages.message_hell_bedrock_01",
-    "value": "TEST RESULT:\\nTEST SUBJECT PRESSED 3 BUTTONS\\nTEST SUBJECT EXPECTS A...REWARD...?\\n\\nREWARD INITIATED:\\n......o..o..o......\\n......I..I..I......\\n....(VVVVVVVVV)....\\n....l--.--.--.l....\\n....l.--.--.--l....\\n....l_________l....\\n...................\\n\\nOBSERVATION:\\nTEST SUBJECT ENJOYED THE REWARD\\n\\nEXPECTATION: \\nCONTINUED MINIMAL SIGNS OF INTELLIGENCE\\n",
+    "value": "TEST RESULT:
+TEST SUBJECT PRESSED 3 BUTTONS
+TEST SUBJECT EXPECTS A...REWARD...?
+
+REWARD INITIATED:
+......o..o..o......
+......I..I..I......
+....(VVVVVVVVV)....
+....l--.--.--.l....
+....l.--.--.--l....
+....l_________l....
+...................
+
+OBSERVATION:
+TEST SUBJECT ENJOYED THE REWARD
+
+EXPECTATION: 
+CONTINUED MINIMAL SIGNS OF INTELLIGENCE
+",
   },
   {
     "key": "vectron_messages.message_hell_bedrock_02",
-    "value": "TEST SUBJECT INITIATED ESCAPE\\n\\nTEST SESSION: STOPPED\\n\\n\\nDEACTIVATE TEST CHAMBER\\n\\nALSO: HIDE THE CAKE",
+    "value": "TEST SUBJECT INITIATED ESCAPE
+
+TEST SESSION: STOPPED
+
+
+DEACTIVATE TEST CHAMBER
+
+ALSO: HIDE THE CAKE",
   },
   {
     "key": "languages.language_english",
@@ -11751,7 +11839,8 @@ exports[`extract(tests\\fixtures\\de_conversations.csv) function > matches snaps
   {
     "key": "guarding_hub.conversation_z2w2u3_text",
     "metadata": {
-      "notes": "*format* *new* also removed the line break (\\n}",
+      "notes": "*format* *new* also removed the line break (
+}",
     },
     "value": "H-h-h-heeeey! Wie is'n deine Meinung?",
   },
@@ -17795,7 +17884,8 @@ exports[`extract(tests\\fixtures\\de_conversations.csv) function > matches snaps
     "metadata": {
       "notes": "*new*",
     },
-    "value": ""Kein Düsenantrieb, \\nkein Greifhaken erlaubt."",
+    "value": ""Kein Düsenantrieb, 
+kein Greifhaken erlaubt."",
   },
   {
     "key": "sign_trials_no_hook_jetpack.conversation_cbb9jh_text.Speaker",
@@ -17850,7 +17940,10 @@ exports[`extract(tests\\fixtures\\de_conversations.csv) function > matches snaps
     "metadata": {
       "notes": "*TEMP* *NEW*",
     },
-    "value": ""Bleibt die Tür verschlossen\\nWar die Lava dir nicht wohlgesonnen\\nSelbst die kleinste Berührung\\nKomme herein von Neuem"",
+    "value": ""Bleibt die Tür verschlossen
+War die Lava dir nicht wohlgesonnen
+Selbst die kleinste Berührung
+Komme herein von Neuem"",
   },
   {
     "key": "sign_floor_is_lava.conversation_nol9uu_text.Speaker",
@@ -19936,7 +20029,9 @@ exports[`extract(tests\\fixtures\\en.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "El Machino is the name of the city",
     },
-    "value": "Lets you return to El Machino instantly without losing any resources. Activate this ability in the System tab.\\n\\n{format bold}Disabled in caves and when you are in danger. The ability icon {image town_portal_small} shows you when it can be used.{format reset}",
+    "value": "Lets you return to El Machino instantly without losing any resources. Activate this ability in the System tab.
+
+{format bold}Disabled in caves and when you are in danger. The ability icon {image town_portal_small} shows you when it can be used.{format reset}",
   },
   {
     "key": "upgrades.upgrade_backpack_town_portal_flavor",
@@ -20368,7 +20463,9 @@ exports[`extract(tests\\fixtures\\en.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": " Text within { } should not be translated.",
     },
-    "value": "Shows markers ({image quest_pointer_arrow} and {image quest_pointer_crosshair}) on your map to your quest destinations. \\n\\n{format bold}If you prefer exploration without guidance, disable this Cog Mod.{format reset}",
+    "value": "Shows markers ({image quest_pointer_arrow} and {image quest_pointer_crosshair}) on your map to your quest destinations. 
+
+{format bold}If you prefer exploration without guidance, disable this Cog Mod.{format reset}",
   },
   {
     "key": "upgrades.upgrade_minimap_quest_pointer_flavor",
@@ -20419,7 +20516,8 @@ exports[`extract(tests\\fixtures\\en.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "upgrades.upgrade_run_boots_desc",
-    "value": "To run, hold {indicator run} while moving.\\nRunning makes you move faster and jump higher.",
+    "value": "To run, hold {indicator run} while moving.
+Running makes you move faster and jump higher.",
   },
   {
     "key": "upgrades.upgrade_run_boots_flavor",
@@ -20463,7 +20561,10 @@ exports[`extract(tests\\fixtures\\en.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "Blood Stone is a resource in the game. Text within { } should not be translated. ",
     },
-    "value": "Gain bounty at the price of blood!\\nDoubles the chance to get blood stones when enemies die, but also increases the damage they do to you.\\n\\n{format bold}Activating this Cog Mod will make your quest much harder. It is only recommended for veterans.{format reset}",
+    "value": "Gain bounty at the price of blood!
+Doubles the chance to get blood stones when enemies die, but also increases the damage they do to you.
+
+{format bold}Activating this Cog Mod will make your quest much harder. It is only recommended for veterans.{format reset}",
   },
   {
     "key": "upgrades.upgrade_fate_bloodquest_flavor",
@@ -20478,7 +20579,9 @@ exports[`extract(tests\\fixtures\\en.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "Text within { } should not be translated. ",
     },
-    "value": "Doubles XP from kills, but enemies only drop orbs from creative kills or bonuses.\\n\\n{format bold}Activating this Cog Mod will make your quest much harder. It is only recommended for veterans.{format reset}",
+    "value": "Doubles XP from kills, but enemies only drop orbs from creative kills or bonuses.
+
+{format bold}Activating this Cog Mod will make your quest much harder. It is only recommended for veterans.{format reset}",
   },
   {
     "key": "upgrades.upgrade_fate_xpx2_flavor",
@@ -20496,7 +20599,9 @@ exports[`extract(tests\\fixtures\\en.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "Text within { } should not be translated. ",
     },
-    "value": "Enemies explode upon dying.\\n\\n{format bold}Activating this Cog Mod will make your quest much harder.{format reset}",
+    "value": "Enemies explode upon dying.
+
+{format bold}Activating this Cog Mod will make your quest much harder.{format reset}",
   },
   {
     "key": "upgrades.upgrade_fate_explosions_flavor",
@@ -20529,7 +20634,10 @@ exports[`extract(tests\\fixtures\\en.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "upgrades.upgrade_fate_hell_cave_sigil_desc",
-    "value": "Close to the peak of solitude\\nA howling desert embrace\\nTake to the skies to seal your fate\\nIn a strange and wonderful place",
+    "value": "Close to the peak of solitude
+A howling desert embrace
+Take to the skies to seal your fate
+In a strange and wonderful place",
   },
   {
     "key": "upgrades.upgrade_fate_hell_cave_sigil_flavor",
@@ -20544,7 +20652,8 @@ exports[`extract(tests\\fixtures\\en.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "upgrades.upgrade_steampack_desc",
-    "value": "To fly, hold {indicator jump}.\\nThis experimental diesel combustion engine uses no water, but overheats quickly.",
+    "value": "To fly, hold {indicator jump}.
+This experimental diesel combustion engine uses no water, but overheats quickly.",
   },
   {
     "key": "upgrades.upgrade_steampack_next_level_desc",
@@ -20646,7 +20755,8 @@ exports[`extract(tests\\fixtures\\en.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "upgrades.upgrade_pressurebomb_desc",
-    "value": "Can be thrown forward, up or down. Consumes water.\\nPress {indicator tool_pressurebomb} to throw!",
+    "value": "Can be thrown forward, up or down. Consumes water.
+Press {indicator tool_pressurebomb} to throw!",
   },
   {
     "key": "upgrades.upgrade_pressurebomb_next_level_desc",
@@ -21252,7 +21362,8 @@ exports[`extract(tests\\fixtures\\en.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "Death popup end text appended to the variants above",
     },
-    "value": "\\nYou will be reassembled in town.",
+    "value": "
+You will be reassembled in town.",
   },
   {
     "key": "popups.popup_died_checkpoint_title",
@@ -21268,19 +21379,27 @@ exports[`extract(tests\\fixtures\\en.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "popups.popup_inventory_discard_text",
-    "value": "Do you want to discard %1% x %2%?\\n\\nDiscarded resources are lost forever.",
+    "value": "Do you want to discard %1% x %2%?
+
+Discarded resources are lost forever.",
   },
   {
     "key": "popups.popup_inventory_discard_give_money_text",
-    "value": "Do you want to discard %1%x %2%?\\n\\nYou'll get $%3%{image money_small} (out of $%4%{image money_small}) for the discarded resources.",
+    "value": "Do you want to discard %1%x %2%?
+
+You'll get $%3%{image money_small} (out of $%4%{image money_small}) for the discarded resources.",
   },
   {
     "key": "popups.popup_inventory_discard_give_health_text",
-    "value": "Do you want to discard %1%x %2%?\\n\\nYou'll have %3% health restored for the discarded resources.",
+    "value": "Do you want to discard %1%x %2%?
+
+You'll have %3% health restored for the discarded resources.",
   },
   {
     "key": "popups.popup_inventory_discard_give_money_and_health_text",
-    "value": "Do you want to discard %1%x %2%?\\n\\nYou'll get $%3%{image money_small} (out of $%4%{image money_small}) and have %5% health restored for the discarded resources.",
+    "value": "Do you want to discard %1%x %2%?
+
+You'll get $%3%{image money_small} (out of $%4%{image money_small}) and have %5% health restored for the discarded resources.",
   },
   {
     "key": "popups.popup_find_map_title",
@@ -21303,11 +21422,15 @@ exports[`extract(tests\\fixtures\\en.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "popups.popup_press_input_text_gamepad",
-    "value": "Press any button to assign it to this action.\\n\\nPress {indicator menu_pause} to cancel.",
+    "value": "Press any button to assign it to this action.
+
+Press {indicator menu_pause} to cancel.",
   },
   {
     "key": "popups.popup_press_input_text_keyboard",
-    "value": "Press any key to assign it to this action.\\n\\nPress {indicator menu_pause} to cancel.",
+    "value": "Press any key to assign it to this action.
+
+Press {indicator menu_pause} to cancel.",
   },
   {
     "key": "popups.popup_wrong_input_type_title",
@@ -21342,7 +21465,9 @@ exports[`extract(tests\\fixtures\\en.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "popups.popup_tools_screen_enable_cog_text",
-    "value": "This Cog Mod will make your quest more difficult - and perhaps more fun!\\n\\nAre you sure you want to enable it?",
+    "value": "This Cog Mod will make your quest more difficult - and perhaps more fun!
+
+Are you sure you want to enable it?",
   },
   {
     "key": "popups.popup_difficulty_title",
@@ -21353,14 +21478,16 @@ exports[`extract(tests\\fixtures\\en.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": " Text when setting difficulty before a new game.",
     },
-    "value": "What level of challenge do you prefer?\\nSetting can be changed at any time.",
+    "value": "What level of challenge do you prefer?
+Setting can be changed at any time.",
   },
   {
     "key": "popups.popup_difficulty_change_text",
     "metadata": {
       "raw": " Text when changing difficulty in game. %1% is the name of the current difficulty.",
     },
-    "value": "What level of challenge do you prefer?\\nCurrent difficulty: %1%",
+    "value": "What level of challenge do you prefer?
+Current difficulty: %1%",
   },
   {
     "key": "menus.main_menu_start",
@@ -21478,7 +21605,9 @@ exports[`extract(tests\\fixtures\\en.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "menus.menu_epilepsy_info_text",
-    "value": "This game contains scenes that could potentially trigger epileptic seizures. \\n\\nTo minimize the risk of this, see "Disable Flashing" in the "Options" menu.",
+    "value": "This game contains scenes that could potentially trigger epileptic seizures. 
+
+To minimize the risk of this, see "Disable Flashing" in the "Options" menu.",
   },
   {
     "key": "menus.menu_xp_level",
@@ -21660,7 +21789,8 @@ exports[`extract(tests\\fixtures\\en.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "map_screen.menu_map_secrets",
-    "value": "%1%\\nSecrets: %2%%%",
+    "value": "%1%
+Secrets: %2%%%",
   },
   {
     "key": "map_screen.menu_map_no_secrets",
@@ -22177,7 +22307,8 @@ exports[`extract(tests\\fixtures\\en.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "system_menu.popup_exittomenu_text",
-    "value": "Unsaved progress will be lost. Are you sure you want to return to the main menu?\\nTime since last save: %1% min, %2% sec",
+    "value": "Unsaved progress will be lost. Are you sure you want to return to the main menu?
+Time since last save: %1% min, %2% sec",
   },
   {
     "key": "system_menu.popup_selfdestruct_title",
@@ -23121,7 +23252,14 @@ exports[`extract(tests\\fixtures\\en.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "collectibles.collectible_cult_list_desc",
-    "value": "Find divine entity of destruction – Check\\nExplain cult's organization chart – Check\\nReplace vaporized members of the committee – Check\\nListen to entity's demands – Check\\nDecapitate old statue – Check\\nBuy milk – ?\\nEstablish pilgrimage – Check\\nPrepare for end of the world – In progress",
+    "value": "Find divine entity of destruction – Check
+Explain cult's organization chart – Check
+Replace vaporized members of the committee – Check
+Listen to entity's demands – Check
+Decapitate old statue – Check
+Buy milk – ?
+Establish pilgrimage – Check
+Prepare for end of the world – In progress",
   },
   {
     "key": "collectibles.collectible_cult_list_flavor",
@@ -23300,9 +23438,21 @@ exports[`extract(tests\\fixtures\\en.csv) function > matches snapshot > tests\\f
   {
     "key": "vectron_messages.message_trespasser_text_1",
     "metadata": {
-      "raw": " Error message. Translate only actual words. Keep approximate length between \\n.",
+      "raw": " Error message. Translate only actual words. Keep approximate length between 
+.",
     },
-    "value": "SURGE BOOT: INITIATING THREAT ANALYSIS\\n\\nDIRECTIVE A, B, COMPILED.  #8F000025.28C40A8\\nVCT_SYSTEM_OFFLINE\\nAX=000A DIRECTIVE A: BLUE SAVIOR, FAIL LEVEL: CRITICAL BX=7FFF SP=000007C4\\nCX=0000 PRE-LOAD DIRECTIVE B: MOON ESCAPE DX=7FFF IP=0800F108\\nEX=6060 FX=7FFF XP=080FFFAA\\nBACK-UP COMPLETED\\nSPACE CAPSULE: SECURE\\n\\n\\nERROR RESULT:",
+    "value": "SURGE BOOT: INITIATING THREAT ANALYSIS
+
+DIRECTIVE A, B, COMPILED.  #8F000025.28C40A8
+VCT_SYSTEM_OFFLINE
+AX=000A DIRECTIVE A: BLUE SAVIOR, FAIL LEVEL: CRITICAL BX=7FFF SP=000007C4
+CX=0000 PRE-LOAD DIRECTIVE B: MOON ESCAPE DX=7FFF IP=0800F108
+EX=6060 FX=7FFF XP=080FFFAA
+BACK-UP COMPLETED
+SPACE CAPSULE: SECURE
+
+
+ERROR RESULT:",
   },
   {
     "key": "vectron_messages.message_trespasser_text_2",
@@ -23314,17 +23464,46 @@ exports[`extract(tests\\fixtures\\en.csv) function > matches snapshot > tests\\f
   {
     "key": "vectron_messages.message_final_text",
     "metadata": {
-      "raw": " Part of the error message. Translate. Preserve \\n. Keep approximate length between \\n.",
+      "raw": " Part of the error message. Translate. Preserve 
+. Keep approximate length between 
+.",
     },
-    "value": "DISASTER PROTOCOL\\nDIRECTIVE A: BLUE SAVIOR\\nINITIATED",
+    "value": "DISASTER PROTOCOL
+DIRECTIVE A: BLUE SAVIOR
+INITIATED",
   },
   {
     "key": "vectron_messages.message_hell_bedrock_01",
-    "value": "TEST RESULT:\\nTEST SUBJECT PRESSED 3 BUTTONS\\nTEST SUBJECT EXPECTS A...REWARD...?\\n\\nREWARD INITIATED:\\n......o..o..o......\\n......I..I..I......\\n....(VVVVVVVVV)....\\n....l--.--.--.l....\\n....l.--.--.--l....\\n....l_________l....\\n...................\\n\\nOBSERVATION:\\nTEST SUBJECT ENJOYED THE REWARD\\n\\nEXPECTATION: \\nCONTINUED MINIMAL SIGNS OF INTELLIGENCE\\n",
+    "value": "TEST RESULT:
+TEST SUBJECT PRESSED 3 BUTTONS
+TEST SUBJECT EXPECTS A...REWARD...?
+
+REWARD INITIATED:
+......o..o..o......
+......I..I..I......
+....(VVVVVVVVV)....
+....l--.--.--.l....
+....l.--.--.--l....
+....l_________l....
+...................
+
+OBSERVATION:
+TEST SUBJECT ENJOYED THE REWARD
+
+EXPECTATION: 
+CONTINUED MINIMAL SIGNS OF INTELLIGENCE
+",
   },
   {
     "key": "vectron_messages.message_hell_bedrock_02",
-    "value": "TEST SUBJECT INITIATED ESCAPE\\n\\nTEST SESSION: STOPPED\\n\\n\\nDEACTIVATE TEST CHAMBER\\n\\nALSO: HIDE THE CAKE",
+    "value": "TEST SUBJECT INITIATED ESCAPE
+
+TEST SESSION: STOPPED
+
+
+DEACTIVATE TEST CHAMBER
+
+ALSO: HIDE THE CAKE",
   },
   {
     "key": "languages.language_english",
@@ -29604,7 +29783,8 @@ exports[`extract(tests\\fixtures\\en_conversations.csv) function > matches snaps
   {
     "key": "guarding_hub.conversation_z2w2u3_text",
     "metadata": {
-      "notes": "*format* *new* also removed the line break (\\n}",
+      "notes": "*format* *new* also removed the line break (
+}",
     },
     "value": "H-h-h-heeeey! Wedya shink yagon?",
   },
@@ -35648,7 +35828,8 @@ exports[`extract(tests\\fixtures\\en_conversations.csv) function > matches snaps
     "metadata": {
       "notes": "*new*",
     },
-    "value": ""No Jet Engine, \\nno Hook Shot allowed."",
+    "value": ""No Jet Engine, 
+no Hook Shot allowed."",
   },
   {
     "key": "sign_trials_no_hook_jetpack.conversation_cbb9jh_text.Speaker",
@@ -35703,7 +35884,10 @@ exports[`extract(tests\\fixtures\\en_conversations.csv) function > matches snaps
     "metadata": {
       "notes": "*TEMP* *NEW*",
     },
-    "value": ""If the door remains shut\\nThe lava has not been your friend\\nEven the slightest touch\\nLeave and enter again"",
+    "value": ""If the door remains shut
+The lava has not been your friend
+Even the slightest touch
+Leave and enter again"",
   },
   {
     "key": "sign_floor_is_lava.conversation_nol9uu_text.Speaker",
@@ -37795,7 +37979,9 @@ exports[`extract(tests\\fixtures\\es.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "El Machino is the name of the city",
     },
-    "value": "Te permite volver a El Machino instantáneamente sin perder recursos. Activa esta habilidad en la pestaña de Sistema.\\n\\n{format bold}Deshabilitado en cuevas y cuando estás en peligro. El icono de habilidad {image town_portal_small} te muestra cuándo la puedes usar.{format reset}",
+    "value": "Te permite volver a El Machino instantáneamente sin perder recursos. Activa esta habilidad en la pestaña de Sistema.
+
+{format bold}Deshabilitado en cuevas y cuando estás en peligro. El icono de habilidad {image town_portal_small} te muestra cuándo la puedes usar.{format reset}",
   },
   {
     "key": "upgrades.upgrade_backpack_town_portal_flavor",
@@ -38227,7 +38413,9 @@ exports[`extract(tests\\fixtures\\es.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": " Text within { } should not be translated.",
     },
-    "value": "Muestra los marcadores ({image quest_pointer_arrow} y {image quest_pointer_crosshair}) en el mapa hacia tu destino de misión.\\n\\n{format bold}Si prefieres explorar sin ayuda, desactiva este engranaje modificador.{format reset}",
+    "value": "Muestra los marcadores ({image quest_pointer_arrow} y {image quest_pointer_crosshair}) en el mapa hacia tu destino de misión.
+
+{format bold}Si prefieres explorar sin ayuda, desactiva este engranaje modificador.{format reset}",
   },
   {
     "key": "upgrades.upgrade_minimap_quest_pointer_flavor",
@@ -38278,7 +38466,8 @@ exports[`extract(tests\\fixtures\\es.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "upgrades.upgrade_run_boots_desc",
-    "value": "Mantén {indicator run} para correr.\\nSi corres, te mueves más rápido y saltas más alto.",
+    "value": "Mantén {indicator run} para correr.
+Si corres, te mueves más rápido y saltas más alto.",
   },
   {
     "key": "upgrades.upgrade_run_boots_flavor",
@@ -38322,7 +38511,10 @@ exports[`extract(tests\\fixtures\\es.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "Blood Stone is a resource in the game. Text within { } should not be translated. ",
     },
-    "value": "¡Derrama sangre para ganar recompensas!\\nDuplica las posibilidades de obtener piedras de sangre cuando los enemigos mueren, pero también duplica el daño que te causan.\\n\\n{format bold}Activar este engranaje modificador hará tu misión mucho más difícil. Solo se recomienda para veteranos.{format reset}",
+    "value": "¡Derrama sangre para ganar recompensas!
+Duplica las posibilidades de obtener piedras de sangre cuando los enemigos mueren, pero también duplica el daño que te causan.
+
+{format bold}Activar este engranaje modificador hará tu misión mucho más difícil. Solo se recomienda para veteranos.{format reset}",
   },
   {
     "key": "upgrades.upgrade_fate_bloodquest_flavor",
@@ -38337,7 +38529,9 @@ exports[`extract(tests\\fixtures\\es.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "Text within { } should not be translated. ",
     },
-    "value": "Obtén el doble de XP con cada muerte, pero los enemigos solo te darán orbes por muertes creativas o bonificaciones.\\n\\n{format bold}Activar este engranaje modificador hará tus misiones mucho más difíciles. Recomendado solo para veteranos.{format reset}",
+    "value": "Obtén el doble de XP con cada muerte, pero los enemigos solo te darán orbes por muertes creativas o bonificaciones.
+
+{format bold}Activar este engranaje modificador hará tus misiones mucho más difíciles. Recomendado solo para veteranos.{format reset}",
   },
   {
     "key": "upgrades.upgrade_fate_xpx2_flavor",
@@ -38355,7 +38549,9 @@ exports[`extract(tests\\fixtures\\es.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "Text within { } should not be translated. ",
     },
-    "value": "Los enemigos explotan al morir.\\n\\n{format bold}Activar este engranaje modificador hará tus misiones mucho más difíciles.{format reset}",
+    "value": "Los enemigos explotan al morir.
+
+{format bold}Activar este engranaje modificador hará tus misiones mucho más difíciles.{format reset}",
   },
   {
     "key": "upgrades.upgrade_fate_explosions_flavor",
@@ -38388,7 +38584,10 @@ exports[`extract(tests\\fixtures\\es.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "upgrades.upgrade_fate_hell_cave_sigil_desc",
-    "value": "En la solitaria cima del tiempo\\nun aullido recorre el desierto\\nalcanza los cielos para sellar tu destino\\nen un lugar extraño, vacío, divino.",
+    "value": "En la solitaria cima del tiempo
+un aullido recorre el desierto
+alcanza los cielos para sellar tu destino
+en un lugar extraño, vacío, divino.",
   },
   {
     "key": "upgrades.upgrade_fate_hell_cave_sigil_flavor",
@@ -38403,7 +38602,8 @@ exports[`extract(tests\\fixtures\\es.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "upgrades.upgrade_steampack_desc",
-    "value": "Mantén {indicator jump} para volar.\\nEste motor de combustión diésel experimental se puede usar sin utilizar agua, pero se sobrecalienta rápidamente.",
+    "value": "Mantén {indicator jump} para volar.
+Este motor de combustión diésel experimental se puede usar sin utilizar agua, pero se sobrecalienta rápidamente.",
   },
   {
     "key": "upgrades.upgrade_steampack_next_level_desc",
@@ -38505,7 +38705,8 @@ exports[`extract(tests\\fixtures\\es.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "upgrades.upgrade_pressurebomb_desc",
-    "value": "La puedes lanzar hacia el frente, arriba o abajo. Consume agua.\\n¡Pulsa {indicator tool_pressurebomb} para lanzarla!",
+    "value": "La puedes lanzar hacia el frente, arriba o abajo. Consume agua.
+¡Pulsa {indicator tool_pressurebomb} para lanzarla!",
   },
   {
     "key": "upgrades.upgrade_pressurebomb_next_level_desc",
@@ -39111,7 +39312,8 @@ exports[`extract(tests\\fixtures\\es.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "Death popup end text appended to the variants above",
     },
-    "value": "\\nTe reensamblarás en el pueblo.",
+    "value": "
+Te reensamblarás en el pueblo.",
   },
   {
     "key": "popups.popup_died_checkpoint_title",
@@ -39127,19 +39329,27 @@ exports[`extract(tests\\fixtures\\es.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "popups.popup_inventory_discard_text",
-    "value": "¿Quieres descartar %1% x %2%?\\n\\nPerderás para siempre los recursos descartados.",
+    "value": "¿Quieres descartar %1% x %2%?
+
+Perderás para siempre los recursos descartados.",
   },
   {
     "key": "popups.popup_inventory_discard_give_money_text",
-    "value": "¿Quieres descartar %1%x %2%?\\n\\nObtendrás $%3%{image money_small} (de $%4%{image money_small}) a cambio de los recursos descartados.",
+    "value": "¿Quieres descartar %1%x %2%?
+
+Obtendrás $%3%{image money_small} (de $%4%{image money_small}) a cambio de los recursos descartados.",
   },
   {
     "key": "popups.popup_inventory_discard_give_health_text",
-    "value": "¿Quieres descartar %1%x %2%?\\n\\nSe restaurará el %3% de tu salud a cambio de los recursos descartados.",
+    "value": "¿Quieres descartar %1%x %2%?
+
+Se restaurará el %3% de tu salud a cambio de los recursos descartados.",
   },
   {
     "key": "popups.popup_inventory_discard_give_money_and_health_text",
-    "value": "¿Quieres descartar %1%x %2%?\\n\\nObtendrás el $%3%{image money_small} (de $%4%{image money_small}) y se restaurará el %5% de tu salud a cambio de los recursos descartados.",
+    "value": "¿Quieres descartar %1%x %2%?
+
+Obtendrás el $%3%{image money_small} (de $%4%{image money_small}) y se restaurará el %5% de tu salud a cambio de los recursos descartados.",
   },
   {
     "key": "popups.popup_find_map_title",
@@ -39162,11 +39372,15 @@ exports[`extract(tests\\fixtures\\es.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "popups.popup_press_input_text_gamepad",
-    "value": "Pulsa cualquier botón para asignarlo a esta acción.\\n\\nPulsa {indicator menu_pause} para cancelar.",
+    "value": "Pulsa cualquier botón para asignarlo a esta acción.
+
+Pulsa {indicator menu_pause} para cancelar.",
   },
   {
     "key": "popups.popup_press_input_text_keyboard",
-    "value": "Pulsa cualquier tecla para asignarla a esta acción.\\n\\nPulsa {indicator menu_pause} para cancelar.",
+    "value": "Pulsa cualquier tecla para asignarla a esta acción.
+
+Pulsa {indicator menu_pause} para cancelar.",
   },
   {
     "key": "popups.popup_wrong_input_type_title",
@@ -39201,7 +39415,9 @@ exports[`extract(tests\\fixtures\\es.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "popups.popup_tools_screen_enable_cog_text",
-    "value": "Con este engranaje modificador tus misiones serán más difíciles (¡y quizás más divertidas!)\\n\\n¿Estás seguro de que quieres activarlo?",
+    "value": "Con este engranaje modificador tus misiones serán más difíciles (¡y quizás más divertidas!)
+
+¿Estás seguro de que quieres activarlo?",
   },
   {
     "key": "popups.popup_difficulty_title",
@@ -39212,14 +39428,16 @@ exports[`extract(tests\\fixtures\\es.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": " Text when setting difficulty before a new game.",
     },
-    "value": "¿Qué nivel de dificultad prefieres?\\nPuedes modificar esta opción en cualquier momento durante el juego.",
+    "value": "¿Qué nivel de dificultad prefieres?
+Puedes modificar esta opción en cualquier momento durante el juego.",
   },
   {
     "key": "popups.popup_difficulty_change_text",
     "metadata": {
       "raw": " Text when changing difficulty in game. %1% is the name of the current difficulty.",
     },
-    "value": "¿Qué nivel de dificultad prefieres?\\nNivel de dificultad actual: %1%",
+    "value": "¿Qué nivel de dificultad prefieres?
+Nivel de dificultad actual: %1%",
   },
   {
     "key": "menus.main_menu_start",
@@ -39337,7 +39555,9 @@ exports[`extract(tests\\fixtures\\es.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "menus.menu_epilepsy_info_text",
-    "value": "El juego contiene escenas que pueden causar ataques de epilepsia. \\n\\nPara minimizar el riesgo, ve a "Desactivar flash" en el menú de "Opciones".",
+    "value": "El juego contiene escenas que pueden causar ataques de epilepsia. 
+
+Para minimizar el riesgo, ve a "Desactivar flash" en el menú de "Opciones".",
   },
   {
     "key": "menus.menu_xp_level",
@@ -39519,7 +39739,8 @@ exports[`extract(tests\\fixtures\\es.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "map_screen.menu_map_secrets",
-    "value": "%1%\\nSecretos: %2%%%",
+    "value": "%1%
+Secretos: %2%%%",
   },
   {
     "key": "map_screen.menu_map_no_secrets",
@@ -40036,7 +40257,8 @@ exports[`extract(tests\\fixtures\\es.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "system_menu.popup_exittomenu_text",
-    "value": "Todo el progreso no guardado se perderá. ¿Realmente quieres regresar al menú principal?\\nÚltimo guardado hace: %1% min. %2% seg.",
+    "value": "Todo el progreso no guardado se perderá. ¿Realmente quieres regresar al menú principal?
+Último guardado hace: %1% min. %2% seg.",
   },
   {
     "key": "system_menu.popup_selfdestruct_title",
@@ -40980,7 +41202,14 @@ exports[`extract(tests\\fixtures\\es.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "collectibles.collectible_cult_list_desc",
-    "value": "Encontrar la divinidad de la destrucción – Hecho\\nExplicar el cronograma de la secta – Hecho\\nReemplazar a los miembros del comité vaporizados – Hecho\\nEscuchar las exigencias de la divinidad – Hecho\\nDecapitar la estatua vieja – Hecho\\nComprar leche - ?\\nComenzar peregrinación – Hecho\\nPrepararse para el fin del mundo – En curso.",
+    "value": "Encontrar la divinidad de la destrucción – Hecho
+Explicar el cronograma de la secta – Hecho
+Reemplazar a los miembros del comité vaporizados – Hecho
+Escuchar las exigencias de la divinidad – Hecho
+Decapitar la estatua vieja – Hecho
+Comprar leche - ?
+Comenzar peregrinación – Hecho
+Prepararse para el fin del mundo – En curso.",
   },
   {
     "key": "collectibles.collectible_cult_list_flavor",
@@ -41159,9 +41388,21 @@ exports[`extract(tests\\fixtures\\es.csv) function > matches snapshot > tests\\f
   {
     "key": "vectron_messages.message_trespasser_text_1",
     "metadata": {
-      "raw": " Error message. Translate only actual words. Keep approximate length between \\n.",
+      "raw": " Error message. Translate only actual words. Keep approximate length between 
+.",
     },
-    "value": "SURGE BOOT: INITIATING THREAT ANALYSIS\\n\\nDIRECTIVE A, B, COMPILED.  #8F000025.28C40A8\\nVCT_SYSTEM_OFFLINE\\nAX=000A DIRECTIVE A: BLUE SAVIOR, FAIL LEVEL: CRITICAL BX=7FFF SP=000007C4\\nCX=0000 PRE-LOAD DIRECTIVE B: MOON ESCAPE DX=7FFF IP=0800F108\\nEX=6060 FX=7FFF XP=080FFFAA\\nBACK-UP COMPLETED\\nSPACE CAPSULE: SECURE\\n\\n\\nERROR RESULT:",
+    "value": "SURGE BOOT: INITIATING THREAT ANALYSIS
+
+DIRECTIVE A, B, COMPILED.  #8F000025.28C40A8
+VCT_SYSTEM_OFFLINE
+AX=000A DIRECTIVE A: BLUE SAVIOR, FAIL LEVEL: CRITICAL BX=7FFF SP=000007C4
+CX=0000 PRE-LOAD DIRECTIVE B: MOON ESCAPE DX=7FFF IP=0800F108
+EX=6060 FX=7FFF XP=080FFFAA
+BACK-UP COMPLETED
+SPACE CAPSULE: SECURE
+
+
+ERROR RESULT:",
   },
   {
     "key": "vectron_messages.message_trespasser_text_2",
@@ -41173,17 +41414,46 @@ exports[`extract(tests\\fixtures\\es.csv) function > matches snapshot > tests\\f
   {
     "key": "vectron_messages.message_final_text",
     "metadata": {
-      "raw": " Part of the error message. Translate. Preserve \\n. Keep approximate length between \\n.",
+      "raw": " Part of the error message. Translate. Preserve 
+. Keep approximate length between 
+.",
     },
-    "value": "DISASTER PROTOCOL\\nDIRECTIVE A: BLUE SAVIOR\\nINITIATED",
+    "value": "DISASTER PROTOCOL
+DIRECTIVE A: BLUE SAVIOR
+INITIATED",
   },
   {
     "key": "vectron_messages.message_hell_bedrock_01",
-    "value": "TEST RESULT:\\nTEST SUBJECT PRESSED 3 BUTTONS\\nTEST SUBJECT EXPECTS A...REWARD...?\\n\\nREWARD INITIATED:\\n......o..o..o......\\n......I..I..I......\\n....(VVVVVVVVV)....\\n....l--.--.--.l....\\n....l.--.--.--l....\\n....l_________l....\\n...................\\n\\nOBSERVATION:\\nTEST SUBJECT ENJOYED THE REWARD\\n\\nEXPECTATION: \\nCONTINUED MINIMAL SIGNS OF INTELLIGENCE\\n",
+    "value": "TEST RESULT:
+TEST SUBJECT PRESSED 3 BUTTONS
+TEST SUBJECT EXPECTS A...REWARD...?
+
+REWARD INITIATED:
+......o..o..o......
+......I..I..I......
+....(VVVVVVVVV)....
+....l--.--.--.l....
+....l.--.--.--l....
+....l_________l....
+...................
+
+OBSERVATION:
+TEST SUBJECT ENJOYED THE REWARD
+
+EXPECTATION: 
+CONTINUED MINIMAL SIGNS OF INTELLIGENCE
+",
   },
   {
     "key": "vectron_messages.message_hell_bedrock_02",
-    "value": "TEST SUBJECT INITIATED ESCAPE\\n\\nTEST SESSION: STOPPED\\n\\n\\nDEACTIVATE TEST CHAMBER\\n\\nALSO: HIDE THE CAKE",
+    "value": "TEST SUBJECT INITIATED ESCAPE
+
+TEST SESSION: STOPPED
+
+
+DEACTIVATE TEST CHAMBER
+
+ALSO: HIDE THE CAKE",
   },
   {
     "key": "languages.language_english",
@@ -47463,7 +47733,8 @@ exports[`extract(tests\\fixtures\\es_conversations.csv) function > matches snaps
   {
     "key": "guarding_hub.conversation_z2w2u3_text",
     "metadata": {
-      "notes": "*format* *new* also removed the line break (\\n}",
+      "notes": "*format* *new* also removed the line break (
+}",
     },
     "value": "¡O-o-o-oyeee! ¿A dónde crees que vas?",
   },
@@ -53507,7 +53778,8 @@ exports[`extract(tests\\fixtures\\es_conversations.csv) function > matches snaps
     "metadata": {
       "notes": "*new*",
     },
-    "value": ""No se permiten propulsores \\nni ganchos."",
+    "value": ""No se permiten propulsores 
+ni ganchos."",
   },
   {
     "key": "sign_trials_no_hook_jetpack.conversation_cbb9jh_text.Speaker",
@@ -53562,7 +53834,10 @@ exports[`extract(tests\\fixtures\\es_conversations.csv) function > matches snaps
     "metadata": {
       "notes": "*TEMP* *NEW*",
     },
-    "value": ""Si te mantienes lejos del hogar de la lava\\nLas puertas seguirán cerradas\\nPero tras el mínimo contacto\\nTendrás que volver a intentarlo".",
+    "value": ""Si te mantienes lejos del hogar de la lava
+Las puertas seguirán cerradas
+Pero tras el mínimo contacto
+Tendrás que volver a intentarlo".",
   },
   {
     "key": "sign_floor_is_lava.conversation_nol9uu_text.Speaker",
@@ -55648,7 +55923,9 @@ exports[`extract(tests\\fixtures\\fr.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "El Machino is the name of the city",
     },
-    "value": "Te permet de retourner à El Machino immédiatement sans perdre de ressources. Active cette capacité depuis le menu Système.\\n\\n{format bold}Désactivée dans les caves ou lorsque tu es en danger. L'icône de capacité {image town_portal_small} te montre lorsque tu peux l'utiliser.{format reset}",
+    "value": "Te permet de retourner à El Machino immédiatement sans perdre de ressources. Active cette capacité depuis le menu Système.
+
+{format bold}Désactivée dans les caves ou lorsque tu es en danger. L'icône de capacité {image town_portal_small} te montre lorsque tu peux l'utiliser.{format reset}",
   },
   {
     "key": "upgrades.upgrade_backpack_town_portal_flavor",
@@ -56080,7 +56357,9 @@ exports[`extract(tests\\fixtures\\fr.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": " Text within { } should not be translated.",
     },
-    "value": "Montre les marqueurs de ta quête ({image quest_pointer_arrow} et {image quest_pointer_crosshair}) sur ta carte.\\n\\n{format bold}Si tu préfères explorer sans indications, tu peux désactiver ce bidouillage.{format reset}",
+    "value": "Montre les marqueurs de ta quête ({image quest_pointer_arrow} et {image quest_pointer_crosshair}) sur ta carte.
+
+{format bold}Si tu préfères explorer sans indications, tu peux désactiver ce bidouillage.{format reset}",
   },
   {
     "key": "upgrades.upgrade_minimap_quest_pointer_flavor",
@@ -56131,7 +56410,8 @@ exports[`extract(tests\\fixtures\\fr.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "upgrades.upgrade_run_boots_desc",
-    "value": "Pour courir, maintiens {indicator run} en te déplaçant.\\nCourir te permet de te déplacer plus vite et de sauter plus haut.",
+    "value": "Pour courir, maintiens {indicator run} en te déplaçant.
+Courir te permet de te déplacer plus vite et de sauter plus haut.",
   },
   {
     "key": "upgrades.upgrade_run_boots_flavor",
@@ -56175,7 +56455,10 @@ exports[`extract(tests\\fixtures\\fr.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "Blood Stone is a resource in the game. Text within { } should not be translated. ",
     },
-    "value": "Gagne une prime en échange de sang !\\nAugmente tes chances d'obtenir des gemmes de sang en battant des ennemis mais augmente les dégâts qu'ils t'infligent.\\n\\n{format bold}Si tu actives ce bidouillage ta quête sera beaucoup plus difficile. Recommandé seulement pour les vétérans.{format reset}",
+    "value": "Gagne une prime en échange de sang !
+Augmente tes chances d'obtenir des gemmes de sang en battant des ennemis mais augmente les dégâts qu'ils t'infligent.
+
+{format bold}Si tu actives ce bidouillage ta quête sera beaucoup plus difficile. Recommandé seulement pour les vétérans.{format reset}",
   },
   {
     "key": "upgrades.upgrade_fate_bloodquest_flavor",
@@ -56190,7 +56473,9 @@ exports[`extract(tests\\fixtures\\fr.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "Text within { } should not be translated. ",
     },
-    "value": "Gagne deux fois plus d'expérience en battant des ennemis mais les orbes n'apparaîtront qu'en détruisant des ennemis de manière créative ou via des bonus.\\n\\n{format bold}Si tu actives ce bidouillage ta quête sera beaucoup plus difficile. Recommandé seulement pour les vétérans.{format reset}",
+    "value": "Gagne deux fois plus d'expérience en battant des ennemis mais les orbes n'apparaîtront qu'en détruisant des ennemis de manière créative ou via des bonus.
+
+{format bold}Si tu actives ce bidouillage ta quête sera beaucoup plus difficile. Recommandé seulement pour les vétérans.{format reset}",
   },
   {
     "key": "upgrades.upgrade_fate_xpx2_flavor",
@@ -56208,7 +56493,9 @@ exports[`extract(tests\\fixtures\\fr.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "Text within { } should not be translated. ",
     },
-    "value": "Les ennemis explosent en mourant.\\n\\n{format bold}Si tu actives ce bidouillage ta quête sera beaucoup plus difficile.{format reset}",
+    "value": "Les ennemis explosent en mourant.
+
+{format bold}Si tu actives ce bidouillage ta quête sera beaucoup plus difficile.{format reset}",
   },
   {
     "key": "upgrades.upgrade_fate_explosions_flavor",
@@ -56241,7 +56528,10 @@ exports[`extract(tests\\fixtures\\fr.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "upgrades.upgrade_fate_hell_cave_sigil_desc",
-    "value": "Proche de l'absolue solitude\\nL'étreinte d'un désert d'amertume\\nAu loin, ton destin et ses incertitudes\\nEn route vers un avenir de brume.",
+    "value": "Proche de l'absolue solitude
+L'étreinte d'un désert d'amertume
+Au loin, ton destin et ses incertitudes
+En route vers un avenir de brume.",
   },
   {
     "key": "upgrades.upgrade_fate_hell_cave_sigil_flavor",
@@ -56256,7 +56546,8 @@ exports[`extract(tests\\fixtures\\fr.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "upgrades.upgrade_steampack_desc",
-    "value": "Pour voler, maintiens {indicator jump} en étant en l'air.\\nUne chambre de combustion expérimentale permet de voler sans consommer d'eau. Surchauffe assez rapidement.",
+    "value": "Pour voler, maintiens {indicator jump} en étant en l'air.
+Une chambre de combustion expérimentale permet de voler sans consommer d'eau. Surchauffe assez rapidement.",
   },
   {
     "key": "upgrades.upgrade_steampack_next_level_desc",
@@ -56358,7 +56649,8 @@ exports[`extract(tests\\fixtures\\fr.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "upgrades.upgrade_pressurebomb_desc",
-    "value": "Peut être lancée vers le haut ou vers le bas. Consomme de l'eau.\\nAppuie {indicator tool_pressurebomb} pour la lancer !",
+    "value": "Peut être lancée vers le haut ou vers le bas. Consomme de l'eau.
+Appuie {indicator tool_pressurebomb} pour la lancer !",
   },
   {
     "key": "upgrades.upgrade_pressurebomb_next_level_desc",
@@ -56964,7 +57256,8 @@ exports[`extract(tests\\fixtures\\fr.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "Death popup end text appended to the variants above",
     },
-    "value": "\\nTu vas être réassemblé en ville.",
+    "value": "
+Tu vas être réassemblé en ville.",
   },
   {
     "key": "popups.popup_died_checkpoint_title",
@@ -56980,19 +57273,27 @@ exports[`extract(tests\\fixtures\\fr.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "popups.popup_inventory_discard_text",
-    "value": "Veux-tu jeter %1% x %2% ?\\n\\nLes ressources jetées seront perdues à jamais.",
+    "value": "Veux-tu jeter %1% x %2% ?
+
+Les ressources jetées seront perdues à jamais.",
   },
   {
     "key": "popups.popup_inventory_discard_give_money_text",
-    "value": "Veux-tu jeter %1% x %2% ?\\n\\nTu obtiendras %3% \${image money_small} sur une valeur totale %4% \${image money_small} en jetant ces ressources.",
+    "value": "Veux-tu jeter %1% x %2% ?
+
+Tu obtiendras %3% \${image money_small} sur une valeur totale %4% \${image money_small} en jetant ces ressources.",
   },
   {
     "key": "popups.popup_inventory_discard_give_health_text",
-    "value": "Veux-tu jeter %1% x %2% ?\\n\\nTu obtiendras %3% de vie restaurée en jetant ces ressources.",
+    "value": "Veux-tu jeter %1% x %2% ?
+
+Tu obtiendras %3% de vie restaurée en jetant ces ressources.",
   },
   {
     "key": "popups.popup_inventory_discard_give_money_and_health_text",
-    "value": "Veux-tu jeter %1% x %2% ?\\n\\nTu obtiendras %3% \${image money_small} sur une valeur totale %4% \${image money_small} et %5% de vie restaurée en jetant ces ressources.",
+    "value": "Veux-tu jeter %1% x %2% ?
+
+Tu obtiendras %3% \${image money_small} sur une valeur totale %4% \${image money_small} et %5% de vie restaurée en jetant ces ressources.",
   },
   {
     "key": "popups.popup_find_map_title",
@@ -57015,11 +57316,15 @@ exports[`extract(tests\\fixtures\\fr.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "popups.popup_press_input_text_gamepad",
-    "value": "Appuie sur n'importe quel bouton pour l'assigner.\\n\\nAppuie sur {indicator menu_pause} pour annuler.",
+    "value": "Appuie sur n'importe quel bouton pour l'assigner.
+
+Appuie sur {indicator menu_pause} pour annuler.",
   },
   {
     "key": "popups.popup_press_input_text_keyboard",
-    "value": "Appuie sur n'importe quelle touche pour l'assigner.\\n\\nAppuie sur {indicator menu_pause} pour annuler.",
+    "value": "Appuie sur n'importe quelle touche pour l'assigner.
+
+Appuie sur {indicator menu_pause} pour annuler.",
   },
   {
     "key": "popups.popup_wrong_input_type_title",
@@ -57054,7 +57359,9 @@ exports[`extract(tests\\fixtures\\fr.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "popups.popup_tools_screen_enable_cog_text",
-    "value": "Ce bidouillage va rendre ta quête plus difficile et, on l'espère, plus amusante aussi !\\n\\nVeux-tu l'activer ?",
+    "value": "Ce bidouillage va rendre ta quête plus difficile et, on l'espère, plus amusante aussi !
+
+Veux-tu l'activer ?",
   },
   {
     "key": "popups.popup_difficulty_title",
@@ -57065,14 +57372,16 @@ exports[`extract(tests\\fixtures\\fr.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": " Text when setting difficulty before a new game.",
     },
-    "value": "Quel niveau de difficulté préfères-tu ?\\nCe réglage peut être changé à tout moment.",
+    "value": "Quel niveau de difficulté préfères-tu ?
+Ce réglage peut être changé à tout moment.",
   },
   {
     "key": "popups.popup_difficulty_change_text",
     "metadata": {
       "raw": " Text when changing difficulty in game. %1% is the name of the current difficulty.",
     },
-    "value": "Quel niveau de difficulté préfères-tu ?\\nDifficulté actuelle : %1%",
+    "value": "Quel niveau de difficulté préfères-tu ?
+Difficulté actuelle : %1%",
   },
   {
     "key": "menus.main_menu_start",
@@ -57190,7 +57499,9 @@ exports[`extract(tests\\fixtures\\fr.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "menus.menu_epilepsy_info_text",
-    "value": "Ce jeu contient des séquences qui peuvent potentiellement déclencher des crises d'épilepsie.\\n\\nAfin de minimiser les risques, merci de "Désactiver les flashs" depuis les "Options".",
+    "value": "Ce jeu contient des séquences qui peuvent potentiellement déclencher des crises d'épilepsie.
+
+Afin de minimiser les risques, merci de "Désactiver les flashs" depuis les "Options".",
   },
   {
     "key": "menus.menu_xp_level",
@@ -57372,7 +57683,8 @@ exports[`extract(tests\\fixtures\\fr.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "map_screen.menu_map_secrets",
-    "value": "%1%\\nSecrets : %2% %%",
+    "value": "%1%
+Secrets : %2% %%",
   },
   {
     "key": "map_screen.menu_map_no_secrets",
@@ -57889,7 +58201,8 @@ exports[`extract(tests\\fixtures\\fr.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "system_menu.popup_exittomenu_text",
-    "value": "La progression non-sauvegardée sera perdue. Veux-tu vraiment retourner au menu principal ?\\nTemps écoulé depuis la dernière sauvegarde : %1% min. et %2% sec.",
+    "value": "La progression non-sauvegardée sera perdue. Veux-tu vraiment retourner au menu principal ?
+Temps écoulé depuis la dernière sauvegarde : %1% min. et %2% sec.",
   },
   {
     "key": "system_menu.popup_selfdestruct_title",
@@ -58833,7 +59146,14 @@ exports[`extract(tests\\fixtures\\fr.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "collectibles.collectible_cult_list_desc",
-    "value": "Trouver une entité destructrice – Fait\\nExpliquer l'organigramme du culte – Fait\\nRemplacer les membres sacrifiés – Fait\\nÉcouter les demandes de l'entité – Fait\\nDécapiter la vieille statue – Fait\\nAcheter du lait - ?\\nÉtablir le chemin du pèlerinage – Fait\\nSe préparer pour la fin du monde – En cours",
+    "value": "Trouver une entité destructrice – Fait
+Expliquer l'organigramme du culte – Fait
+Remplacer les membres sacrifiés – Fait
+Écouter les demandes de l'entité – Fait
+Décapiter la vieille statue – Fait
+Acheter du lait - ?
+Établir le chemin du pèlerinage – Fait
+Se préparer pour la fin du monde – En cours",
   },
   {
     "key": "collectibles.collectible_cult_list_flavor",
@@ -59012,9 +59332,21 @@ exports[`extract(tests\\fixtures\\fr.csv) function > matches snapshot > tests\\f
   {
     "key": "vectron_messages.message_trespasser_text_1",
     "metadata": {
-      "raw": " Error message. Translate only actual words. Keep approximate length between \\n.",
+      "raw": " Error message. Translate only actual words. Keep approximate length between 
+.",
     },
-    "value": "SURGE BOOT: INITIATING THREAT ANALYSIS\\n\\nDIRECTIVE A, B, COMPILED.  #8F000025.28C40A8\\nVCT_SYSTEM_OFFLINE\\nAX=000A DIRECTIVE A: BLUE SAVIOR, FAIL LEVEL: CRITICAL BX=7FFF SP=000007C4\\nCX=0000 PRE-LOAD DIRECTIVE B: MOON ESCAPE DX=7FFF IP=0800F108\\nEX=6060 FX=7FFF XP=080FFFAA\\nBACK-UP COMPLETED\\nSPACE CAPSULE: SECURE\\n\\n\\nERROR RESULT:",
+    "value": "SURGE BOOT: INITIATING THREAT ANALYSIS
+
+DIRECTIVE A, B, COMPILED.  #8F000025.28C40A8
+VCT_SYSTEM_OFFLINE
+AX=000A DIRECTIVE A: BLUE SAVIOR, FAIL LEVEL: CRITICAL BX=7FFF SP=000007C4
+CX=0000 PRE-LOAD DIRECTIVE B: MOON ESCAPE DX=7FFF IP=0800F108
+EX=6060 FX=7FFF XP=080FFFAA
+BACK-UP COMPLETED
+SPACE CAPSULE: SECURE
+
+
+ERROR RESULT:",
   },
   {
     "key": "vectron_messages.message_trespasser_text_2",
@@ -59026,17 +59358,46 @@ exports[`extract(tests\\fixtures\\fr.csv) function > matches snapshot > tests\\f
   {
     "key": "vectron_messages.message_final_text",
     "metadata": {
-      "raw": " Part of the error message. Translate. Preserve \\n. Keep approximate length between \\n.",
+      "raw": " Part of the error message. Translate. Preserve 
+. Keep approximate length between 
+.",
     },
-    "value": "DISASTER PROTOCOL\\nDIRECTIVE A: BLUE SAVIOR\\nINITIATED",
+    "value": "DISASTER PROTOCOL
+DIRECTIVE A: BLUE SAVIOR
+INITIATED",
   },
   {
     "key": "vectron_messages.message_hell_bedrock_01",
-    "value": "TEST RESULT:\\nTEST SUBJECT PRESSED 3 BUTTONS\\nTEST SUBJECT EXPECTS A...REWARD...?\\n\\nREWARD INITIATED:\\n......o..o..o......\\n......I..I..I......\\n....(VVVVVVVVV)....\\n....l--.--.--.l....\\n....l.--.--.--l....\\n....l_________l....\\n...................\\n\\nOBSERVATION:\\nTEST SUBJECT ENJOYED THE REWARD\\n\\nEXPECTATION: \\nCONTINUED MINIMAL SIGNS OF INTELLIGENCE\\n",
+    "value": "TEST RESULT:
+TEST SUBJECT PRESSED 3 BUTTONS
+TEST SUBJECT EXPECTS A...REWARD...?
+
+REWARD INITIATED:
+......o..o..o......
+......I..I..I......
+....(VVVVVVVVV)....
+....l--.--.--.l....
+....l.--.--.--l....
+....l_________l....
+...................
+
+OBSERVATION:
+TEST SUBJECT ENJOYED THE REWARD
+
+EXPECTATION: 
+CONTINUED MINIMAL SIGNS OF INTELLIGENCE
+",
   },
   {
     "key": "vectron_messages.message_hell_bedrock_02",
-    "value": "TEST SUBJECT INITIATED ESCAPE\\n\\nTEST SESSION: STOPPED\\n\\n\\nDEACTIVATE TEST CHAMBER\\n\\nALSO: HIDE THE CAKE",
+    "value": "TEST SUBJECT INITIATED ESCAPE
+
+TEST SESSION: STOPPED
+
+
+DEACTIVATE TEST CHAMBER
+
+ALSO: HIDE THE CAKE",
   },
   {
     "key": "languages.language_english",
@@ -65316,7 +65677,8 @@ exports[`extract(tests\\fixtures\\fr_conversations.csv) function > matches snaps
   {
     "key": "guarding_hub.conversation_z2w2u3_text",
     "metadata": {
-      "notes": "*format* *new* also removed the line break (\\n}",
+      "notes": "*format* *new* also removed the line break (
+}",
     },
     "value": "H-h-h-hééééé ! C'est où qu'tu crois aller c'mme ça ?",
   },
@@ -71360,7 +71722,8 @@ exports[`extract(tests\\fixtures\\fr_conversations.csv) function > matches snaps
     "metadata": {
       "notes": "*new*",
     },
-    "value": ""Jetpack interdit,\\nTir-grappin interdit."",
+    "value": ""Jetpack interdit,
+Tir-grappin interdit."",
   },
   {
     "key": "sign_trials_no_hook_jetpack.conversation_cbb9jh_text.Speaker",
@@ -71415,7 +71778,10 @@ exports[`extract(tests\\fixtures\\fr_conversations.csv) function > matches snaps
     "metadata": {
       "notes": "*TEMP* *NEW*",
     },
-    "value": ""Si la porte reste fermée c'est que\\nla lave n'a pas été votre amie.\\nAucun contact.\\nSors et rentre à nouveau."",
+    "value": ""Si la porte reste fermée c'est que
+la lave n'a pas été votre amie.
+Aucun contact.
+Sors et rentre à nouveau."",
   },
   {
     "key": "sign_floor_is_lava.conversation_nol9uu_text.Speaker",
@@ -73501,7 +73867,9 @@ exports[`extract(tests\\fixtures\\it.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "El Machino is the name of the city",
     },
-    "value": "Ti permette di tornare subito a El Machino senza perdere risorse. Attiva questa abilità nella scheda Sistema.\\n\\n{format bold}Disattivata nelle caverne e quando sei in pericolo. L'icona dell'abilità {image town_portal_small} ti mostra quando può essere usata.{format reset}",
+    "value": "Ti permette di tornare subito a El Machino senza perdere risorse. Attiva questa abilità nella scheda Sistema.
+
+{format bold}Disattivata nelle caverne e quando sei in pericolo. L'icona dell'abilità {image town_portal_small} ti mostra quando può essere usata.{format reset}",
   },
   {
     "key": "upgrades.upgrade_backpack_town_portal_flavor",
@@ -73933,7 +74301,9 @@ exports[`extract(tests\\fixtures\\it.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": " Text within { } should not be translated.",
     },
-    "value": "Mostra gli indicatori ({image quest_pointer_arrow} e {image quest_pointer_crosshair}) sulla mappa per guidarti verso la destinazione da raggiungere nella tua missione.\\n\\n{format bold}Se preferisci esplorare senza indicazioni, disabilita questa Mod con ingranaggio.{format reset}",
+    "value": "Mostra gli indicatori ({image quest_pointer_arrow} e {image quest_pointer_crosshair}) sulla mappa per guidarti verso la destinazione da raggiungere nella tua missione.
+
+{format bold}Se preferisci esplorare senza indicazioni, disabilita questa Mod con ingranaggio.{format reset}",
   },
   {
     "key": "upgrades.upgrade_minimap_quest_pointer_flavor",
@@ -73984,7 +74354,8 @@ exports[`extract(tests\\fixtures\\it.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "upgrades.upgrade_run_boots_desc",
-    "value": "Per correre, tieni premuto {indicator run} mentre ti muovi.\\nCorrendo, ti muoverai più velocemente e salterai più in alto.",
+    "value": "Per correre, tieni premuto {indicator run} mentre ti muovi.
+Correndo, ti muoverai più velocemente e salterai più in alto.",
   },
   {
     "key": "upgrades.upgrade_run_boots_flavor",
@@ -74028,7 +74399,10 @@ exports[`extract(tests\\fixtures\\it.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "Blood Stone is a resource in the game. Text within { } should not be translated. ",
     },
-    "value": "Ottieni ricompense in cambio di sangue!\\nRaddoppia la possibilità di ottenere Pietre di sangue quando i nemici muoiono, ma raddoppia anche i danni che essi ti infliggono.\\n\\n{format bold}Attivando questa Mod con ingranaggio la tua missione sarà molto più difficile. Consigliata solo per i più esperti.{format reset}",
+    "value": "Ottieni ricompense in cambio di sangue!
+Raddoppia la possibilità di ottenere Pietre di sangue quando i nemici muoiono, ma raddoppia anche i danni che essi ti infliggono.
+
+{format bold}Attivando questa Mod con ingranaggio la tua missione sarà molto più difficile. Consigliata solo per i più esperti.{format reset}",
   },
   {
     "key": "upgrades.upgrade_fate_bloodquest_flavor",
@@ -74043,7 +74417,9 @@ exports[`extract(tests\\fixtures\\it.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "Text within { } should not be translated. ",
     },
-    "value": "Ottieni il doppio dell'esperienza dalle uccisioni, ma i nemici rilasciano solo globi da uccisioni creative o bonus.\\n\\n{format bold}Attivando questa Mod con ingranaggio la tua missione sarà molto più difficile. Consigliata solo per i più esperti.{format reset}",
+    "value": "Ottieni il doppio dell'esperienza dalle uccisioni, ma i nemici rilasciano solo globi da uccisioni creative o bonus.
+
+{format bold}Attivando questa Mod con ingranaggio la tua missione sarà molto più difficile. Consigliata solo per i più esperti.{format reset}",
   },
   {
     "key": "upgrades.upgrade_fate_xpx2_flavor",
@@ -74061,7 +74437,9 @@ exports[`extract(tests\\fixtures\\it.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "Text within { } should not be translated. ",
     },
-    "value": "I nemici esplodono non appena muoiono.\\n\\n{format bold}Attivando questa Mod con ingranaggio la tua missione sarà molto più difficile.{format reset}",
+    "value": "I nemici esplodono non appena muoiono.
+
+{format bold}Attivando questa Mod con ingranaggio la tua missione sarà molto più difficile.{format reset}",
   },
   {
     "key": "upgrades.upgrade_fate_explosions_flavor",
@@ -74094,7 +74472,10 @@ exports[`extract(tests\\fixtures\\it.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "upgrades.upgrade_fate_hell_cave_sigil_desc",
-    "value": "Vicino al picco della solitudine\\nL'abbraccio di un deserto piangente\\nAffronta il cielo per sigillare il tuo destino\\nIn un posto strano e sorprendente.",
+    "value": "Vicino al picco della solitudine
+L'abbraccio di un deserto piangente
+Affronta il cielo per sigillare il tuo destino
+In un posto strano e sorprendente.",
   },
   {
     "key": "upgrades.upgrade_fate_hell_cave_sigil_flavor",
@@ -74109,7 +74490,8 @@ exports[`extract(tests\\fixtures\\it.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "upgrades.upgrade_steampack_desc",
-    "value": "Per volare, tieni premuto {indicator jump} quando sei in aria.\\nQuesta camera di combustione diesel sperimentale non consuma acqua, ma si surriscalda dopo poco tempo.",
+    "value": "Per volare, tieni premuto {indicator jump} quando sei in aria.
+Questa camera di combustione diesel sperimentale non consuma acqua, ma si surriscalda dopo poco tempo.",
   },
   {
     "key": "upgrades.upgrade_steampack_next_level_desc",
@@ -74211,7 +74593,8 @@ exports[`extract(tests\\fixtures\\it.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "upgrades.upgrade_pressurebomb_desc",
-    "value": "Può essere lanciata in avanti, in alto o in basso. Consuma acqua.\\nPremi {indicator tool_pressurebomb} per lanciare!",
+    "value": "Può essere lanciata in avanti, in alto o in basso. Consuma acqua.
+Premi {indicator tool_pressurebomb} per lanciare!",
   },
   {
     "key": "upgrades.upgrade_pressurebomb_next_level_desc",
@@ -74817,7 +75200,8 @@ exports[`extract(tests\\fixtures\\it.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "Death popup end text appended to the variants above",
     },
-    "value": "\\nTi riassembleranno in città.",
+    "value": "
+Ti riassembleranno in città.",
   },
   {
     "key": "popups.popup_died_checkpoint_title",
@@ -74833,19 +75217,27 @@ exports[`extract(tests\\fixtures\\it.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "popups.popup_inventory_discard_text",
-    "value": "Vuoi scartare %1% x %2%?\\n\\nLe risorse scartate andranno perse per sempre.",
+    "value": "Vuoi scartare %1% x %2%?
+
+Le risorse scartate andranno perse per sempre.",
   },
   {
     "key": "popups.popup_inventory_discard_give_money_text",
-    "value": "Vuoi scartare %1%x %2%?\\n\\nOtterrai $%3%{image money_small} (su $%4%{image money_small}) per le risorse scartate.",
+    "value": "Vuoi scartare %1%x %2%?
+
+Otterrai $%3%{image money_small} (su $%4%{image money_small}) per le risorse scartate.",
   },
   {
     "key": "popups.popup_inventory_discard_give_health_text",
-    "value": "Vuoi scartare %1%x %2%?\\n\\nRecupererai $%3% punti salute per le risorse scartate.",
+    "value": "Vuoi scartare %1%x %2%?
+
+Recupererai $%3% punti salute per le risorse scartate.",
   },
   {
     "key": "popups.popup_inventory_discard_give_money_and_health_text",
-    "value": "Vuoi scartare %1%x %2%?\\n\\nOtterrai $%3%{image money_small} (su $%4%{image money_small}) e recupererai %5% punti salute per le risorse scartate.",
+    "value": "Vuoi scartare %1%x %2%?
+
+Otterrai $%3%{image money_small} (su $%4%{image money_small}) e recupererai %5% punti salute per le risorse scartate.",
   },
   {
     "key": "popups.popup_find_map_title",
@@ -74868,11 +75260,15 @@ exports[`extract(tests\\fixtures\\it.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "popups.popup_press_input_text_gamepad",
-    "value": "Premi un pulsante qualsiasi per assegnarlo a questa azione.\\n\\nPremi {indicator menu_pause} per annullare.",
+    "value": "Premi un pulsante qualsiasi per assegnarlo a questa azione.
+
+Premi {indicator menu_pause} per annullare.",
   },
   {
     "key": "popups.popup_press_input_text_keyboard",
-    "value": "Premi un tasto qualsiasi per assegnarlo a questa azione.\\n\\nPremi {indicator menu_pause} per annullare.",
+    "value": "Premi un tasto qualsiasi per assegnarlo a questa azione.
+
+Premi {indicator menu_pause} per annullare.",
   },
   {
     "key": "popups.popup_wrong_input_type_title",
@@ -74904,7 +75300,9 @@ exports[`extract(tests\\fixtures\\it.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "popups.popup_tools_screen_enable_cog_text",
-    "value": "Questa Mod Ingranaggio renderà la tua missione più difficile... e forse più divertente!\\n\\nVuoi veramente attivarla?",
+    "value": "Questa Mod Ingranaggio renderà la tua missione più difficile... e forse più divertente!
+
+Vuoi veramente attivarla?",
   },
   {
     "key": "popups.popup_difficulty_title",
@@ -74915,14 +75313,16 @@ exports[`extract(tests\\fixtures\\it.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": " Text when setting difficulty before a new game.",
     },
-    "value": "Che livello di difficoltà preferisci?\\nPuoi cambiare questa impostazione in qualsiasi momento.",
+    "value": "Che livello di difficoltà preferisci?
+Puoi cambiare questa impostazione in qualsiasi momento.",
   },
   {
     "key": "popups.popup_difficulty_change_text",
     "metadata": {
       "raw": " Text when changing difficulty in game. %1% is the name of the current difficulty.",
     },
-    "value": "Che livello di difficoltà preferisci?\\nDifficoltà attuale: %1%",
+    "value": "Che livello di difficoltà preferisci?
+Difficoltà attuale: %1%",
   },
   {
     "key": "menus.main_menu_start",
@@ -75040,7 +75440,9 @@ exports[`extract(tests\\fixtures\\it.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "menus.menu_epilepsy_info_text",
-    "value": "Questo gioco contiene delle scene che possono potenzialmente scatenare attacchi epilettici. \\n\\nPer minimizzare questi rischi, vai su "Disabilita flash" nel menu "Opzioni".",
+    "value": "Questo gioco contiene delle scene che possono potenzialmente scatenare attacchi epilettici. 
+
+Per minimizzare questi rischi, vai su "Disabilita flash" nel menu "Opzioni".",
   },
   {
     "key": "menus.menu_xp_level",
@@ -75222,7 +75624,8 @@ exports[`extract(tests\\fixtures\\it.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "map_screen.menu_map_secrets",
-    "value": "%1%\\nSegreti: %2%%%",
+    "value": "%1%
+Segreti: %2%%%",
   },
   {
     "key": "map_screen.menu_map_no_secrets",
@@ -75736,7 +76139,8 @@ exports[`extract(tests\\fixtures\\it.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "system_menu.popup_exittomenu_text",
-    "value": "I progressi non salvati andranno persi. Vuoi veramente tornare al menu principale?\\nTempo trascorso dal tuo ultimo salvataggio: %1% min, %2% sec",
+    "value": "I progressi non salvati andranno persi. Vuoi veramente tornare al menu principale?
+Tempo trascorso dal tuo ultimo salvataggio: %1% min, %2% sec",
   },
   {
     "key": "system_menu.popup_selfdestruct_title",
@@ -76677,7 +77081,14 @@ exports[`extract(tests\\fixtures\\it.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "collectibles.collectible_cult_list_desc",
-    "value": "Trovare divinità della distruzione – Fatto\\nSpiegare l'organigramma della setta – Fatto\\nSostituire i membri vaporizzati del consiglio – Fatto\\nAscoltare le richieste della divinità – Fatto\\nDecapitare l'antica statua – Fatto\\nComprare il latte – ?\\nOrganizzare il pellegrinaggio – Fatto\\nPrepararsi per la fine del mondo – In corso",
+    "value": "Trovare divinità della distruzione – Fatto
+Spiegare l'organigramma della setta – Fatto
+Sostituire i membri vaporizzati del consiglio – Fatto
+Ascoltare le richieste della divinità – Fatto
+Decapitare l'antica statua – Fatto
+Comprare il latte – ?
+Organizzare il pellegrinaggio – Fatto
+Prepararsi per la fine del mondo – In corso",
   },
   {
     "key": "collectibles.collectible_cult_list_flavor",
@@ -76856,9 +77267,21 @@ exports[`extract(tests\\fixtures\\it.csv) function > matches snapshot > tests\\f
   {
     "key": "vectron_messages.message_trespasser_text_1",
     "metadata": {
-      "raw": " Error message. Translate only actual words. Keep approximate length between \\n.",
+      "raw": " Error message. Translate only actual words. Keep approximate length between 
+.",
     },
-    "value": "SURGE BOOT: INITIATING THREAT ANALYSIS\\n\\nDIRECTIVE A, B, COMPILED.  #8F000025.28C40A8\\nVCT_SYSTEM_OFFLINE\\nAX=000A DIRECTIVE A: BLUE SAVIOR, FAIL LEVEL: CRITICAL BX=7FFF SP=000007C4\\nCX=0000 PRE-LOAD DIRECTIVE B: MOON ESCAPE DX=7FFF IP=0800F108\\nEX=6060 FX=7FFF XP=080FFFAA\\nBACK-UP COMPLETED\\nSPACE CAPSULE: SECURE\\n\\n\\nERROR RESULT:",
+    "value": "SURGE BOOT: INITIATING THREAT ANALYSIS
+
+DIRECTIVE A, B, COMPILED.  #8F000025.28C40A8
+VCT_SYSTEM_OFFLINE
+AX=000A DIRECTIVE A: BLUE SAVIOR, FAIL LEVEL: CRITICAL BX=7FFF SP=000007C4
+CX=0000 PRE-LOAD DIRECTIVE B: MOON ESCAPE DX=7FFF IP=0800F108
+EX=6060 FX=7FFF XP=080FFFAA
+BACK-UP COMPLETED
+SPACE CAPSULE: SECURE
+
+
+ERROR RESULT:",
   },
   {
     "key": "vectron_messages.message_trespasser_text_2",
@@ -76870,17 +77293,46 @@ exports[`extract(tests\\fixtures\\it.csv) function > matches snapshot > tests\\f
   {
     "key": "vectron_messages.message_final_text",
     "metadata": {
-      "raw": " Part of the error message. Translate. Preserve \\n. Keep approximate length between \\n.",
+      "raw": " Part of the error message. Translate. Preserve 
+. Keep approximate length between 
+.",
     },
-    "value": "DISASTER PROTOCOL\\nDIRECTIVE A: BLUE SAVIOR\\nINITIATED",
+    "value": "DISASTER PROTOCOL
+DIRECTIVE A: BLUE SAVIOR
+INITIATED",
   },
   {
     "key": "vectron_messages.message_hell_bedrock_01",
-    "value": "TEST RESULT:\\nTEST SUBJECT PRESSED 3 BUTTONS\\nTEST SUBJECT EXPECTS A...REWARD...?\\n\\nREWARD INITIATED:\\n......o..o..o......\\n......I..I..I......\\n....(VVVVVVVVV)....\\n....l--.--.--.l....\\n....l.--.--.--l....\\n....l_________l....\\n...................\\n\\nOBSERVATION:\\nTEST SUBJECT ENJOYED THE REWARD\\n\\nEXPECTATION: \\nCONTINUED MINIMAL SIGNS OF INTELLIGENCE\\n",
+    "value": "TEST RESULT:
+TEST SUBJECT PRESSED 3 BUTTONS
+TEST SUBJECT EXPECTS A...REWARD...?
+
+REWARD INITIATED:
+......o..o..o......
+......I..I..I......
+....(VVVVVVVVV)....
+....l--.--.--.l....
+....l.--.--.--l....
+....l_________l....
+...................
+
+OBSERVATION:
+TEST SUBJECT ENJOYED THE REWARD
+
+EXPECTATION: 
+CONTINUED MINIMAL SIGNS OF INTELLIGENCE
+",
   },
   {
     "key": "vectron_messages.message_hell_bedrock_02",
-    "value": "TEST SUBJECT INITIATED ESCAPE\\n\\nTEST SESSION: STOPPED\\n\\n\\nDEACTIVATE TEST CHAMBER\\n\\nALSO: HIDE THE CAKE",
+    "value": "TEST SUBJECT INITIATED ESCAPE
+
+TEST SESSION: STOPPED
+
+
+DEACTIVATE TEST CHAMBER
+
+ALSO: HIDE THE CAKE",
   },
   {
     "key": "languages.language_english",
@@ -83160,7 +83612,8 @@ exports[`extract(tests\\fixtures\\it_conversations.csv) function > matches snaps
   {
     "key": "guarding_hub.conversation_z2w2u3_text",
     "metadata": {
-      "notes": "*format* *new* also removed the line break (\\n}",
+      "notes": "*format* *new* also removed the line break (
+}",
     },
     "value": "Ehi ehi ehi ehi! Dove pensate di andare?",
   },
@@ -89204,7 +89657,8 @@ exports[`extract(tests\\fixtures\\it_conversations.csv) function > matches snaps
     "metadata": {
       "notes": "*new*",
     },
-    "value": ""Motori aeronautici \\ne Rampini non consentiti."",
+    "value": ""Motori aeronautici 
+e Rampini non consentiti."",
   },
   {
     "key": "sign_trials_no_hook_jetpack.conversation_cbb9jh_text.Speaker",
@@ -89259,7 +89713,10 @@ exports[`extract(tests\\fixtures\\it_conversations.csv) function > matches snaps
     "metadata": {
       "notes": "*TEMP* *NEW*",
     },
-    "value": ""Se la porta è rimasta chiusa\\nLa lava ti ha attaccato senza chiedere scusa\\nSe la tocchi minimamente\\nDovrai uscire e rientrare velocemente."",
+    "value": ""Se la porta è rimasta chiusa
+La lava ti ha attaccato senza chiedere scusa
+Se la tocchi minimamente
+Dovrai uscire e rientrare velocemente."",
   },
   {
     "key": "sign_floor_is_lava.conversation_nol9uu_text.Speaker",
@@ -91351,7 +91808,9 @@ exports[`extract(tests\\fixtures\\ru.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "El Machino is the name of the city",
     },
-    "value": "Возможность мгновенно вернуться в Эль Макино без потери ресурсов. Активируйте эту способность в системной вкладке.\\n\\n{format bold}Не работает в пещерах и когда вам грозит опасность. Значок способности {image town_portal_small} показывает, когда можно ее использовать.{format reset}",
+    "value": "Возможность мгновенно вернуться в Эль Макино без потери ресурсов. Активируйте эту способность в системной вкладке.
+
+{format bold}Не работает в пещерах и когда вам грозит опасность. Значок способности {image town_portal_small} показывает, когда можно ее использовать.{format reset}",
   },
   {
     "key": "upgrades.upgrade_backpack_town_portal_flavor",
@@ -91783,7 +92242,9 @@ exports[`extract(tests\\fixtures\\ru.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": " Text within { } should not be translated.",
     },
-    "value": "Показывает на карте отметки ({image quest_pointer_arrow} и {image quest_pointer_crosshair}), направляющие к целям вашей миссии. \\n\\n{format bold}Если вы не любите, когда вам указывают, отключите эту модификацию.{format reset}",
+    "value": "Показывает на карте отметки ({image quest_pointer_arrow} и {image quest_pointer_crosshair}), направляющие к целям вашей миссии. 
+
+{format bold}Если вы не любите, когда вам указывают, отключите эту модификацию.{format reset}",
   },
   {
     "key": "upgrades.upgrade_minimap_quest_pointer_flavor",
@@ -91834,7 +92295,8 @@ exports[`extract(tests\\fixtures\\ru.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "upgrades.upgrade_run_boots_desc",
-    "value": "Чтобы бежать, удерживайте при движении {indicator run}.\\nБег позволяет быстрее двигаться и выше прыгать.",
+    "value": "Чтобы бежать, удерживайте при движении {indicator run}.
+Бег позволяет быстрее двигаться и выше прыгать.",
   },
   {
     "key": "upgrades.upgrade_run_boots_flavor",
@@ -91878,7 +92340,10 @@ exports[`extract(tests\\fixtures\\ru.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "Blood Stone is a resource in the game. Text within { } should not be translated. ",
     },
-    "value": "Добыча ценой крови!\\nУдваивает шанс получить кровавики при гибели врага, но при этом увеличивает урон.\\n\\n{format bold}Активация этой модификации усложнит выполнение миссий. Подходит только опытным бойцам.{format reset}",
+    "value": "Добыча ценой крови!
+Удваивает шанс получить кровавики при гибели врага, но при этом увеличивает урон.
+
+{format bold}Активация этой модификации усложнит выполнение миссий. Подходит только опытным бойцам.{format reset}",
   },
   {
     "key": "upgrades.upgrade_fate_bloodquest_flavor",
@@ -91893,7 +92358,9 @@ exports[`extract(tests\\fixtures\\ru.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "Text within { } should not be translated. ",
     },
-    "value": "Удваивает опыт за убийства, но сферы вы получите только за креативные убийства и бонусы.\\n\\n{format bold}Активация этой модификации усложнит выполнение миссий. Подходит только опытным бойцам.{format reset}",
+    "value": "Удваивает опыт за убийства, но сферы вы получите только за креативные убийства и бонусы.
+
+{format bold}Активация этой модификации усложнит выполнение миссий. Подходит только опытным бойцам.{format reset}",
   },
   {
     "key": "upgrades.upgrade_fate_xpx2_flavor",
@@ -91911,7 +92378,9 @@ exports[`extract(tests\\fixtures\\ru.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "Text within { } should not be translated. ",
     },
-    "value": "Враги взрываются, когда умирают.\\n\\n{format bold}Активация этой модификации усложнит выполнение миссий.{format reset}",
+    "value": "Враги взрываются, когда умирают.
+
+{format bold}Активация этой модификации усложнит выполнение миссий.{format reset}",
   },
   {
     "key": "upgrades.upgrade_fate_explosions_flavor",
@@ -91944,7 +92413,10 @@ exports[`extract(tests\\fixtures\\ru.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "upgrades.upgrade_fate_hell_cave_sigil_desc",
-    "value": "Вершина одиночества в пустыне,\\nНелегок путь среди песков опасных.\\nТвоя судьба на небесах отныне,\\nСокрыта в месте странном и прекрасном.",
+    "value": "Вершина одиночества в пустыне,
+Нелегок путь среди песков опасных.
+Твоя судьба на небесах отныне,
+Сокрыта в месте странном и прекрасном.",
   },
   {
     "key": "upgrades.upgrade_fate_hell_cave_sigil_flavor",
@@ -91959,7 +92431,8 @@ exports[`extract(tests\\fixtures\\ru.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "upgrades.upgrade_steampack_desc",
-    "value": "Чтобы лететь, удерживайте {indicator jump}.\\nЭкспериментальный двигатель внутреннего сгорания не потребляет воду, но быстро перегревается.",
+    "value": "Чтобы лететь, удерживайте {indicator jump}.
+Экспериментальный двигатель внутреннего сгорания не потребляет воду, но быстро перегревается.",
   },
   {
     "key": "upgrades.upgrade_steampack_next_level_desc",
@@ -92061,7 +92534,8 @@ exports[`extract(tests\\fixtures\\ru.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "upgrades.upgrade_pressurebomb_desc",
-    "value": "Можно бросать вперед, вверх и вниз Расходует воду.\\nЧтобы бросить, нажмите {indicator tool_pressurebomb}!",
+    "value": "Можно бросать вперед, вверх и вниз Расходует воду.
+Чтобы бросить, нажмите {indicator tool_pressurebomb}!",
   },
   {
     "key": "upgrades.upgrade_pressurebomb_next_level_desc",
@@ -92667,7 +93141,8 @@ exports[`extract(tests\\fixtures\\ru.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": "Death popup end text appended to the variants above",
     },
-    "value": "\\nВы вернетесь в город.",
+    "value": "
+Вы вернетесь в город.",
   },
   {
     "key": "popups.popup_died_checkpoint_title",
@@ -92683,19 +93158,27 @@ exports[`extract(tests\\fixtures\\ru.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "popups.popup_inventory_discard_text",
-    "value": "Выбросить ресурсы (%1% x %2%)?\\n\\nВернуть их не удастся.",
+    "value": "Выбросить ресурсы (%1% x %2%)?
+
+Вернуть их не удастся.",
   },
   {
     "key": "popups.popup_inventory_discard_give_money_text",
-    "value": "Выбросить ресурсы (%1%x %2%)?\\n\\nЗа выброшенные ресурсы вы получите $%3%{image money_small} (из $%4%{image money_small}).",
+    "value": "Выбросить ресурсы (%1%x %2%)?
+
+За выброшенные ресурсы вы получите $%3%{image money_small} (из $%4%{image money_small}).",
   },
   {
     "key": "popups.popup_inventory_discard_give_health_text",
-    "value": "Выбросить ресурсы (%1% x %2%)?\\n\\nЗа выброшенные ресурсы вы восстановите %3% здоровья.",
+    "value": "Выбросить ресурсы (%1% x %2%)?
+
+За выброшенные ресурсы вы восстановите %3% здоровья.",
   },
   {
     "key": "popups.popup_inventory_discard_give_money_and_health_text",
-    "value": "Выбросить ресурсы (%1%x %2%)?\\n\\nЗа выброшенные ресурсы вы получите $%3%{image money_small} (из $%4%{image money_small}) и восстановите %5% здоровья.",
+    "value": "Выбросить ресурсы (%1%x %2%)?
+
+За выброшенные ресурсы вы получите $%3%{image money_small} (из $%4%{image money_small}) и восстановите %5% здоровья.",
   },
   {
     "key": "popups.popup_find_map_title",
@@ -92718,11 +93201,15 @@ exports[`extract(tests\\fixtures\\ru.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "popups.popup_press_input_text_gamepad",
-    "value": "Чтобы назначить кнопку на действие, нажмите ее.\\n\\nДля отмены нажмите {indicator menu_pause}.",
+    "value": "Чтобы назначить кнопку на действие, нажмите ее.
+
+Для отмены нажмите {indicator menu_pause}.",
   },
   {
     "key": "popups.popup_press_input_text_keyboard",
-    "value": "Чтобы назначить клавишу на действие, нажмите ее.\\n\\nДля отмены нажмите {indicator menu_pause}.",
+    "value": "Чтобы назначить клавишу на действие, нажмите ее.
+
+Для отмены нажмите {indicator menu_pause}.",
   },
   {
     "key": "popups.popup_wrong_input_type_title",
@@ -92757,7 +93244,9 @@ exports[`extract(tests\\fixtures\\ru.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "popups.popup_tools_screen_enable_cog_text",
-    "value": "Эта модификация усложнит выполнение миссий. Но может быть весело!\\n\\nВыбрать эту модификацию?",
+    "value": "Эта модификация усложнит выполнение миссий. Но может быть весело!
+
+Выбрать эту модификацию?",
   },
   {
     "key": "popups.popup_difficulty_title",
@@ -92768,14 +93257,16 @@ exports[`extract(tests\\fixtures\\ru.csv) function > matches snapshot > tests\\f
     "metadata": {
       "raw": " Text when setting difficulty before a new game.",
     },
-    "value": "Выберите уровень сложности.\\nСложность можно будет изменить в любой момент.",
+    "value": "Выберите уровень сложности.
+Сложность можно будет изменить в любой момент.",
   },
   {
     "key": "popups.popup_difficulty_change_text",
     "metadata": {
       "raw": " Text when changing difficulty in game. %1% is the name of the current difficulty.",
     },
-    "value": "Выберите уровень сложности.\\nТекущий уровень: %1%.",
+    "value": "Выберите уровень сложности.
+Текущий уровень: %1%.",
   },
   {
     "key": "menus.main_menu_start",
@@ -92893,7 +93384,9 @@ exports[`extract(tests\\fixtures\\ru.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "menus.menu_epilepsy_info_text",
-    "value": "Эта игра содержит сцены, способные спровоцировать приступ эпилепсии. \\n\\nЧтобы минимизировать риск, установите флажок "Откл. мерцание" в меню параметров.",
+    "value": "Эта игра содержит сцены, способные спровоцировать приступ эпилепсии. 
+
+Чтобы минимизировать риск, установите флажок "Откл. мерцание" в меню параметров.",
   },
   {
     "key": "menus.menu_xp_level",
@@ -93075,7 +93568,8 @@ exports[`extract(tests\\fixtures\\ru.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "map_screen.menu_map_secrets",
-    "value": "%1%\\nТайны: %2%%%",
+    "value": "%1%
+Тайны: %2%%%",
   },
   {
     "key": "map_screen.menu_map_no_secrets",
@@ -93592,7 +94086,8 @@ exports[`extract(tests\\fixtures\\ru.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "system_menu.popup_exittomenu_text",
-    "value": "Несохраненный прогресс будет потерян. Вернуться в главное меню?\\nС прошлого сохранения: %1% мин., %2% сек.",
+    "value": "Несохраненный прогресс будет потерян. Вернуться в главное меню?
+С прошлого сохранения: %1% мин., %2% сек.",
   },
   {
     "key": "system_menu.popup_selfdestruct_title",
@@ -94536,7 +95031,14 @@ exports[`extract(tests\\fixtures\\ru.csv) function > matches snapshot > tests\\f
   },
   {
     "key": "collectibles.collectible_cult_list_desc",
-    "value": "Найти божественное воплощение уничтожения (готово)\\nСоставить схему организации культа (готово)\\nЗаменить испарившихся членов совета (готово)\\nВыслушать требования божества (готово)\\nОбезглавить старый идол (готово)\\nКупить молоко (?)\\nНаладить паломничество (готово)\\nПриготовиться к концу света (в работе)",
+    "value": "Найти божественное воплощение уничтожения (готово)
+Составить схему организации культа (готово)
+Заменить испарившихся членов совета (готово)
+Выслушать требования божества (готово)
+Обезглавить старый идол (готово)
+Купить молоко (?)
+Наладить паломничество (готово)
+Приготовиться к концу света (в работе)",
   },
   {
     "key": "collectibles.collectible_cult_list_flavor",
@@ -94715,9 +95217,21 @@ exports[`extract(tests\\fixtures\\ru.csv) function > matches snapshot > tests\\f
   {
     "key": "vectron_messages.message_trespasser_text_1",
     "metadata": {
-      "raw": " Error message. Translate only actual words. Keep approximate length between \\n.",
+      "raw": " Error message. Translate only actual words. Keep approximate length between 
+.",
     },
-    "value": "SURGE BOOT: INITIATING THREAT ANALYSIS\\n\\nDIRECTIVE A, B, COMPILED.  #8F000025.28C40A8\\nVCT_SYSTEM_OFFLINE\\nAX=000A DIRECTIVE A: BLUE SAVIOR, FAIL LEVEL: CRITICAL BX=7FFF SP=000007C4\\nCX=0000 PRE-LOAD DIRECTIVE B: MOON ESCAPE DX=7FFF IP=0800F108\\nEX=6060 FX=7FFF XP=080FFFAA\\nBACK-UP COMPLETED\\nSPACE CAPSULE: SECURE\\n\\n\\nERROR RESULT:",
+    "value": "SURGE BOOT: INITIATING THREAT ANALYSIS
+
+DIRECTIVE A, B, COMPILED.  #8F000025.28C40A8
+VCT_SYSTEM_OFFLINE
+AX=000A DIRECTIVE A: BLUE SAVIOR, FAIL LEVEL: CRITICAL BX=7FFF SP=000007C4
+CX=0000 PRE-LOAD DIRECTIVE B: MOON ESCAPE DX=7FFF IP=0800F108
+EX=6060 FX=7FFF XP=080FFFAA
+BACK-UP COMPLETED
+SPACE CAPSULE: SECURE
+
+
+ERROR RESULT:",
   },
   {
     "key": "vectron_messages.message_trespasser_text_2",
@@ -94729,17 +95243,46 @@ exports[`extract(tests\\fixtures\\ru.csv) function > matches snapshot > tests\\f
   {
     "key": "vectron_messages.message_final_text",
     "metadata": {
-      "raw": " Part of the error message. Translate. Preserve \\n. Keep approximate length between \\n.",
+      "raw": " Part of the error message. Translate. Preserve 
+. Keep approximate length between 
+.",
     },
-    "value": "DISASTER PROTOCOL\\nDIRECTIVE A: BLUE SAVIOR\\nINITIATED",
+    "value": "DISASTER PROTOCOL
+DIRECTIVE A: BLUE SAVIOR
+INITIATED",
   },
   {
     "key": "vectron_messages.message_hell_bedrock_01",
-    "value": "TEST RESULT:\\nTEST SUBJECT PRESSED 3 BUTTONS\\nTEST SUBJECT EXPECTS A...REWARD...?\\n\\nREWARD INITIATED:\\n......o..o..o......\\n......I..I..I......\\n....(VVVVVVVVV)....\\n....l--.--.--.l....\\n....l.--.--.--l....\\n....l_________l....\\n...................\\n\\nOBSERVATION:\\nTEST SUBJECT ENJOYED THE REWARD\\n\\nEXPECTATION: \\nCONTINUED MINIMAL SIGNS OF INTELLIGENCE\\n",
+    "value": "TEST RESULT:
+TEST SUBJECT PRESSED 3 BUTTONS
+TEST SUBJECT EXPECTS A...REWARD...?
+
+REWARD INITIATED:
+......o..o..o......
+......I..I..I......
+....(VVVVVVVVV)....
+....l--.--.--.l....
+....l.--.--.--l....
+....l_________l....
+...................
+
+OBSERVATION:
+TEST SUBJECT ENJOYED THE REWARD
+
+EXPECTATION: 
+CONTINUED MINIMAL SIGNS OF INTELLIGENCE
+",
   },
   {
     "key": "vectron_messages.message_hell_bedrock_02",
-    "value": "TEST SUBJECT INITIATED ESCAPE\\n\\nTEST SESSION: STOPPED\\n\\n\\nDEACTIVATE TEST CHAMBER\\n\\nALSO: HIDE THE CAKE",
+    "value": "TEST SUBJECT INITIATED ESCAPE
+
+TEST SESSION: STOPPED
+
+
+DEACTIVATE TEST CHAMBER
+
+ALSO: HIDE THE CAKE",
   },
   {
     "key": "languages.language_english",
@@ -101019,7 +101562,8 @@ exports[`extract(tests\\fixtures\\ru_conversations.csv) function > matches snaps
   {
     "key": "guarding_hub.conversation_z2w2u3_text",
     "metadata": {
-      "notes": "*format* *new* also removed the line break (\\n}",
+      "notes": "*format* *new* also removed the line break (
+}",
     },
     "value": "Э-э-эй! Сссстый, куда прешь?",
   },
@@ -107063,7 +107607,8 @@ exports[`extract(tests\\fixtures\\ru_conversations.csv) function > matches snaps
     "metadata": {
       "notes": "*new*",
     },
-    "value": ""Без реактивного двигателя, \\nбез кошки."",
+    "value": ""Без реактивного двигателя, 
+без кошки."",
   },
   {
     "key": "sign_trials_no_hook_jetpack.conversation_cbb9jh_text.Speaker",
@@ -107118,7 +107663,10 @@ exports[`extract(tests\\fixtures\\ru_conversations.csv) function > matches snaps
     "metadata": {
       "notes": "*TEMP* *NEW*",
     },
-    "value": ""Если закрыта дверь,\\nЛава тебе повредит.\\nНе до тебя теперь,\\nВыйди и снова зайди"",
+    "value": ""Если закрыта дверь,
+Лава тебе повредит.
+Не до тебя теперь,
+Выйди и снова зайди"",
   },
   {
     "key": "sign_floor_is_lava.conversation_nol9uu_text.Speaker",
