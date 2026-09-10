@@ -5,7 +5,6 @@ import { describe, expect, it } from "vitest";
 
 import { extract } from "#/Extract";
 import { rebuild, rebuildRaw } from "#/Rebuild";
-import { SPEAKER_SUFFIX } from "#/types/Document";
 import type { Document } from "#/types/Document";
 
 const files = await readdir("tests/fixtures");
@@ -19,10 +18,13 @@ describe("roundtrip: Extract + Rebuild", () => {
     it("rebuildRaw + extract: round-trip with entries created from scratch", () => {
       const document: Document = [
         { key: "_.next", value: "Next" },
-        { key: "_.skip", value: "Skip", metadata: { raw: "*DEMO*" } },
-        { key: "_.yay", value: "Yay!", metadata: { raw: 'A in "horray!"' } },
-        { key: "_.conversation_a", value: "Hi.", metadata: { notes: "Comes up when full." } },
-        { key: "_.conversation_a.Speaker", value: "Fen" },
+        { key: "_.skip", value: "Skip", notes: "*DEMO*" },
+        { key: "_.yay", value: "Yay!", notes: 'A in "horray!"' },
+        {
+          key: "_.conversation_a",
+          value: "Hi.",
+          notes: "Speaker=Fen Notes=Comes up when full.",
+        },
       ];
 
       const rebuilt = rebuildRaw(document).toString("utf-8");
@@ -50,7 +52,7 @@ describe("roundtrip: Extract + Rebuild", () => {
     it("encodes real line breaks as \\n", () => {
       const document: Document = [
         { key: "_.hello", value: "Hi\nBye" },
-        { key: "_.note", value: "Hi", metadata: { raw: "a\nb" } },
+        { key: "_.note", value: "Hi", notes: "a\nb" },
       ];
 
       const rebuilt = rebuildRaw(document).toString("utf-8");
@@ -70,54 +72,43 @@ describe("roundtrip: Extract + Rebuild", () => {
       "conversation_a\tHi.\tSpeaker=Fen Notes=Comes up when full.\r\n" +
       "conversation_b\tYo.\tSpeaker=Bob\r\n";
 
-    it("patches values and speakers while keeping original keys", () => {
-      const rebuilt = rebuild(
-        source,
-        new Map([
-          ["generic.next", "Seguinte"],
-          [`generic.conversation_a${SPEAKER_SUFFIX}`, "Max"],
-        ]),
-      ).toString("utf-8");
+    it("patches values while keeping comments and original keys", () => {
+      const rebuilt = rebuild(source, new Map([["generic.next", "Seguinte"]])).toString("utf-8");
 
       expect(rebuilt).toContain("# ----- Generic ----");
       expect(rebuilt).toContain("next\tSeguinte");
       expect(rebuilt).not.toContain("generic.next");
       expect(rebuilt).toContain("skip\tSkip\t*DEMO*");
+      expect(rebuilt).toContain("conversation_a\tHi.\tSpeaker=Fen Notes=Comes up when full.");
       expect(rebuilt).not.toContain("\r");
       expect(extract(rebuilt)).toStrictEqual([
         { key: "generic.next", value: "Seguinte" },
-        { key: "generic.skip", value: "Skip", metadata: { raw: "*DEMO*" } },
+        { key: "generic.skip", value: "Skip", notes: "*DEMO*" },
         {
           key: "generic.conversation_a",
           value: "Hi.",
-          metadata: { notes: "Comes up when full." },
+          notes: "Speaker=Fen Notes=Comes up when full.",
         },
-        { key: `generic.conversation_a${SPEAKER_SUFFIX}`, value: "Max" },
-        { key: "generic.conversation_b", value: "Yo." },
-        { key: `generic.conversation_b${SPEAKER_SUFFIX}`, value: "Bob" },
+        { key: "generic.conversation_b", value: "Yo.", notes: "Speaker=Bob" },
       ]);
     });
 
-    it("ignores unknown keys", () => {
-      expect(
-        extract(
-          rebuild(
-            "next\tNext\n",
-            new Map([
-              ["missing", "X"],
-              [`missing${SPEAKER_SUFFIX}`, "Y"],
-            ]),
-          ),
-        ),
-      ).toStrictEqual([{ key: "_.next", value: "Next" }]);
+    it("keeps the comment column verbatim when patching a value", () => {
+      const rebuilt = rebuild(source, new Map([["generic.conversation_a", "Hola."]])).toString(
+        "utf-8",
+      );
+
+      expect(rebuilt).toContain("conversation_a\tHola.\tSpeaker=Fen Notes=Comes up when full.");
+      expect(extract(rebuilt).find((node) => node.key === "generic.conversation_a")).toStrictEqual({
+        key: "generic.conversation_a",
+        value: "Hola.",
+        notes: "Speaker=Fen Notes=Comes up when full.",
+      });
     });
 
-    it("adds a speaker column to a row without one", () => {
-      expect(
-        extract(rebuild("hello\tHi\n", new Map([[`_.hello${SPEAKER_SUFFIX}`, "Fen"]]))),
-      ).toStrictEqual([
-        { key: "_.hello", value: "Hi" },
-        { key: `_.hello${SPEAKER_SUFFIX}`, value: "Fen" },
+    it("ignores unknown keys", () => {
+      expect(extract(rebuild("next\tNext\n", new Map([["missing", "X"]])))).toStrictEqual([
+        { key: "_.next", value: "Next" },
       ]);
     });
 
@@ -154,7 +145,7 @@ describe("roundtrip: Extract + Rebuild", () => {
 
       const data = await readFile(fixture);
       const extracted = extract(data);
-      const target = extracted.find((node) => !node.key.endsWith(SPEAKER_SUFFIX))!;
+      const target = extracted.at(0)!;
       const rebuilt = rebuild(data, new Map([[target.key, "PATCHED VALUE"]]));
       const reExtracted = extract(rebuilt);
 

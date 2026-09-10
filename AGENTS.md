@@ -17,17 +17,18 @@ Entry points (see `package.json` `exports` and `tsdown.config.ts` `entry`):
   `dist/Rebuild.d.mts`).
 
 Purpose: parse locale TSV payloads (stored with a `.csv` extension, 3 tab-separated columns `key`,
-`value`, `metadata`, `#` comment lines) into a `TsvDocument` and rebuild or selectively patch them,
-including `Speaker` / `Notes` metadata handling and sync into `@triforce-heroes/triforce-publisher`.
+`value`, `metadata`, `#` comment lines) into a `Document` and rebuild or selectively patch them,
+treating the third column as a free-form comment (`notes` on the entry) and sync into
+`@triforce-heroes/triforce-publisher`.
 
 Folder structure:
 
 - `src/Extract.ts`: public `extract` function.
 - `src/Rebuild.ts`: public `rebuildRaw` and `rebuild` functions.
-- `src/services/TsvParser.ts`: internal TSV lexer and metadata codec (`isIgnorable`, `parseFields`,
-  `serializeField`, `parseMetadata`, `serializeMetadata`, `SPEAKER_PREFIX`, `NOTES_SEPARATOR`).
+- `src/services/Parser.ts`: internal TSV lexer (`isIgnorable`, `parseFields`, `serializeField`,
+  `unescapeText`, `escapeText`, `normalizeGroup`, `resolveKey`).
 - `src/services/PublisherSync.ts`: internal `addDocumentToPublisher` bridge.
-- `src/types/Tsv.ts`: shared types (`TsvDocument`, `TsvEntry`, `TsvMetadata`) and `SPEAKER_SUFFIX`.
+- `src/types/Document.ts`: shared types (`Document`, `Entry`).
 - `tests/`: `Extract.test.ts`, `Rebuild.test.ts`, `PublisherSync.test.ts`, `fixtures/*.csv` (12
   locale files: `en/de/es/fr/it/ru` plus `_conversations` variants), `__snapshots__/*.snap`.
 - `tools/watch.ts`: dev-only script that extracts every `tests/fixtures/*.csv` file and saves a
@@ -49,28 +50,24 @@ Folder structure:
   `import { extract } from "#/Extract"`. Use the `node:` prefix for Node builtins
   (`node:fs/promises`, `node:path`, `node:os`).
 - Naming: `camelCase` for functions and variables (`extract`, `rebuildRaw`, `valuePatch`),
-  `PascalCase` for types and interfaces (`TsvDocument`, `TsvEntry`, `TsvMetadata`, `Publisher`),
-  `UPPER_SNAKE_CASE` for constants (`SPEAKER_SUFFIX`, `SPEAKER_PREFIX`, `NOTES_SEPARATOR`, `BOM`).
+  `PascalCase` for types and interfaces (`Document`, `Entry`, `Publisher`), `UPPER_SNAKE_CASE` for
+  constants (`BOM`).
 - Text contract: public functions accept `string | Buffer` and decode input as UTF-8. `extract`
   strips one leading BOM. Lines are split on `\n` with one trailing `\r` stripped. Output is a UTF-8
   `Buffer` with `\n` separators: `rebuildRaw` appends a trailing `\n` (empty document yields an
   empty buffer), `rebuild` preserves the original line layout and returns ignorable lines verbatim.
 - TSV contract: every data row has exactly 3 tab columns. Quoted fields use `""` to escape `"`.
   `serializeField` quotes only fields starting with `"` or `#` or containing `\t`, `\r`, `\n`. Empty
-  metadata serializes to `""`. Metadata without the `Speaker=` prefix is stored as `{ raw }`;
-  `Speaker=<s>` optionally followed by ` Notes=<n>` splits into a synthetic `<key>.Speaker` entry
-  plus `{ Notes }` metadata. `SPEAKER_SUFFIX` is `".Speaker"`.
-- Ignorable lines (`src/services/TsvParser.ts` `isIgnorable`): empty lines, lines starting with `#`,
+  notes serialize to `""`. Non-empty third column is stored verbatim as `notes`; no `Speaker=` /
+  `Notes=` parsing and no synthetic entries are generated.
+- Ignorable lines (`src/services/Parser.ts` `isIgnorable`): empty lines, lines starting with `#`,
   and lines containing only spaces/tabs are skipped by `extract`/`rebuildRaw` and passed through
   untouched by `rebuild`.
 - Failures use `throw new Error(...)` with these message shapes: `duplicate key: "<key>"`,
   `invalid row: expected 3 columns but got <n> in line: "<line>"`,
-  `invalid row: empty key in line: "<line>"`, `unterminated quoted field in line: "<line>"`,
-  `duplicate speaker for key: "<key>"`, `orphan speaker: "<key>.Speaker"`,
-  `metadata conflict for speaker "<s>": raw and Speaker cannot be combined`.
-- Publisher bridge (`src/services/PublisherSync.ts` `addDocumentToPublisher`): keys ending with
-  `.Speaker` call `publisher.addReference` without metadata; all other entries pass `node.metadata`
-  through. Never attach `raw` metadata to a speaker entry.
+  `invalid row: empty key in line: "<line>"`, `unterminated quoted field in line: "<line>"`.
+- Publisher bridge (`src/services/PublisherSync.ts` `addDocumentToPublisher`): every entry maps
+  `node.notes` to the `{ notes }` publisher metadata record.
 - Dev tool (`tools/watch.ts`): `new Publisher(10)`, languages `en`, `de`, `es`, `fr`, `it`, `ru`,
   file pattern `/^(?<lang>[a-z]{2})(?<conversations>_conversations)?\.csv$/v`, resource `strings`
   (plain files) versus `conversations` (`*_conversations.csv`), output directory `tools/resources`.

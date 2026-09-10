@@ -32,20 +32,18 @@ const output = rebuildRaw(document).toString("utf-8");
 ## Types
 
 ```ts
-type TsvMetadata = Record<string, string>;
-
 interface TsvEntry {
   key: string;
   value: string;
-  metadata?: TsvMetadata;
+  notes?: string;
 }
 
 type TsvDocument = TsvEntry[];
 ```
 
-`TsvDocument` is the in-memory form used by every entry point. A `Speaker=<name>` column becomes a
-synthetic `<key>.Speaker` entry, while any other metadata text is kept as `{ raw: string }` and
-`Speaker=<name> Notes=<text>` keeps `{ Notes: string }` on the base entry.
+`TsvDocument` is the in-memory form used by every entry point. The third column is a free-form
+comment kept verbatim as `notes?: string` on the entry; `Speaker=` and `Notes=` have no special
+meaning and never generate synthetic entries.
 
 # Extract functions
 
@@ -65,8 +63,8 @@ import { extract } from "@triforce-heroes/triforce-tsv/Extract";
 const document = extract("next\tNext\t\n");
 // [{ key: "next", value: "Next" }]
 
-const withSpeaker = extract("conversation_a\tHi.\tSpeaker=Fen Notes=Comes up.\n");
-// [{ key: "conversation_a", value: "Hi.", metadata: { Notes: "Comes up." } }, { key: "conversation_a.Speaker", value: "Fen" }]
+const withComment = extract("conversation_a\tHi.\tSpeaker=Fen Notes=Comes up.\n");
+// [{ key: "conversation_a", value: "Hi.", notes: "Speaker=Fen Notes=Comes up." }]
 ```
 
 # Rebuild functions
@@ -77,9 +75,9 @@ const withSpeaker = extract("conversation_a\tHi.\tSpeaker=Fen Notes=Comes up.\n"
 rebuild(data: string | Buffer, entries: Map<string, string>): Buffer;
 ```
 
-Patches selected values and speakers in an existing TSV payload and returns a UTF-8 `Buffer`. Use it
-for translations when comments and untouched rows must stay byte-identical. Keys absent from the map
-(including `<key>.Speaker` for speakers) are returned verbatim, and unknown patch keys are ignored.
+Patches selected values in an existing TSV payload and returns a UTF-8 `Buffer`. Use it for
+translations when comments and untouched rows must stay byte-identical. Keys absent from the map are
+returned verbatim, the comment column is carried through as-is, and unknown patch keys are ignored.
 
 ```ts
 import { rebuild } from "@triforce-heroes/triforce-tsv/Rebuild";
@@ -95,9 +93,8 @@ rebuildRaw(document: TsvDocument): Buffer;
 ```
 
 Serializes a `TsvDocument` from scratch into a UTF-8 `Buffer` with `\n` line endings. Use it to emit
-a clean payload without comments. It merges each `<key>.Speaker` entry back into a `Speaker=`
-column, returns an empty buffer for an empty document, and throws on duplicate or orphan speakers
-and on `raw` metadata combined with a speaker.
+a clean payload without comments. It writes each entry's `notes` verbatim into the third column and
+returns an empty buffer for an empty document.
 
 ```ts
 import { rebuildRaw } from "@triforce-heroes/triforce-tsv/Rebuild";

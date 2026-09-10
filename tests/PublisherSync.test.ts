@@ -9,7 +9,7 @@ import { extract } from "#/Extract";
 import { addDocumentToPublisher } from "#/services/PublisherSync";
 
 describe(addDocumentToPublisher, () => {
-  it("maps entries, raw metadata, notes and speakers to references", async () => {
+  it("maps entries and notes to references", async () => {
     expect.hasAssertions();
 
     const publisher = new Publisher(1);
@@ -27,30 +27,24 @@ describe(addDocumentToPublisher, () => {
       resource: "conversations",
       reference: "_.skip",
       sources: { Skip: ["en"] },
-      metadata: { raw: "*DEMO*" },
+      metadata: { notes: "*DEMO*" },
     });
     expect(byReference.get("_.conversation_a")).toStrictEqual({
       resource: "conversations",
       reference: "_.conversation_a",
       sources: { "Hi.": ["en"] },
-      metadata: { notes: "Comes up." },
+      metadata: { notes: "Speaker=Fen Notes=Comes up." },
     });
-    expect(byReference.get("_.conversation_a.Speaker")).toStrictEqual({
+    expect(byReference.get("_.conversation_b")).toStrictEqual({
       resource: "conversations",
-      reference: "_.conversation_a.Speaker",
-      sources: { Fen: ["en"] },
-      metadata: undefined,
-    });
-    expect(byReference.get("_.conversation_b.Speaker")).toStrictEqual({
-      resource: "conversations",
-      reference: "_.conversation_b.Speaker",
-      sources: { Bob: ["en"] },
-      metadata: undefined,
+      reference: "_.conversation_b",
+      sources: { "Yo.": ["en"] },
+      metadata: { notes: "Speaker=Bob" },
     });
 
     const output = await publisher.dryRun(await mkdtemp(join(tmpdir(), "triforce-tsv-")));
 
     expect(output.version.needed).toBe(true);
-    expect(output.entries).toHaveLength(5);
+    expect(output.entries).toHaveLength(3);
   });
 });

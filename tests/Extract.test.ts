@@ -27,7 +27,7 @@ describe.each(fixtures)("extract(%s) function", (file) => {
 });
 
 describe("extract behavior", () => {
-  it("extracts key, value and empty metadata", () => {
+  it("extracts key, value and empty notes", () => {
     expect(entryOf(plain, "generic.next")).toStrictEqual({ key: "generic.next", value: "Next" });
   });
 
@@ -35,9 +35,8 @@ describe("extract behavior", () => {
     expect(entryOf(plain, "_.string")).toStrictEqual({
       key: "_.string",
       value: "english (円,원,$,£,€,zł)",
-      metadata: {
-        raw: "comment. Include all currency characters here to get them included in used_chars.txt, because they're retrieved automatically from the 3DS eShop.",
-      },
+      notes:
+        "comment. Include all currency characters here to get them included in used_chars.txt, because they're retrieved automatically from the 3DS eShop.",
     });
   });
 
@@ -68,16 +67,16 @@ describe("extract behavior", () => {
     ]);
   });
 
-  it("stores plain comment as raw", () => {
+  it("stores plain comment as notes", () => {
     expect(entryOf(plain, "generic.skip")).toStrictEqual({
       key: "generic.skip",
       value: "Skip",
-      metadata: { raw: "*DEMO*" },
+      notes: "*DEMO*",
     });
     expect(entryOf(plain, "generic.yay")).toStrictEqual({
       key: "generic.yay",
       value: "Yay!",
-      metadata: { raw: 'A in "horray!"' },
+      notes: 'A in "horray!"',
     });
   });
 
@@ -85,26 +84,21 @@ describe("extract behavior", () => {
     expect(entryOf(plain, "menus.menu_sell_resources_bonus")).toStrictEqual({
       key: "menus.menu_sell_resources_bonus",
       value: "Bonus: %1%%%",
-      metadata: { raw: 'Only translate "Bonus:"' },
+      notes: 'Only translate "Bonus:"',
     });
   });
 
-  it("splits Speaker into its own key and keeps notes in metadata", () => {
+  it("keeps Speaker text as notes", () => {
     expect(entryOf(conversations, "buddy_inventory_full.conversation_yjp8nk_text")).toStrictEqual({
       key: "buddy_inventory_full.conversation_yjp8nk_text",
       value: "Hey, your {format highlight}bag's already full{format reset}, doofus.",
-      metadata: { notes: "Comes up when your inventory is full anyou try to pick up more ores." },
-    });
-    expect(
-      entryOf(conversations, "buddy_inventory_full.conversation_yjp8nk_text.Speaker"),
-    ).toStrictEqual({
-      key: "buddy_inventory_full.conversation_yjp8nk_text.Speaker",
-      value: "Fen",
+      notes:
+        "Speaker=Fen Notes=Comes up when your inventory is full anyou try to pick up more ores.",
     });
     expect(entryOf(conversations, "ore_vendor.conversation_hxfr0f_text")).toStrictEqual({
       key: "ore_vendor.conversation_hxfr0f_text",
       value: "Hey, got anything shiny for me there?",
-      metadata: { notes: '*new* added "there"' },
+      notes: 'Speaker=Barnacle Jones Notes=*new* added "there"',
     });
   });
 
@@ -114,7 +108,7 @@ describe("extract behavior", () => {
     ]);
   });
 
-  it("accepts a trailing tab for empty metadata", () => {
+  it("accepts a trailing tab for empty notes", () => {
     expect(extract("next\tNext\t\r\n")).toStrictEqual([{ key: "_.next", value: "Next" }]);
   });
 
@@ -125,11 +119,10 @@ describe("extract behavior", () => {
   it("decodes \\n escape to a real line break", () => {
     expect(extract("hello\tHi\\nBye\r\n")).toStrictEqual([{ key: "_.hello", value: "Hi\nBye" }]);
     expect(extract("hello\tHi\tPreserve \\n here\r\n")).toStrictEqual([
-      { key: "_.hello", value: "Hi", metadata: { raw: "Preserve \n here" } },
+      { key: "_.hello", value: "Hi", notes: "Preserve \n here" },
     ]);
     expect(extract("a\tHi\tSpeaker=Fen Notes=Line1\\nLine2\r\n")).toStrictEqual([
-      { key: "_.a", value: "Hi", metadata: { notes: "Line1\nLine2" } },
-      { key: "_.a.Speaker", value: "Fen" },
+      { key: "_.a", value: "Hi", notes: "Speaker=Fen Notes=Line1\nLine2" },
     ]);
   });
 

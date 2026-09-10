@@ -1,9 +1,3 @@
-import type { Metadata } from "#/types/Document";
-
-export const SPEAKER_PREFIX = "Speaker=";
-
-export const NOTES_SEPARATOR = " Notes=";
-
 export const DEFAULT_GROUP = "_";
 
 const GROUP_NAME_PATTERN = /^[A-Za-z0-9]+(?:[ _\-][A-Za-z0-9]+)*$/v;
@@ -183,61 +177,4 @@ export function serializeField(value: string): string {
   }
 
   return `"${escaped.replaceAll('"', '""')}"`;
-}
-
-export function parseMetadata(raw: string): { metadata?: Metadata; speaker?: string } {
-  if (raw === "") {
-    return {};
-  }
-
-  if (!raw.startsWith(SPEAKER_PREFIX)) {
-    return { metadata: { raw } };
-  }
-
-  const rest = raw.slice(SPEAKER_PREFIX.length);
-  const separator = rest.indexOf(NOTES_SEPARATOR);
-
-  if (separator === -1) {
-    return { speaker: rest };
-  }
-
-  return {
-    metadata: { notes: rest.slice(separator + NOTES_SEPARATOR.length) },
-    speaker: rest.slice(0, separator),
-  };
-}
-
-export function serializeMetadata(
-  metadata: Metadata | undefined,
-  speaker: string | undefined,
-): string {
-  if (speaker !== undefined) {
-    if (metadata?.["raw"] !== undefined) {
-      throw new Error(
-        `metadata conflict for speaker "${speaker}": raw and Speaker cannot be combined`,
-      );
-    }
-
-    const notes = metadata?.["notes"];
-
-    return notes === undefined
-      ? `${SPEAKER_PREFIX}${speaker}`
-      : `${SPEAKER_PREFIX}${speaker}${NOTES_SEPARATOR}${notes}`;
-  }
-
-  if (metadata === undefined) {
-    return "";
-  }
-
-  if (metadata["raw"] !== undefined) {
-    return metadata["raw"];
-  }
-
-  const notes = metadata["notes"];
-
-  if (notes !== undefined) {
-    return `Notes=${notes}`;
-  }
-
-  return "";
 }

@@ -217,7 +217,7 @@
 
     "@triforce-heroes/triforce-core": ["@triforce-heroes/triforce-core@github:triforce-heroes/triforce-core#6341f36", { "dependencies": { "chalk": "^5.6.2", "json-diff": "^1.0.6" } }, "triforce-heroes-triforce-core-6341f36", "sha512-udboRfn7OIoto2ro10bo9Q4ByGQFTHVFDKpiEy5jaj7r1aJT+IfTkD7Jd+an9txlYttoFMrly0zqhRjVlrqLEQ=="],
 
-    "@triforce-heroes/triforce-publisher": ["@triforce-heroes/triforce-publisher@github:triforce-heroes/triforce-publisher#0cd9e9c", { "dependencies": { "@rheactor/rheactor-core": "github:@rheactor/rheactor-core", "@rheactor/rheactor-query-builder": "github:rheactor/rheactor-query-builder", "@triforce-heroes/triforce-core": "github:triforce-heroes/triforce-core", "arkregex": "^0.0.8" } }, "triforce-heroes-triforce-publisher-0cd9e9c", "sha512-Y1N7xlFSK3ZFqO+w2bo6TzLzT98iN3Hcs4lRq86bQA1b0F7DM3v+3zkA5AIc+2BNh0+uCs7+aHNdg1GizI9p/g=="],
+    "@triforce-heroes/triforce-publisher": ["@triforce-heroes/triforce-publisher@github:triforce-heroes/triforce-publisher#2d9fb08", { "dependencies": { "@rheactor/rheactor-core": "github:@rheactor/rheactor-core", "@rheactor/rheactor-query-builder": "github:rheactor/rheactor-query-builder", "@triforce-heroes/triforce-core": "github:triforce-heroes/triforce-core", "arkregex": "^0.0.8" } }, "triforce-heroes-triforce-publisher-2d9fb08", "sha512-afhMvZ2OKkVkCFI8do1snWXQPYz/ShDX6tDeKLwtHWvwumpgNg/uUjzUu2WyrnZE2SZ0cNM/lVAno+u4WHscIg=="],
 
     "@types/chai": ["@types/chai@5.2.3", "", { "dependencies": { "@types/deep-eql": "*", "assertion-error": "^2.0.1" } }, "sha512-Mw558oeA9fFbv65/y4mHtXDs9bPnFMZAL/jxdPFUpOHHIXX91mcgEHbS5Lahr+pwZFR8A7GQleRWeI6cGFC2UA=="],
 
@@ -391,7 +391,7 @@
 
     "lightningcss-win32-x64-msvc": ["lightningcss-win32-x64-msvc@1.33.0", "", { "os": "win32", "cpu": "x64" }, "sha512-OlEICDx/Xl0FqSp4bry8zFnCvGpig3Gl4gCquvYwHuqJKEC1+n9NgDniFvqHGmMv1ZkqDJrDqKKSykTDX+ehuA=="],
 
-    "magic-string": ["magic-string@1.2.3", "", { "dependencies": { "@jridgewell/sourcemap-codec": "^1.5.5" } }, "sha512-Bpb0W2TbLKOZ7vJnOUnVRGq3WL2p+ISV29M6hYPL1AFCpyKZpdr5ytiXoTSSxRVhg8YW7f65+6gbG8WG6PCa/g=="],
+    "magic-string": ["magic-string@1.3.1", "", { "dependencies": { "@jridgewell/sourcemap-codec": "^1.6.0" } }, "sha512-rm91zr2Ou+XueDTohjQQjdQEcYM6zVi8KVUCG8Ec3vHwUEKrhSdCNyfuIywkA6hcCAteIn0ZOtAHA6eGpiX+Pg=="],
 
     "nanoid": ["nanoid@3.3.18", "", { "bin": { "nanoid": "bin/nanoid.cjs" } }, "sha512-DTg4MJbGMWkfi6VZFdNt2/caMbQy4Ou+Op/hJQvGEWcnVfoA1QA+xzRKAzw9jD6+GVOOeYr/mIcuDSdug6F6+w=="],
 

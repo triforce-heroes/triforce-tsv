@@ -1,6 +1,5 @@
 import type { Publisher } from "@triforce-heroes/triforce-publisher";
 
-import { SPEAKER_SUFFIX } from "#/types/Document";
 import type { Document } from "#/types/Document";
 
 export function addDocumentToPublisher(
@@ -10,10 +9,8 @@ export function addDocumentToPublisher(
   resource: string,
 ): void {
   for (const node of document) {
-    if (node.key.endsWith(SPEAKER_SUFFIX)) {
-      publisher.addReference(language, resource, node.key, node.value);
-    } else {
-      publisher.addReference(language, resource, node.key, node.value, node.metadata);
-    }
+    const metadata = node.notes === undefined ? undefined : { notes: node.notes };
+
+    publisher.addReference(language, resource, node.key, node.value, metadata);
   }
 }

@@ -3,45 +3,20 @@ import {
   isIgnorable,
   normalizeGroup,
   parseFields,
-  parseMetadata,
   resolveKey,
   serializeField,
-  serializeMetadata,
 } from "#/services/Parser";
-import { SPEAKER_SUFFIX } from "#/types/Document";
 import type { Document } from "#/types/Document";
 
 export function rebuildRaw(document: Document): Buffer {
-  const entries: Document = [];
-  const speakers = new Map<string, string>();
-  const keys = new Set<string>();
-
-  for (const node of document) {
-    if (node.key.endsWith(SPEAKER_SUFFIX)) {
-      const sourceKey = node.key.slice(0, -SPEAKER_SUFFIX.length);
-
-      if (speakers.has(sourceKey)) {
-        throw new Error(`duplicate speaker for key: "${sourceKey}"`);
-      }
-
-      speakers.set(sourceKey, node.value);
-    } else {
-      keys.add(node.key);
-      entries.push(node);
-    }
-  }
-
-  for (const sourceKey of speakers.keys()) {
-    if (!keys.has(sourceKey)) {
-      throw new Error(`orphan speaker: "${sourceKey}${SPEAKER_SUFFIX}"`);
-    }
-  }
-
-  const lines = entries.map((entry) => {
-    const metadata = serializeMetadata(entry.metadata, speakers.get(entry.key));
+  const lines = document.map((entry) => {
     const head = `${serializeField(entry.key)}\t${serializeField(entry.value)}`;
 
-    return metadata === "" ? head : `${head}\t${serializeField(metadata)}`;
+    if (entry.notes === undefined) {
+      return head;
+    }
+
+    return `${head}\t${serializeField(entry.notes)}`;
   });
 
   if (lines.length === 0) {
@@ -77,8 +52,7 @@ export function rebuild(data: string | Buffer, entries: Map<string, string>): Bu
     }
 
     const rawKey = fields.at(0)!;
-    const value = fields.at(1)!;
-    const metadataRaw = fields.at(2) ?? "";
+    const notesRaw = fields.at(2) ?? "";
 
     if (rawKey === "") {
       throw new Error(`invalid row: empty key in line: "${content}"`);
@@ -86,26 +60,14 @@ export function rebuild(data: string | Buffer, entries: Map<string, string>): Bu
 
     const key = resolveKey(rawKey, group);
     const valuePatch = entries.get(key) ?? (key === rawKey ? undefined : entries.get(rawKey));
-    const speakerKey = `${key}${SPEAKER_SUFFIX}`;
-    const rawSpeakerKey = `${rawKey}${SPEAKER_SUFFIX}`;
-    const speakerPatch =
-      entries.get(speakerKey) ??
-      (speakerKey === rawSpeakerKey ? undefined : entries.get(rawSpeakerKey));
 
-    if (valuePatch === undefined && speakerPatch === undefined) {
+    if (valuePatch === undefined) {
       return content;
     }
 
-    let nextMetadata = metadataRaw;
+    const head = `${serializeField(rawKey)}\t${serializeField(valuePatch)}`;
 
-    if (speakerPatch !== undefined) {
-      const { metadata } = parseMetadata(metadataRaw);
-      nextMetadata = serializeMetadata(metadata, speakerPatch);
-    }
-
-    const head = `${serializeField(rawKey)}\t${serializeField(valuePatch ?? value)}`;
-
-    return nextMetadata === "" ? head : `${head}\t${serializeField(nextMetadata)}`;
+    return notesRaw === "" ? head : `${head}\t${serializeField(notesRaw)}`;
   });
 
   return Buffer.from(lines.join("\n"), "utf-8");

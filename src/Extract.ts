@@ -3,10 +3,8 @@ import {
   isIgnorable,
   normalizeGroup,
   parseFields,
-  parseMetadata,
   resolveKey,
 } from "#/services/Parser";
-import { SPEAKER_SUFFIX } from "#/types/Document";
 import type { Document } from "#/types/Document";
 
 const BOM = "\uFEFF";
@@ -50,7 +48,7 @@ export function extract(input: string | Buffer): Document {
 
     const rawKey = fields.at(0)!;
     const value = fields.at(1)!;
-    const metadataRaw = fields.at(2) ?? "";
+    const notesRaw = fields.at(2) ?? "";
 
     if (rawKey === "") {
       throw new Error(`invalid row: empty key in line: "${content}"`);
@@ -60,18 +58,10 @@ export function extract(input: string | Buffer): Document {
 
     claim(key);
 
-    const { metadata, speaker } = parseMetadata(metadataRaw);
-
-    if (metadata === undefined) {
+    if (notesRaw === "") {
       document.push({ key, value });
     } else {
-      document.push({ key, value, metadata });
-    }
-
-    if (speaker !== undefined) {
-      const speakerKey = `${key}${SPEAKER_SUFFIX}`;
-      claim(speakerKey);
-      document.push({ key: speakerKey, value: speaker });
+      document.push({ key, value, notes: notesRaw });
     }
   }
 

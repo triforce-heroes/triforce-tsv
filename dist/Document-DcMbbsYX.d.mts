@@ -1,9 +1,8 @@
 //#region src/types/Document.d.ts
-type Metadata = Record<string, string>;
 interface Entry {
   key: string;
   value: string;
-  metadata?: Metadata;
+  notes?: string;
 }
 type Document = Entry[];
 //#endregion
