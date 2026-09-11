@@ -7,12 +7,15 @@ import {
   serializeField,
 } from "#/services/Parser";
 import type { Document } from "#/types/Document";
+import type { RebuildOptions } from "#/types/RebuildOptions";
 
-export function rebuildRaw(document: Document): Buffer {
+export function rebuildRaw(document: Document, options: RebuildOptions = {}): Buffer {
+  const withNotes = options.notes ?? true;
+
   const lines = document.map((entry) => {
     const head = `${serializeField(entry.key)}\t${serializeField(entry.value)}`;
 
-    if (entry.notes === undefined) {
+    if (!withNotes || entry.notes === undefined) {
       return head;
     }
 
@@ -26,8 +29,13 @@ export function rebuildRaw(document: Document): Buffer {
   return Buffer.from(`${lines.join("\n")}\n`, "utf-8");
 }
 
-export function rebuild(data: string | Buffer, entries: Map<string, string>): Buffer {
+export function rebuild(
+  data: string | Buffer,
+  entries: Map<string, string>,
+  options: RebuildOptions = {},
+): Buffer {
   const text = typeof data === "string" ? data : data.toString("utf-8");
+  const withNotes = options.notes ?? true;
   let group = DEFAULT_GROUP;
 
   const lines = text.split("\n").map((raw) => {
@@ -52,6 +60,7 @@ export function rebuild(data: string | Buffer, entries: Map<string, string>): Bu
     }
 
     const rawKey = fields.at(0)!;
+    const rawValue = fields.at(1)!;
     const notesRaw = fields.at(2) ?? "";
 
     if (rawKey === "") {
@@ -60,6 +69,16 @@ export function rebuild(data: string | Buffer, entries: Map<string, string>): Bu
 
     const key = resolveKey(rawKey, group);
     const valuePatch = entries.get(key) ?? (key === rawKey ? undefined : entries.get(rawKey));
+
+    if (!withNotes) {
+      if (fields.length === 2 && valuePatch === undefined) {
+        return content;
+      }
+
+      const value = valuePatch ?? rawValue;
+
+      return `${serializeField(rawKey)}\t${serializeField(value)}`;
+    }
 
     if (valuePatch === undefined) {
       return content;

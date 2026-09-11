@@ -63,6 +63,49 @@ describe("roundtrip: Extract + Rebuild", () => {
     });
   });
 
+  describe("notes option", () => {
+    it("rebuildRaw omits the third column when notes is false", () => {
+      const document: Document = [
+        { key: "_.next", value: "Next" },
+        { key: "_.skip", value: "Skip", notes: "*DEMO*" },
+      ];
+
+      const rebuilt = rebuildRaw(document, { notes: false }).toString("utf-8");
+
+      expect(rebuilt).toBe("_.next\tNext\n_.skip\tSkip\n");
+      expect(extract(rebuilt)).toStrictEqual([
+        { key: "_.next", value: "Next" },
+        { key: "_.skip", value: "Skip" },
+      ]);
+    });
+
+    it("rebuildRaw keeps the third column by default", () => {
+      const document: Document = [{ key: "_.skip", value: "Skip", notes: "*DEMO*" }];
+
+      expect(rebuildRaw(document).toString("utf-8")).toBe("_.skip\tSkip\t*DEMO*\n");
+    });
+
+    it("rebuild omits the third column from every data row when notes is false", () => {
+      const source = "next\tNext\nskip\tSkip\t*DEMO*\n";
+
+      const rebuilt = rebuild(source, new Map([["_.next", "Seguinte"]]), {
+        notes: false,
+      }).toString("utf-8");
+
+      expect(rebuilt).toBe("next\tSeguinte\nskip\tSkip\n");
+      expect(extract(rebuilt)).toStrictEqual([
+        { key: "_.next", value: "Seguinte" },
+        { key: "_.skip", value: "Skip" },
+      ]);
+    });
+
+    it("rebuild keeps rows without a third column verbatim when notes is false", () => {
+      const rebuilt = rebuild('"next"\t"Next"\n', new Map(), { notes: false });
+
+      expect(rebuilt.toString("utf-8")).toBe('"next"\t"Next"\n');
+    });
+  });
+
   describe("rebuild: selective patch", () => {
     const source =
       "# ----- Generic ----\r\n" +
